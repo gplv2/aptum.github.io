@@ -34,8 +34,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -63,39 +63,38 @@
         "8"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.231331577342, 
-      "lon": 2.941664699752, 
+      "lat": 51.231367419121, 
+      "lon": 2.941625084456, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.231331577342, 
-      "lon": 2.941664699752, 
+      "lat": 51.231356469963, 
+      "lon": 2.941708613698, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniusstraat"
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0101"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.23127638037, 
-      "lon": 2.941784091945, 
+      "lat": 51.231334734802, 
+      "lon": 2.941807221639, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -206,8 +205,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "28"
@@ -318,9 +316,36 @@
         "D"
       ], 
       "hnrlbls": [
-        "6"
+        "6-6G"
       ], 
       "housenumber": "6", 
+      "lat": 51.231608356289, 
+      "lon": 2.941394474632, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
+      "busnrs": [
+        "0017"
+      ], 
+      "hnrlbls": [
+        "6-6G"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.231608356289, 
+      "lon": 2.941394474632, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-6G"
+      ], 
+      "housenumber": "6G", 
       "lat": 51.231608356289, 
       "lon": 2.941394474632, 
       "municipality": "Oostende", 
@@ -342,6 +367,7 @@
     }, 
     {
       "busnrs": [
+        "0002", 
         "000B", 
         "000E", 
         "0101", 

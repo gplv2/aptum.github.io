@@ -1629,6 +1629,9 @@
       "street": "Grote Baan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "255"
       ], 
@@ -2125,6 +2128,18 @@
     }, 
     {
       "hnrlbls": [
+        "310"
+      ], 
+      "housenumber": "310", 
+      "lat": 51.12195386237, 
+      "lon": 4.028418068185, 
+      "municipality": "Waasmunster", 
+      "pcode": "9250", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
         "318"
       ], 
       "housenumber": "318", 
@@ -2335,8 +2350,8 @@
         "350"
       ], 
       "housenumber": "350", 
-      "lat": 51.119462774781, 
-      "lon": 4.022961029772, 
+      "lat": 51.119458827153, 
+      "lon": 4.023025043914, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanPerceelGrb", 

@@ -134,9 +134,9 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
-        "201", 
-        "301"
+        "201"
       ], 
       "hnrlbls": [
         "19"
@@ -162,6 +162,12 @@
       "street": "Gemeentestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -171,6 +177,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gemeentestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 51.219030119845, 
+      "lon": 4.419939595262, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gemeentestraat"
     }, 
     {
@@ -211,14 +229,17 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.219394595728, 
-      "lon": 4.419947586578, 
+      "lat": 51.219434782996, 
+      "lon": 4.419926734561, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Gemeentestraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "24"
       ], 

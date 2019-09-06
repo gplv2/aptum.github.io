@@ -89,8 +89,8 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 50.767292914775, 
-      "lon": 2.781565940913, 
+      "lat": 50.767292916696, 
+      "lon": 2.781566082635, 
       "municipality": "Heuvelland", 
       "pcode": "8951", 
       "source": "afgeleidVanGebouw", 
@@ -110,7 +110,7 @@
     }, 
     {
       "hnrlbls": [
-        "240"
+        "240-240A"
       ], 
       "housenumber": "240", 
       "lat": 50.767026882005, 
@@ -118,6 +118,18 @@
       "municipality": "Heuvelland", 
       "pcode": "8951", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dikkebusstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "240-240A"
+      ], 
+      "housenumber": "240A", 
+      "lat": 50.767026882005, 
+      "lon": 2.782006358538, 
+      "municipality": "Heuvelland", 
+      "pcode": "8951", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dikkebusstraat"
     }, 
     {
@@ -133,6 +145,13 @@
       "street": "Dikkebusstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "244"
       ], 

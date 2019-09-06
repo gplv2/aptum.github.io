@@ -97,31 +97,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.86735605579, 
-      "lon": 3.817654932887, 
+      "lat": 50.86738920926, 
+      "lon": 3.817631814956, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heilig Hartplein"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.86736424894, 
-      "lon": 3.817312757131, 
-      "municipality": "Zottegem", 
-      "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Heilig Hartplein"
     }, 
     {
@@ -246,14 +239,15 @@
       "busnrs": [
         "1", 
         "2", 
-        "9"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.868006990062, 
-      "lon": 3.817671884278, 
+      "lat": 50.867882895193, 
+      "lon": 3.817740674965, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 

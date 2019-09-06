@@ -753,7 +753,6 @@
     }, 
     {
       "apptnrs": [
-        "0001", 
         "0002", 
         "0003", 
         "0004", 
@@ -846,6 +845,9 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -874,11 +876,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.106694851347, 
-      "lon": 4.085685373391, 
+      "lat": 51.106691004954, 
+      "lon": 4.085618145308, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {
@@ -982,8 +984,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.105369296435, 
-      "lon": 4.085847725917, 
+      "lat": 51.105613516867, 
+      "lon": 4.086070560171, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
@@ -1039,8 +1041,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102"
+        "86A/001", 
+        "86A/101", 
+        "86A/102"
       ], 
       "hnrlbls": [
         "86A"

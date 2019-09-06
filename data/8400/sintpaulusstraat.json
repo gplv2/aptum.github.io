@@ -32,6 +32,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0401", 
         "1", 
         "4"
       ], 
@@ -39,11 +42,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.229533898427, 
-      "lon": 2.918390528367, 
+      "lat": 51.229530575124, 
+      "lon": 2.918390774907, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
@@ -84,8 +87,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.229633043223, 
-      "lon": 2.918638594829, 
+      "lat": 51.229632586484, 
+      "lon": 2.918645338816, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -108,7 +111,6 @@
         "0001", 
         "0002", 
         "0101", 
-        "0201", 
         "0301", 
         "0401"
       ], 
@@ -180,8 +182,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.229565541336, 
-      "lon": 2.918801062871, 
+      "lat": 51.229562623108, 
+      "lon": 2.918805019642, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -240,7 +242,7 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29-65"
       ], 
       "housenumber": "29", 
       "lat": 51.22969769309, 
@@ -255,8 +257,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.229272176971, 
-      "lon": 2.917868307516, 
+      "lat": 51.229272455347, 
+      "lon": 2.917869014784, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -295,7 +297,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "36"
+        "36-46"
       ], 
       "housenumber": "36", 
       "lat": 51.23001358938, 
@@ -336,9 +338,6 @@
       "street": "Sint-Paulusstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "38A"
       ], 
@@ -387,11 +386,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.229897211056, 
-      "lon": 2.920014003327, 
+      "lat": 51.229920198719, 
+      "lon": 2.920048513394, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
@@ -519,8 +518,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.229529626013, 
-      "lon": 2.917836815416, 
+      "lat": 51.229458730953, 
+      "lon": 2.917898443434, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -544,19 +543,17 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.230337213158, 
-      "lon": 2.921066519763, 
+      "lat": 51.230318696082, 
+      "lon": 2.921081413479, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
@@ -582,11 +579,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.230366586285, 
-      "lon": 2.921101262014, 
+      "lat": 51.23034827249, 
+      "lon": 2.92115481045, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
@@ -624,7 +621,7 @@
         "0202"
       ], 
       "hnrlbls": [
-        "69"
+        "36-69"
       ], 
       "housenumber": "69", 
       "lat": 51.230381833447, 
@@ -638,8 +635,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "7"
@@ -679,7 +675,7 @@
       "lon": 2.921890273761, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
@@ -797,9 +793,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
         "0301", 
-        "1", 
-        "2"
+        "0401"
       ], 
       "hnrlbls": [
         "84"
@@ -809,11 +807,12 @@
       "lon": 2.922683972685, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
       "busnrs": [
+        "0201", 
         "0301", 
         "0401", 
         "1", 
@@ -829,16 +828,17 @@
       "lon": 2.922745541301, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Paulusstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "5"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "88"

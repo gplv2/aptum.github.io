@@ -18,20 +18,17 @@
     }, 
     {
       "busnrs": [
-        "002B", 
-        "003A", 
-        "003B", 
-        "004A", 
-        "005A", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
         "0402", 
-        "1A", 
-        "1B", 
-        "2B", 
-        "3A", 
-        "3B", 
-        "5", 
-        "5A", 
-        "A"
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "11"
@@ -64,6 +61,7 @@
       "busnrs": [
         "-101", 
         "0101", 
+        "0201", 
         "0403", 
         "1"
       ], 
@@ -75,7 +73,7 @@
       "lon": 2.920066252128, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Londenstraat"
     }, 
     {
@@ -95,8 +93,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.234540080702, 
-      "lon": 2.920024988082, 
+      "lat": 51.234538521425, 
+      "lon": 2.920022458891, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -145,9 +143,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "4"
+        "0001", 
+        "0002", 
+        "0004", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "9"
@@ -157,7 +158,7 @@
       "lon": 2.919904571279, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Londenstraat"
     }
   ]

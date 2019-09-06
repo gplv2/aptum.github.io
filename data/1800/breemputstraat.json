@@ -2,7 +2,7 @@
   "addresses": [
     {
       "busnrs": [
-        "0", 
+        "00/1", 
         "01/1"
       ], 
       "hnrlbls": [
@@ -245,9 +245,6 @@
       "street": "Breemputstraat"
     }, 
     {
-      "busnrs": [
-        "01/1"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -692,11 +689,6 @@
       "street": "Breemputstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -721,9 +713,9 @@
       "street": "Breemputstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "31"
@@ -1007,6 +999,18 @@
       "housenumber": "70", 
       "lat": 50.923599633082, 
       "lon": 4.407371742742, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Breemputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.923557317866, 
+      "lon": 4.407298603182, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

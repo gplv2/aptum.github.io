@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.229319634775, 
-      "lon": 2.922595974608, 
+      "lat": 51.229321301998, 
+      "lon": 2.922592629635, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -33,24 +33,26 @@
       "lon": 2.922615128769, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zuidstraat"
     }, 
     {
       "busnrs": [
-        "000S", 
-        "1", 
-        "2"
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.229078964798, 
-      "lon": 2.922926463083, 
+      "lat": 51.229072255561, 
+      "lon": 2.922818852756, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zuidstraat"
     }, 
     {
@@ -86,35 +88,27 @@
     }, 
     {
       "busnrs": [
-        "00OC", 
-        "00OD", 
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
+        "0102", 
+        "0103", 
         "0104", 
         "0201", 
         "0202", 
+        "0203", 
+        "0204", 
         "0301", 
+        "0302", 
         "0303", 
         "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
         "0501", 
-        "1", 
-        "1A", 
-        "1B", 
-        "1C", 
-        "1D", 
-        "2", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "2D", 
-        "3", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "3D", 
-        "5", 
-        "5F", 
-        "D", 
-        "F"
+        "0502"
       ], 
       "hnrlbls": [
         "15"
@@ -146,9 +140,6 @@
       "street": "Zuidstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "16A"
       ], 
@@ -177,8 +168,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.229369946911, 
-      "lon": 2.9227845654, 
+      "lat": 51.229368684635, 
+      "lon": 2.922791620649, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -186,6 +177,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -211,6 +205,7 @@
         "0306", 
         "0307", 
         "0308", 
+        "0309", 
         "0401", 
         "0402", 
         "0403", 
@@ -242,34 +237,14 @@
         "0704", 
         "0801", 
         "0802", 
-        "0803", 
-        "101", 
-        "102", 
-        "107", 
-        "108", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "208", 
-        "301", 
-        "302", 
-        "303", 
-        "304", 
-        "406", 
-        "407", 
-        "409", 
-        "603", 
-        "604", 
-        "605", 
-        "703"
+        "0803"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.228819587967, 
-      "lon": 2.92284444138, 
+      "lat": 51.228816964794, 
+      "lon": 2.922857838843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -277,15 +252,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.229258952743, 
-      "lon": 2.922588692439, 
+      "lat": 51.229258395414, 
+      "lon": 2.922594580332, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -312,11 +292,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.229200591639, 
-      "lon": 2.922557999092, 
+      "lat": 51.229203950578, 
+      "lon": 2.922553312997, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zuidstraat"
     }, 
     {
@@ -381,7 +361,7 @@
       "lon": 2.922615128769, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zuidstraat"
     }
   ]

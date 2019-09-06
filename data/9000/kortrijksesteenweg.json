@@ -328,14 +328,50 @@
     }, 
     {
       "hnrlbls": [
+        "1024"
+      ], 
+      "housenumber": "1024", 
+      "lat": 51.024545182999, 
+      "lon": 3.700595071674, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1026"
+      ], 
+      "housenumber": "1026", 
+      "lat": 51.024200089896, 
+      "lon": 3.701644076418, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1026A"
+      ], 
+      "housenumber": "1026A", 
+      "lat": 51.024235893787, 
+      "lon": 3.7014105182, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "1028"
       ], 
       "housenumber": "1028", 
-      "lat": 51.024167094442, 
-      "lon": 3.701071831486, 
+      "lat": 51.023884361902, 
+      "lon": 3.70057726644, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
@@ -401,18 +437,6 @@
       "housenumber": "110", 
       "lat": 51.040604138244, 
       "lon": 3.717152728632, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kortrijksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "111"
-      ], 
-      "housenumber": "111", 
-      "lat": 51.040762001075, 
-      "lon": 3.717919507697, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1430,6 +1454,11 @@
       "street": "Kortrijksesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -1951,26 +1980,26 @@
     }, 
     {
       "hnrlbls": [
-        "212-212A"
+        "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.038705521105, 
-      "lon": 3.715710113964, 
+      "lat": 51.038717271879, 
+      "lon": 3.715721784457, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
       "hnrlbls": [
-        "212-212A"
+        "212A"
       ], 
       "housenumber": "212A", 
-      "lat": 51.038705521105, 
-      "lon": 3.715710113964, 
+      "lat": 51.038688496255, 
+      "lon": 3.715703792479, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
@@ -2407,7 +2436,7 @@
     }, 
     {
       "hnrlbls": [
-        "240-244B"
+        "240-246"
       ], 
       "housenumber": "240", 
       "lat": 51.038401674254, 
@@ -2431,7 +2460,7 @@
     }, 
     {
       "hnrlbls": [
-        "240-244B"
+        "240-246"
       ], 
       "housenumber": "242", 
       "lat": 51.038401674254, 
@@ -2462,7 +2491,7 @@
     }, 
     {
       "hnrlbls": [
-        "240-244B"
+        "240-246"
       ], 
       "housenumber": "244", 
       "lat": 51.038401674254, 
@@ -2470,18 +2499,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Kortrijksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "240-244B"
-      ], 
-      "housenumber": "244B", 
-      "lat": 51.038401674254, 
-      "lon": 3.71553027701, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
@@ -2494,6 +2511,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "240-246"
+      ], 
+      "housenumber": "246", 
+      "lat": 51.038401674254, 
+      "lon": 3.71553027701, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
@@ -4548,18 +4577,6 @@
       "street": "Kortrijksesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.04092415802, 
-      "lon": 3.718096773737, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kortrijksesteenweg"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0002", 
@@ -4703,6 +4720,18 @@
       "housenumber": "408", 
       "lat": 51.035606402621, 
       "lon": 3.716107732231, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 51.041001803695, 
+      "lon": 3.718190516755, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4934,6 +4963,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Kortrijksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.040914231969, 
+      "lon": 3.718089924754, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksesteenweg"
     }, 
     {
@@ -8232,11 +8273,11 @@
         "66A"
       ], 
       "housenumber": "66A", 
-      "lat": 51.04113168808, 
-      "lon": 3.717699919881, 
+      "lat": 51.041137523604, 
+      "lon": 3.717698555507, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijksesteenweg"
     }, 
     {

@@ -1,7 +1,21 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1.0", 
+        "2.0", 
+        "3.0"
+      ], 
       "busnrs": [
+        "00OA", 
+        "00OB", 
+        "00OC", 
+        "00OD", 
+        "00OE", 
+        "00OF", 
+        "00OG", 
+        "00OH", 
+        "00OI", 
         "0A", 
         "0B", 
         "0C", 
@@ -51,6 +65,70 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F", 
+        "G", 
+        "H", 
+        "I", 
+        "J"
+      ], 
+      "hnrlbls": [
+        "2_1-2_3"
+      ], 
+      "housenumber": "2_1", 
+      "lat": 51.081026547811, 
+      "lon": 3.448591353009, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "F", 
+        "G", 
+        "H", 
+        "I", 
+        "J"
+      ], 
+      "hnrlbls": [
+        "2_1-2_3"
+      ], 
+      "housenumber": "2_2", 
+      "lat": 51.081026547811, 
+      "lon": 3.448591353009, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Sint-Antoniusstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "2_1-2_3"
+      ], 
+      "housenumber": "2_3", 
+      "lat": 51.081026547811, 
+      "lon": 3.448591353009, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Sint-Antoniusstraat"
     }, 
     {

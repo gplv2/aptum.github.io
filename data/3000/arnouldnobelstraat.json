@@ -8,8 +8,7 @@
         "0102", 
         "0103", 
         "0201", 
-        "0202", 
-        "0203"
+        "0202"
       ], 
       "hnrlbls": [
         "1"
@@ -216,7 +215,6 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
         "0101", 
         "0102", 
         "0103", 
@@ -288,45 +286,6 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "apptnrs": [
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204", 
-        "0205", 
-        "0206", 
-        "0301", 
-        "0302", 
-        "0303", 
-        "0304", 
-        "0305", 
-        "0306", 
-        "0401", 
-        "0402", 
-        "0403", 
-        "0404", 
-        "0405", 
-        "0406", 
-        "0501"
-      ], 
-      "hnrlbls": [
-        "24-30"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.877220341591, 
-      "lon": 4.7136995709, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Arnould Nobelstraat"
-    }, 
-    {
       "hnrlbls": [
         "25"
       ], 
@@ -352,29 +311,6 @@
     }, 
     {
       "apptnrs": [
-        "0101", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "0402", 
-        "0501", 
-        "0502"
-      ], 
-      "hnrlbls": [
-        "24-30"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.877220341591, 
-      "lon": 4.7136995709, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Arnould Nobelstraat"
-    }, 
-    {
-      "apptnrs": [
         "0001", 
         "0101", 
         "0201", 
@@ -392,21 +328,50 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0201", 
         "0202", 
         "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0210", 
+        "0211", 
+        "0212", 
         "0301", 
         "0302", 
         "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0309", 
+        "0310", 
+        "0311", 
+        "0312", 
         "0401", 
         "0402", 
         "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0410", 
+        "0411", 
+        "0412", 
         "0501", 
-        "0502"
+        "0502", 
+        "0503", 
+        "0504"
       ], 
       "hnrlbls": [
-        "24-30"
+        "30-32"
       ], 
       "housenumber": "30", 
       "lat": 50.877220341591, 
@@ -418,7 +383,34 @@
     }, 
     {
       "hnrlbls": [
-        "36-44"
+        "30-32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.877220341591, 
+      "lon": 4.7136995709, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Arnould Nobelstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "34-44"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.877495358107, 
+      "lon": 4.714483220287, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Arnould Nobelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34-44"
       ], 
       "housenumber": "36", 
       "lat": 50.877495358107, 
@@ -451,11 +443,8 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
         "0201", 
         "0202", 
         "0203", 
@@ -466,17 +455,11 @@
         "0302", 
         "0303", 
         "0304", 
-        "0305"
-      ], 
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0005"
+        "0305", 
+        "0306"
       ], 
       "hnrlbls": [
-        "36-44"
+        "34-44"
       ], 
       "housenumber": "40", 
       "lat": 50.877495358107, 
@@ -487,13 +470,8 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0301"
-      ], 
       "hnrlbls": [
-        "36-44"
+        "34-44"
       ], 
       "housenumber": "42", 
       "lat": 50.877495358107, 
@@ -505,7 +483,7 @@
     }, 
     {
       "hnrlbls": [
-        "36-44"
+        "34-44"
       ], 
       "housenumber": "44", 
       "lat": 50.877495358107, 
@@ -602,10 +580,11 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "busnrs": [
-        "102", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "46-58"
@@ -644,18 +623,6 @@
       "street": "Arnould Nobelstraat"
     }, 
     {
-      "hnrlbls": [
-        "46C-68"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.8773970995, 
-      "lon": 4.714179564778, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Arnould Nobelstraat"
-    }, 
-    {
       "busnrs": [
         "0101", 
         "0102", 
@@ -666,11 +633,11 @@
         "46C-68"
       ], 
       "housenumber": "68", 
-      "lat": 50.8773970995, 
-      "lon": 4.714179564778, 
+      "lat": 50.878070921597, 
+      "lon": 4.714465014544, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Arnould Nobelstraat"
     }, 
     {
@@ -686,8 +653,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.876825312563, 
-      "lon": 4.712823120137, 
+      "lat": 50.876838313974, 
+      "lon": 4.712803891861, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

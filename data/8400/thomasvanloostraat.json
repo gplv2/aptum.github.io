@@ -10,7 +10,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "1-101"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.23061809317, 
@@ -67,6 +67,10 @@
       "street": "Thomas Van Loostraat"
     }, 
     {
+      "busnrs": [
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -75,27 +79,24 @@
       "lon": 2.942035998615, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Thomas Van Loostraat"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.230488901602, 
-      "lon": 2.941989178047, 
+      "lat": 51.23060561095, 
+      "lon": 2.941998208063, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Thomas Van Loostraat"
     }, 
     {
@@ -236,10 +237,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "26"
@@ -295,8 +295,7 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "21"
+        "0201"
       ], 
       "hnrlbls": [
         "3"
@@ -361,15 +360,19 @@
       "street": "Thomas Van Loostraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.230445768601, 
-      "lon": 2.943452595517, 
+      "lat": 51.230446444427, 
+      "lon": 2.94344899515, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Thomas Van Loostraat"
     }, 
     {
@@ -428,10 +431,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "40"
@@ -824,8 +826,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.2299111194, 
-      "lon": 2.945624612853, 
+      "lat": 51.229900035093, 
+      "lon": 2.945614928027, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

@@ -420,6 +420,9 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -834,6 +837,12 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "00.1", 
+        "01.1", 
+        "02.1", 
+        "03.1"
+      ], 
       "hnrlbls": [
         "18-22"
       ], 
@@ -1024,8 +1033,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.093747421358, 
-      "lon": 4.36620936844, 
+      "lat": 51.093747241378, 
+      "lon": 4.366196378784, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -1071,6 +1080,12 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "00.1", 
+        "01.1", 
+        "02.1", 
+        "03.1"
+      ], 
       "hnrlbls": [
         "18-22"
       ], 
@@ -1102,8 +1117,8 @@
         "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.095341953661, 
-      "lon": 4.366763169193, 
+      "lat": 51.095349593796, 
+      "lon": 4.366731621575, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
@@ -4176,6 +4191,18 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Antwerpsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.089262975805, 
+      "lon": 4.365485191883, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Antwerpsestraat"
     }, 
     {

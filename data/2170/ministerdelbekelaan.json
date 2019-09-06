@@ -36,10 +36,10 @@
       "street": "Minister Delbekelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "11"
@@ -110,6 +110,11 @@
       "street": "Minister Delbekelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -598,6 +603,7 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "11", 
         "12", 
         "13", 
@@ -614,14 +620,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "49-62"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.239104366905, 
-      "lon": 4.440019963156, 
+      "lat": 51.239092971133, 
+      "lon": 4.439840100513, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minister Delbekelaan"
     }, 
     {
@@ -670,8 +676,10 @@
       "street": "Minister Delbekelaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "54"
@@ -824,6 +832,10 @@
       "street": "Minister Delbekelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "76"
       ], 

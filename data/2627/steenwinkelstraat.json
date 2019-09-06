@@ -544,6 +544,10 @@
       "street": "Steenwinkelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -1019,8 +1023,8 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 51.125030107393, 
-      "lon": 4.353353037073, 
+      "lat": 51.125030287239, 
+      "lon": 4.353353608373, 
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
@@ -1951,18 +1955,6 @@
     }, 
     {
       "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.124999635403, 
-      "lon": 4.34112588268, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Steenwinkelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "422"
       ], 
       "housenumber": "422", 
@@ -2379,6 +2371,18 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenwinkelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "509"
+      ], 
+      "housenumber": "509", 
+      "lat": 51.122862081087, 
+      "lon": 4.362195907765, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenwinkelstraat"
     }, 
     {

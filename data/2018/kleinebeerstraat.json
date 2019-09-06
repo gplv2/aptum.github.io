@@ -157,9 +157,9 @@
       "street": "Kleinebeerstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -170,6 +170,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kleinebeerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 51.207371626167, 
+      "lon": 4.428239946927, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleinebeerstraat"
     }, 
     {
@@ -237,6 +249,11 @@
       "street": "Kleinebeerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 

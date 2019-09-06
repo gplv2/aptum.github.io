@@ -115,9 +115,10 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "107"
@@ -518,18 +519,6 @@
     }, 
     {
       "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.220335533682, 
-      "lon": 4.43539262368, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Lange Van Bloerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
@@ -538,18 +527,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Van Bloerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.220299352011, 
-      "lon": 4.435477448123, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Van Bloerstraat"
     }, 
     {
@@ -577,15 +554,21 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.220273738482, 
-      "lon": 4.435313669301, 
+      "lat": 51.220349665167, 
+      "lon": 4.43551573689, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Van Bloerstraat"
     }, 
     {
@@ -601,18 +584,6 @@
       "housenumber": "141", 
       "lat": 51.220827377403, 
       "lon": 4.435709370786, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Van Bloerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "142"
-      ], 
-      "housenumber": "142", 
-      "lat": 51.220265164634, 
-      "lon": 4.435532647223, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1146,6 +1117,12 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1533,9 +1510,6 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1668,21 +1642,6 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "8_1"
-      ], 
-      "housenumber": "8_1", 
-      "lat": 51.220675783251, 
-      "lon": 4.430744325466, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Van Bloerstraat"
-    }, 
-    {
       "hnrlbls": [
         "9"
       ], 
@@ -1784,6 +1743,10 @@
       "street": "Lange Van Bloerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "97"
       ], 

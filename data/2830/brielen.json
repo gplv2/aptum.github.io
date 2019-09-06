@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.033528594227, 
-      "lon": 4.358808611252, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brielen"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -38,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-5"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.03580491704, 
-      "lon": 4.360638720189, 
+      "lat": 51.028618066306, 
+      "lon": 4.358632398144, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Brielen"
     }, 
     {
@@ -63,11 +51,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.034450832057, 
-      "lon": 4.359560162439, 
+      "lat": 51.033528594227, 
+      "lon": 4.358808611252, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brielen"
     }, 
     {
@@ -75,8 +63,6 @@
         "1", 
         "101", 
         "102", 
-        "11", 
-        "12", 
         "2", 
         "201", 
         "202", 
@@ -94,6 +80,13 @@
       "street": "Brielen"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -107,18 +100,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "0001", 
+        "0002", 
         "101", 
         "102", 
-        "12", 
         "201", 
         "202", 
-        "21", 
-        "22", 
         "301", 
-        "302", 
-        "31", 
-        "32"
+        "302"
       ], 
       "hnrlbls": [
         "37"
@@ -136,11 +125,9 @@
         "1", 
         "101", 
         "102", 
-        "12", 
         "2", 
         "201", 
         "202", 
-        "21", 
         "301"
       ], 
       "hnrlbls": [
@@ -172,7 +159,8 @@
         "2", 
         "201", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "43-43B"
@@ -202,11 +190,11 @@
         "101"
       ], 
       "hnrlbls": [
-        "3-5"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.03580491704, 
-      "lon": 4.360638720189, 
+      "lat": 51.037967755938, 
+      "lon": 4.362206685467, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

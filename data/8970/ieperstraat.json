@@ -1760,11 +1760,11 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 50.855067705522, 
-      "lon": 2.74331922069, 
+      "lat": 50.855018404668, 
+      "lon": 2.743284843913, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3385,7 +3385,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "96A"

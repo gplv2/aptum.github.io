@@ -282,6 +282,9 @@
       "street": "Leest"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -744,7 +747,7 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "41-41A"
       ], 
       "housenumber": "41", 
       "lat": 51.146490059537, 
@@ -752,6 +755,18 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leest"
+    }, 
+    {
+      "hnrlbls": [
+        "41-41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 51.146490059537, 
+      "lon": 3.605065820411, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leest"
     }, 
     {
@@ -904,25 +919,10 @@
       "street": "Leest"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "54-56"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.146449338058, 
-      "lon": 3.603107302301, 
-      "municipality": "Lievegem", 
-      "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Leest"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "56", 
       "lat": 51.146449338058, 
       "lon": 3.603107302301, 
       "municipality": "Lievegem", 
@@ -964,6 +964,18 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leest"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.147925682453, 
+      "lon": 3.604547016017, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leest"
     }, 
     {

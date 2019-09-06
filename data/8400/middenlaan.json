@@ -32,11 +32,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.204317964575, 
-      "lon": 2.862674523974, 
+      "lat": 51.204348425238, 
+      "lon": 2.862764988986, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -125,9 +125,7 @@
       "busnrs": [
         "0201", 
         "0501", 
-        "0502", 
-        "2G", 
-        "5G"
+        "0502"
       ], 
       "hnrlbls": [
         "123"
@@ -145,8 +143,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.204380506319, 
-      "lon": 2.862643882965, 
+      "lat": 51.204378500112, 
+      "lon": 2.862641657937, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -157,8 +155,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.204779196383, 
-      "lon": 2.862888616779, 
+      "lat": 51.2047802602, 
+      "lon": 2.862887437544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -496,8 +494,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.205142599242, 
-      "lon": 2.861774911491, 
+      "lat": 51.205139989483, 
+      "lon": 2.861774709552, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -544,11 +542,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.206108774653, 
-      "lon": 2.861400225272, 
+      "lat": 51.206107760596, 
+      "lon": 2.861398254396, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Middenlaan"
     }, 
     {
@@ -556,8 +554,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.205418266117, 
-      "lon": 2.861537024467, 
+      "lat": 51.205416907187, 
+      "lon": 2.861536209675, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -580,8 +578,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.205488882302, 
-      "lon": 2.861434562873, 
+      "lat": 51.205490828349, 
+      "lon": 2.861432067051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -589,17 +587,18 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1"
       ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.20624106306, 
-      "lon": 2.861262423081, 
+      "lat": 51.206241932042, 
+      "lon": 2.861267117876, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -619,11 +618,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.204505530435, 
-      "lon": 2.863283850994, 
+      "lat": 51.204509774787, 
+      "lon": 2.863278275798, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -652,18 +651,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0002", 
+        "0101"
       ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.205568484986, 
-      "lon": 2.861331810636, 
+      "lat": 51.205564781747, 
+      "lon": 2.861337511771, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -707,8 +706,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.204221116304, 
-      "lon": 2.862835072152, 
+      "lat": 51.204221617238, 
+      "lon": 2.862832050652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -759,8 +758,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.205879002781, 
-      "lon": 2.861006922946, 
+      "lat": 51.205881254901, 
+      "lon": 2.861007279518, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -814,9 +813,6 @@
       "street": "Middenlaan"
     }, 
     {
-      "busnrs": [
-        "0"
-      ], 
       "hnrlbls": [
         "79B"
       ], 
@@ -833,11 +829,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.204573972545, 
-      "lon": 2.863208226214, 
+      "lat": 51.204576512473, 
+      "lon": 2.863210004718, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -887,6 +883,7 @@
     }, 
     {
       "busnrs": [
+        "0301", 
         "1", 
         "2"
       ], 
@@ -894,11 +891,11 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.20616464049, 
-      "lon": 2.86066981141, 
+      "lat": 51.206162377422, 
+      "lon": 2.860668596502, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Middenlaan"
     }, 
     {
@@ -924,8 +921,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.204283475886, 
-      "lon": 2.862790126178, 
+      "lat": 51.204267047907, 
+      "lon": 2.862756739041, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -936,8 +933,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.207189098354, 
-      "lon": 2.860262152558, 
+      "lat": 51.207188848833, 
+      "lon": 2.860263734949, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -960,8 +957,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.207244096916, 
-      "lon": 2.860189959129, 
+      "lat": 51.207251528932, 
+      "lon": 2.860208753849, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -975,8 +972,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.207299511936, 
-      "lon": 2.860023578708, 
+      "lat": 51.207295699658, 
+      "lon": 2.860013683543, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

@@ -31,17 +31,19 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.216078529978, 
-      "lon": 2.883713343114, 
+      "lat": 51.216034984756, 
+      "lon": 2.883639148009, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hyacintenlaan"
     }, 
     {
@@ -70,10 +72,10 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "27"
@@ -83,31 +85,31 @@
       "lon": 2.883322732417, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hyacintenlaan"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
+        "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "2", 
-        "5"
+        "0402"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.21637279024, 
-      "lon": 2.883220279885, 
+      "lat": 51.216313061622, 
+      "lon": 2.883131712826, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hyacintenlaan"
     }, 
     {
@@ -124,21 +126,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
-        "10", 
-        "2", 
-        "2A", 
-        "3", 
-        "4", 
-        "8", 
-        "9"
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.216487284798, 
-      "lon": 2.883009498744, 
+      "lat": 51.216459871986, 
+      "lon": 2.882974298589, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -146,14 +150,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0103", 
+        "0201", 
+        "0202", 
         "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
-        "0403", 
-        "3"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "35"
@@ -168,10 +178,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
-        "0301", 
-        "1", 
-        "2"
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "39"
@@ -181,17 +194,15 @@
       "lon": 2.882701949288, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hyacintenlaan"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0003", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "5"

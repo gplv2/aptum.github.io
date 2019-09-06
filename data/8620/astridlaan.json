@@ -12,11 +12,11 @@
         "1-44"
       ], 
       "housenumber": "1", 
-      "lat": 51.132829765239, 
-      "lon": 2.747261843192, 
+      "lat": 51.132846881302, 
+      "lon": 2.747238099955, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Astridlaan"
     }, 
     {
@@ -97,11 +97,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.127903026189, 
-      "lon": 2.748287497154, 
+      "lat": 51.127935254951, 
+      "lon": 2.748290523257, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -126,6 +126,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 51.127555315707, 
+      "lon": 2.74832427169, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -327,14 +339,14 @@
         "302"
       ], 
       "hnrlbls": [
-        "2"
+        "1-44"
       ], 
       "housenumber": "2", 
-      "lat": 51.132848149613, 
-      "lon": 2.747245343697, 
+      "lat": 51.132846881302, 
+      "lon": 2.747238099955, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Astridlaan"
     }, 
     {
@@ -463,11 +475,11 @@
         "1-44"
       ], 
       "housenumber": "3", 
-      "lat": 51.132829765239, 
-      "lon": 2.747261843192, 
+      "lat": 51.132846881302, 
+      "lon": 2.747238099955, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Astridlaan"
     }, 
     {
@@ -516,6 +528,7 @@
         "202", 
         "203", 
         "301", 
+        "302", 
         "303"
       ], 
       "hnrlbls": [
@@ -611,11 +624,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.132721155503, 
-      "lon": 2.74730762345, 
+      "lat": 51.132724546085, 
+      "lon": 2.747292644546, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Astridlaan"
     }, 
     {
@@ -1135,14 +1148,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "79-79A"
+        "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.129350623112, 
-      "lon": 2.747651040008, 
+      "lat": 51.129389239451, 
+      "lon": 2.747641270183, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -1156,14 +1169,14 @@
         "302"
       ], 
       "hnrlbls": [
-        "79-79A"
+        "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 51.129350623112, 
-      "lon": 2.747651040008, 
+      "lat": 51.129312930202, 
+      "lon": 2.747649489771, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -1361,11 +1374,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.12882119331, 
-      "lon": 2.747627825158, 
+      "lat": 51.128814459324, 
+      "lon": 2.747700501307, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {

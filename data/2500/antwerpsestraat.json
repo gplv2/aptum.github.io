@@ -849,6 +849,12 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -858,6 +864,22 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Antwerpsestraat"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 51.132389586789, 
+      "lon": 4.568270696921, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {

@@ -140,18 +140,6 @@
       "street": "Wetstraat"
     }, 
     {
-      "hnrlbls": [
-        "109"
-      ], 
-      "housenumber": "109", 
-      "lat": 51.218681283873, 
-      "lon": 4.430185742716, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Wetstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -184,23 +172,20 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.218676334768, 
-      "lon": 4.430196184322, 
+      "lat": 51.218691299245, 
+      "lon": 4.430112904891, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wetstraat"
     }, 
     {
@@ -570,10 +555,6 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -616,8 +597,11 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "4"
@@ -1103,9 +1087,11 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "70"

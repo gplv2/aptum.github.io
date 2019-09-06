@@ -72,11 +72,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.098963133324, 
-      "lon": 4.232906281733, 
+      "lat": 51.099028318654, 
+      "lon": 4.232685529221, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Achterweidestraat"
     }, 
     {
@@ -230,11 +230,11 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.097134854935, 
-      "lon": 4.232633196258, 
+      "lat": 51.09720283145, 
+      "lon": 4.232338782657, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Achterweidestraat"
     }, 
     {
@@ -266,14 +266,15 @@
         "1", 
         "101", 
         "102", 
-        "2"
+        "2", 
+        "202"
       ], 
       "hnrlbls": [
         "57-59"
       ], 
       "housenumber": "57", 
-      "lat": 51.096933845021, 
-      "lon": 4.231524583623, 
+      "lat": 51.096796659423, 
+      "lon": 4.231355393553, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -290,8 +291,8 @@
         "57-59"
       ], 
       "housenumber": "59", 
-      "lat": 51.096933845021, 
-      "lon": 4.231524583623, 
+      "lat": 51.096796659423, 
+      "lon": 4.231355393553, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -311,19 +312,40 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.096605977359, 
-      "lon": 4.231562942245, 
+      "lat": 51.096525242995, 
+      "lon": 4.231007728829, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Achterweidestraat"
     }, 
     {
       "busnrs": [
+        "1", 
+        "102", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "63-65"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.098711132991, 
+      "lon": 4.23216409266, 
+      "municipality": "Bornem", 
+      "pcode": "2880", 
+      "source": "afgeleidVanStraat", 
+      "street": "Achterweidestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
         "301"
       ], 
       "hnrlbls": [
-        "65"
+        "63-65"
       ], 
       "housenumber": "65", 
       "lat": 51.098711132991, 

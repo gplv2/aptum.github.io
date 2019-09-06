@@ -42,11 +42,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.211878880933, 
-      "lon": 4.426795964764, 
+      "lat": 51.211839257803, 
+      "lon": 4.426764145543, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bleekhofstraat"
     }, 
     {
@@ -54,11 +54,11 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.211875100821, 
-      "lon": 4.426805977363, 
+      "lat": 51.211838254293, 
+      "lon": 4.426793910127, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bleekhofstraat"
     }, 
     {
@@ -83,11 +83,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.212147155657, 
-      "lon": 4.426855548518, 
+      "lat": 51.211832539784, 
+      "lon": 4.42689808338, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bleekhofstraat"
     }, 
     {
@@ -257,6 +257,11 @@
       "street": "Bleekhofstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -292,8 +297,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.212059152779, 
-      "lon": 4.426687145257, 
+      "lat": 51.211975294136, 
+      "lon": 4.426680456986, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

@@ -307,12 +307,13 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "2A"
       ], 
       "hnrlbls": [
-        "125"
+        "125-125_1"
       ], 
       "housenumber": "125", 
       "lat": 51.087473172336, 
@@ -320,6 +321,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "125-125_1"
+      ], 
+      "housenumber": "125_1", 
+      "lat": 51.087473172336, 
+      "lon": 3.461435370089, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bellemstraat"
     }, 
     {
@@ -435,11 +451,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.087722920078, 
-      "lon": 3.463005617433, 
+      "lat": 51.087714888481, 
+      "lon": 3.463095268201, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bellemstraat"
     }, 
     {
@@ -768,12 +784,13 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "2A"
       ], 
       "hnrlbls": [
-        "158-158A"
+        "158-158_2"
       ], 
       "housenumber": "158", 
       "lat": 51.087508596161, 
@@ -785,7 +802,7 @@
     }, 
     {
       "hnrlbls": [
-        "158-158A"
+        "158-158_2"
       ], 
       "housenumber": "158A", 
       "lat": 51.087508596161, 
@@ -805,6 +822,36 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "158-158_2"
+      ], 
+      "housenumber": "158_1", 
+      "lat": 51.087508596161, 
+      "lon": 3.466288390569, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "158-158_2"
+      ], 
+      "housenumber": "158_2", 
+      "lat": 51.087508596161, 
+      "lon": 3.466288390569, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bellemstraat"
     }, 
     {
@@ -1112,8 +1159,8 @@
         "2-24"
       ], 
       "housenumber": "24", 
-      "lat": 51.084125441801, 
-      "lon": 3.451283306016, 
+      "lat": 51.084123120418, 
+      "lon": 3.451285349676, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -1133,6 +1180,7 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "1B", 
@@ -1142,7 +1190,7 @@
         "3B"
       ], 
       "hnrlbls": [
-        "26"
+        "26-26_3"
       ], 
       "housenumber": "26", 
       "lat": 51.084250057599, 
@@ -1150,6 +1198,53 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "26-26_3"
+      ], 
+      "housenumber": "26_1", 
+      "lat": 51.084250057599, 
+      "lon": 3.45157502021, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "26-26_3"
+      ], 
+      "housenumber": "26_2", 
+      "lat": 51.084250057599, 
+      "lon": 3.45157502021, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "26-26_3"
+      ], 
+      "housenumber": "26_3", 
+      "lat": 51.084250057599, 
+      "lon": 3.45157502021, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bellemstraat"
     }, 
     {
@@ -1685,8 +1780,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.08525240107, 
-      "lon": 3.453834036334, 
+      "lat": 51.085252301228, 
+      "lon": 3.45383275373, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -1766,12 +1861,13 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "2A"
       ], 
       "hnrlbls": [
-        "67"
+        "67-67_2"
       ], 
       "housenumber": "67", 
       "lat": 51.085546668888, 
@@ -1779,6 +1875,36 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "67-67_2"
+      ], 
+      "housenumber": "67_1", 
+      "lat": 51.085546668888, 
+      "lon": 3.454581466156, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "67-67_2"
+      ], 
+      "housenumber": "67_2", 
+      "lat": 51.085546668888, 
+      "lon": 3.454581466156, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bellemstraat"
     }, 
     {

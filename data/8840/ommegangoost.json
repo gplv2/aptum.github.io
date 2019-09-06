@@ -325,8 +325,10 @@
       "street": "Ommegang Oost"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "0/1", 
         "1/1", 
+        "1/2", 
         "2/1"
       ], 
       "hnrlbls": [
@@ -449,6 +451,9 @@
       "street": "Ommegang Oost"
     }, 
     {
+      "apptnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -458,6 +463,18 @@
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ommegang Oost"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.932574764482, 
+      "lon": 3.016356064151, 
+      "municipality": "Staden", 
+      "pcode": "8840", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ommegang Oost"
     }, 
     {

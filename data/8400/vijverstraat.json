@@ -42,6 +42,7 @@
         "0301", 
         "0302", 
         "1", 
+        "101", 
         "2", 
         "3", 
         "4", 
@@ -74,11 +75,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "17"
@@ -88,7 +88,7 @@
       "lon": 2.929186458082, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -117,11 +117,11 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "20-50"
       ], 
       "housenumber": "20", 
-      "lat": 51.217310481847, 
-      "lon": 2.92970686032, 
+      "lat": 51.217310931182, 
+      "lon": 2.929706846459, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -212,11 +212,6 @@
       "street": "Vijverstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -233,8 +228,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.216945310724, 
-      "lon": 2.930017733077, 
+      "lat": 51.216917950613, 
+      "lon": 2.929852669023, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -321,8 +316,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.217837033117, 
-      "lon": 2.929470594722, 
+      "lat": 51.217835035827, 
+      "lon": 2.929476382357, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -345,11 +340,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.216677745952, 
-      "lon": 2.929269884241, 
+      "lat": 51.21671623573, 
+      "lon": 2.929462946808, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijverstraat"
     }, 
     {
@@ -396,8 +391,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.217771556299, 
-      "lon": 2.929586419264, 
+      "lat": 51.217781904557, 
+      "lon": 2.929601989666, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

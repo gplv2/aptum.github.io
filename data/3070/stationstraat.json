@@ -151,11 +151,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.889539194454, 
-      "lon": 4.543754345668, 
+      "lat": 50.889496054802, 
+      "lon": 4.543747930868, 
       "municipality": "Kortenberg", 
       "pcode": "3070", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Stationstraat"
     }, 
     {
@@ -184,17 +184,18 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.889760563978, 
-      "lon": 4.544440495416, 
+      "lat": 50.889724644905, 
+      "lon": 4.544414778231, 
       "municipality": "Kortenberg", 
       "pcode": "3070", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Stationstraat"
     }, 
     {
@@ -669,6 +670,11 @@
       "street": "Stationstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "63"
       ], 

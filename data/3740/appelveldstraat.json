@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "11", 
         "12", 
@@ -183,7 +183,7 @@
       "street": "Appelveldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "11", 
         "12"
       ], 
@@ -484,6 +484,18 @@
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
+      "street": "Appelveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 50.907523174885, 
+      "lon": 5.470171390417, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Appelveldstraat"
     }, 
     {

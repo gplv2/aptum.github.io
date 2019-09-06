@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.032704487841, 
-      "lon": 5.280619253214, 
+      "lat": 51.032704849583, 
+      "lon": 5.280618975129, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -322,11 +322,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.029112873877, 
-      "lon": 5.272552792004, 
+      "lat": 51.029116319011, 
+      "lon": 5.272549009516, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -481,7 +481,7 @@
         "11"
       ], 
       "hnrlbls": [
-        "131-133"
+        "131"
       ], 
       "housenumber": "131", 
       "lat": 51.028759710689, 
@@ -498,18 +498,6 @@
       "housenumber": "132", 
       "lat": 51.028695044797, 
       "lon": 5.271684966437, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "G. Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "131-133"
-      ], 
-      "housenumber": "133", 
-      "lat": 51.028759710689, 
-      "lon": 5.272828230485, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -1346,8 +1334,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.032339277519, 
-      "lon": 5.27911646351, 
+      "lat": 51.032344082138, 
+      "lon": 5.279111282025, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1747,8 +1735,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.031710851406, 
-      "lon": 5.277785507338, 
+      "lat": 51.031722359091, 
+      "lon": 5.277773755472, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2140,8 +2128,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.031306180381, 
-      "lon": 5.276265897135, 
+      "lat": 51.031315069206, 
+      "lon": 5.276255662401, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2172,6 +2160,11 @@
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "80"
       ], 

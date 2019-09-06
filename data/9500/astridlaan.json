@@ -511,9 +511,6 @@
       "street": "Astridlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -523,6 +520,26 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "134B"
+      ], 
+      "housenumber": "134B", 
+      "lat": 50.78190383791, 
+      "lon": 3.873685818083, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Astridlaan"
     }, 
     {
@@ -686,11 +703,11 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.784327035024, 
-      "lon": 3.873255079253, 
+      "lat": 50.784331712103, 
+      "lon": 3.873064156024, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Astridlaan"
     }, 
     {
@@ -1548,8 +1565,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.767444378676, 
-      "lon": 3.867877008322, 
+      "lat": 50.76744214523, 
+      "lon": 3.867880292471, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1700,15 +1717,31 @@
       "street": "Astridlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.775214060464, 
-      "lon": 3.870299447555, 
+      "lat": 50.775177820094, 
+      "lon": 3.870317978662, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 50.775218227955, 
+      "lon": 3.870349310389, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -1887,8 +1920,8 @@
         "93A"
       ], 
       "housenumber": "93A", 
-      "lat": 50.775446537841, 
-      "lon": 3.872333682716, 
+      "lat": 50.775446080564, 
+      "lon": 3.872331844369, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanPerceelGrb", 

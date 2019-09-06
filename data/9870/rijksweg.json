@@ -145,6 +145,12 @@
       "street": "Rijksweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -176,7 +182,8 @@
         "0102", 
         "0103", 
         "0201", 
-        "0202"
+        "0202", 
+        "2"
       ], 
       "hnrlbls": [
         "111A"
@@ -419,11 +426,35 @@
     }, 
     {
       "hnrlbls": [
+        "128A"
+      ], 
+      "housenumber": "128A", 
+      "lat": 50.954750327283, 
+      "lon": 3.492335071406, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "128B"
+      ], 
+      "housenumber": "128B", 
+      "lat": 50.954719880661, 
+      "lon": 3.492194163631, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.948342932551, 
-      "lon": 3.4841975327, 
+      "lat": 50.948343839972, 
+      "lon": 3.484198654089, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -605,8 +636,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.954553506079, 
-      "lon": 3.492004841036, 
+      "lat": 50.954546608187, 
+      "lon": 3.492008101148, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -617,8 +648,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.954297020382, 
-      "lon": 3.491883528788, 
+      "lat": 50.954299430333, 
+      "lon": 3.491881206498, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -677,8 +708,8 @@
         "140A"
       ], 
       "housenumber": "140A", 
-      "lat": 50.953505432818, 
-      "lon": 3.49042125189, 
+      "lat": 50.953503273428, 
+      "lon": 3.490421007647, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -720,8 +751,8 @@
         "142A"
       ], 
       "housenumber": "142A", 
-      "lat": 50.952965128564, 
-      "lon": 3.489805559829, 
+      "lat": 50.952960108101, 
+      "lon": 3.489843512302, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -765,6 +796,18 @@
     }, 
     {
       "hnrlbls": [
+        "144C"
+      ], 
+      "housenumber": "144C", 
+      "lat": 50.951096552357, 
+      "lon": 3.48693026156, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
         "144D"
       ], 
       "housenumber": "144D", 
@@ -780,8 +823,8 @@
         "144E"
       ], 
       "housenumber": "144E", 
-      "lat": 50.950828124757, 
-      "lon": 3.486440035779, 
+      "lat": 50.950758196147, 
+      "lon": 3.486465686724, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -792,8 +835,8 @@
         "144F"
       ], 
       "housenumber": "144F", 
-      "lat": 50.950693179604, 
-      "lon": 3.48611552516, 
+      "lat": 50.950587002486, 
+      "lon": 3.486258416495, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -804,8 +847,8 @@
         "146-146A"
       ], 
       "housenumber": "146", 
-      "lat": 50.950504529986, 
-      "lon": 3.485702651158, 
+      "lat": 50.950496035676, 
+      "lon": 3.485708788305, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -816,8 +859,8 @@
         "146-146A"
       ], 
       "housenumber": "146A", 
-      "lat": 50.950504529986, 
-      "lon": 3.485702651158, 
+      "lat": 50.950496035676, 
+      "lon": 3.485708788305, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -900,8 +943,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.949157545051, 
-      "lon": 3.483868095294, 
+      "lat": 50.949158260957, 
+      "lon": 3.483879609201, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1005,6 +1048,18 @@
     }, 
     {
       "hnrlbls": [
+        "160A"
+      ], 
+      "housenumber": "160A", 
+      "lat": 50.946334841217, 
+      "lon": 3.478700984644, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
         "162"
       ], 
       "housenumber": "162", 
@@ -1035,8 +1090,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.960727390522, 
-      "lon": 3.501663849551, 
+      "lat": 50.960695160892, 
+      "lon": 3.501694195839, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1135,8 +1190,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.960605761548, 
-      "lon": 3.501408162384, 
+      "lat": 50.960616111731, 
+      "lon": 3.501397579683, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1231,8 +1286,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.959295987815, 
-      "lon": 3.500487774765, 
+      "lat": 50.959305956927, 
+      "lon": 3.500462110738, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1267,11 +1322,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.960211959032, 
-      "lon": 3.500913953074, 
+      "lat": 50.960176081269, 
+      "lon": 3.500925007862, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1291,11 +1346,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.960148127564, 
-      "lon": 3.500791576659, 
+      "lat": 50.960102011208, 
+      "lon": 3.500803959662, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1303,11 +1358,11 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 50.960078150957, 
-      "lon": 3.500689242741, 
+      "lat": 50.960046930903, 
+      "lon": 3.500649251545, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1543,8 +1598,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.958355208197, 
-      "lon": 3.499392926438, 
+      "lat": 50.958362160969, 
+      "lon": 3.499397067877, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1735,8 +1790,8 @@
         "66A"
       ], 
       "housenumber": "66A", 
-      "lat": 50.958863858963, 
-      "lon": 3.498907225049, 
+      "lat": 50.95886084598, 
+      "lon": 3.498913116947, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1963,8 +2018,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.958330960219, 
-      "lon": 3.497196909656, 
+      "lat": 50.958332976991, 
+      "lon": 3.497190039826, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2047,8 +2102,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.957651892699, 
-      "lon": 3.49690904285, 
+      "lat": 50.95759765274, 
+      "lon": 3.496941222703, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 

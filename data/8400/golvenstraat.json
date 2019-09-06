@@ -2,23 +2,22 @@
   "addresses": [
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.214825957241, 
-      "lon": 2.899732211044, 
+      "lat": 51.214779747519, 
+      "lon": 2.899710477181, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {
@@ -34,11 +33,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.214754069404, 
-      "lon": 2.898266410735, 
+      "lat": 51.21469739216, 
+      "lon": 2.898256030226, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {
@@ -164,8 +163,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.214570412704, 
-      "lon": 2.899403017006, 
+      "lat": 51.21457135759, 
+      "lon": 2.899406708921, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -173,16 +172,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0202"
       ], 
       "hnrlbls": [
         "2B"
@@ -197,50 +192,42 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0202"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.214689646974, 
-      "lon": 2.898869636938, 
+      "lat": 51.214632698404, 
+      "lon": 2.89885912112, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0202"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.214714294871, 
-      "lon": 2.898682775905, 
+      "lat": 51.214653171518, 
+      "lon": 2.898669099609, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {
@@ -249,6 +236,7 @@
         "003A", 
         "003B", 
         "0101", 
+        "0102", 
         "0202", 
         "0401", 
         "1A", 
@@ -266,31 +254,27 @@
       "lon": 2.89954855569, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0202"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.214738586702, 
-      "lon": 2.898467297499, 
+      "lat": 51.214676449888, 
+      "lon": 2.898451649434, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Golvenstraat"
     }, 
     {

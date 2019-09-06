@@ -23,6 +23,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
@@ -37,13 +39,7 @@
         "0304", 
         "0401", 
         "0402", 
-        "0403", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "A", 
-        "C"
+        "0403"
       ], 
       "hnrlbls": [
         "10"
@@ -61,8 +57,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.212232298966, 
-      "lon": 2.88423283194, 
+      "lat": 51.212232654778, 
+      "lon": 2.884239691088, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -70,6 +66,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "1", 
         "3", 
@@ -83,7 +80,7 @@
       "lon": 2.884614105256, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Derbylaan"
     }, 
     {
@@ -169,6 +166,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
         "0101", 
         "0102", 
         "0103", 
@@ -200,9 +202,6 @@
       "street": "Derbylaan"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "7B"
       ], 
@@ -211,15 +210,16 @@
       "lon": 2.883918228992, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Derbylaan"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "1", 
-        "C000"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "7C"
@@ -229,7 +229,7 @@
       "lon": 2.883914485003, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Derbylaan"
     }, 
     {

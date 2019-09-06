@@ -662,8 +662,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.010298569093, 
-      "lon": 4.332326725826, 
+      "lat": 51.010248418709, 
+      "lon": 4.332355119419, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -914,8 +914,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.010863390367, 
-      "lon": 4.334282411228, 
+      "lat": 51.010872739117, 
+      "lon": 4.334282831959, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -1070,11 +1070,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.011262628089, 
-      "lon": 4.334714444665, 
+      "lat": 51.011297369172, 
+      "lon": 4.334867599163, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Londerzeelseweg"
     }, 
     {
@@ -1103,14 +1103,14 @@
     }, 
     {
       "hnrlbls": [
-        "71"
+        "71-71A"
       ], 
       "housenumber": "71", 
-      "lat": 51.011485509175, 
-      "lon": 4.335507258867, 
+      "lat": 51.011464480283, 
+      "lon": 4.335527222476, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Londerzeelseweg"
     }, 
     {
@@ -1427,6 +1427,18 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Londerzeelseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "ZN"
+      ], 
+      "housenumber": "ZN", 
+      "lat": 51.011422845081, 
+      "lon": 4.336125863178, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "afgeleidVanStraat", 
       "street": "Londerzeelseweg"
     }
   ]

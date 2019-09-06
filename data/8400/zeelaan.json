@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.205088534836, 
-      "lon": 2.863819319586, 
+      "lat": 51.205087775204, 
+      "lon": 2.863823208155, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -58,11 +58,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.207531548969, 
-      "lon": 2.860347544334, 
+      "lat": 51.207533857665, 
+      "lon": 2.860352335818, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zeelaan"
     }, 
     {
@@ -226,11 +226,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.205198944246, 
-      "lon": 2.86308559074, 
+      "lat": 51.205234083068, 
+      "lon": 2.86311279343, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -246,9 +246,6 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "2B"
       ], 
@@ -261,9 +258,6 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "C000"
-      ], 
       "hnrlbls": [
         "2C"
       ], 
@@ -280,9 +274,21 @@
         "0101"
       ], 
       "hnrlbls": [
-        "31"
+        "31-31A"
       ], 
       "housenumber": "31", 
+      "lat": 51.205302969554, 
+      "lon": 2.863072072777, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "31-31A"
+      ], 
+      "housenumber": "31A", 
       "lat": 51.205302969554, 
       "lon": 2.863072072777, 
       "municipality": "Oostende", 
@@ -383,8 +389,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.204938544958, 
-      "lon": 2.864000472751, 
+      "lat": 51.204937187866, 
+      "lon": 2.863999800951, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -451,9 +457,6 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "48A"
       ], 
@@ -494,11 +497,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.204615298691, 
-      "lon": 2.863834439888, 
+      "lat": 51.204611485435, 
+      "lon": 2.863838570018, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeelaan"
     }, 
     {
@@ -590,8 +593,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.204989388862, 
-      "lon": 2.86394072903, 
+      "lat": 51.204990379208, 
+      "lon": 2.863940840204, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -605,8 +608,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.20610555734, 
-      "lon": 2.862142390175, 
+      "lat": 51.206109269185, 
+      "lon": 2.862144417071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -659,18 +662,24 @@
     }, 
     {
       "busnrs": [
-        "0102", 
+        "0603", 
         "0701", 
         "1", 
         "11", 
-        "11B", 
+        "12", 
         "13", 
         "14", 
         "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
         "20", 
+        "21", 
         "22", 
         "3", 
         "4", 
+        "5", 
         "6", 
         "7", 
         "8", 
@@ -768,17 +777,12 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "A"
-      ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.206688509307, 
-      "lon": 2.861473950672, 
+      "lat": 51.206685010516, 
+      "lon": 2.861467480242, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -822,8 +826,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.205040156263, 
-      "lon": 2.863874976877, 
+      "lat": 51.205043570521, 
+      "lon": 2.863881879322, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -842,10 +846,6 @@
       "street": "Zeelaan"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "1"
-      ], 
       "hnrlbls": [
         "89"
       ], 

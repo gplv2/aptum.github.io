@@ -25,6 +25,12 @@
       "street": "Langestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -240,8 +246,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.314561745177, 
-      "lon": 3.127871245713, 
+      "lat": 51.31456546599, 
+      "lon": 3.127883195575, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -285,6 +291,16 @@
       "street": "Langestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -628,6 +644,22 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.315856612485, 
+      "lon": 3.130291359479, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "apptnrs": [
         "0101", 
         "0201", 
         "0301"
@@ -681,11 +713,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.315922225369, 
-      "lon": 3.130419575168, 
+      "lat": 51.31591683629, 
+      "lon": 3.13042000541, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {

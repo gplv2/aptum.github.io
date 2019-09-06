@@ -13,15 +13,33 @@
       "street": "Bij Sint-Jacobs"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.056984584064, 
-      "lon": 3.727528923315, 
+      "lat": 51.056971922425, 
+      "lon": 3.727498287107, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bij Sint-Jacobs"
+    }, 
+    {
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.056994009027, 
+      "lon": 3.727559461204, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bij Sint-Jacobs"
     }, 
     {

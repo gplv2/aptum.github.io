@@ -357,6 +357,10 @@
         "1", 
         "2"
       ], 
+      "busnrs": [
+        "Abs1", 
+        "Abs2"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -821,7 +825,10 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "Abs1", 
+        "Abs2", 
+        "Abs3"
       ], 
       "hnrlbls": [
         "2"
@@ -863,8 +870,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.225321784611, 
-      "lon": 5.438651149956, 
+      "lat": 51.225337071481, 
+      "lon": 5.438660520165, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
@@ -960,6 +967,9 @@
       "street": "Boseind"
     }, 
     {
+      "busnrs": [
+        "Abs1"
+      ], 
       "hnrlbls": [
         "32"
       ], 

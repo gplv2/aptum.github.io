@@ -194,41 +194,9 @@
     }, 
     {
       "hnrlbls": [
-        "26-26B"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.981684967963, 
-      "lon": 5.057386752554, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rozengaard"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "26-26B"
-      ], 
-      "housenumber": "26A", 
-      "lat": 50.981684967963, 
-      "lon": 5.057386752554, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rozengaard"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "26-26B"
-      ], 
-      "housenumber": "26B", 
       "lat": 50.981684967963, 
       "lon": 5.057386752554, 
       "municipality": "Diest", 
@@ -597,15 +565,23 @@
       "street": "Rozengaard"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "A0001", 
+        "B", 
+        "B0001", 
+        "C", 
+        "C0001"
+      ], 
       "hnrlbls": [
-        "73-73D"
+        "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.980899701582, 
-      "lon": 5.056685958651, 
+      "lat": 50.980867848442, 
+      "lon": 5.056645047391, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rozengaard"
     }, 
     {
@@ -613,7 +589,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "73-73D"
+        "73A-73D"
       ], 
       "housenumber": "73A", 
       "lat": 50.980899701582, 
@@ -628,7 +604,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "73-73D"
+        "73A-73D"
       ], 
       "housenumber": "73B", 
       "lat": 50.980899701582, 
@@ -644,7 +620,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "73-73D"
+        "73A-73D"
       ], 
       "housenumber": "73C", 
       "lat": 50.980899701582, 
@@ -659,7 +635,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "73-73D"
+        "73A-73D"
       ], 
       "housenumber": "73D", 
       "lat": 50.980899701582, 

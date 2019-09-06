@@ -85,6 +85,9 @@
       "street": "De Plank"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -274,6 +277,18 @@
       "municipality": "Voeren", 
       "pcode": "3790", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "De Plank"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.751539795921, 
+      "lon": 5.85077498274, 
+      "municipality": "Voeren", 
+      "pcode": "3790", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Plank"
     }, 
     {

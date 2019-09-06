@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "0B", 
         "1A", 
@@ -20,6 +21,39 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brevierweg"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "2_1-2_2"
+      ], 
+      "housenumber": "2_1", 
+      "lat": 51.083957987649, 
+      "lon": 3.447191676839, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brevierweg"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "2_1-2_2"
+      ], 
+      "housenumber": "2_2", 
+      "lat": 51.083957987649, 
+      "lon": 3.447191676839, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brevierweg"
     }, 
     {
@@ -59,6 +93,10 @@
       "street": "Brevierweg"
     }, 
     {
+      "busnrs": [
+        "00OA", 
+        "00OB"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -74,11 +112,10 @@
       "busnrs": [
         "0A", 
         "1A", 
-        "2A", 
-        "2B"
+        "2A"
       ], 
       "hnrlbls": [
-        "7"
+        "7-7_2"
       ], 
       "housenumber": "7", 
       "lat": 51.083814550013, 
@@ -86,6 +123,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brevierweg"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "7-7_2"
+      ], 
+      "housenumber": "7_2", 
+      "lat": 51.083814550013, 
+      "lon": 3.447829338638, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brevierweg"
     }, 
     {

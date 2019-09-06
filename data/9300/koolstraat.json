@@ -178,11 +178,6 @@
       "street": "Koolstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -195,10 +190,6 @@
       "street": "Koolstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -1337,9 +1328,7 @@
         "1", 
         "11", 
         "12", 
-        "2", 
-        "21", 
-        "31"
+        "21"
       ], 
       "hnrlbls": [
         "69"
@@ -1383,6 +1372,11 @@
       "street": "Koolstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1544,6 +1538,18 @@
       "housenumber": "8", 
       "lat": 50.938329942908, 
       "lon": 4.026153807266, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.940276799047, 
+      "lon": 4.029517442098, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

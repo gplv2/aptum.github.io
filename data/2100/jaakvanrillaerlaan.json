@@ -2,12 +2,15 @@
   "addresses": [
     {
       "busnrs": [
+        "1", 
         "10", 
         "11", 
         "12", 
         "13", 
         "14", 
+        "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
         "7", 
@@ -20,18 +23,6 @@
       "housenumber": "1", 
       "lat": 51.230238180224, 
       "lon": 4.479536338553, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jaak Van Rillaerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "6-10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.229886407386, 
-      "lon": 4.479978579275, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -112,7 +103,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "16"
@@ -211,6 +204,11 @@
       "street": "Jaak Van Rillaerlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -617,6 +615,11 @@
       "street": "Jaak Van Rillaerlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -720,11 +723,11 @@
         "301"
       ], 
       "hnrlbls": [
-        "6-10"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.229886407386, 
-      "lon": 4.479978579275, 
+      "lat": 51.229886480115, 
+      "lon": 4.479901702234, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -748,12 +751,22 @@
       "street": "Jaak Van Rillaerlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "6-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.229886407386, 
-      "lon": 4.479978579275, 
+      "lat": 51.229886154704, 
+      "lon": 4.480055599044, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

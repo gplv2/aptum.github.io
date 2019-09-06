@@ -61,17 +61,26 @@
       "street": "Raadhuislaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "13"
+        "13-13C"
       ], 
       "housenumber": "13", 
+      "lat": 50.888458031007, 
+      "lon": 4.735259206914, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Raadhuislaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "13-13C"
+      ], 
+      "housenumber": "13C", 
       "lat": 50.888458031007, 
       "lon": 4.735259206914, 
       "municipality": "Leuven", 
@@ -163,10 +172,10 @@
       "street": "Raadhuislaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "19"

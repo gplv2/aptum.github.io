@@ -409,6 +409,21 @@
       "street": "Dijk"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 51.060588630062, 
+      "lon": 4.576427188611, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dijk"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -467,14 +482,15 @@
         "E22", 
         "E24", 
         "E3", 
-        "E5"
+        "E5", 
+        "E6"
       ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.059924582292, 
-      "lon": 4.575835552451, 
+      "lat": 51.059927185044, 
+      "lon": 4.575837846263, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanPerceelGrb", 
@@ -488,7 +504,8 @@
       "busnrs": [
         "1", 
         "14", 
-        "15"
+        "15", 
+        "3"
       ], 
       "hnrlbls": [
         "38A"
@@ -507,6 +524,7 @@
       ], 
       "busnrs": [
         "13", 
+        "15", 
         "2"
       ], 
       "hnrlbls": [
@@ -999,8 +1017,8 @@
         "70-70A"
       ], 
       "housenumber": "70", 
-      "lat": 51.057155518751, 
-      "lon": 4.57389828942, 
+      "lat": 51.057151905253, 
+      "lon": 4.573908543063, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 
@@ -1011,8 +1029,8 @@
         "70-70A"
       ], 
       "housenumber": "70A", 
-      "lat": 51.057155518751, 
-      "lon": 4.57389828942, 
+      "lat": 51.057151905253, 
+      "lon": 4.573908543063, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 

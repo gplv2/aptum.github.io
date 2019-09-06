@@ -104,52 +104,55 @@
     }, 
     {
       "apptnrs": [
-        "101", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "106", 
+        "107", 
+        "108", 
+        "109", 
+        "110", 
+        "111", 
         "201", 
-        "301"
+        "202", 
+        "203", 
+        "204", 
+        "205"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.216433915177, 
-      "lon": 4.428272394378, 
+      "lat": 51.216363930843, 
+      "lon": 4.428730713919, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Van Geertstraat"
     }, 
     {
-      "busnrs": [
-        "01", 
-        "02", 
-        "03", 
-        "04", 
-        "05", 
-        "06", 
-        "07", 
-        "08", 
-        "09", 
-        "10", 
+      "apptnrs": [
         "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19"
+        "21", 
+        "31"
       ], 
       "hnrlbls": [
         "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 51.216394885513, 
-      "lon": 4.428487738102, 
+      "lat": 51.216437785655, 
+      "lon": 4.42826166544, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Geertstraat"
     }, 
     {
@@ -378,6 +381,12 @@
       "street": "Van Geertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -440,6 +449,10 @@
       "street": "Van Geertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -531,8 +544,10 @@
       "street": "Van Geertstraat"
     }, 
     {
-      "busnrs": [
-        "11"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "63"

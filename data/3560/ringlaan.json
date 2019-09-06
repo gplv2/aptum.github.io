@@ -245,6 +245,14 @@
         "311", 
         "410"
       ], 
+      "busnrs": [
+        "23", 
+        "25", 
+        "29", 
+        "34", 
+        "39", 
+        "48"
+      ], 
       "hnrlbls": [
         "21A"
       ], 
@@ -265,6 +273,10 @@
         "04.2", 
         "05.1", 
         "05.2"
+      ], 
+      "busnrs": [
+        "41", 
+        "42"
       ], 
       "hnrlbls": [
         "21B"
@@ -288,6 +300,10 @@
         "04.1", 
         "04.2", 
         "05.1"
+      ], 
+      "busnrs": [
+        "31", 
+        "41"
       ], 
       "hnrlbls": [
         "21C"
@@ -904,18 +920,6 @@
       "housenumber": "39", 
       "lat": 50.987002126435, 
       "lon": 5.198089021325, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "39A"
-      ], 
-      "housenumber": "39A", 
-      "lat": 50.986415614867, 
-      "lon": 5.19888191354, 
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanGebouw", 

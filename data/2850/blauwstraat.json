@@ -281,6 +281,11 @@
       "street": "Blauwstraat"
     }, 
     {
+      "busnrs": [
+        "00.1", 
+        "01.1", 
+        "02.1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -389,6 +394,9 @@
       "street": "Blauwstraat"
     }, 
     {
+      "apptnrs": [
+        "01.1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -608,8 +616,8 @@
         "51-53"
       ], 
       "housenumber": "51", 
-      "lat": 51.086819210209, 
-      "lon": 4.368401573373, 
+      "lat": 51.086819839414, 
+      "lon": 4.368406140494, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanPerceelGrb", 
@@ -629,8 +637,8 @@
         "51-53"
       ], 
       "housenumber": "53", 
-      "lat": 51.086819210209, 
-      "lon": 4.368401573373, 
+      "lat": 51.086819839414, 
+      "lon": 4.368406140494, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanPerceelGrb", 

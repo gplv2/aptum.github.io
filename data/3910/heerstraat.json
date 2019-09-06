@@ -153,7 +153,7 @@
       "lon": 5.435219530431, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heerstraat"
     }, 
     {
@@ -161,6 +161,7 @@
         "5"
       ], 
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -838,7 +839,9 @@
         "6", 
         "7", 
         "8", 
-        "9"
+        "9", 
+        "bs10", 
+        "bs11"
       ], 
       "hnrlbls": [
         "71-79"

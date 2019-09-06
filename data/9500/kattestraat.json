@@ -119,7 +119,8 @@
     {
       "busnrs": [
         "1", 
-        "3"
+        "2", 
+        "Z/N"
       ], 
       "hnrlbls": [
         "19"
@@ -550,6 +551,18 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kattestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.76916737333, 
+      "lon": 3.877822071496, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Kattestraat"
     }, 
     {

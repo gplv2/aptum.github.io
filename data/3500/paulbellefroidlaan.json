@@ -93,12 +93,8 @@
       "street": "Paul Bellefroidlaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "2"
+        "2-2B"
       ], 
       "housenumber": "2", 
       "lat": 50.919489894497, 
@@ -150,6 +146,42 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Paul Bellefroidlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2-2B"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.919489894497, 
+      "lon": 5.342557627135, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Paul Bellefroidlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2-2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.919489894497, 
+      "lon": 5.342557627135, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Paul Bellefroidlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.919243310309, 
+      "lon": 5.342859286506, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paul Bellefroidlaan"
     }, 
     {
@@ -305,6 +337,9 @@
         "7", 
         "8", 
         "9"
+      ], 
+      "busnrs": [
+        "11"
       ], 
       "hnrlbls": [
         "4C"

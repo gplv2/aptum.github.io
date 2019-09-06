@@ -449,7 +449,8 @@
       ], 
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "33"
@@ -505,7 +506,8 @@
       "busnrs": [
         "1", 
         "101", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "39"
@@ -1133,13 +1135,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "3.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "202", 
+        "001", 
+        "101", 
+        "201", 
         "301"
       ], 
       "hnrlbls": [
@@ -1278,11 +1276,13 @@
       "street": "Dr. J. Appelmanslaan"
     }, 
     {
-      "busnrs": [
-        "0001", 
+      "apptnrs": [
         "101", 
         "201", 
         "202"
+      ], 
+      "busnrs": [
+        "001"
       ], 
       "hnrlbls": [
         "95"
@@ -1324,11 +1324,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.844957969021, 
-      "lon": 4.269979191575, 
+      "lat": 50.845034914418, 
+      "lon": 4.270080836747, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr. J. Appelmanslaan"
     }
   ]

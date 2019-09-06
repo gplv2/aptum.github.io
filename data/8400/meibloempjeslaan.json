@@ -17,6 +17,7 @@
         "0102", 
         "0202", 
         "0401", 
+        "0502", 
         "10", 
         "11", 
         "12", 
@@ -36,7 +37,7 @@
       "lon": 2.880308262875, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meibloempjeslaan"
     }, 
     {
@@ -54,6 +55,7 @@
     {
       "busnrs": [
         "0203", 
+        "0301", 
         "0404", 
         "10", 
         "11", 
@@ -77,7 +79,7 @@
       "lon": 2.880504543102, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meibloempjeslaan"
     }, 
     {
@@ -102,8 +104,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.21653972361, 
-      "lon": 2.880030347599, 
+      "lat": 51.216543152927, 
+      "lon": 2.880031383342, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -176,20 +178,28 @@
     }, 
     {
       "busnrs": [
-        "002D", 
-        "004A", 
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0103", 
         "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
         "0205", 
-        "1", 
-        "1D", 
-        "2", 
-        "2D", 
-        "3", 
-        "4", 
-        "4A", 
-        "D"
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405"
       ], 
       "hnrlbls": [
         "6"

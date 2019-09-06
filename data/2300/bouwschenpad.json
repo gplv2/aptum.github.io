@@ -5,11 +5,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.324414528125, 
-      "lon": 4.935087799754, 
+      "lat": 51.324388303093, 
+      "lon": 4.935102256012, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -17,11 +17,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.324464274277, 
-      "lon": 4.935079224927, 
+      "lat": 51.324438596747, 
+      "lon": 4.935091966413, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -65,8 +65,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.324659059335, 
-      "lon": 4.935039709831, 
+      "lat": 51.324659057276, 
+      "lon": 4.935040140175, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -101,8 +101,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.324805081387, 
-      "lon": 4.935009929023, 
+      "lat": 51.324805075897, 
+      "lon": 4.935011076609, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -113,8 +113,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.324853395663, 
-      "lon": 4.93500004548, 
+      "lat": 51.324850140173, 
+      "lon": 4.935004166053, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -125,11 +125,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.324214515038, 
-      "lon": 4.935130406721, 
+      "lat": 51.324188929436, 
+      "lon": 4.935142718867, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -142,14 +142,33 @@
         "6"
       ], 
       "hnrlbls": [
-        "31"
+        "31-31b"
       ], 
       "housenumber": "31", 
-      "lat": 51.324937723903, 
-      "lon": 4.935071367123, 
+      "lat": 51.324928257947, 
+      "lon": 4.935077276944, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bouwschen Pad"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "31-31b"
+      ], 
+      "housenumber": "31b", 
+      "lat": 51.324928257947, 
+      "lon": 4.935077276944, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -157,8 +176,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.325011768517, 
-      "lon": 4.9350564893, 
+      "lat": 51.325004371802, 
+      "lon": 4.935061993982, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -169,8 +188,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.325054316225, 
-      "lon": 4.935049548086, 
+      "lat": 51.325049984951, 
+      "lon": 4.935053081732, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -181,8 +200,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.325097227559, 
-      "lon": 4.935041750545, 
+      "lat": 51.325093438295, 
+      "lon": 4.935044716971, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -198,14 +217,34 @@
         "6"
       ], 
       "hnrlbls": [
-        "39"
+        "39-39b"
       ], 
       "housenumber": "39", 
-      "lat": 51.325171265987, 
-      "lon": 4.935028163668, 
+      "lat": 51.325168014615, 
+      "lon": 4.935031423571, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bouwschen Pad"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "39-39b"
+      ], 
+      "housenumber": "39b", 
+      "lat": 51.325168014615, 
+      "lon": 4.935031423571, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -235,6 +274,24 @@
     }, 
     {
       "busnrs": [
+        "11", 
+        "2", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "41b"
+      ], 
+      "housenumber": "41b", 
+      "lat": 51.325147234167, 
+      "lon": 4.935354380513, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bouwschen Pad"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -257,15 +314,32 @@
       "street": "Bouwschen Pad"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "6", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "43b"
+      ], 
+      "housenumber": "43b", 
+      "lat": 51.324970799563, 
+      "lon": 4.935447197644, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bouwschen Pad"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.324263734287, 
-      "lon": 4.935119243364, 
+      "lat": 51.324237693809, 
+      "lon": 4.935132697624, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -273,11 +347,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.324313761059, 
-      "lon": 4.935108376737, 
+      "lat": 51.324287536709, 
+      "lon": 4.935122689506, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }, 
     {
@@ -285,11 +359,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.324364144593, 
-      "lon": 4.935098088257, 
+      "lat": 51.324337919559, 
+      "lon": 4.935112544494, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bouwschen Pad"
     }
   ]

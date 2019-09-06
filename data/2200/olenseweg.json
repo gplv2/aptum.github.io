@@ -25,15 +25,22 @@
       "street": "Olenseweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.142116390831, 
-      "lon": 4.843838105395, 
+      "lat": 51.14205645738, 
+      "lon": 4.84387721946, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olenseweg"
     }, 
     {
@@ -86,14 +93,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.141540596537, 
-      "lon": 4.84087765168, 
+      "lat": 51.141589291796, 
+      "lon": 4.840995888154, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Olenseweg"
     }, 
     {
@@ -424,6 +431,27 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Olenseweg"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.142073266614, 
+      "lon": 4.843698772992, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Olenseweg"
     }, 
     {

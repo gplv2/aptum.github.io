@@ -89,8 +89,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.222821095771, 
-      "lon": 2.908511489074, 
+      "lat": 51.222819233074, 
+      "lon": 2.908506250234, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -131,7 +131,7 @@
       "lon": 2.908908870657, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -139,8 +139,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.222639871879, 
-      "lon": 2.908454599199, 
+      "lat": 51.222638793481, 
+      "lon": 2.908454632961, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -155,7 +155,7 @@
       "lon": 2.908908870657, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -170,17 +170,7 @@
         "0402", 
         "0501", 
         "0601", 
-        "0701", 
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0701"
       ], 
       "hnrlbls": [
         "107"
@@ -257,8 +247,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.222377871895, 
-      "lon": 2.908394082713, 
+      "lat": 51.222377297359, 
+      "lon": 2.908391237401, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -266,14 +256,14 @@
     }, 
     {
       "hnrlbls": [
-        "112"
+        "1-112"
       ], 
       "housenumber": "112", 
-      "lat": 51.222115205344, 
-      "lon": 2.908760217111, 
+      "lat": 51.222112114556, 
+      "lon": 2.908757450574, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -312,10 +302,9 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "116"
@@ -330,18 +319,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201", 
-        "3", 
-        "301", 
-        "4", 
-        "401", 
-        "5", 
-        "501", 
-        "6", 
-        "601"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "117"
@@ -355,15 +338,19 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.221930307818, 
-      "lon": 2.908711602454, 
+      "lat": 51.221931675023, 
+      "lon": 2.908705833111, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -380,16 +367,21 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.222237121899, 
-      "lon": 2.908149383109, 
+      "lat": 51.222213543793, 
+      "lon": 2.908365870377, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0301", 
+        "0401", 
+        "0501", 
         "0601", 
+        "0701", 
         "1", 
         "2", 
         "4", 
@@ -410,13 +402,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "120"
@@ -451,7 +440,7 @@
       "lon": 2.90824789373, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -464,8 +453,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.221834994254, 
-      "lon": 2.908586311625, 
+      "lat": 51.221831231996, 
+      "lon": 2.908580130216, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -473,8 +462,7 @@
     }, 
     {
       "busnrs": [
-        "3", 
-        "A000"
+        "3"
       ], 
       "hnrlbls": [
         "122A"
@@ -638,6 +626,7 @@
       "busnrs": [
         "0201", 
         "0301", 
+        "0501", 
         "0601", 
         "1", 
         "2", 
@@ -657,7 +646,7 @@
       "lon": 2.908195648754, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -684,11 +673,11 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.221814428447, 
-      "lon": 2.908202132516, 
+      "lat": 51.221817651525, 
+      "lon": 2.908208330776, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -764,17 +753,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
+        "0301", 
         "0401", 
         "0501", 
-        "0701", 
-        "1", 
-        "2", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "14"
@@ -976,21 +962,7 @@
         "0601", 
         "0602", 
         "0701", 
-        "0702", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0702"
       ], 
       "hnrlbls": [
         "162"
@@ -1005,11 +977,10 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0002", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "164"
@@ -1057,6 +1028,7 @@
     {
       "busnrs": [
         "0101", 
+        "1", 
         "2", 
         "3"
       ], 
@@ -1068,7 +1040,7 @@
       "lon": 2.907892712827, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1078,10 +1050,12 @@
         "12", 
         "13", 
         "2", 
+        "202", 
         "3", 
         "4", 
         "5", 
         "6", 
+        "601", 
         "7", 
         "9"
       ], 
@@ -1107,8 +1081,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.220130779271, 
-      "lon": 2.908196585571, 
+      "lat": 51.220109591934, 
+      "lon": 2.908351859694, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1119,8 +1093,8 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.220530170297, 
-      "lon": 2.907880295529, 
+      "lat": 51.220527965779, 
+      "lon": 2.90787649927, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1195,8 +1169,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.219704018911, 
-      "lon": 2.908109308968, 
+      "lat": 51.219705738746, 
+      "lon": 2.908110257212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1220,12 +1194,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "176"
@@ -1241,23 +1213,15 @@
     {
       "busnrs": [
         "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "0402", 
-        "0501", 
-        "0502"
+        "0x01", 
+        "0x02"
       ], 
       "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.220295206595, 
-      "lon": 2.907846997303, 
+      "lat": 51.220293782594, 
+      "lon": 2.907840886081, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1268,8 +1232,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.219595828165, 
-      "lon": 2.908106111613, 
+      "lat": 51.219604215727, 
+      "lon": 2.908057318909, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1278,23 +1242,15 @@
     {
       "busnrs": [
         "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "0402", 
-        "0501", 
-        "0502"
+        "0x01", 
+        "0x02"
       ], 
       "hnrlbls": [
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.220203041323, 
-      "lon": 2.907823829065, 
+      "lat": 51.220223661409, 
+      "lon": 2.907826475885, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1464,6 +1420,7 @@
         "0603", 
         "0604", 
         "0605", 
+        "202", 
         "203A", 
         "303A", 
         "304A", 
@@ -1542,6 +1499,7 @@
         "0101", 
         "0201", 
         "0301", 
+        "0501", 
         "1", 
         "2", 
         "3", 
@@ -1575,23 +1533,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
         "0401", 
+        "0402", 
+        "0501", 
         "0502", 
-        "0701", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0601", 
+        "0602", 
+        "0701"
       ], 
       "hnrlbls": [
         "195"
@@ -1612,6 +1567,7 @@
         "0701", 
         "1", 
         "2", 
+        "201", 
         "3", 
         "6", 
         "7"
@@ -1635,11 +1591,7 @@
         "0401", 
         "0501", 
         "0601", 
-        "0701", 
-        "4", 
-        "5", 
-        "6", 
-        "8"
+        "0701"
       ], 
       "hnrlbls": [
         "198"
@@ -1654,11 +1606,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
         "0301", 
         "0401", 
-        "3A", 
-        "4A"
+        "0501", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "1B"
@@ -1668,14 +1625,14 @@
       "lon": 2.909904695907, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
+        "0401", 
         "1", 
-        "3", 
-        "C000"
+        "3"
       ], 
       "hnrlbls": [
         "1C"
@@ -1685,13 +1642,12 @@
       "lon": 2.909846234143, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "D000"
+        "0201"
       ], 
       "hnrlbls": [
         "1D"
@@ -1733,6 +1689,7 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0201", 
         "0301", 
@@ -1764,7 +1721,9 @@
         "0601", 
         "0603", 
         "0701", 
-        "2"
+        "101", 
+        "2", 
+        "203"
       ], 
       "hnrlbls": [
         "20"
@@ -1798,8 +1757,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.219518617851, 
-      "lon": 2.907619650719, 
+      "lat": 51.219517925435, 
+      "lon": 2.907621819753, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1810,18 +1769,16 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.218703921558, 
-      "lon": 2.908026388329, 
+      "lat": 51.218745455717, 
+      "lon": 2.907880788581, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "1C"
+        "0001"
       ], 
       "hnrlbls": [
         "203"
@@ -1864,14 +1821,7 @@
         "0201", 
         "0301", 
         "0501", 
-        "0601", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "O"
+        "0601"
       ], 
       "hnrlbls": [
         "206"
@@ -1899,6 +1849,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "1", 
         "2"
       ], 
@@ -1910,25 +1861,22 @@
       "lon": 2.907470490135, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0101"
       ], 
       "hnrlbls": [
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.218537725489, 
-      "lon": 2.907723240607, 
+      "lat": 51.218511273749, 
+      "lon": 2.907881680746, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2013,13 +1961,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "218"
@@ -2037,8 +1982,8 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.21887584984, 
-      "lon": 2.907461700597, 
+      "lat": 51.218877574684, 
+      "lon": 2.907455777236, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2111,8 +2056,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.218102045927, 
-      "lon": 2.907619931354, 
+      "lat": 51.218106490049, 
+      "lon": 2.907623084645, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2154,8 +2099,8 @@
         "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.217912415645, 
-      "lon": 2.907595809355, 
+      "lat": 51.217908429987, 
+      "lon": 2.907600658193, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2163,13 +2108,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0102", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "227"
@@ -2187,11 +2129,11 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.217736814253, 
-      "lon": 2.907593865938, 
+      "lat": 51.217737506668, 
+      "lon": 2.907591696987, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2213,8 +2155,8 @@
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.218577442634, 
-      "lon": 2.907365115235, 
+      "lat": 51.218579777397, 
+      "lon": 2.907364898936, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2231,8 +2173,8 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 51.217702937197, 
-      "lon": 2.907529650364, 
+      "lat": 51.217677025859, 
+      "lon": 2.907578990089, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2240,28 +2182,28 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "403", 
-        "501", 
-        "502"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 51.218503688398, 
-      "lon": 2.907362272355, 
+      "lat": 51.218510578293, 
+      "lon": 2.907323261989, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2274,8 +2216,8 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.217637053195, 
-      "lon": 2.907545313458, 
+      "lat": 51.217602077064, 
+      "lon": 2.907668659492, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2309,6 +2251,7 @@
       "busnrs": [
         "004A", 
         "0201", 
+        "0302", 
         "0602", 
         "1", 
         "11", 
@@ -2331,7 +2274,7 @@
       "lon": 2.907779240914, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2583,8 +2526,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 51.217962522079, 
-      "lon": 2.90720544037, 
+      "lat": 51.217966562855, 
+      "lon": 2.907212328189, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2606,8 +2549,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.217069267203, 
-      "lon": 2.907351381767, 
+      "lat": 51.217069311406, 
+      "lon": 2.907354959102, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2630,8 +2573,8 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.217698353567, 
-      "lon": 2.907144145981, 
+      "lat": 51.217696078928, 
+      "lon": 2.907149227526, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2717,6 +2660,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "2"
       ], 
@@ -2728,7 +2672,7 @@
       "lon": 2.9070851335, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2739,10 +2683,12 @@
         "0104", 
         "0105", 
         "0106", 
+        "0201", 
         "0202", 
         "0203", 
         "0204", 
         "0206", 
+        "0301", 
         "0302", 
         "0303", 
         "0304", 
@@ -2803,6 +2749,7 @@
         "1", 
         "2", 
         "3", 
+        "301", 
         "4", 
         "5"
       ], 
@@ -2873,11 +2820,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.226299456681, 
-      "lon": 2.909159560228, 
+      "lat": 51.226231188288, 
+      "lon": 2.909368157701, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2899,6 +2846,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
         "1", 
         "2", 
         "3"
@@ -2907,8 +2857,8 @@
         "272"
       ], 
       "housenumber": "272", 
-      "lat": 51.216385951177, 
-      "lon": 2.90716422378, 
+      "lat": 51.216383672681, 
+      "lon": 2.907161718529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2919,11 +2869,11 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.217217724745, 
-      "lon": 2.906822804686, 
+      "lat": 51.217285196729, 
+      "lon": 2.907008359054, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2931,8 +2881,8 @@
         "274"
       ], 
       "housenumber": "274", 
-      "lat": 51.216338249037, 
-      "lon": 2.907152548887, 
+      "lat": 51.216338562526, 
+      "lon": 2.907148817255, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2943,20 +2893,28 @@
         "274A"
       ], 
       "housenumber": "274A", 
-      "lat": 51.216291761138, 
-      "lon": 2.907144557779, 
+      "lat": 51.216293629206, 
+      "lon": 2.907150225104, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0102", 
+        "0103", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.217235719138, 
-      "lon": 2.907013058749, 
+      "lat": 51.217235813982, 
+      "lon": 2.907006184612, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3035,10 +2993,12 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0103", 
         "0201", 
         "0203", 
         "0302", 
+        "0403", 
         "0502", 
         "0503", 
         "0601", 
@@ -3109,8 +3069,8 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.217070480767, 
-      "lon": 2.906976723415, 
+      "lat": 51.217073700379, 
+      "lon": 2.906982634773, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3151,8 +3111,8 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.215698570769, 
-      "lon": 2.907004682378, 
+      "lat": 51.215698564024, 
+      "lon": 2.907011410384, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3172,22 +3132,17 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "0202", 
         "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
         "0501", 
         "0502", 
         "0601", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "5C", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0602"
       ], 
       "hnrlbls": [
         "286"
@@ -3205,8 +3160,8 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.216746621919, 
-      "lon": 2.90689396893, 
+      "lat": 51.216748942533, 
+      "lon": 2.906892607877, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3249,8 +3204,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.226159245957, 
-      "lon": 2.909373701916, 
+      "lat": 51.22615629979, 
+      "lon": 2.909375369047, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3306,7 +3261,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "294"
@@ -3320,15 +3278,25 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.2165131406, 
-      "lon": 2.906733374152, 
+      "lat": 51.216506359411, 
+      "lon": 2.906832071854, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -3370,8 +3338,14 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0202", 
+        "0203", 
         "0401", 
+        "0402", 
+        "0501", 
+        "0601", 
+        "0602", 
         "1", 
         "10", 
         "11", 
@@ -3381,8 +3355,7 @@
         "2C", 
         "3", 
         "4B", 
-        "8", 
-        "A000"
+        "8"
       ], 
       "hnrlbls": [
         "2A"
@@ -3465,6 +3438,7 @@
         "0401", 
         "0402", 
         "0501", 
+        "503", 
         "5D"
       ], 
       "hnrlbls": [
@@ -3564,6 +3538,7 @@
         "19", 
         "2", 
         "3", 
+        "303", 
         "4", 
         "5", 
         "5A", 
@@ -3588,6 +3563,7 @@
       "busnrs": [
         "003A", 
         "0101", 
+        "0102", 
         "1", 
         "10", 
         "11", 
@@ -3597,6 +3573,7 @@
         "3", 
         "3A", 
         "4", 
+        "502", 
         "6", 
         "7", 
         "8", 
@@ -3610,7 +3587,7 @@
       "lon": 2.906919467898, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -3618,8 +3595,8 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 51.215861431721, 
-      "lon": 2.906688668075, 
+      "lat": 51.215865419463, 
+      "lon": 2.906691262849, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3641,45 +3618,39 @@
       "busnrs": [
         "001A", 
         "001C", 
+        "001D", 
+        "002A", 
         "002B", 
+        "002C", 
+        "002D", 
         "003B", 
+        "003D", 
         "004B", 
         "004D", 
         "005A", 
+        "005B", 
+        "0102", 
         "0201", 
         "0204", 
         "0301", 
         "0303", 
-        "0404", 
-        "1A", 
-        "1B", 
-        "1C", 
-        "1D", 
-        "2A", 
-        "2B", 
-        "2D", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "4A", 
-        "4B", 
-        "4C", 
-        "4D", 
-        "5A"
+        "0401", 
+        "0403"
       ], 
       "hnrlbls": [
         "315"
       ], 
       "housenumber": "315", 
-      "lat": 51.215757048804, 
-      "lon": 2.906651715911, 
+      "lat": 51.21576636896, 
+      "lon": 2.906409365953, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -3699,8 +3670,7 @@
         "0602", 
         "0603", 
         "0701", 
-        "0702", 
-        "1"
+        "0702"
       ], 
       "hnrlbls": [
         "316"
@@ -3758,7 +3728,9 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "0301", 
+        "0401", 
         "0601", 
         "2", 
         "3", 
@@ -3774,7 +3746,7 @@
       "lon": 2.906877441369, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -3827,10 +3799,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "1A"
+        "0201"
       ], 
       "hnrlbls": [
         "324"
@@ -3929,8 +3900,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.226024785559, 
-      "lon": 2.909339824435, 
+      "lat": 51.226020970561, 
+      "lon": 2.909336650761, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3965,8 +3936,8 @@
         "334"
       ], 
       "housenumber": "334", 
-      "lat": 51.21446376765, 
-      "lon": 2.906669632879, 
+      "lat": 51.214462614954, 
+      "lon": 2.906663657092, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3977,8 +3948,8 @@
         "335"
       ], 
       "housenumber": "335", 
-      "lat": 51.215106182033, 
-      "lon": 2.906464271962, 
+      "lat": 51.215107355245, 
+      "lon": 2.906457364334, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3986,9 +3957,14 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "6", 
-        "8"
+        "0402"
       ], 
       "hnrlbls": [
         "336"
@@ -4118,7 +4094,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0302", 
@@ -4127,19 +4106,7 @@
         "0501", 
         "0502", 
         "0601", 
-        "0602", 
-        "1", 
-        "10", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0602"
       ], 
       "hnrlbls": [
         "343"
@@ -4205,8 +4172,8 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 51.214746592795, 
-      "lon": 2.906385650532, 
+      "lat": 51.214746827009, 
+      "lon": 2.906382780356, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4217,8 +4184,8 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.213707008236, 
-      "lon": 2.90649767979, 
+      "lat": 51.213705434864, 
+      "lon": 2.906501307567, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4277,6 +4244,7 @@
         "11", 
         "2", 
         "3", 
+        "302", 
         "4", 
         "5", 
         "6", 
@@ -4313,8 +4281,8 @@
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 51.214565236374, 
-      "lon": 2.90631819043, 
+      "lat": 51.214566208983, 
+      "lon": 2.90631687167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4351,8 +4319,8 @@
         "355"
       ], 
       "housenumber": "355", 
-      "lat": 51.214504523935, 
-      "lon": 2.906294042028, 
+      "lat": 51.214502948428, 
+      "lon": 2.906290226614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4424,6 +4392,7 @@
         "0501", 
         "0502", 
         "0504", 
+        "0505", 
         "0506", 
         "0507", 
         "0508", 
@@ -4497,6 +4466,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "2", 
         "3", 
         "4"
@@ -4509,7 +4479,7 @@
       "lon": 2.906549443051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -4565,11 +4535,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "369"
@@ -4616,14 +4584,17 @@
         "372"
       ], 
       "housenumber": "372", 
-      "lat": 51.213062379775, 
-      "lon": 2.906334956401, 
+      "lat": 51.213037394568, 
+      "lon": 2.906466423169, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "373"
       ], 
@@ -4827,11 +4798,11 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 51.213385839592, 
-      "lon": 2.905978280882, 
+      "lat": 51.213384354333, 
+      "lon": 2.905981762753, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -4851,8 +4822,8 @@
         "387"
       ], 
       "housenumber": "387", 
-      "lat": 51.213371827753, 
-      "lon": 2.905695880587, 
+      "lat": 51.213287367071, 
+      "lon": 2.905728731316, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4875,20 +4846,23 @@
         "389"
       ], 
       "housenumber": "389", 
-      "lat": 51.213145789255, 
-      "lon": 2.90591180593, 
+      "lat": 51.213149815955, 
+      "lon": 2.905917548275, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "2"
+        "0302"
       ], 
       "hnrlbls": [
         "390"
@@ -4906,8 +4880,8 @@
         "391"
       ], 
       "housenumber": "391", 
-      "lat": 51.213124036741, 
-      "lon": 2.905635947885, 
+      "lat": 51.213128302548, 
+      "lon": 2.905631949408, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4915,6 +4889,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
@@ -4926,9 +4902,7 @@
         "0303", 
         "0401", 
         "0402", 
-        "0403", 
-        "2", 
-        "3"
+        "0403"
       ], 
       "hnrlbls": [
         "392"
@@ -4943,27 +4917,21 @@
     }, 
     {
       "busnrs": [
-        "0104", 
-        "0105", 
-        "0106", 
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
         "0201", 
-        "0204", 
-        "0205", 
-        "0206", 
+        "0202", 
+        "0203", 
         "0301", 
-        "0304", 
-        "0305", 
-        "0306", 
+        "0302", 
+        "0303", 
         "0401", 
-        "0404", 
-        "0405", 
-        "0406", 
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "OOO5"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "394"
@@ -5015,8 +4983,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.226192362414, 
-      "lon": 2.909740772933, 
+      "lat": 51.226196836474, 
+      "lon": 2.909746360039, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5027,8 +4995,8 @@
         "405"
       ], 
       "housenumber": "405", 
-      "lat": 51.212770482527, 
-      "lon": 2.905631004862, 
+      "lat": 51.212768658639, 
+      "lon": 2.905628915029, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5039,8 +5007,8 @@
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 51.211973252229, 
-      "lon": 2.906017561655, 
+      "lat": 51.211973269537, 
+      "lon": 2.906011692652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5063,11 +5031,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.225831898374, 
-      "lon": 2.909124510692, 
+      "lat": 51.225854924766, 
+      "lon": 2.909169176742, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -5139,8 +5107,8 @@
         "414"
       ], 
       "housenumber": "414", 
-      "lat": 51.211751759369, 
-      "lon": 2.905968684476, 
+      "lat": 51.211748071685, 
+      "lon": 2.905975813591, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -5193,8 +5161,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.226112856526, 
-      "lon": 2.909716199774, 
+      "lat": 51.226098560875, 
+      "lon": 2.909723376284, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5229,8 +5197,8 @@
         "423"
       ], 
       "housenumber": "423", 
-      "lat": 51.211974443981, 
-      "lon": 2.905612457389, 
+      "lat": 51.211977300245, 
+      "lon": 2.905610793346, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -5244,11 +5212,11 @@
         "424"
       ], 
       "housenumber": "424", 
-      "lat": 51.211345493883, 
-      "lon": 2.905968683798, 
+      "lat": 51.211332860397, 
+      "lon": 2.905884918757, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -5344,8 +5312,8 @@
         "431"
       ], 
       "housenumber": "431", 
-      "lat": 51.211780779037, 
-      "lon": 2.905582032264, 
+      "lat": 51.211779239327, 
+      "lon": 2.905588378387, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5368,8 +5336,8 @@
         "433"
       ], 
       "housenumber": "433", 
-      "lat": 51.211722468836, 
-      "lon": 2.905570406567, 
+      "lat": 51.211725142243, 
+      "lon": 2.905575761754, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5419,8 +5387,8 @@
         "437"
       ], 
       "housenumber": "437", 
-      "lat": 51.2114943854, 
-      "lon": 2.905519305233, 
+      "lat": 51.211490780527, 
+      "lon": 2.905525859221, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5474,7 +5442,8 @@
         "0605", 
         "0606", 
         "0701", 
-        "0703"
+        "0703", 
+        "603"
       ], 
       "hnrlbls": [
         "44"
@@ -5541,8 +5510,8 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 51.210829992106, 
-      "lon": 2.90570660253, 
+      "lat": 51.210827713574, 
+      "lon": 2.905704097649, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5637,7 +5606,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "301"
       ], 
       "hnrlbls": [
         "450"
@@ -5652,6 +5622,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -5665,34 +5638,17 @@
         "0303", 
         "0304", 
         "0401", 
-        "0402", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "16", 
-        "17", 
-        "1B", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0402"
       ], 
       "hnrlbls": [
         "453"
       ], 
       "housenumber": "453", 
-      "lat": 51.210668920627, 
-      "lon": 2.905222438017, 
+      "lat": 51.21066846642, 
+      "lon": 2.905229322467, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -5700,8 +5656,8 @@
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 51.210541893966, 
-      "lon": 2.905665971299, 
+      "lat": 51.210539608764, 
+      "lon": 2.905670193697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5731,8 +5687,8 @@
         "458A"
       ], 
       "housenumber": "458A", 
-      "lat": 51.210470018456, 
-      "lon": 2.905611546386, 
+      "lat": 51.21046700724, 
+      "lon": 2.905615219034, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5743,8 +5699,8 @@
         "458B"
       ], 
       "housenumber": "458B", 
-      "lat": 51.210413228883, 
-      "lon": 2.905599300775, 
+      "lat": 51.210412910131, 
+      "lon": 2.905602602725, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5770,8 +5726,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.225931376535, 
-      "lon": 2.909674915408, 
+      "lat": 51.22593516488, 
+      "lon": 2.909668640328, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5913,8 +5869,8 @@
         "476"
       ], 
       "housenumber": "476", 
-      "lat": 51.209883949193, 
-      "lon": 2.905473488276, 
+      "lat": 51.209880925588, 
+      "lon": 2.905476159389, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5931,8 +5887,8 @@
         "477"
       ], 
       "housenumber": "477", 
-      "lat": 51.210016666943, 
-      "lon": 2.905119379786, 
+      "lat": 51.210020285961, 
+      "lon": 2.905113970546, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5943,6 +5899,7 @@
         "0201", 
         "0401", 
         "1", 
+        "101", 
         "2", 
         "3", 
         "4"
@@ -5978,8 +5935,8 @@
         "482"
       ], 
       "housenumber": "482", 
-      "lat": 51.209717411716, 
-      "lon": 2.905506621079, 
+      "lat": 51.209677948629, 
+      "lon": 2.90564497359, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -5993,8 +5950,8 @@
         "485"
       ], 
       "housenumber": "485", 
-      "lat": 51.209769248075, 
-      "lon": 2.905075043546, 
+      "lat": 51.20976812762, 
+      "lon": 2.90507894311, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6021,6 +5978,7 @@
         "1R", 
         "2", 
         "2A", 
+        "2B00", 
         "2L", 
         "2R"
       ], 
@@ -6032,7 +5990,7 @@
       "lon": 2.904957228138, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6085,9 +6043,7 @@
     }, 
     {
       "busnrs": [
-        "000B", 
-        "A", 
-        "B"
+        "000B"
       ], 
       "hnrlbls": [
         "495"
@@ -6120,8 +6076,8 @@
         "497"
       ], 
       "housenumber": "497", 
-      "lat": 51.209292247112, 
-      "lon": 2.904916683504, 
+      "lat": 51.209289708274, 
+      "lon": 2.904922201909, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6175,8 +6131,8 @@
         "501"
       ], 
       "housenumber": "501", 
-      "lat": 51.209192440957, 
-      "lon": 2.904654032386, 
+      "lat": 51.209190972974, 
+      "lon": 2.904651645332, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6248,8 +6204,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.225488051953, 
-      "lon": 2.908820574007, 
+      "lat": 51.225415004819, 
+      "lon": 2.908947851739, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6320,8 +6276,8 @@
         "519"
       ], 
       "housenumber": "519", 
-      "lat": 51.208683703706, 
-      "lon": 2.904626344143, 
+      "lat": 51.208717461166, 
+      "lon": 2.904506492521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6359,11 +6315,11 @@
         "524"
       ], 
       "housenumber": "524", 
-      "lat": 51.208262143433, 
-      "lon": 2.905170125542, 
+      "lat": 51.20827351711, 
+      "lon": 2.905101213397, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6371,8 +6327,8 @@
         "525"
       ], 
       "housenumber": "525", 
-      "lat": 51.208105245243, 
-      "lon": 2.903876220949, 
+      "lat": 51.20810533511, 
+      "lon": 2.903876218127, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6398,8 +6354,8 @@
         "529"
       ], 
       "housenumber": "529", 
-      "lat": 51.207841906192, 
-      "lon": 2.903628159886, 
+      "lat": 51.207841996059, 
+      "lon": 2.903628157065, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6407,23 +6363,26 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.225318332277, 
-      "lon": 2.909040218135, 
+      "lat": 51.225256949676, 
+      "lon": 2.90915839641, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6431,11 +6390,11 @@
         "533"
       ], 
       "housenumber": "533", 
-      "lat": 51.207401722092, 
-      "lon": 2.904206730721, 
+      "lat": 51.207401924861, 
+      "lon": 2.904208584906, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6511,7 +6470,7 @@
       "lon": 2.903363994924, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6526,7 +6485,7 @@
       "lon": 2.903969172718, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6558,8 +6517,8 @@
         "548"
       ], 
       "housenumber": "548", 
-      "lat": 51.207440575907, 
-      "lon": 2.905151959137, 
+      "lat": 51.207442672434, 
+      "lon": 2.905030814443, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6590,15 +6549,19 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "551"
       ], 
       "housenumber": "551", 
-      "lat": 51.20570508173, 
-      "lon": 2.90379930058, 
+      "lat": 51.205697649082, 
+      "lon": 2.903895992772, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6662,6 +6625,10 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0502"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -6738,11 +6705,11 @@
         "569"
       ], 
       "housenumber": "569", 
-      "lat": 51.20527760458, 
-      "lon": 2.903770789744, 
+      "lat": 51.205277787859, 
+      "lon": 2.903771070215, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6888,8 +6855,8 @@
         "586"
       ], 
       "housenumber": "586", 
-      "lat": 51.205473683834, 
-      "lon": 2.904583957051, 
+      "lat": 51.205405535432, 
+      "lon": 2.904678117218, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6919,7 +6886,7 @@
       "lon": 2.904565181924, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -6939,8 +6906,8 @@
         "599"
       ], 
       "housenumber": "599", 
-      "lat": 51.20324855606, 
-      "lon": 2.902881689664, 
+      "lat": 51.203249963782, 
+      "lon": 2.902879212631, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6949,6 +6916,8 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
+        "0004", 
         "0101", 
         "0201", 
         "0301", 
@@ -6969,6 +6938,7 @@
       "busnrs": [
         "003L", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0302", 
@@ -7007,8 +6977,8 @@
         "600"
       ], 
       "housenumber": "600", 
-      "lat": 51.20474821189, 
-      "lon": 2.904652231006, 
+      "lat": 51.204748206576, 
+      "lon": 2.904651801839, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -7036,8 +7006,8 @@
         "601A"
       ], 
       "housenumber": "601A", 
-      "lat": 51.202939449715, 
-      "lon": 2.9027928003, 
+      "lat": 51.202943174467, 
+      "lon": 2.902788676326, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7048,8 +7018,8 @@
         "602"
       ], 
       "housenumber": "602", 
-      "lat": 51.204512519711, 
-      "lon": 2.904698266213, 
+      "lat": 51.20452334623, 
+      "lon": 2.904592454179, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -7060,8 +7030,8 @@
         "603"
       ], 
       "housenumber": "603", 
-      "lat": 51.202525416368, 
-      "lon": 2.902891527033, 
+      "lat": 51.202521863669, 
+      "lon": 2.902887774821, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7072,8 +7042,8 @@
         "604"
       ], 
       "housenumber": "604", 
-      "lat": 51.204298230406, 
-      "lon": 2.904534259984, 
+      "lat": 51.204298138767, 
+      "lon": 2.90453411975, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -7096,8 +7066,8 @@
         "607"
       ], 
       "housenumber": "607", 
-      "lat": 51.201911044057, 
-      "lon": 2.902769727593, 
+      "lat": 51.201908994262, 
+      "lon": 2.902763924791, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7108,8 +7078,8 @@
         "608"
       ], 
       "housenumber": "608", 
-      "lat": 51.203845345155, 
-      "lon": 2.904501245573, 
+      "lat": 51.203845497027, 
+      "lon": 2.904506249598, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7130,6 +7100,7 @@
     {
       "busnrs": [
         "0202", 
+        "0602", 
         "1", 
         "10", 
         "3", 
@@ -7143,7 +7114,7 @@
       "lon": 2.908918482167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7151,8 +7122,8 @@
         "610"
       ], 
       "housenumber": "610", 
-      "lat": 51.203679401188, 
-      "lon": 2.904451642636, 
+      "lat": 51.203683027758, 
+      "lon": 2.90445410477, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7163,8 +7134,8 @@
         "612"
       ], 
       "housenumber": "612", 
-      "lat": 51.203510194421, 
-      "lon": 2.904385398894, 
+      "lat": 51.203511394583, 
+      "lon": 2.90438793716, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7211,8 +7182,8 @@
         "618"
       ], 
       "housenumber": "618", 
-      "lat": 51.202570012082, 
-      "lon": 2.90402351306, 
+      "lat": 51.202571815998, 
+      "lon": 2.904016730529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7235,8 +7206,8 @@
         "620"
       ], 
       "housenumber": "620", 
-      "lat": 51.202195540366, 
-      "lon": 2.904021100262, 
+      "lat": 51.202194197164, 
+      "lon": 2.904014273469, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7259,8 +7230,8 @@
         "622"
       ], 
       "housenumber": "622", 
-      "lat": 51.201990219112, 
-      "lon": 2.903833641098, 
+      "lat": 51.20199418567, 
+      "lon": 2.903834518293, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7283,8 +7254,8 @@
         "624"
       ], 
       "housenumber": "624", 
-      "lat": 51.201717204009, 
-      "lon": 2.903472293761, 
+      "lat": 51.201719975705, 
+      "lon": 2.903471061913, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7340,6 +7311,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1", 
         "13", 
         "4", 
@@ -7354,7 +7326,7 @@
       "lon": 2.908918482167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7374,11 +7346,11 @@
         "630A"
       ], 
       "housenumber": "630A", 
-      "lat": 51.200082931237, 
-      "lon": 2.904565353903, 
+      "lat": 51.200222986017, 
+      "lon": 2.904186903468, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7406,9 +7378,6 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "634A"
       ], 
@@ -7461,8 +7430,8 @@
         "638A"
       ], 
       "housenumber": "638A", 
-      "lat": 51.200256852846, 
-      "lon": 2.903074833056, 
+      "lat": 51.200258632455, 
+      "lon": 2.903073346188, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7473,8 +7442,8 @@
         "638B"
       ], 
       "housenumber": "638B", 
-      "lat": 51.20014480281, 
-      "lon": 2.903057746389, 
+      "lat": 51.200141627887, 
+      "lon": 2.903062711407, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7497,8 +7466,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.225400231154, 
-      "lon": 2.909542916879, 
+      "lat": 51.225403187917, 
+      "lon": 2.9095421085, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7521,8 +7490,8 @@
         "641"
       ], 
       "housenumber": "641", 
-      "lat": 51.19947367071, 
-      "lon": 2.901983862881, 
+      "lat": 51.19947193839, 
+      "lon": 2.901981914001, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7585,7 +7554,7 @@
       "lon": 2.90164563606, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7597,7 +7566,7 @@
       "lon": 2.90126940228, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7624,7 +7593,7 @@
       "lon": 2.90164563606, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7668,11 +7637,11 @@
         "658"
       ], 
       "housenumber": "658", 
-      "lat": 51.19928636802, 
-      "lon": 2.903003001291, 
+      "lat": 51.199286826223, 
+      "lon": 2.903003702371, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7696,8 +7665,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.225262859555, 
-      "lon": 2.909498965204, 
+      "lat": 51.225258872064, 
+      "lon": 2.909503671526, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7711,8 +7680,8 @@
         "660"
       ], 
       "housenumber": "660", 
-      "lat": 51.199069745774, 
-      "lon": 2.902941120225, 
+      "lat": 51.199070258375, 
+      "lon": 2.902938957719, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7759,11 +7728,11 @@
         "664"
       ], 
       "housenumber": "664", 
-      "lat": 51.198521373015, 
-      "lon": 2.902675308626, 
+      "lat": 51.198518521503, 
+      "lon": 2.902670103803, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7771,8 +7740,8 @@
         "666"
       ], 
       "housenumber": "666", 
-      "lat": 51.198283132659, 
-      "lon": 2.903436741028, 
+      "lat": 51.198285278835, 
+      "lon": 2.903435815092, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7783,8 +7752,8 @@
         "666A"
       ], 
       "housenumber": "666A", 
-      "lat": 51.198492041545, 
-      "lon": 2.90349285567, 
+      "lat": 51.198492682479, 
+      "lon": 2.903486539502, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7807,8 +7776,8 @@
         "668"
       ], 
       "housenumber": "668", 
-      "lat": 51.198190766507, 
-      "lon": 2.902672387335, 
+      "lat": 51.198070650231, 
+      "lon": 2.904935418297, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7819,11 +7788,11 @@
         "669"
       ], 
       "housenumber": "669", 
-      "lat": 51.19704385506, 
-      "lon": 2.901372981542, 
+      "lat": 51.197045992343, 
+      "lon": 2.901371340377, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7867,17 +7836,14 @@
         "672"
       ], 
       "housenumber": "672", 
-      "lat": 51.197863502913, 
-      "lon": 2.902417093378, 
+      "lat": 51.197859120711, 
+      "lon": 2.90241894815, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "672A"
       ], 
@@ -7898,7 +7864,7 @@
       "lon": 2.900774678354, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -7906,8 +7872,8 @@
         "674"
       ], 
       "housenumber": "674", 
-      "lat": 51.197638674449, 
-      "lon": 2.90254893153, 
+      "lat": 51.197636049391, 
+      "lon": 2.902554737576, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7918,8 +7884,8 @@
         "675"
       ], 
       "housenumber": "675", 
-      "lat": 51.196051674033, 
-      "lon": 2.900545956767, 
+      "lat": 51.196055784831, 
+      "lon": 2.900543967343, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7942,8 +7908,8 @@
         "677"
       ], 
       "housenumber": "677", 
-      "lat": 51.19581926058, 
-      "lon": 2.900631535236, 
+      "lat": 51.195819612944, 
+      "lon": 2.900630951816, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -7998,8 +7964,8 @@
         "682"
       ], 
       "housenumber": "682", 
-      "lat": 51.196858845977, 
-      "lon": 2.902924566951, 
+      "lat": 51.196858461679, 
+      "lon": 2.902922575805, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8010,8 +7976,8 @@
         "684"
       ], 
       "housenumber": "684", 
-      "lat": 51.196523129883, 
-      "lon": 2.902886605352, 
+      "lat": 51.196525420902, 
+      "lon": 2.902890110539, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8034,23 +8000,11 @@
         "688"
       ], 
       "housenumber": "688", 
-      "lat": 51.196411025664, 
-      "lon": 2.902176558852, 
+      "lat": 51.196411635321, 
+      "lon": 2.902196714759, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "688A"
-      ], 
-      "housenumber": "688A", 
-      "lat": 51.196385631822, 
-      "lon": 2.902093508753, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -8086,8 +8040,8 @@
         "691"
       ], 
       "housenumber": "691", 
-      "lat": 51.195306961238, 
-      "lon": 2.900194366254, 
+      "lat": 51.195305761731, 
+      "lon": 2.900199125713, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8110,8 +8064,8 @@
         "693"
       ], 
       "housenumber": "693", 
-      "lat": 51.19484663947, 
-      "lon": 2.899997234355, 
+      "lat": 51.194842107764, 
+      "lon": 2.900052176933, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8126,7 +8080,7 @@
       "lon": 2.902191173467, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -8188,8 +8142,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.225129139086, 
-      "lon": 2.909459481099, 
+      "lat": 51.225132529468, 
+      "lon": 2.909464672436, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8224,8 +8178,8 @@
         "704"
       ], 
       "housenumber": "704", 
-      "lat": 51.194524242665, 
-      "lon": 2.901922646913, 
+      "lat": 51.194520196708, 
+      "lon": 2.901900882868, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8248,8 +8202,8 @@
         "710"
       ], 
       "housenumber": "710", 
-      "lat": 51.193581020422, 
-      "lon": 2.901794906381, 
+      "lat": 51.193581022196, 
+      "lon": 2.901795049402, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8302,8 +8256,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.224989854123, 
-      "lon": 2.909428045842, 
+      "lat": 51.224988213575, 
+      "lon": 2.909426235925, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -8329,9 +8283,24 @@
         "0501"
       ], 
       "hnrlbls": [
-        "78"
+        "78-78A"
       ], 
       "housenumber": "78", 
+      "lat": 51.224564428986, 
+      "lon": 2.90932495826, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Torhoutsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0401"
+      ], 
+      "hnrlbls": [
+        "78-78A"
+      ], 
+      "housenumber": "78A", 
       "lat": 51.224564428986, 
       "lon": 2.90932495826, 
       "municipality": "Oostende", 
@@ -8344,8 +8313,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.223769101879, 
-      "lon": 2.908758984792, 
+      "lat": 51.223766363713, 
+      "lon": 2.908762936074, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8356,8 +8325,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.227468445465, 
-      "lon": 2.910362775842, 
+      "lat": 51.227472070114, 
+      "lon": 2.910365096567, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8390,8 +8359,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.223709734843, 
-      "lon": 2.908741801638, 
+      "lat": 51.223712090579, 
+      "lon": 2.908736001133, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8454,8 +8423,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.223659211807, 
-      "lon": 2.90872734823, 
+      "lat": 51.223657994083, 
+      "lon": 2.908723377618, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8552,8 +8521,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.22349599846, 
-      "lon": 2.908672899229, 
+      "lat": 51.22349552793, 
+      "lon": 2.908671195937, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8562,7 +8531,9 @@
     {
       "busnrs": [
         "0301", 
+        "0601", 
         "1", 
+        "101", 
         "2", 
         "3", 
         "4", 
@@ -8576,18 +8547,6 @@
       "lon": 2.909345271472, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "88A"
-      ], 
-      "housenumber": "88A", 
-      "lat": 51.224203189112, 
-      "lon": 2.909206978657, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
@@ -8596,8 +8555,8 @@
         "88B"
       ], 
       "housenumber": "88B", 
-      "lat": 51.223816461158, 
-      "lon": 2.909114423678, 
+      "lat": 51.223815712403, 
+      "lon": 2.90911931487, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8608,8 +8567,8 @@
         "88C"
       ], 
       "housenumber": "88C", 
-      "lat": 51.22373983099, 
-      "lon": 2.909097064464, 
+      "lat": 51.223743466066, 
+      "lon": 2.909092941966, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8620,8 +8579,8 @@
         "88D"
       ], 
       "housenumber": "88D", 
-      "lat": 51.223669912343, 
-      "lon": 2.909069902945, 
+      "lat": 51.22367121972, 
+      "lon": 2.909066569144, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8632,8 +8591,8 @@
         "88E"
       ], 
       "housenumber": "88E", 
-      "lat": 51.22362241675, 
-      "lon": 2.909060365357, 
+      "lat": 51.223626109902, 
+      "lon": 2.90905366401, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8668,11 +8627,11 @@
         "88H"
       ], 
       "housenumber": "88H", 
-      "lat": 51.223409476648, 
-      "lon": 2.909041402389, 
+      "lat": 51.223429073638, 
+      "lon": 2.909070424899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -8688,12 +8647,16 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.223455605753, 
-      "lon": 2.908605156559, 
+      "lat": 51.223441482878, 
+      "lon": 2.908670024408, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8724,8 +8687,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.223283545224, 
-      "lon": 2.908970180473, 
+      "lat": 51.223283381179, 
+      "lon": 2.908964172561, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8736,8 +8699,8 @@
         "90A"
       ], 
       "housenumber": "90A", 
-      "lat": 51.223226747661, 
-      "lon": 2.908964513387, 
+      "lat": 51.223229461316, 
+      "lon": 2.908965860131, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8748,8 +8711,8 @@
         "90B"
       ], 
       "housenumber": "90B", 
-      "lat": 51.223165215016, 
-      "lon": 2.908946682114, 
+      "lat": 51.22316637819, 
+      "lon": 2.908953517745, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8760,8 +8723,8 @@
         "90C"
       ], 
       "housenumber": "90C", 
-      "lat": 51.223108894831, 
-      "lon": 2.908935989275, 
+      "lat": 51.223112281706, 
+      "lon": 2.908940894126, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8808,8 +8771,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.223358164966, 
-      "lon": 2.908635265752, 
+      "lat": 51.223360198329, 
+      "lon": 2.908632481905, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8818,6 +8781,7 @@
     {
       "busnrs": [
         "-101", 
+        "0001", 
         "0101", 
         "0201"
       ], 
@@ -8837,8 +8801,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.223128286794, 
-      "lon": 2.908591494464, 
+      "lat": 51.223126015632, 
+      "lon": 2.908596862755, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8849,8 +8813,8 @@
         "93A"
       ], 
       "housenumber": "93A", 
-      "lat": 51.223052736461, 
-      "lon": 2.908566944203, 
+      "lat": 51.223053769158, 
+      "lon": 2.908570491051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8873,17 +8837,14 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.222987970327, 
-      "lon": 2.908549357915, 
+      "lat": 51.22299050932, 
+      "lon": 2.908543838087, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "95A"
       ], 
@@ -8948,6 +8909,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1", 
         "2", 
         "3", 
@@ -8962,7 +8924,7 @@
       "lon": 2.908425442614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }
   ]

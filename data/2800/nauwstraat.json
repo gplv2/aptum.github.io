@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.026340706411, 
-      "lon": 4.477529031061, 
+      "lat": 51.02622983807, 
+      "lon": 4.477468478353, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nauwstraat"
     }, 
     {
@@ -17,11 +22,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.026230650447, 
-      "lon": 4.47707721375, 
+      "lat": 51.026281766235, 
+      "lon": 4.477111541884, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nauwstraat"
     }, 
     {
@@ -130,15 +135,20 @@
       "street": "Nauwstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.026217421119, 
-      "lon": 4.477190928153, 
+      "lat": 51.026251474406, 
+      "lon": 4.477207256841, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nauwstraat"
     }
   ]

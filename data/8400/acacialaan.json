@@ -60,9 +60,9 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "13"
@@ -72,7 +72,7 @@
       "lon": 2.883318858379, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Acacialaan"
     }, 
     {
@@ -170,17 +170,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
         "0303", 
         "0401", 
         "0402", 
-        "0501", 
-        "5"
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "2"
@@ -396,8 +399,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.21484826144, 
-      "lon": 2.881563136663, 
+      "lat": 51.214845716401, 
+      "lon": 2.881560927511, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -468,8 +471,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.215198930691, 
-      "lon": 2.882096333919, 
+      "lat": 51.215200231985, 
+      "lon": 2.882099727904, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -477,19 +480,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0102", 
-        "1"
+        "0102"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.215322288602, 
-      "lon": 2.881968582783, 
+      "lat": 51.215281003072, 
+      "lon": 2.881873991968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Acacialaan"
     }, 
     {
@@ -518,18 +521,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0302"
       ], 
       "hnrlbls": [
         "7"
@@ -556,12 +555,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "1", 
-        "1B", 
-        "3"
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "9"

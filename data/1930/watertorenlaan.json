@@ -42,21 +42,6 @@
       "street": "Watertorenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.885918694372, 
-      "lon": 4.471675864239, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Watertorenlaan"
-    }, 
-    {
       "hnrlbls": [
         "13"
       ], 
@@ -69,15 +54,19 @@
       "street": "Watertorenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.885887072297, 
-      "lon": 4.47175424028, 
+      "lat": 50.885955049759, 
+      "lon": 4.47173449465, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Watertorenlaan"
     }, 
     {
@@ -278,6 +267,12 @@
       "street": "Watertorenlaan"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -342,8 +337,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.886048908714, 
-      "lon": 4.47323967263, 
+      "lat": 50.886060953113, 
+      "lon": 4.473241262839, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -813,10 +808,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "68"
@@ -1019,9 +1013,6 @@
       "street": "Watertorenlaan"
     }, 
     {
-      "apptnrs": [
-        "2.0"
-      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1201,7 +1192,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "98"

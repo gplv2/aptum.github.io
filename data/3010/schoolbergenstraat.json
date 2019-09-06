@@ -233,8 +233,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.898345117357, 
-      "lon": 4.733247185728, 
+      "lat": 50.898359091985, 
+      "lon": 4.733262931053, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -497,8 +497,8 @@
         "189A"
       ], 
       "housenumber": "189A", 
-      "lat": 50.895442618718, 
-      "lon": 4.746550332114, 
+      "lat": 50.895440383314, 
+      "lon": 4.746546618389, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -797,8 +797,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.898135547635, 
-      "lon": 4.733572928699, 
+      "lat": 50.89812793419, 
+      "lon": 4.733564056099, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -902,10 +902,12 @@
     }, 
     {
       "busnrs": [
-        "01K1"
+        "01K1", 
+        "01K2", 
+        "01K3"
       ], 
       "hnrlbls": [
-        "37"
+        "37-37K"
       ], 
       "housenumber": "37", 
       "lat": 50.897851774154, 
@@ -913,6 +915,21 @@
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
+      "street": "Schoolbergenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "37-37K"
+      ], 
+      "housenumber": "37K", 
+      "lat": 50.897851774154, 
+      "lon": 4.736498720517, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schoolbergenstraat"
     }, 
     {
@@ -1364,8 +1381,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.896713736345, 
-      "lon": 4.739313812587, 
+      "lat": 50.896719298906, 
+      "lon": 4.739317268078, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 

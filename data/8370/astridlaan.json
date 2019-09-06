@@ -321,6 +321,9 @@
         "0201", 
         "0301"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -444,6 +447,24 @@
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.316418174548, 
+      "lon": 3.139688656339, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -638,8 +659,7 @@
         "0301", 
         "0302", 
         "0303", 
-        "0401", 
-        "0402"
+        "0401"
       ], 
       "hnrlbls": [
         "49"
@@ -658,9 +678,6 @@
         "0101", 
         "0201", 
         "0301"
-      ], 
-      "busnrs": [
-        "102"
       ], 
       "hnrlbls": [
         "5"

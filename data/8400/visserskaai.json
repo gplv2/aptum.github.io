@@ -53,12 +53,11 @@
     }, 
     {
       "busnrs": [
+        "0003", 
         "0101", 
         "0201", 
-        "0301", 
         "0401", 
-        "0501", 
-        "3"
+        "0501"
       ], 
       "hnrlbls": [
         "12"
@@ -142,11 +141,6 @@
       "street": "Visserskaai"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -168,22 +162,17 @@
         "0302", 
         "0401", 
         "0402", 
-        "0501", 
-        "101", 
-        "102", 
-        "201", 
-        "302", 
-        "401"
+        "0501"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.23145007785, 
-      "lon": 2.922704602464, 
+      "lat": 51.231427368052, 
+      "lon": 2.922604499301, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
@@ -197,11 +186,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.231513137707, 
-      "lon": 2.922560743266, 
+      "lat": 51.231524313612, 
+      "lon": 2.922592471819, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
@@ -220,7 +209,7 @@
       "lon": 2.923312245614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
@@ -236,8 +225,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.231599930765, 
-      "lon": 2.922622774814, 
+      "lat": 51.231596149375, 
+      "lon": 2.922622319305, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -272,8 +261,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.231725729183, 
-      "lon": 2.922441170995, 
+      "lat": 51.231727504265, 
+      "lon": 2.922454003331, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -284,8 +273,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.231822889556, 
-      "lon": 2.922512904627, 
+      "lat": 51.231819590744, 
+      "lon": 2.922515154835, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -296,8 +285,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.231885680722, 
-      "lon": 2.922479454679, 
+      "lat": 51.231882147307, 
+      "lon": 2.922484576042, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -340,6 +329,7 @@
       "busnrs": [
         "0101", 
         "0401", 
+        "201", 
         "3"
       ], 
       "hnrlbls": [
@@ -385,7 +375,7 @@
       "lon": 2.923312245614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
@@ -421,8 +411,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.233077666829, 
-      "lon": 2.921765878368, 
+      "lat": 51.233077956267, 
+      "lon": 2.921760141492, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -500,24 +490,23 @@
       "lon": 2.921547037403, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
       "busnrs": [
+        "001A", 
         "001B", 
         "002A", 
+        "002B", 
+        "003A", 
+        "003B", 
         "004A", 
-        "006B", 
-        "1A", 
-        "1B", 
-        "2", 
-        "2A", 
-        "4A", 
-        "5", 
-        "5A", 
-        "6B", 
-        "A"
+        "004B", 
+        "005A", 
+        "005B", 
+        "006A", 
+        "006B"
       ], 
       "hnrlbls": [
         "38"
@@ -552,8 +541,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.230445872336, 
-      "lon": 2.923247642252, 
+      "lat": 51.230444043526, 
+      "lon": 2.923245121532, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -609,8 +598,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.233869756155, 
-      "lon": 2.921425830416, 
+      "lat": 51.233873915084, 
+      "lon": 2.921420402939, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -702,8 +691,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.234416659393, 
-      "lon": 2.921135054376, 
+      "lat": 51.234418772399, 
+      "lon": 2.921131408742, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -714,8 +703,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.234477518041, 
-      "lon": 2.921112687223, 
+      "lat": 51.234481503686, 
+      "lon": 2.92111514112, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -758,11 +747,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.233527458026, 
-      "lon": 2.922149727447, 
+      "lat": 51.233506449615, 
+      "lon": 2.922181453278, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }, 
     {
@@ -770,8 +759,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.230750215538, 
-      "lon": 2.923058791427, 
+      "lat": 51.230747490895, 
+      "lon": 2.923063887548, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -782,11 +771,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.230896726182, 
-      "lon": 2.922916786514, 
+      "lat": 51.230902930038, 
+      "lon": 2.922960983274, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserskaai"
     }
   ]

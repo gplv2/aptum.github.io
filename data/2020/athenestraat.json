@@ -1,23 +1,16 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1-3"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.181539056335, 
-      "lon": 4.384619264556, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.181159197874, 
@@ -28,40 +21,6 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "9-11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.181391516519, 
-      "lon": 4.384889218155, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.181159197874, 
-      "lon": 4.384643870654, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -74,9 +33,10 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "15"
@@ -99,7 +59,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "14-16"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.181083045075, 
@@ -110,6 +70,11 @@
       "street": "Athenestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -122,11 +87,16 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "18-20"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.180990535784, 
@@ -154,23 +124,6 @@
       "street": "Athenestraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.180990535784, 
-      "lon": 4.384907950923, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
@@ -183,20 +136,23 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.180872235597, 
-      "lon": 4.384986277714, 
+      "lat": 51.180907372951, 
+      "lon": 4.385040491303, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Athenestraat"
     }, 
     {
@@ -212,26 +168,10 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.180872235597, 
-      "lon": 4.384986277714, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "25"
@@ -271,7 +211,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.181539056335, 
@@ -282,8 +222,15 @@
       "street": "Athenestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.181464434151, 
@@ -303,7 +250,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "6-8"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 51.181242271783, 
@@ -314,28 +261,16 @@
       "street": "Athenestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "5-7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.181464434151, 
-      "lon": 4.384743229352, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "9-11"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.181391516519, 

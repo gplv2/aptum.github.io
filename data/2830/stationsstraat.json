@@ -184,12 +184,15 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.066013279164, 
-      "lon": 4.357414829026, 
+      "lat": 51.066012829771, 
+      "lon": 4.357415399764, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -200,8 +203,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.06603673292, 
-      "lon": 4.357334649326, 
+      "lat": 51.066037002716, 
+      "lon": 4.357336075854, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -221,7 +224,7 @@
     }, 
     {
       "hnrlbls": [
-        "134-134Bis"
+        "134"
       ], 
       "housenumber": "134", 
       "lat": 51.066070160668, 
@@ -229,18 +232,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "134-134Bis"
-      ], 
-      "housenumber": "134Bis", 
-      "lat": 51.066070160668, 
-      "lon": 4.357214950668, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -316,7 +307,7 @@
         "203"
       ], 
       "hnrlbls": [
-        "17-19"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.063487757263, 
@@ -327,39 +318,12 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "203"
-      ], 
-      "hnrlbls": [
-        "17-19"
-      ], 
-      "housenumber": "17B", 
-      "lat": 51.063487757263, 
-      "lon": 4.359640335005, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 51.063233348751, 
       "lon": 4.360644069432, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.063487757263, 
-      "lon": 4.359640335005, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -547,7 +511,7 @@
     }, 
     {
       "hnrlbls": [
-        "4"
+        "4-4A"
       ], 
       "housenumber": "4", 
       "lat": 51.06301458164, 
@@ -555,18 +519,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.063675818022, 
-      "lon": 4.359821896914, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -610,8 +562,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.063856040303, 
-      "lon": 4.359746687386, 
+      "lat": 51.063856669577, 
+      "lon": 4.359747400536, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -626,8 +578,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.06391510528, 
-      "lon": 4.359858944439, 
+      "lat": 51.063914475788, 
+      "lon": 4.35985509293, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -686,11 +638,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.063030127804, 
-      "lon": 4.360940100065, 
+      "lat": 51.062959651067, 
+      "lon": 4.3608791994, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -903,6 +855,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "6"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -911,7 +866,7 @@
       "lon": 4.359002245346, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

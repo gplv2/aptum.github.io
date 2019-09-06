@@ -244,8 +244,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.32162449189, 
-      "lon": 4.936210837738, 
+      "lat": 51.321617821696, 
+      "lon": 4.936214772793, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -737,8 +737,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.321463699305, 
-      "lon": 4.933973980143, 
+      "lat": 51.321466195463, 
+      "lon": 4.933997105365, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -874,8 +874,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.320970231416, 
-      "lon": 4.93393871504, 
+      "lat": 51.320978504949, 
+      "lon": 4.933937811556, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -886,8 +886,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.321187360092, 
-      "lon": 4.933059309782, 
+      "lat": 51.321179964825, 
+      "lon": 4.933064527455, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -1579,8 +1579,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.320534020266, 
-      "lon": 4.930769907966, 
+      "lat": 51.32053484415, 
+      "lon": 4.930766762176, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -1926,8 +1926,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.321975274867, 
-      "lon": 4.941349124506, 
+      "lat": 51.321936312826, 
+      "lon": 4.941395121517, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -2002,8 +2002,8 @@
         "234"
       ], 
       "housenumber": "234", 
-      "lat": 51.320199308802, 
-      "lon": 4.925843635704, 
+      "lat": 51.320202808851, 
+      "lon": 4.92590205869, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2016,6 +2016,18 @@
       "housenumber": "235", 
       "lat": 51.320377543676, 
       "lon": 4.929441455311, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "de Merodelei"
+    }, 
+    {
+      "hnrlbls": [
+        "236"
+      ], 
+      "housenumber": "236", 
+      "lat": 51.32019451128, 
+      "lon": 4.925793516828, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2934,8 +2946,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.321760628535, 
-      "lon": 4.93980628547, 
+      "lat": 51.321765927847, 
+      "lon": 4.939807067831, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -3061,8 +3073,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.321659250937, 
-      "lon": 4.939133133825, 
+      "lat": 51.32166149511, 
+      "lon": 4.93913373516, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -3390,8 +3402,11 @@
       "street": "de Merodelei"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "94"
+        "94-94b"
       ], 
       "housenumber": "94", 
       "lat": 51.321943029, 
@@ -3399,6 +3414,21 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "de Merodelei"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "94-94b"
+      ], 
+      "housenumber": "94b", 
+      "lat": 51.321943029, 
+      "lon": 4.938681600475, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Merodelei"
     }, 
     {

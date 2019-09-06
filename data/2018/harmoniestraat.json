@@ -640,11 +640,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.202186543431, 
-      "lon": 4.410442831625, 
+      "lat": 51.202582838605, 
+      "lon": 4.410207401441, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Harmoniestraat"
     }, 
     {
@@ -689,11 +689,11 @@
         "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 51.202274783358, 
-      "lon": 4.410517168073, 
+      "lat": 51.202207167068, 
+      "lon": 4.410581490487, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Harmoniestraat"
     }, 
     {
@@ -1226,6 +1226,11 @@
       "street": "Harmoniestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1324,9 +1329,11 @@
       "street": "Harmoniestraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "76"
@@ -1443,11 +1450,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.20319754793, 
-      "lon": 4.410237717207, 
+      "lat": 51.20321781175, 
+      "lon": 4.410377809443, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Harmoniestraat"
     }, 
     {

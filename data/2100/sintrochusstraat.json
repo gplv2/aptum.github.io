@@ -1267,18 +1267,31 @@
       "street": "Sint-Rochusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.201353791824, 
-      "lon": 4.464882024397, 
+      "lat": 51.201325102718, 
+      "lon": 4.464791685878, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Rochusstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "219A"
+      ], 
+      "housenumber": "219A", 
+      "lat": 51.201359717254, 
+      "lon": 4.464780741039, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Rochusstraat"
     }, 
     {
@@ -1471,6 +1484,11 @@
       "street": "Sint-Rochusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -2332,6 +2350,11 @@
       "street": "Sint-Rochusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "96"
       ], 

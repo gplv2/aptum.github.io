@@ -48,6 +48,15 @@
       "street": "Molenstraat"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -123,7 +132,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "18"
+        "18-18B"
       ], 
       "housenumber": "18", 
       "lat": 51.203394826332, 
@@ -131,6 +140,18 @@
       "municipality": "Vorselaar", 
       "pcode": "2290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18-18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 51.203394826332, 
+      "lon": 4.767413563931, 
+      "municipality": "Vorselaar", 
+      "pcode": "2290", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {

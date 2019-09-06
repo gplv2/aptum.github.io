@@ -27,7 +27,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "1"
+        "1-112"
       ], 
       "housenumber": "1", 
       "lat": 51.222112114556, 
@@ -132,10 +132,7 @@
         "-101", 
         "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "16"
@@ -150,13 +147,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "4", 
-        "C"
+        "0301"
       ], 
       "hnrlbls": [
         "17"
@@ -186,8 +180,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.222038913804, 
-      "lon": 2.909775776374, 
+      "lat": 51.221944687179, 
+      "lon": 2.909745796095, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -195,10 +189,9 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0003", 
+        "0101"
       ], 
       "hnrlbls": [
         "1A"
@@ -240,20 +233,15 @@
       "street": "Oude Molenstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.222257710754, 
-      "lon": 2.90962090028, 
+      "lat": 51.222257686206, 
+      "lon": 2.909626198138, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Molenstraat"
     }, 
     {
@@ -403,6 +391,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "1", 
         "2"
       ], 
@@ -414,28 +403,27 @@
       "lon": 2.910044234841, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Molenstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0003", 
         "0101", 
         "0201", 
         "0301", 
-        "0303", 
-        "1", 
-        "2", 
-        "3"
+        "0303"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.221931890994, 
-      "lon": 2.910625507078, 
+      "lat": 51.221949218822, 
+      "lon": 2.910587170193, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Molenstraat"
     }, 
     {
@@ -482,6 +470,7 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
         "0201", 
         "0301", 
@@ -495,7 +484,7 @@
       "lon": 2.910316988183, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Molenstraat"
     }, 
     {
@@ -552,7 +541,7 @@
       "lon": 2.910861914905, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Molenstraat"
     }, 
     {
@@ -587,7 +576,9 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0102", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "7"
@@ -609,8 +600,8 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.222098736881, 
-      "lon": 2.90919595158, 
+      "lat": 51.222099616314, 
+      "lon": 2.909201650627, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

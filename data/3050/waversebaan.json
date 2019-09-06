@@ -481,6 +481,9 @@
       "street": "Waversebaan"
     }, 
     {
+      "busnrs": [
+        "74"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -1188,7 +1191,7 @@
     }, 
     {
       "hnrlbls": [
-        "200"
+        "200-200A"
       ], 
       "housenumber": "200", 
       "lat": 50.832388654206, 
@@ -1196,6 +1199,18 @@
       "municipality": "Oud-Heverlee", 
       "pcode": "3050", 
       "source": "afgeleidVanGebouw", 
+      "street": "Waversebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "200-200A"
+      ], 
+      "housenumber": "200A", 
+      "lat": 50.832388654206, 
+      "lon": 4.659636305719, 
+      "municipality": "Oud-Heverlee", 
+      "pcode": "3050", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Waversebaan"
     }, 
     {
@@ -1746,11 +1761,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.847698433066, 
-      "lon": 4.670028216778, 
+      "lat": 50.84766697585, 
+      "lon": 4.670060674114, 
       "municipality": "Oud-Heverlee", 
       "pcode": "3050", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Waversebaan"
     }, 
     {

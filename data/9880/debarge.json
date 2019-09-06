@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "0B", 
         "0C", 
@@ -16,14 +17,14 @@
         "3A"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2-6_2"
       ], 
       "housenumber": "2", 
-      "lat": 51.107511793445, 
-      "lon": 3.433224773303, 
+      "lat": 51.107526518314, 
+      "lon": 3.433188493967, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Barge"
     }, 
     {
@@ -40,14 +41,14 @@
         "3B"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2-6_2"
       ], 
       "housenumber": "4", 
-      "lat": 51.107511793445, 
-      "lon": 3.433224773303, 
+      "lat": 51.107526518314, 
+      "lon": 3.433188493967, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Barge"
     }, 
     {
@@ -67,14 +68,29 @@
         "3B"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2-6_2"
       ], 
       "housenumber": "6", 
-      "lat": 51.107511793445, 
-      "lon": 3.433224773303, 
+      "lat": 51.107526518314, 
+      "lon": 3.433188493967, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "De Barge"
+    }, 
+    {
+      "busnrs": [
+        "C"
+      ], 
+      "hnrlbls": [
+        "2-6_2"
+      ], 
+      "housenumber": "6_2", 
+      "lat": 51.107526518314, 
+      "lon": 3.433188493967, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "De Barge"
     }
   ]

@@ -139,25 +139,20 @@
       "street": "Frans de l'Arbrelaan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "2-301"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.240942964005, 
-      "lon": 4.439367257879, 
+      "lat": 51.240892730693, 
+      "lon": 4.439497344606, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans de l'Arbrelaan"
     }, 
     {
@@ -811,6 +806,7 @@
         "10", 
         "11", 
         "12", 
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -819,14 +815,26 @@
         "8"
       ], 
       "hnrlbls": [
-        "49-62"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.239104366905, 
-      "lon": 4.440019963156, 
+      "lat": 51.2391633333, 
+      "lon": 4.440162670388, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Frans de l'Arbrelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.239086495231, 
+      "lon": 4.440142791479, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans de l'Arbrelaan"
     }, 
     {
@@ -849,11 +857,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.239089706538, 
-      "lon": 4.440035404903, 
+      "lat": 51.239076453963, 
+      "lon": 4.440100678477, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans de l'Arbrelaan"
     }, 
     {
@@ -869,6 +877,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Frans de l'Arbrelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 51.23906389717, 
+      "lon": 4.440056556966, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans de l'Arbrelaan"
     }, 
     {

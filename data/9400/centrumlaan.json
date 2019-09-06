@@ -49,18 +49,6 @@
       "street": "Centrumlaan"
     }, 
     {
-      "hnrlbls": [
-        "101-506A"
-      ], 
-      "housenumber": "101", 
-      "lat": 50.83382172559, 
-      "lon": 4.017840339874, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Centrumlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -515,21 +503,6 @@
       "street": "Centrumlaan"
     }, 
     {
-      "busnrs": [
-        "12"
-      ], 
-      "hnrlbls": [
-        "30B"
-      ], 
-      "housenumber": "30B", 
-      "lat": 50.833790357664, 
-      "lon": 4.020986458999, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Centrumlaan"
-    }, 
-    {
       "hnrlbls": [
         "21-61"
       ], 
@@ -756,6 +729,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "10", 
         "11", 
         "12", 
@@ -764,6 +738,7 @@
         "4", 
         "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -1268,7 +1243,7 @@
       "lon": 4.017958537134, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Centrumlaan"
     }
   ]

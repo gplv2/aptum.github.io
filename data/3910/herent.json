@@ -89,8 +89,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.20235955322, 
-      "lon": 5.443703504387, 
+      "lat": 51.202341932531, 
+      "lon": 5.443713543671, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
@@ -242,7 +242,11 @@
         "6", 
         "7", 
         "8", 
-        "9"
+        "9", 
+        "bs10", 
+        "bs11", 
+        "bs12", 
+        "bs13"
       ], 
       "hnrlbls": [
         "118"
@@ -358,6 +362,18 @@
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herent"
+    }, 
+    {
+      "hnrlbls": [
+        "127"
+      ], 
+      "housenumber": "127", 
+      "lat": 51.202511703691, 
+      "lon": 5.446903246108, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Herent"
     }, 
     {
@@ -963,8 +979,8 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.19949812566, 
-      "lon": 5.460637709739, 
+      "lat": 51.199374019329, 
+      "lon": 5.460585010255, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
@@ -1280,6 +1296,18 @@
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herent"
+    }, 
+    {
+      "hnrlbls": [
+        "222"
+      ], 
+      "housenumber": "222", 
+      "lat": 51.203974272944, 
+      "lon": 5.449736319445, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "afgeleidVanStraat", 
       "street": "Herent"
     }, 
     {
@@ -1803,6 +1831,10 @@
       "street": "Herent"
     }, 
     {
+      "busnrs": [
+        "Abs1", 
+        "Abs2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

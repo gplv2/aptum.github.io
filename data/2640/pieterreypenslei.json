@@ -172,7 +172,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "21"
@@ -396,15 +397,20 @@
       "street": "Pieter Reypenslei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.169445638393, 
-      "lon": 4.452584175884, 
+      "lat": 51.169426287305, 
+      "lon": 4.452620027585, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pieter Reypenslei"
     }, 
     {

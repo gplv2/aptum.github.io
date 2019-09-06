@@ -1,26 +1,31 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "Abu2", 
+        "Abu3", 
+        "Abu4"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.97917777872, 
-      "lon": 3.530580997715, 
+      "lat": 50.979150447013, 
+      "lon": 3.530605837085, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -62,9 +67,9 @@
       "street": "Kortrijkstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "12"
@@ -74,7 +79,7 @@
       "lon": 3.530474513284, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -218,8 +223,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.978505521538, 
-      "lon": 3.530252099423, 
+      "lat": 50.978505425566, 
+      "lon": 3.530251246728, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -314,8 +319,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.978345358072, 
-      "lon": 3.530029683503, 
+      "lat": 50.978347425447, 
+      "lon": 3.530029646541, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -352,7 +357,6 @@
     }, 
     {
       "busnrs": [
-        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -546,7 +550,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "4"
+        "4-6"
       ], 
       "housenumber": "4", 
       "lat": 50.97881937706, 
@@ -782,18 +786,6 @@
       "street": "Kortrijkstraat"
     }, 
     {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 50.977802629769, 
-      "lon": 3.528313076718, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kortrijkstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -811,20 +803,41 @@
       "street": "Kortrijkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "57"
+        "57A-57B"
       ], 
-      "housenumber": "57", 
-      "lat": 50.97775571088, 
-      "lon": 3.528112706856, 
+      "housenumber": "57A", 
+      "lat": 50.977943104822, 
+      "lon": 3.528131990432, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "57A-57B"
+      ], 
+      "housenumber": "57B", 
+      "lat": 50.977943104822, 
+      "lon": 3.528131990432, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -841,26 +854,61 @@
     }, 
     {
       "hnrlbls": [
-        "59"
+        "59A"
       ], 
-      "housenumber": "59", 
-      "lat": 50.97761209192, 
-      "lon": 3.528042372137, 
+      "housenumber": "59A", 
+      "lat": 50.977843863145, 
+      "lon": 3.527956481103, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "59B-61A"
+      ], 
+      "housenumber": "59B", 
+      "lat": 50.977739786497, 
+      "lon": 3.527859236466, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
       "hnrlbls": [
-        "6"
+        "59B-61A"
       ], 
-      "housenumber": "6", 
-      "lat": 50.978790238184, 
-      "lon": 3.530695578335, 
+      "housenumber": "59C", 
+      "lat": 50.977739786497, 
+      "lon": 3.527859236466, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4-6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.97881937706, 
+      "lon": 3.53076042058, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -876,18 +924,38 @@
       "street": "Kortrijkstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "61"
+        "59B-61A"
       ], 
-      "housenumber": "61", 
-      "lat": 50.977595846773, 
-      "lon": 3.527819524074, 
+      "housenumber": "61A", 
+      "lat": 50.977739786497, 
+      "lon": 3.527859236466, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "61B-63"
+      ], 
+      "housenumber": "61B", 
+      "lat": 50.977623313526, 
+      "lon": 3.527624941791, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -920,14 +988,14 @@
     }, 
     {
       "hnrlbls": [
-        "63"
+        "61B-63"
       ], 
       "housenumber": "63", 
-      "lat": 50.977548372308, 
-      "lon": 3.527730236627, 
+      "lat": 50.977623313526, 
+      "lon": 3.527624941791, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1188,11 +1256,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.976508667516, 
-      "lon": 3.527208768833, 
+      "lat": 50.976595375439, 
+      "lon": 3.527177595075, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {

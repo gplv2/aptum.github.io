@@ -9,7 +9,8 @@
         "0302", 
         "0401", 
         "0402", 
-        "0501"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "1"
@@ -23,15 +24,19 @@
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.219706287295, 
-      "lon": 2.907354085599, 
+      "lat": 51.219735640588, 
+      "lon": 2.907321385121, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -188,8 +193,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.219842651592, 
-      "lon": 2.906981755938, 
+      "lat": 51.219845047922, 
+      "lon": 2.906979247168, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -296,8 +301,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.219562968457, 
-      "lon": 2.906174528851, 
+      "lat": 51.219561833434, 
+      "lon": 2.906169983433, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -320,11 +325,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.2195220209, 
-      "lon": 2.906105666159, 
+      "lat": 51.219526137063, 
+      "lon": 2.906104105527, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -344,11 +349,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.219467339436, 
-      "lon": 2.906067583364, 
+      "lat": 51.219477414328, 
+      "lon": 2.906053524447, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -368,11 +373,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.219448858441, 
-      "lon": 2.905998016382, 
+      "lat": 51.219452667447, 
+      "lon": 2.905986158133, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -392,11 +397,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.219422902952, 
-      "lon": 2.905934696409, 
+      "lat": 51.219437911241, 
+      "lon": 2.905912466022, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -428,11 +433,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.219403138969, 
-      "lon": 2.905863165596, 
+      "lat": 51.219408206092, 
+      "lon": 2.905851267891, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -452,11 +457,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.219374642365, 
-      "lon": 2.905797921273, 
+      "lat": 51.219383434314, 
+      "lon": 2.905781898379, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -476,11 +481,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.219348661987, 
-      "lon": 2.905732598109, 
+      "lat": 51.219356195797, 
+      "lon": 2.905716614672, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {
@@ -503,11 +508,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.219313780425, 
-      "lon": 2.905652666014, 
+      "lat": 51.219335223115, 
+      "lon": 2.905649130324, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Van de Woestijnestraat"
     }, 
     {

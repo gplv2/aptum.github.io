@@ -48,6 +48,7 @@
       "busnrs": [
         "0101", 
         "0401", 
+        "0501", 
         "1", 
         "2", 
         "3", 
@@ -62,7 +63,7 @@
       "lon": 2.912346679935, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -89,8 +90,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.226836677978, 
-      "lon": 2.91206015504, 
+      "lat": 51.226836184603, 
+      "lon": 2.912063893093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -126,8 +127,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.226740113176, 
-      "lon": 2.911519093634, 
+      "lat": 51.226736409261, 
+      "lon": 2.911517634403, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -175,18 +176,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.226659295402, 
-      "lon": 2.911139906114, 
+      "lat": 51.226770000187, 
+      "lon": 2.911135587133, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -262,6 +265,13 @@
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "11-13"
       ], 
@@ -275,7 +285,8 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "130"
@@ -285,7 +296,7 @@
       "lon": 2.91070071924, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -317,22 +328,40 @@
     }, 
     {
       "busnrs": [
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.226728263732, 
-      "lon": 2.910477269181, 
+      "lat": 51.226759126591, 
+      "lon": 2.910472151998, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Euphrosina Beernaertstraat"
+    }, 
+    {
+      "busnrs": [
+        "0501", 
+        "0601"
+      ], 
+      "hnrlbls": [
+        "140-140A"
+      ], 
+      "housenumber": "140", 
+      "lat": 51.226724046754, 
+      "lon": 2.909486463992, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -351,7 +380,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "140A"
+        "140-140A"
       ], 
       "housenumber": "140A", 
       "lat": 51.226724046754, 
@@ -400,7 +429,7 @@
         "0302", 
         "0401", 
         "0402", 
-        "2"
+        "B202"
       ], 
       "hnrlbls": [
         "146"
@@ -445,6 +474,7 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "0401", 
         "1", 
         "2", 
@@ -459,7 +489,7 @@
       "lon": 2.908885385204, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -490,24 +520,22 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1"
+        "0301"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.227946044622, 
-      "lon": 2.917897106574, 
+      "lat": 51.22796809385, 
+      "lon": 2.917891695637, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
       "busnrs": [
-        "2", 
-        "A000"
+        "2"
       ], 
       "hnrlbls": [
         "21A"
@@ -521,9 +549,6 @@
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "21B"
       ], 
@@ -649,6 +674,7 @@
         "0101", 
         "0102", 
         "0201", 
+        "0501", 
         "10", 
         "2", 
         "4", 
@@ -664,7 +690,7 @@
       "lon": 2.916186017272, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -693,6 +719,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1", 
         "4", 
         "5"
@@ -701,11 +728,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.22752418537, 
-      "lon": 2.916062056342, 
+      "lat": 51.227520996104, 
+      "lon": 2.916058576169, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -726,6 +753,7 @@
         "0101", 
         "0201", 
         "0301", 
+        "0401", 
         "0501", 
         "0601"
       ], 
@@ -763,8 +791,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.22750375131, 
-      "lon": 2.915862240167, 
+      "lat": 51.227500380548, 
+      "lon": 2.915858622483, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -854,8 +882,10 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "49"
@@ -865,7 +895,7 @@
       "lon": 2.911924295291, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -952,18 +982,13 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
         "0201", 
         "0301", 
         "0501", 
         "0601", 
-        "0701", 
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0701"
       ], 
       "hnrlbls": [
         "54"
@@ -973,7 +998,7 @@
       "lon": 2.914889380908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1016,6 +1041,7 @@
     {
       "busnrs": [
         "0201", 
+        "0301", 
         "1", 
         "2"
       ], 
@@ -1027,7 +1053,7 @@
       "lon": 2.910999507907, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1073,15 +1099,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0401"
       ], 
       "hnrlbls": [
         "59"
@@ -1153,15 +1175,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0006", 
+        "0007", 
         "0101", 
-        "0105", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "105"
       ], 
       "hnrlbls": [
         "66"
@@ -1171,7 +1197,7 @@
       "lon": 2.914190725809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1190,6 +1216,7 @@
       "busnrs": [
         "0101", 
         "0203", 
+        "0501", 
         "0701", 
         "1", 
         "11", 
@@ -1260,30 +1287,21 @@
         "0101", 
         "0102", 
         "0103", 
+        "0201", 
         "0202", 
         "0203", 
+        "0301", 
         "0302", 
         "0303", 
+        "0401", 
         "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
         "0503", 
         "0601", 
         "0602", 
-        "0603", 
-        "1", 
-        "10", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "17", 
-        "18", 
-        "2", 
-        "3", 
-        "4A", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0603"
       ], 
       "hnrlbls": [
         "75"
@@ -1378,8 +1396,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.228008634717, 
-      "lon": 2.918910605695, 
+      "lat": 51.228012754136, 
+      "lon": 2.918916634455, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1390,8 +1408,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.227107856084, 
-      "lon": 2.913640976131, 
+      "lat": 51.22711025959, 
+      "lon": 2.91363903981, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1411,6 +1429,7 @@
     }, 
     {
       "busnrs": [
+        "0301", 
         "0501", 
         "0701", 
         "1", 
@@ -1429,7 +1448,7 @@
       "lon": 2.913496016225, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1521,7 +1540,7 @@
       "lon": 2.909181686931, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1545,8 +1564,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.226889671989, 
-      "lon": 2.9090660631, 
+      "lat": 51.226889217561, 
+      "lon": 2.909072949908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1598,6 +1617,7 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
         "0201", 
         "0301", 
@@ -1615,7 +1635,7 @@
       "lon": 2.912777905844, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
@@ -1624,8 +1644,7 @@
         "0401", 
         "2", 
         "3", 
-        "4", 
-        "A000"
+        "4"
       ], 
       "hnrlbls": [
         "94A"
@@ -1635,13 +1654,10 @@
       "lon": 2.912704963652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "94B"
       ], 
@@ -1655,18 +1671,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.226887378537, 
-      "lon": 2.912578310213, 
+      "lat": 51.226887954748, 
+      "lon": 2.91257399686, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Euphrosina Beernaertstraat"
     }, 
     {

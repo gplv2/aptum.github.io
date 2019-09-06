@@ -29,7 +29,7 @@
     }, 
     {
       "hnrlbls": [
-        "101"
+        "101-101b"
       ], 
       "housenumber": "101", 
       "lat": 51.324036933297, 
@@ -37,6 +37,21 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Warandestraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "101-101b"
+      ], 
+      "housenumber": "101b", 
+      "lat": 51.324036933297, 
+      "lon": 4.941215582843, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Warandestraat"
     }, 
     {
@@ -653,8 +668,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.324342681757, 
-      "lon": 4.941482446768, 
+      "lat": 51.324314855168, 
+      "lon": 4.941474787563, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -697,8 +712,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.323896990247, 
-      "lon": 4.942903315888, 
+      "lat": 51.323902375236, 
+      "lon": 4.942904960421, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -748,8 +763,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.323928088759, 
-      "lon": 4.942736719632, 
+      "lat": 51.323927734119, 
+      "lon": 4.942735711073, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -885,8 +900,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.323983537579, 
-      "lon": 4.942126576506, 
+      "lat": 51.323964229922, 
+      "lon": 4.94212303881, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -1052,6 +1067,12 @@
       "street": "Warandestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "97"
       ], 

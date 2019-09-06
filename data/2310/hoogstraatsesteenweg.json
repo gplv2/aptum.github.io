@@ -554,8 +554,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.352481493166, 
-      "lon": 4.760267877103, 
+      "lat": 51.352501101391, 
+      "lon": 4.760209191147, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
@@ -775,6 +775,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [
@@ -1201,12 +1202,46 @@
       "street": "Hoogstraatsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "84"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
-      "housenumber": "84", 
-      "lat": 51.355661183613, 
-      "lon": 4.759860177318, 
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 51.355704598994, 
+      "lon": 4.759831976795, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraatsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 51.355822018555, 
+      "lon": 4.760283283182, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
@@ -1225,12 +1260,16 @@
       "street": "Hoogstraatsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "87"
+      "busnrs": [
+        "0001", 
+        "0002"
       ], 
-      "housenumber": "87", 
-      "lat": 51.355278804984, 
-      "lon": 4.759324389908, 
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 51.355931851523, 
+      "lon": 4.759793984824, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
@@ -1238,11 +1277,11 @@
     }, 
     {
       "hnrlbls": [
-        "88"
+        "87"
       ], 
-      "housenumber": "88", 
-      "lat": 51.355920158426, 
-      "lon": 4.759796613754, 
+      "housenumber": "87", 
+      "lat": 51.355278804984, 
+      "lon": 4.759324389908, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 

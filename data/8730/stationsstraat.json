@@ -25,30 +25,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "hnrlbls": [
-        "93-103"
-      ], 
-      "housenumber": "101", 
-      "lat": 51.130685194761, 
-      "lon": 3.331246333011, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "93-103"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.130685194761, 
-      "lon": 3.331246333011, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -289,11 +265,34 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.128756640143, 
-      "lon": 3.330262222866, 
+      "lat": 51.128755837826, 
+      "lon": 3.330201666149, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 51.128680694793, 
+      "lon": 3.330161904813, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -313,11 +312,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.12853195086, 
-      "lon": 3.330267928333, 
+      "lat": 51.128577074838, 
+      "lon": 3.330114204428, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1254,42 +1253,6 @@
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "93-103"
-      ], 
-      "housenumber": "95", 
-      "lat": 51.130685194761, 
-      "lon": 3.331246333011, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "93-103"
-      ], 
-      "housenumber": "97", 
-      "lat": 51.130685194761, 
-      "lon": 3.331246333011, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "93-103"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.130685194761, 
-      "lon": 3.331246333011, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }
   ]

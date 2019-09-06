@@ -307,9 +307,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "14"
@@ -319,7 +317,7 @@
       "lon": 2.905822904012, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -351,23 +349,26 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.215998426461, 
-      "lon": 2.905349971864, 
+      "lat": 51.216001734251, 
+      "lon": 2.905355737066, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.216056734646, 
-      "lon": 2.905790176697, 
+      "lat": 51.216060965053, 
+      "lon": 2.905783316178, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -420,6 +421,7 @@
     }, 
     {
       "busnrs": [
+        "01", 
         "0101", 
         "1", 
         "2"
@@ -432,7 +434,7 @@
       "lon": 2.905771338667, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -636,13 +638,6 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -658,6 +653,7 @@
       "busnrs": [
         "0201", 
         "1", 
+        "101", 
         "2"
       ], 
       "hnrlbls": [
@@ -673,10 +669,9 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "44"
@@ -703,20 +698,21 @@
     }, 
     {
       "busnrs": [
+        "0002", 
+        "0003", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.21507425787, 
-      "lon": 2.90544595356, 
+      "lat": 51.215054231347, 
+      "lon": 2.905440426611, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -724,11 +720,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.215034645568, 
-      "lon": 2.905056416821, 
+      "lat": 51.21502734959, 
+      "lon": 2.905127930744, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -742,6 +738,7 @@
         "1", 
         "2", 
         "3", 
+        "302", 
         "4", 
         "5", 
         "6", 
@@ -788,7 +785,11 @@
         "0201", 
         "0202", 
         "1", 
+        "101", 
+        "102", 
         "3", 
+        "301", 
+        "302", 
         "4", 
         "5", 
         "6", 
@@ -822,7 +823,11 @@
       "busnrs": [
         "0301", 
         "1", 
+        "101", 
         "2", 
+        "201", 
+        "202", 
+        "302", 
         "4", 
         "5", 
         "6", 
@@ -858,8 +863,10 @@
         "0201", 
         "0301", 
         "1", 
+        "101", 
         "2", 
         "3", 
+        "302", 
         "4", 
         "5", 
         "7", 
@@ -1015,9 +1022,6 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "69A"
       ], 
@@ -1030,9 +1034,6 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "69B"
       ], 
@@ -1152,7 +1153,7 @@
       "lon": 2.905183400051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijheidstraat"
     }, 
     {
@@ -1301,12 +1302,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "88"
@@ -1348,8 +1347,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.213382365031, 
-      "lon": 2.905094372552, 
+      "lat": 51.21338376389, 
+      "lon": 2.9050330658, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1393,8 +1392,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.213221834201, 
-      "lon": 2.904973591578, 
+      "lat": 51.213219011143, 
+      "lon": 2.904970674278, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

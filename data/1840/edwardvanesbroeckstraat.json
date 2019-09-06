@@ -162,20 +162,18 @@
     }, 
     {
       "apptnrs": [
-        "A101"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
-        "24"
+        "24A"
       ], 
-      "housenumber": "24", 
-      "lat": 51.005215905301, 
-      "lon": 4.304987880548, 
+      "housenumber": "24A", 
+      "lat": 51.005211580233, 
+      "lon": 4.304968652403, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edward Van Esbroeckstraat"
     }, 
     {
@@ -251,6 +249,23 @@
       "street": "Edward Van Esbroeckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.004700934572, 
+      "lon": 4.306199730731, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edward Van Esbroeckstraat"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -288,6 +303,7 @@
     }, 
     {
       "apptnrs": [
+        "101", 
         "201"
       ], 
       "hnrlbls": [

@@ -17,9 +17,6 @@
       "street": "Hennepstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "10A"
       ], 
@@ -32,9 +29,6 @@
       "street": "Hennepstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "10B"
       ], 
@@ -99,8 +93,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.219384389217, 
-      "lon": 2.90845630651, 
+      "lat": 51.21938428345, 
+      "lon": 2.908455021419, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -120,10 +114,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "17"
@@ -157,8 +149,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.219355272585, 
-      "lon": 2.908682974625, 
+      "lat": 51.219297047601, 
+      "lon": 2.908619947667, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -169,11 +161,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.219943934863, 
-      "lon": 2.908165071917, 
+      "lat": 51.21994707338, 
+      "lon": 2.908171702047, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -193,23 +185,26 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.219289997457, 
-      "lon": 2.908733404376, 
+      "lat": 51.219322088434, 
+      "lon": 2.908784079107, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.219273092758, 
-      "lon": 2.909330462303, 
+      "lat": 51.219269350144, 
+      "lon": 2.909333156197, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -235,12 +230,9 @@
     {
       "busnrs": [
         "-101", 
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "24"
@@ -250,7 +242,7 @@
       "lon": 2.909378183893, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -367,9 +359,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "33"
@@ -379,7 +371,7 @@
       "lon": 2.909057219455, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -440,11 +432,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.219872742607, 
-      "lon": 2.908362424575, 
+      "lat": 51.219872094106, 
+      "lon": 2.908360870148, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -464,8 +456,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.218715708289, 
-      "lon": 2.90963678532, 
+      "lat": 51.218713706675, 
+      "lon": 2.909642144619, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -528,11 +520,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.218459331419, 
-      "lon": 2.909988371847, 
+      "lat": 51.218540441867, 
+      "lon": 2.909968084321, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -564,8 +556,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.219807292061, 
-      "lon": 2.908486014121, 
+      "lat": 51.219808426995, 
+      "lon": 2.908490559619, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

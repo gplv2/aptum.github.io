@@ -46,6 +46,7 @@
     {
       "busnrs": [
         "11", 
+        "12", 
         "2", 
         "21", 
         "22"
@@ -530,6 +531,10 @@
       "street": "Gergelstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -959,6 +964,18 @@
     }, 
     {
       "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.848686130401, 
+      "lon": 4.485311372578, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gergelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -1122,8 +1139,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.848091289528, 
-      "lon": 4.483685860895, 
+      "lat": 50.848087346327, 
+      "lon": 4.483673497395, 
       "municipality": "Wezembeek-Oppem", 
       "pcode": "1970", 
       "source": "afgeleidVanGebouw", 

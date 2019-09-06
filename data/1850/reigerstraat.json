@@ -306,7 +306,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "42"
+        "42-42B"
       ], 
       "housenumber": "42", 
       "lat": 50.927864726279, 
@@ -314,6 +314,21 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Reigerstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "42-42B"
+      ], 
+      "housenumber": "42B", 
+      "lat": 50.927864726279, 
+      "lon": 4.405922913522, 
+      "municipality": "Grimbergen", 
+      "pcode": "1850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Reigerstraat"
     }
   ]

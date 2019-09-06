@@ -338,11 +338,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "157-514"
@@ -1119,10 +1123,14 @@
       "street": "August Van de Wielelei"
     }, 
     {
-      "busnrs": [
-        "245", 
-        "4", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "243"
@@ -1509,6 +1517,10 @@
       "street": "August Van de Wielelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1557,6 +1569,11 @@
       "street": "August Van de Wielelei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -1661,6 +1678,10 @@
       "street": "August Van de Wielelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "280"
       ], 
@@ -2018,6 +2039,10 @@
       "street": "August Van de Wielelei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "304"
       ], 
@@ -2230,9 +2255,6 @@
       "street": "August Van de Wielelei"
     }, 
     {
-      "apptnrs": [
-        "/2"
-      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -2942,14 +2964,14 @@
       "street": "August Van de Wielelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "63-65"
+        "63"
       ], 
       "housenumber": "63", 
       "lat": 51.219515881963, 
@@ -2966,18 +2988,6 @@
       "housenumber": "64", 
       "lat": 51.218753368494, 
       "lon": 4.477897851723, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "August Van de Wielelei"
-    }, 
-    {
-      "hnrlbls": [
-        "63-65"
-      ], 
-      "housenumber": "65", 
-      "lat": 51.219515881963, 
-      "lon": 4.478254893322, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3030,11 +3040,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.219359568597, 
-      "lon": 4.478645407106, 
+      "lat": 51.219417287818, 
+      "lon": 4.47853461948, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Van de Wielelei"
     }, 
     {
@@ -3325,12 +3335,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
+        "4", 
         "5", 
         "6", 
         "7", 
-        "8", 
-        "93"
+        "8"
       ], 
       "hnrlbls": [
         "91-93"

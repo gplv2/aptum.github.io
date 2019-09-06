@@ -67,11 +67,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "102"
@@ -193,23 +190,23 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "013", 
+        "014"
       ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.891170888528, 
-      "lon": 4.470915697224, 
+      "lat": 50.891153092774, 
+      "lon": 4.470911962925, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vilvoordelaan"
     }, 
     {
@@ -342,11 +339,12 @@
     {
       "apptnrs": [
         "001", 
-        "011", 
         "021", 
         "022", 
         "031", 
-        "032"
+        "032", 
+        "X011", 
+        "X012"
       ], 
       "hnrlbls": [
         "122"
@@ -401,22 +399,12 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "26", 
-        "27", 
-        "30", 
-        "31", 
-        "33", 
-        "35", 
-        "37", 
-        "47"
-      ], 
       "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.890856479196, 
-      "lon": 4.471483942993, 
+      "lat": 50.89093018556, 
+      "lon": 4.471491638049, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -580,20 +568,15 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "011", 
-        "X021"
-      ], 
       "hnrlbls": [
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.892926093563, 
-      "lon": 4.471195990583, 
+      "lat": 50.892918013729, 
+      "lon": 4.471183891515, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vilvoordelaan"
     }, 
     {
@@ -609,15 +592,20 @@
       "street": "Vilvoordelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "1.0"
+      ], 
       "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 50.892980997976, 
-      "lon": 4.471219705309, 
+      "lat": 50.892976246839, 
+      "lon": 4.471204628731, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vilvoordelaan"
     }, 
     {
@@ -1141,8 +1129,9 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "25"
@@ -1319,8 +1308,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.887456514878, 
-      "lon": 4.470548718438, 
+      "lat": 50.887456693549, 
+      "lon": 4.470549997878, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1675,8 +1664,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.888100842719, 
-      "lon": 4.470997940306, 
+      "lat": 50.888068739228, 
+      "lon": 4.471010802734, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1726,8 +1715,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.888388291611, 
-      "lon": 4.471035095023, 
+      "lat": 50.888388921866, 
+      "lon": 4.471033959449, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1798,6 +1787,10 @@
       "street": "Vilvoordelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1872,11 +1865,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "76"
@@ -1902,12 +1893,12 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "78"
@@ -1917,7 +1908,7 @@
       "lon": 4.471107138147, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vilvoordelaan"
     }, 
     {
@@ -2120,6 +2111,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "011", 
         "021"
       ], 
@@ -2260,13 +2252,13 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "94"
@@ -2292,12 +2284,12 @@
       "street": "Vilvoordelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "96"

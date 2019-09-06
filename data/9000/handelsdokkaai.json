@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.062041851339, 
-      "lon": 3.736186715726, 
+      "lat": 51.061782072141, 
+      "lon": 3.735903637704, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Handelsdokkaai"
     }, 
     {
@@ -25,15 +25,28 @@
       "street": "Handelsdokkaai"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.063089800184, 
-      "lon": 3.735714497149, 
+      "lat": 51.062130769549, 
+      "lon": 3.735737016137, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelsdokkaai"
     }, 
     {
@@ -53,11 +66,48 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.064243918152, 
-      "lon": 3.735126694391, 
+      "lat": 51.062194880242, 
+      "lon": 3.735706763302, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Handelsdokkaai"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.062340083135, 
+      "lon": 3.735644743975, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Handelsdokkaai"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.062408381684, 
+      "lon": 3.735607586919, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelsdokkaai"
     }
   ]

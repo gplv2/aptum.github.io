@@ -94,10 +94,12 @@
       "street": "Korte Van Ruusbroecstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "17"
@@ -126,35 +128,21 @@
       "street": "Korte Van Ruusbroecstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "21", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.208748570833, 
-      "lon": 4.425702063774, 
+      "lat": 51.208684611038, 
+      "lon": 4.425439547848, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Korte Van Ruusbroecstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 51.20869525686, 
-      "lon": 4.4255433051, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Van Ruusbroecstraat"
     }, 
     {
@@ -182,18 +170,11 @@
       "street": "Korte Van Ruusbroecstraat"
     }, 
     {
-      "hnrlbls": [
-        "19-21"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
-      "housenumber": "21", 
-      "lat": 51.208748570833, 
-      "lon": 4.425702063774, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Korte Van Ruusbroecstraat"
-    }, 
-    {
       "hnrlbls": [
         "23"
       ], 

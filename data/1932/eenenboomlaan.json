@@ -106,11 +106,8 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "18"
@@ -231,6 +228,9 @@
         "X001", 
         "X031"
       ], 
+      "busnrs": [
+        "31"
+      ], 
       "hnrlbls": [
         "24A"
       ], 
@@ -288,13 +288,12 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "011", 
+        "021", 
+        "X001"
       ], 
       "hnrlbls": [
-        "28"
+        "28-28X"
       ], 
       "housenumber": "28", 
       "lat": 50.867636512615, 
@@ -302,6 +301,21 @@
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
+      "street": "Eenenboomlaan"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "28-28X"
+      ], 
+      "housenumber": "28X", 
+      "lat": 50.867636512615, 
+      "lon": 4.435060775712, 
+      "municipality": "Zaventem", 
+      "pcode": "1932", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Eenenboomlaan"
     }, 
     {
@@ -386,7 +400,8 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "32"
@@ -401,11 +416,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "34"
@@ -432,7 +444,8 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "36"

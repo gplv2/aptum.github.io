@@ -314,11 +314,11 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.199652962186, 
-      "lon": 4.333687902559, 
+      "lat": 51.199604886983, 
+      "lon": 4.333732861167, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heirbaan"
     }, 
     {
@@ -388,9 +388,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
-        "7"
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "130-132"
@@ -664,25 +669,16 @@
       "street": "Heirbaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
-        "157-159"
+        "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.199800312411, 
-      "lon": 4.332871304487, 
-      "municipality": "Zwijndrecht", 
-      "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heirbaan"
-    }, 
-    {
-      "apptnrs": [
-        "V1"
-      ], 
-      "hnrlbls": [
-        "157-159"
-      ], 
-      "housenumber": "159", 
       "lat": 51.199800312411, 
       "lon": 4.332871304487, 
       "municipality": "Zwijndrecht", 
@@ -1258,17 +1254,17 @@
     }, 
     {
       "apptnrs": [
-        "V1"
+        "0.0"
       ], 
       "hnrlbls": [
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.198370720814, 
-      "lon": 4.330325419874, 
+      "lat": 51.198483315895, 
+      "lon": 4.330230334279, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -1424,6 +1420,23 @@
       "street": "Heirbaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.201624010873, 
+      "lon": 4.33820815039, 
+      "municipality": "Zwijndrecht", 
+      "pcode": "2070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heirbaan"
+    }, 
+    {
       "hnrlbls": [
         "220"
       ], 
@@ -1496,9 +1509,6 @@
       "street": "Heirbaan"
     }, 
     {
-      "apptnrs": [
-        "V2"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1658,8 +1668,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.201423281243, 
-      "lon": 4.337786213347, 
+      "lat": 51.201426875415, 
+      "lon": 4.337781489603, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 

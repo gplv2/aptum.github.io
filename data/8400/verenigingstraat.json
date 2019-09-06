@@ -141,7 +141,7 @@
       "lon": 2.899159056195, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -887,20 +887,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.219683449003, 
-      "lon": 2.899002881838, 
+      "lat": 51.219707501692, 
+      "lon": 2.89912982016, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -929,6 +928,18 @@
     }, 
     {
       "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.219669484008, 
+      "lon": 2.89910897177, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Verenigingstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -953,13 +964,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "2"
@@ -993,8 +1001,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.219548227263, 
-      "lon": 2.89905996735, 
+      "lat": 51.219546701314, 
+      "lon": 2.899060158586, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1163,8 +1171,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.21911008951, 
-      "lon": 2.898896975092, 
+      "lat": 51.219113208986, 
+      "lon": 2.898902030387, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1187,8 +1195,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.219074687623, 
-      "lon": 2.898884061423, 
+      "lat": 51.219077084613, 
+      "lon": 2.89888885317, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1465,30 +1473,15 @@
       "street": "Verenigingstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.218483759501, 
-      "lon": 2.899086204707, 
+      "lat": 51.218477054796, 
+      "lon": 2.899118196002, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Verenigingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60A"
-      ], 
-      "housenumber": "60A", 
-      "lat": 51.218515469448, 
-      "lon": 2.899127579079, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1508,11 +1501,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.218378698827, 
-      "lon": 2.89915407683, 
+      "lat": 51.218391304495, 
+      "lon": 2.899119466092, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1532,11 +1525,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.218320131654, 
-      "lon": 2.89916522692, 
+      "lat": 51.218332420827, 
+      "lon": 2.899105144974, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1604,11 +1597,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.218157912318, 
-      "lon": 2.899155020252, 
+      "lat": 51.218169679533, 
+      "lon": 2.899060168911, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1628,11 +1621,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.218105483026, 
-      "lon": 2.899139207446, 
+      "lat": 51.218116362234, 
+      "lon": 2.899045243099, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1700,11 +1693,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.21795080072, 
-      "lon": 2.899055469748, 
+      "lat": 51.217955432458, 
+      "lon": 2.89900135559, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1733,17 +1726,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.217776010112, 
-      "lon": 2.898916250894, 
+      "lat": 51.217809014901, 
+      "lon": 2.898938830899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {
@@ -1758,7 +1751,7 @@
       "lon": 2.898897163356, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verenigingstraat"
     }, 
     {

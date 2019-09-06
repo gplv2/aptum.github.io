@@ -1094,6 +1094,11 @@
       "street": "Kortrijkseweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -1102,7 +1107,7 @@
       "lon": 3.34567476431, 
       "municipality": "Waregem", 
       "pcode": "8791", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kortrijkseweg"
     }, 
     {
@@ -1568,15 +1573,21 @@
       "street": "Kortrijkseweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.874885879813, 
-      "lon": 3.349228564181, 
+      "lat": 50.874917954259, 
+      "lon": 3.349143323791, 
       "municipality": "Waregem", 
       "pcode": "8791", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kortrijkseweg"
     }, 
     {
@@ -1685,18 +1696,6 @@
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kortrijkseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.867163105476, 
-      "lon": 3.332661461262, 
-      "municipality": "Waregem", 
-      "pcode": "8791", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Kortrijkseweg"
     }, 
     {
@@ -1905,18 +1904,6 @@
     }, 
     {
       "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.867223636835, 
-      "lon": 3.332786710978, 
-      "municipality": "Waregem", 
-      "pcode": "8791", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Kortrijkseweg"
-    }, 
-    {
-      "hnrlbls": [
         "261"
       ], 
       "housenumber": "261", 
@@ -2105,18 +2092,6 @@
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kortrijkseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.867276305035, 
-      "lon": 3.332897074902, 
-      "municipality": "Waregem", 
-      "pcode": "8791", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Kortrijkseweg"
     }, 
     {
@@ -2400,18 +2375,6 @@
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kortrijkseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.867316524348, 
-      "lon": 3.332982282884, 
-      "municipality": "Waregem", 
-      "pcode": "8791", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Kortrijkseweg"
     }, 
     {
@@ -2716,7 +2679,7 @@
     }, 
     {
       "hnrlbls": [
-        "324-324A"
+        "324"
       ], 
       "housenumber": "324", 
       "lat": 50.878320149939, 
@@ -2728,11 +2691,11 @@
     }, 
     {
       "hnrlbls": [
-        "324-324A"
+        "324A"
       ], 
       "housenumber": "324A", 
-      "lat": 50.878320149939, 
-      "lon": 3.356198936065, 
+      "lat": 50.878387404493, 
+      "lon": 3.356304064068, 
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2755,8 +2718,8 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 50.878405174306, 
-      "lon": 3.35634219107, 
+      "lat": 50.87842616898, 
+      "lon": 3.356378969724, 
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 

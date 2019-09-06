@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.227235915838, 
-      "lon": 2.914375358487, 
+      "lat": 51.227233834707, 
+      "lon": 2.914381580113, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -17,8 +20,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.227043693228, 
-      "lon": 2.91500317967, 
+      "lat": 51.226930952787, 
+      "lon": 2.915097898731, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -50,31 +53,30 @@
     }, 
     {
       "busnrs": [
-        "001A", 
         "001C", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
         "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
         "0501", 
-        "0603", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "19", 
-        "1A", 
-        "1C", 
-        "20", 
-        "21", 
-        "22", 
-        "3", 
-        "4", 
-        "5", 
-        "5C", 
-        "7", 
-        "8", 
-        "9"
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "14"
@@ -128,6 +130,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -144,9 +147,6 @@
       "street": "Ieperstraat"
     }, 
     {
-      "busnrs": [
-        "0"
-      ], 
       "hnrlbls": [
         "17A-17B"
       ], 
@@ -155,20 +155,19 @@
       "lon": 2.915498028116, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "1", 
-        "2", 
-        "5", 
-        "6", 
-        "8"
+        "0302"
       ], 
       "hnrlbls": [
         "17A-17B"
@@ -178,7 +177,7 @@
       "lon": 2.915498028116, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -202,17 +201,18 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "2"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.22592880948, 
-      "lon": 2.915608628806, 
+      "lat": 51.225967590256, 
+      "lon": 2.915706498142, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -250,8 +250,7 @@
       "busnrs": [
         "0100", 
         "0101", 
-        "2", 
-        "A000"
+        "2"
       ], 
       "hnrlbls": [
         "21A"
@@ -292,8 +291,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.225776205402, 
-      "lon": 2.915744245593, 
+      "lat": 51.225776630123, 
+      "lon": 2.915742227908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -325,19 +324,18 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.225749330779, 
-      "lon": 2.915839864755, 
+      "lat": 51.225772644667, 
+      "lon": 2.915908148909, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -383,34 +381,36 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.225464370817, 
-      "lon": 2.916142105711, 
+      "lat": 51.225489115607, 
+      "lon": 2.916202470444, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.227160185696, 
-      "lon": 2.914431126025, 
+      "lat": 51.227182237243, 
+      "lon": 2.914484417076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -445,9 +445,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "32"
@@ -457,7 +457,7 @@
       "lon": 2.9161775482, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -465,8 +465,7 @@
         "0001", 
         "0003", 
         "0101", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "32A"
@@ -484,41 +483,28 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.225359633028, 
-      "lon": 2.916229697204, 
+      "lat": 51.225362320238, 
+      "lon": 2.916228897646, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.225599004967, 
-      "lon": 2.916402642339, 
+      "lat": 51.225577516314, 
+      "lon": 2.916351195957, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.2251325062, 
-      "lon": 2.916036328194, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -534,19 +520,15 @@
       "street": "Ieperstraat"
     }, 
     {
-      "busnrs": [
-        "0301", 
-        "1"
-      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.224869200032, 
-      "lon": 2.916733045335, 
+      "lat": 51.224895743063, 
+      "lon": 2.916808100381, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -566,11 +548,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.224828828981, 
-      "lon": 2.91677653798, 
+      "lat": 51.224853883177, 
+      "lon": 2.916847487336, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -589,18 +571,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.224785425286, 
-      "lon": 2.916821986193, 
+      "lat": 51.224810414181, 
+      "lon": 2.91689494195, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -672,36 +653,32 @@
       "street": "Ieperstraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.225390150593, 
-      "lon": 2.916826211724, 
+      "lat": 51.22531154173, 
+      "lon": 2.916647544111, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
-        "-101", 
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.22447268135, 
-      "lon": 2.917043472011, 
+      "lat": 51.224524701472, 
+      "lon": 2.917180013157, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -709,11 +686,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.225294620557, 
-      "lon": 2.916924252925, 
+      "lat": 51.225207115051, 
+      "lon": 2.916745862489, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -721,11 +698,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.2244319633, 
-      "lon": 2.91708067529, 
+      "lat": 51.224486155983, 
+      "lon": 2.917218437283, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -733,27 +710,27 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.227115367368, 
-      "lon": 2.914412621671, 
+      "lat": 51.227115832452, 
+      "lon": 2.914516269009, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.22517546039, 
-      "lon": 2.916898898, 
+      "lat": 51.225134128638, 
+      "lon": 2.916812848979, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -794,6 +771,7 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
         "1", 
         "2", 
@@ -807,7 +785,7 @@
       "lon": 2.916965488936, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -815,47 +793,46 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.224336603247, 
-      "lon": 2.917280503025, 
+      "lat": 51.224361567589, 
+      "lon": 2.91734415298, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.225036403562, 
-      "lon": 2.917032368581, 
+      "lat": 51.225001015679, 
+      "lon": 2.916939835081, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "1", 
-        "2", 
-        "4"
+        "0102"
       ], 
       "hnrlbls": [
-        "57-59"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.224251797496, 
-      "lon": 2.917322084539, 
+      "lat": 51.224296336307, 
+      "lon": 2.917398440149, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -868,18 +845,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57-59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.224251797496, 
-      "lon": 2.917322084539, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Ieperstraat"
     }, 
     {
@@ -897,7 +862,7 @@
     {
       "busnrs": [
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "62"
@@ -907,26 +872,25 @@
       "lon": 2.91711443998, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "3"
+        "0401"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.224742775956, 
-      "lon": 2.917258556613, 
+      "lat": 51.224715367861, 
+      "lon": 2.917230202515, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -991,21 +955,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.22450507316, 
-      "lon": 2.917521944204, 
+      "lat": 51.224481132248, 
+      "lon": 2.917468427266, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -1013,30 +976,29 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.224455776138, 
-      "lon": 2.917541374462, 
+      "lat": 51.224442581397, 
+      "lon": 2.91750642177, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
       "busnrs": [
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.224392435478, 
-      "lon": 2.91759588898, 
+      "lat": 51.224391297247, 
+      "lon": 2.917554404847, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {

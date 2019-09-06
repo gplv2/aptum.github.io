@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.221978383588, 
-      "lon": 2.910283896677, 
+      "lat": 51.221978055758, 
+      "lon": 2.910279182525, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -244,6 +247,7 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "1"
       ], 
       "hnrlbls": [
@@ -254,7 +258,7 @@
       "lon": 2.91003687832, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -315,7 +319,7 @@
       "lon": 2.910434339413, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -338,8 +342,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.221134461488, 
-      "lon": 2.910333333384, 
+      "lat": 51.221133663276, 
+      "lon": 2.910334217309, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -565,13 +569,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "46"
@@ -610,10 +611,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "49"
@@ -742,8 +742,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.220223187494, 
-      "lon": 2.909397510953, 
+      "lat": 51.220223171785, 
+      "lon": 2.909403524095, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -913,16 +913,12 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.219985705535, 
-      "lon": 2.909072671983, 
+      "lat": 51.219985280726, 
+      "lon": 2.909067388444, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -942,11 +938,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0204", 
-        "0301", 
-        "1"
+        "0301"
       ], 
       "hnrlbls": [
         "70"
@@ -956,7 +951,7 @@
       "lon": 2.90955477999, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -1069,8 +1064,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.219766794783, 
-      "lon": 2.908795785234, 
+      "lat": 51.219775461942, 
+      "lon": 2.908776903548, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1178,6 +1173,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "2"
       ], 
@@ -1189,7 +1185,7 @@
       "lon": 2.909083878947, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {

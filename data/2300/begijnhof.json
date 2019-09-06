@@ -157,8 +157,12 @@
       "street": "Begijnhof"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "21"
+        "21-21b"
       ], 
       "housenumber": "21", 
       "lat": 51.326347452866, 
@@ -166,6 +170,22 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Begijnhof"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "21-21b"
+      ], 
+      "housenumber": "21b", 
+      "lat": 51.326347452866, 
+      "lon": 4.94484780352, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Begijnhof"
     }, 
     {
@@ -197,8 +217,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.3263391741, 
-      "lon": 4.944572685141, 
+      "lat": 51.326335942008, 
+      "lon": 4.944571927778, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +229,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.32634600128, 
-      "lon": 4.944481097827, 
+      "lat": 51.326351674712, 
+      "lon": 4.944478872741, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 

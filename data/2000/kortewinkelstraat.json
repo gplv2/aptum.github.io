@@ -181,11 +181,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.221334381915, 
-      "lon": 4.414312406254, 
+      "lat": 51.221449563478, 
+      "lon": 4.414209177394, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Winkelstraat"
     }, 
     {
@@ -216,6 +216,10 @@
       "street": "Korte Winkelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -225,6 +229,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Korte Winkelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.221128884832, 
+      "lon": 4.41482676744, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Winkelstraat"
     }, 
     {
@@ -276,23 +292,8 @@
     }, 
     {
       "busnrs": [
-        "6", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "1-8"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.221371169747, 
-      "lon": 4.414247602922, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Korte Winkelstraat"
-    }, 
-    {
-      "busnrs": [
         "101", 
+        "202", 
         "301"
       ], 
       "hnrlbls": [
@@ -301,18 +302,6 @@
       "housenumber": "5", 
       "lat": 51.221343428932, 
       "lon": 4.414848739027, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Korte Winkelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-8"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.221371169747, 
-      "lon": 4.414247602922, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -332,14 +321,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.221371169747, 
-      "lon": 4.414247602922, 
+      "lat": 51.221300421201, 
+      "lon": 4.41450245459, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Winkelstraat"
     }, 
     {

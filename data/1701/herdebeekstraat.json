@@ -1166,11 +1166,11 @@
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 50.825551888142, 
-      "lon": 4.233958314813, 
+      "lat": 50.825562353139, 
+      "lon": 4.233912157799, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdebeekstraat"
     }, 
     {
@@ -1178,8 +1178,8 @@
         "259A"
       ], 
       "housenumber": "259A", 
-      "lat": 50.825490095557, 
-      "lon": 4.234007030919, 
+      "lat": 50.825501319456, 
+      "lon": 4.233917015572, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
       "source": "manueleAanduidingVanLot", 
@@ -1606,7 +1606,8 @@
         "1.0"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
         "367"
@@ -1636,11 +1637,11 @@
         "370"
       ], 
       "housenumber": "370", 
-      "lat": 50.819148811686, 
-      "lon": 4.236760711, 
+      "lat": 50.81907850263, 
+      "lon": 4.236751399287, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdebeekstraat"
     }, 
     {
@@ -1757,26 +1758,14 @@
     }, 
     {
       "hnrlbls": [
-        "398-398B"
+        "398"
       ], 
       "housenumber": "398", 
-      "lat": 50.816903786296, 
-      "lon": 4.237840904416, 
+      "lat": 50.816972902668, 
+      "lon": 4.237586137594, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Herdebeekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "398-398B"
-      ], 
-      "housenumber": "398B", 
-      "lat": 50.816903786296, 
-      "lon": 4.237840904416, 
-      "municipality": "Dilbeek", 
-      "pcode": "1701", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdebeekstraat"
     }, 
     {
@@ -1827,11 +1816,11 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.816685680987, 
-      "lon": 4.237744162789, 
+      "lat": 50.816676030976, 
+      "lon": 4.237635349971, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herdebeekstraat"
     }, 
     {
@@ -2110,8 +2099,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.836933155141, 
-      "lon": 4.228588287022, 
+      "lat": 50.836902228995, 
+      "lon": 4.22858653323, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
       "source": "manueleAanduidingVanGebouw", 

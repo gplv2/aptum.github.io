@@ -440,8 +440,8 @@
         "133-133B"
       ], 
       "housenumber": "133", 
-      "lat": 50.955127491951, 
-      "lon": 3.594693495466, 
+      "lat": 50.955128473222, 
+      "lon": 3.594692340649, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -452,8 +452,8 @@
         "133A"
       ], 
       "housenumber": "133A", 
-      "lat": 50.955084675803, 
-      "lon": 3.595263803101, 
+      "lat": 50.95508653904, 
+      "lon": 3.595273735442, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -464,8 +464,8 @@
         "133-133B"
       ], 
       "housenumber": "133B", 
-      "lat": 50.955127491951, 
-      "lon": 3.594693495466, 
+      "lat": 50.955128473222, 
+      "lon": 3.594692340649, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -932,8 +932,8 @@
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 50.963947436197, 
-      "lon": 3.595769149686, 
+      "lat": 50.963945597316, 
+      "lon": 3.595762916306, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1493,7 +1493,49 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "20", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "25", 
+        "26", 
+        "27", 
+        "28", 
+        "29", 
+        "3", 
+        "30", 
+        "31", 
+        "32", 
+        "33", 
+        "34", 
+        "35", 
+        "36", 
+        "37", 
+        "38", 
+        "39", 
+        "4", 
+        "40", 
+        "41", 
+        "42", 
+        "43", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "197"
@@ -2027,11 +2069,11 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 50.94397221111, 
-      "lon": 3.590032960044, 
+      "lat": 50.943961224869, 
+      "lon": 3.590098029047, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "'s Gravenstraat"
     }, 
     {
@@ -2222,7 +2264,62 @@
     }, 
     {
       "hnrlbls": [
-        "38-38A"
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.962225622785, 
+      "lon": 3.594358056571, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 50.962139648487, 
+      "lon": 3.594353069418, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36C"
+      ], 
+      "housenumber": "36C", 
+      "lat": 50.96205176595, 
+      "lon": 3.594344982062, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36D"
+      ], 
+      "housenumber": "36D", 
+      "lat": 50.961979035974, 
+      "lon": 3.594344473963, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "38-38D"
       ], 
       "housenumber": "38", 
       "lat": 50.961443745269, 
@@ -2234,9 +2331,45 @@
     }, 
     {
       "hnrlbls": [
-        "38-38A"
+        "38-38D"
       ], 
       "housenumber": "38A", 
+      "lat": 50.961443745269, 
+      "lon": 3.595239853236, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38-38D"
+      ], 
+      "housenumber": "38B", 
+      "lat": 50.961443745269, 
+      "lon": 3.595239853236, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38-38D"
+      ], 
+      "housenumber": "38C", 
+      "lat": 50.961443745269, 
+      "lon": 3.595239853236, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "'s Gravenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38-38D"
+      ], 
+      "housenumber": "38D", 
       "lat": 50.961443745269, 
       "lon": 3.595239853236, 
       "municipality": "Nazareth", 
@@ -2429,8 +2562,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.960067164198, 
-      "lon": 3.59510482319, 
+      "lat": 50.960094576789, 
+      "lon": 3.59485783077, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -2855,11 +2988,11 @@
         "95-95A"
       ], 
       "housenumber": "95", 
-      "lat": 50.958971906878, 
-      "lon": 3.595412967888, 
+      "lat": 50.958874100906, 
+      "lon": 3.59544062778, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "'s Gravenstraat"
     }, 
     {
@@ -2867,11 +3000,11 @@
         "95-95A"
       ], 
       "housenumber": "95A", 
-      "lat": 50.958971906878, 
-      "lon": 3.595412967888, 
+      "lat": 50.958874100906, 
+      "lon": 3.59544062778, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "'s Gravenstraat"
     }, 
     {

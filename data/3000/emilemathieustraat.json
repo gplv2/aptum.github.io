@@ -272,8 +272,11 @@
       "street": "Emile Mathieustraat"
     }, 
     {
+      "busnrs": [
+        "03K1"
+      ], 
       "hnrlbls": [
-        "28"
+        "28-28K"
       ], 
       "housenumber": "28", 
       "lat": 50.869288418849, 
@@ -281,6 +284,21 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Emile Mathieustraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "28-28K"
+      ], 
+      "housenumber": "28K", 
+      "lat": 50.869288418849, 
+      "lon": 4.702343369165, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Emile Mathieustraat"
     }, 
     {

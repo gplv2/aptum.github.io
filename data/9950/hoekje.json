@@ -445,6 +445,9 @@
       "street": "Hoekje"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -461,8 +464,8 @@
         "131_1"
       ], 
       "housenumber": "131_1", 
-      "lat": 51.159824527627, 
-      "lon": 3.615931483355, 
+      "lat": 51.159824972482, 
+      "lon": 3.615930761424, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -505,6 +508,9 @@
       "street": "Hoekje"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -557,8 +563,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.160889993457, 
-      "lon": 3.615253289562, 
+      "lat": 51.160921709604, 
+      "lon": 3.61520860467, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1131,6 +1137,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.155070368881, 
+      "lon": 3.614462040799, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Hoekje"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -1331,6 +1349,21 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoekje"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 51.159847394952, 
+      "lon": 3.616600563748, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoekje"
     }, 
     {
@@ -1781,11 +1814,23 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.161648051379, 
-      "lon": 3.616030911904, 
+      "lat": 51.161614470539, 
+      "lon": 3.615994569557, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoekje"
+    }, 
+    {
+      "hnrlbls": [
+        "98A"
+      ], 
+      "housenumber": "98A", 
+      "lat": 51.161683638486, 
+      "lon": 3.616057643762, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoekje"
     }, 
     {

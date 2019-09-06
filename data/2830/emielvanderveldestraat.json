@@ -200,8 +200,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.061660884622, 
-      "lon": 4.354271480838, 
+      "lat": 51.061661154122, 
+      "lon": 4.354270054302, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -224,8 +224,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.061662217511, 
-      "lon": 4.354140103781, 
+      "lat": 51.061662936439, 
+      "lon": 4.354138534465, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -296,23 +296,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.060904829855, 
-      "lon": 4.357825520393, 
+      "lat": 51.060946726644, 
+      "lon": 4.357923222019, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Emiel Vanderveldestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "130"
-      ], 
-      "housenumber": "130", 
-      "lat": 51.064976547683, 
-      "lon": 4.347062963052, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Emiel Vanderveldestraat"
     }, 
     {
@@ -743,11 +731,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "177-179"
+        "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.06260815817, 
-      "lon": 4.351006261492, 
+      "lat": 51.062574100073, 
+      "lon": 4.351074602516, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -761,11 +749,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "177-179"
+        "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.06260815817, 
-      "lon": 4.351006261492, 
+      "lat": 51.062642665734, 
+      "lon": 4.350938348151, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -914,14 +902,14 @@
         "0301"
       ], 
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.060925541062, 
-      "lon": 4.358257154869, 
+      "lat": 51.061127049598, 
+      "lon": 4.357985375753, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Emiel Vanderveldestraat"
     }, 
     {
@@ -1049,11 +1037,11 @@
         "237"
       ], 
       "hnrlbls": [
-        "235-237"
+        "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.063313198612, 
-      "lon": 4.347333034069, 
+      "lat": 51.063297658426, 
+      "lon": 4.347393524834, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1061,11 +1049,11 @@
     }, 
     {
       "hnrlbls": [
-        "235-237"
+        "237"
       ], 
       "housenumber": "237", 
-      "lat": 51.063313198612, 
-      "lon": 4.347333034069, 
+      "lat": 51.063328109995, 
+      "lon": 4.347275111256, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1325,14 +1313,14 @@
         "0301"
       ], 
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.060925541062, 
-      "lon": 4.358257154869, 
+      "lat": 51.061154722402, 
+      "lon": 4.357833881734, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Emiel Vanderveldestraat"
     }, 
     {
@@ -1567,6 +1555,11 @@
       "street": "Emiel Vanderveldestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1580,26 +1573,14 @@
     }, 
     {
       "hnrlbls": [
-        "4A-6"
+        "4A"
       ], 
       "housenumber": "4A", 
       "lat": 51.061308954784, 
       "lon": 4.357635572038, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Emiel Vanderveldestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.060705557291, 
-      "lon": 4.357960931957, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Vanderveldestraat"
     }, 
     {
@@ -1724,18 +1705,6 @@
     }, 
     {
       "hnrlbls": [
-        "4A-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.061308954784, 
-      "lon": 4.357635572038, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Emiel Vanderveldestraat"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -1840,18 +1809,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Emiel Vanderveldestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6A"
-      ], 
-      "housenumber": "6A", 
-      "lat": 51.061324597447, 
-      "lon": 4.357657678472, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Emiel Vanderveldestraat"
     }, 
     {

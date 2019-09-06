@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A"
       ], 
@@ -134,6 +135,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Cardijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "1_1"
+      ], 
+      "housenumber": "1_1", 
+      "lat": 51.107963568909, 
+      "lon": 3.43139605858, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Cardijnlaan"
     }, 
     {

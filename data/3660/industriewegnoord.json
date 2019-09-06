@@ -2,26 +2,50 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1102-1104"
+        "1102A"
       ], 
-      "housenumber": "1102", 
-      "lat": 51.033711943029, 
-      "lon": 5.532588152954, 
+      "housenumber": "1102A", 
+      "lat": 51.033763989995, 
+      "lon": 5.532115945501, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Industrieweg-Noord"
     }, 
     {
       "hnrlbls": [
-        "1102-1104"
+        "1102B"
       ], 
-      "housenumber": "1104", 
-      "lat": 51.033711943029, 
-      "lon": 5.532588152954, 
+      "housenumber": "1102B", 
+      "lat": 51.03383867493, 
+      "lon": 5.532327392812, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Industrieweg-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1104A"
+      ], 
+      "housenumber": "1104A", 
+      "lat": 51.03391579715, 
+      "lon": 5.532546885837, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Industrieweg-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1104B"
+      ], 
+      "housenumber": "1104B", 
+      "lat": 51.033996693873, 
+      "lon": 5.532766473502, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Industrieweg-Noord"
     }, 
     {
@@ -110,9 +134,16 @@
         "18", 
         "19", 
         "2", 
+        "20", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
         "3", 
+        "4", 
         "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -120,11 +151,11 @@
         "1118"
       ], 
       "housenumber": "1118", 
-      "lat": 51.035018749405, 
-      "lon": 5.536788905296, 
+      "lat": 51.035129001973, 
+      "lon": 5.536703969617, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Industrieweg-Noord"
     }, 
     {
@@ -276,8 +307,8 @@
         "1141"
       ], 
       "housenumber": "1141", 
-      "lat": 51.038798955254, 
-      "lon": 5.544800522439, 
+      "lat": 51.038866448656, 
+      "lon": 5.544730779512, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 
@@ -330,16 +361,10 @@
       "street": "Industrieweg-Noord"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "1149"
+        "1149A"
       ], 
-      "housenumber": "1149", 
+      "housenumber": "1149A", 
       "lat": 51.038933432216, 
       "lon": 5.546698839107, 
       "municipality": "Oudsbergen", 
@@ -349,14 +374,42 @@
     }, 
     {
       "hnrlbls": [
-        "1149C"
+        "1149B"
       ], 
-      "housenumber": "1149C", 
-      "lat": 51.039078976647, 
-      "lon": 5.546825135396, 
+      "housenumber": "1149B", 
+      "lat": 51.039194830184, 
+      "lon": 5.546729234423, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Industrieweg-Noord"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1149C"
+      ], 
+      "housenumber": "1149C", 
+      "lat": 51.03928116353, 
+      "lon": 5.546663532913, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Industrieweg-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1149D"
+      ], 
+      "housenumber": "1149D", 
+      "lat": 51.039340716538, 
+      "lon": 5.54792557766, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industrieweg-Noord"
     }, 
     {
@@ -448,8 +501,8 @@
         "1158"
       ], 
       "housenumber": "1158", 
-      "lat": 51.03831789799, 
-      "lon": 5.54824986171, 
+      "lat": 51.038317527046, 
+      "lon": 5.548250993098, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 
@@ -587,6 +640,9 @@
       "street": "Industrieweg-Noord"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1178"
       ], 
@@ -639,8 +695,8 @@
         "1188"
       ], 
       "housenumber": "1188", 
-      "lat": 51.038793436745, 
-      "lon": 5.55629973828, 
+      "lat": 51.038800503303, 
+      "lon": 5.556312180767, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 

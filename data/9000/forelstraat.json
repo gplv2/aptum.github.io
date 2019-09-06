@@ -241,7 +241,7 @@
     }, 
     {
       "hnrlbls": [
-        "109-109C"
+        "109-109B"
       ], 
       "housenumber": "109", 
       "lat": 51.048811608316, 
@@ -253,7 +253,7 @@
     }, 
     {
       "hnrlbls": [
-        "109-109C"
+        "109-109B"
       ], 
       "housenumber": "109A", 
       "lat": 51.048811608316, 
@@ -265,21 +265,9 @@
     }, 
     {
       "hnrlbls": [
-        "109-109C"
+        "109-109B"
       ], 
       "housenumber": "109B", 
-      "lat": 51.048811608316, 
-      "lon": 3.742936453126, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Forelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "109-109C"
-      ], 
-      "housenumber": "109C", 
       "lat": 51.048811608316, 
       "lon": 3.742936453126, 
       "municipality": "Gent", 
@@ -822,6 +810,23 @@
       "street": "Forelstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "153"
+      ], 
+      "housenumber": "153", 
+      "lat": 51.049780408766, 
+      "lon": 3.744773650787, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Forelstraat"
+    }, 
+    {
       "hnrlbls": [
         "15-25"
       ], 
@@ -1285,14 +1290,26 @@
     }, 
     {
       "hnrlbls": [
+        "52-54"
+      ], 
+      "housenumber": "52", 
+      "lat": 51.047965931587, 
+      "lon": 3.741690650084, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Forelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.047895663945, 
-      "lon": 3.741104612658, 
+      "lat": 51.048145953473, 
+      "lon": 3.740924138765, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Forelstraat"
     }, 
     {
@@ -1302,7 +1319,7 @@
         "0401"
       ], 
       "hnrlbls": [
-        "54"
+        "52-54"
       ], 
       "housenumber": "54", 
       "lat": 51.047965931587, 

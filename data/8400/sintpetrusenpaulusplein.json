@@ -2,11 +2,19 @@
   "addresses": [
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "2", 
-        "3", 
-        "4", 
-        "6"
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701"
       ], 
       "hnrlbls": [
         "1"
@@ -83,7 +91,6 @@
         "3", 
         "4", 
         "5", 
-        "5R", 
         "7", 
         "9"
       ], 
@@ -172,8 +179,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.229473631369, 
-      "lon": 2.923022333095, 
+      "lat": 51.229470336702, 
+      "lon": 2.923017566898, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -249,8 +256,7 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "22"
@@ -260,7 +266,7 @@
       "lon": 2.92339147806, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Petrus- en -Paulusplein"
     }, 
     {
@@ -268,10 +274,15 @@
         "0101", 
         "1", 
         "11", 
+        "12", 
+        "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "23"
@@ -295,19 +306,14 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.229304487092, 
-      "lon": 2.922084984782, 
+      "lat": 51.229306190453, 
+      "lon": 2.922091948046, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Petrus- en -Paulusplein"
     }, 
     {
-      "busnrs": [
-        "0008", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -347,19 +353,15 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
+        "0201", 
         "0202", 
         "0301", 
-        "0502", 
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "8", 
-        "9"
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "7"
@@ -374,14 +376,18 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "1", 
         "10", 
+        "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "8"
@@ -391,7 +397,7 @@
       "lon": 2.922633475807, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Petrus- en -Paulusplein"
     }, 
     {
@@ -408,8 +414,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.229368756956, 
-      "lon": 2.922363635597, 
+      "lat": 51.229372422235, 
+      "lon": 2.922361946874, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

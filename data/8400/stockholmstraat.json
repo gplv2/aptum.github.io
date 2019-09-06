@@ -38,7 +38,9 @@
       "busnrs": [
         "0102", 
         "0202", 
+        "0303", 
         "0502", 
+        "0503", 
         "10", 
         "11", 
         "12", 
@@ -150,6 +152,7 @@
     {
       "busnrs": [
         "0102", 
+        "0302", 
         "1", 
         "10", 
         "11", 
@@ -170,7 +173,7 @@
       "lon": 2.917145511908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stockholmstraat"
     }, 
     {
@@ -197,6 +200,7 @@
     }, 
     {
       "busnrs": [
+        "0102", 
         "0302", 
         "10", 
         "11", 
@@ -215,11 +219,12 @@
       "lon": 2.917268518584, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stockholmstraat"
     }, 
     {
       "busnrs": [
+        "0201", 
         "0301", 
         "0501", 
         "1", 
@@ -348,31 +353,29 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.225190058256, 
-      "lon": 2.917795567579, 
+      "lat": 51.225214468386, 
+      "lon": 2.917872694504, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stockholmstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
         "0401", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "59"

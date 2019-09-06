@@ -91,6 +91,38 @@
       "street": "Bellemdorpweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "14-18"
+      ], 
+      "housenumber": "16_1", 
+      "lat": 51.088698461968, 
+      "lon": 3.490931352625, 
+      "municipality": "Aalter", 
+      "pcode": "9881", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemdorpweg"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "14-18"
+      ], 
+      "housenumber": "16_2", 
+      "lat": 51.088698461968, 
+      "lon": 3.490931352625, 
+      "municipality": "Aalter", 
+      "pcode": "9881", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bellemdorpweg"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -263,6 +295,9 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
+        "00OC", 
         "0A", 
         "0B", 
         "0C"
@@ -1168,7 +1203,7 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "87-87B"
       ], 
       "housenumber": "87", 
       "lat": 51.093403473094, 
@@ -1188,6 +1223,18 @@
       "municipality": "Aalter", 
       "pcode": "9881", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Bellemdorpweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87-87B"
+      ], 
+      "housenumber": "87B", 
+      "lat": 51.093403473094, 
+      "lon": 3.481714630849, 
+      "municipality": "Aalter", 
+      "pcode": "9881", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bellemdorpweg"
     }, 
     {

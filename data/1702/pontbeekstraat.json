@@ -64,8 +64,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.874585381565, 
-      "lon": 4.286085924728, 
+      "lat": 50.874587541213, 
+      "lon": 4.286089046669, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
       "source": "afgeleidVanPerceelGrb", 
@@ -88,8 +88,10 @@
         "001", 
         "101", 
         "102", 
+        "103", 
         "201", 
-        "202"
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "21-21"
@@ -130,6 +132,7 @@
         "1", 
         "101", 
         "102", 
+        "2", 
         "201", 
         "4"
       ], 
@@ -179,27 +182,24 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "101"
       ], 
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "102", 
-        "2", 
         "201", 
-        "202", 
-        "4", 
-        "5", 
-        "6"
+        "202"
       ], 
       "hnrlbls": [
-        "3-19"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.873693886379, 
-      "lon": 4.286327018789, 
+      "lat": 50.87370479529, 
+      "lon": 4.286501752128, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontbeekstraat"
     }, 
     {
@@ -307,13 +307,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
-        "2", 
+        "102", 
         "201", 
-        "202", 
-        "3", 
-        "4"
+        "202"
       ], 
       "hnrlbls": [
         "9"
@@ -323,7 +320,7 @@
       "lon": 4.286837119655, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontbeekstraat"
     }
   ]

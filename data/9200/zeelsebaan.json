@@ -404,6 +404,9 @@
       "street": "Zeelsebaan"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -437,6 +440,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.044433059766, 
+      "lon": 4.093698185322, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zeelsebaan"
     }, 
     {
@@ -744,8 +759,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.045519731151, 
-      "lon": 4.092038683294, 
+      "lat": 51.045518441294, 
+      "lon": 4.092025286739, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -900,11 +915,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.045760215881, 
-      "lon": 4.091093407635, 
+      "lat": 51.045672300426, 
+      "lon": 4.091092216684, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zeelsebaan"
     }, 
     {
@@ -914,6 +929,18 @@
       "housenumber": "82A", 
       "lat": 51.045460148317, 
       "lon": 4.091087482972, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zeelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.045667035493, 
+      "lon": 4.090688410527, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -984,8 +1011,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.051973162573, 
-      "lon": 4.076676262414, 
+      "lat": 51.051954950017, 
+      "lon": 4.076654127528, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

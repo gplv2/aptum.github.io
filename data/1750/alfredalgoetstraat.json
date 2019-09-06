@@ -211,7 +211,7 @@
       "lon": 4.156458603416, 
       "municipality": "Lennik", 
       "pcode": "1750", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Alfred Algoetstraat"
     }, 
     {
@@ -623,11 +623,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.806516987485, 
-      "lon": 4.159980399108, 
+      "lat": 50.806517254401, 
+      "lon": 4.159978837329, 
       "municipality": "Lennik", 
       "pcode": "1750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Alfred Algoetstraat"
     }, 
     {
@@ -1149,6 +1149,18 @@
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanGebouw", 
+      "street": "Alfred Algoetstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.807764728817, 
+      "lon": 4.162259090495, 
+      "municipality": "Lennik", 
+      "pcode": "1750", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfred Algoetstraat"
     }, 
     {

@@ -13,6 +13,10 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -108,11 +112,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
-      "busnrs": [
-        "2"
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "21"
@@ -222,8 +224,12 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002"
+      ], 
       "hnrlbls": [
-        "4-4A"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.86189896232, 
@@ -231,18 +237,6 @@
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 50.86189896232, 
-      "lon": 4.513880783909, 
-      "municipality": "Zaventem", 
-      "pcode": "1933", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

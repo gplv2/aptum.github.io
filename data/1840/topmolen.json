@@ -196,8 +196,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.026656160435, 
-      "lon": 4.294478101605, 
+      "lat": 51.026656430372, 
+      "lon": 4.294478528798, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -225,8 +225,8 @@
         "115A"
       ], 
       "housenumber": "115A", 
-      "lat": 51.026689557311, 
-      "lon": 4.294554307597, 
+      "lat": 51.026689647379, 
+      "lon": 4.294554592534, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -252,8 +252,8 @@
         "117A"
       ], 
       "housenumber": "117A", 
-      "lat": 51.026784233338, 
-      "lon": 4.29458893861, 
+      "lat": 51.026783963489, 
+      "lon": 4.294588653955, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -276,8 +276,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.026791611111, 
-      "lon": 4.294744010024, 
+      "lat": 51.026791700735, 
+      "lon": 4.294743582266, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -328,8 +328,8 @@
         "122A"
       ], 
       "housenumber": "122A", 
-      "lat": 51.026290275571, 
-      "lon": 4.293997610852, 
+      "lat": 51.02627632206, 
+      "lon": 4.293964991732, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -680,11 +680,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.022908251368, 
-      "lon": 4.294728710737, 
+      "lat": 51.022896032685, 
+      "lon": 4.294738991862, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Topmolen"
     }, 
     {
@@ -722,11 +722,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.022943271381, 
-      "lon": 4.29481331741, 
+      "lat": 51.022910586696, 
+      "lon": 4.294870237086, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Topmolen"
     }, 
     {
@@ -734,11 +734,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.023001266553, 
-      "lon": 4.294838881733, 
+      "lat": 51.022979884904, 
+      "lon": 4.294858584017, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Topmolen"
     }, 
     {
@@ -758,11 +758,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.023035531224, 
-      "lon": 4.29486533838, 
+      "lat": 51.023029891615, 
+      "lon": 4.294903117131, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Topmolen"
     }, 
     {
@@ -1388,6 +1388,23 @@
       "street": "Topmolen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.025331904105, 
+      "lon": 4.294921898695, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Topmolen"
+    }, 
+    {
       "hnrlbls": [
         "86"
       ], 
@@ -1400,20 +1417,15 @@
       "street": "Topmolen"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "102"
-      ], 
       "hnrlbls": [
-        "87A"
+        "87"
       ], 
-      "housenumber": "87A", 
-      "lat": 51.025375350362, 
-      "lon": 4.294969009988, 
+      "housenumber": "87", 
+      "lat": 51.025365576429, 
+      "lon": 4.294863121612, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Topmolen"
     }, 
     {
@@ -1481,8 +1493,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.025585628776, 
-      "lon": 4.294720241792, 
+      "lat": 51.02558607805, 
+      "lon": 4.294719956016, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 

@@ -460,14 +460,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "39-41"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.870919482692, 
-      "lon": 3.810495028376, 
+      "lat": 50.870926849725, 
+      "lon": 3.810607602918, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heldenlaan"
     }, 
     {
@@ -499,14 +499,14 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.870919482692, 
-      "lon": 3.810495028376, 
+      "lat": 50.870911935092, 
+      "lon": 3.810382313941, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heldenlaan"
     }, 
     {
@@ -600,11 +600,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.871216990641, 
-      "lon": 3.809652423611, 
+      "lat": 50.871198650041, 
+      "lon": 3.809727655305, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldenlaan"
     }, 
     {
@@ -641,8 +641,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.871257759734, 
-      "lon": 3.809699817176, 
+      "lat": 50.871256673595, 
+      "lon": 3.809698267297, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanGebouw", 
@@ -725,14 +725,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "3"
       ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.871311229428, 
-      "lon": 3.810319609049, 
+      "lat": 50.871310857619, 
+      "lon": 3.810335951714, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -743,11 +744,23 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.871564954694, 
-      "lon": 3.809495559889, 
+      "lat": 50.871576658485, 
+      "lon": 3.809631384183, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heldenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "58A"
+      ], 
+      "housenumber": "58A", 
+      "lat": 50.871608054413, 
+      "lon": 3.809617087889, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldenlaan"
     }, 
     {
@@ -779,15 +792,19 @@
       "street": "Heldenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.871598738605, 
-      "lon": 3.809529681883, 
+      "lat": 50.871579970121, 
+      "lon": 3.809533883038, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldenlaan"
     }, 
     {
@@ -1055,8 +1072,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.871960352159, 
-      "lon": 3.810106606483, 
+      "lat": 50.871958874709, 
+      "lon": 3.810098383755, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -1119,6 +1136,9 @@
       "street": "Heldenlaan"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "83"
       ], 

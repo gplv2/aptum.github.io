@@ -1,18 +1,23 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1", 
+        "B1"
+      ], 
       "busnrs": [
-        "1"
+        "A", 
+        "B"
       ], 
       "hnrlbls": [
-        "1-1B"
+        "1-1A"
       ], 
       "housenumber": "1", 
-      "lat": 50.795817677084, 
-      "lon": 4.127098874823, 
+      "lat": 50.795589335585, 
+      "lon": 4.127315782485, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Professor Frans Heymansstraat"
     }, 
     {
@@ -64,18 +69,15 @@
       "street": "Professor Frans Heymansstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "1-1B"
+        "1-1A"
       ], 
-      "housenumber": "1B", 
-      "lat": 50.795817677084, 
-      "lon": 4.127098874823, 
+      "housenumber": "1A", 
+      "lat": 50.795589335585, 
+      "lon": 4.127315782485, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Professor Frans Heymansstraat"
     }, 
     {

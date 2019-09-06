@@ -32,6 +32,18 @@
         "101"
       ], 
       "housenumber": "101", 
+      "lat": 51.204174572296, 
+      "lon": 3.47137893335, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Leopoldlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
       "lat": 51.204179865954, 
       "lon": 3.471673887154, 
       "municipality": "Maldegem", 
@@ -41,6 +53,8 @@
     }, 
     {
       "apptnrs": [
+        "0-01", 
+        "0-02", 
         "1-01", 
         "1-02", 
         "1-03"
@@ -672,11 +686,11 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.204108782254, 
-      "lon": 3.454338236593, 
+      "lat": 51.204148649504, 
+      "lon": 3.454320856904, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Leopoldlaan"
     }, 
     {
@@ -744,8 +758,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.204027396282, 
-      "lon": 3.454601259761, 
+      "lat": 51.204028121938, 
+      "lon": 3.454602104101, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -792,8 +806,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.203438280614, 
-      "lon": 3.458673548262, 
+      "lat": 51.203433054495, 
+      "lon": 3.458671933073, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -804,11 +818,11 @@
         "65B"
       ], 
       "housenumber": "65B", 
-      "lat": 51.203436990135, 
-      "lon": 3.458727804515, 
+      "lat": 51.203436255368, 
+      "lon": 3.458749139243, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Koning Leopoldlaan"
     }, 
     {
@@ -833,6 +847,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Leopoldlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.20405564512, 
+      "lon": 3.45477871292, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Koning Leopoldlaan"
     }, 
     {
@@ -960,11 +986,23 @@
     }, 
     {
       "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.204021653301, 
+      "lon": 3.454905013125, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Koning Leopoldlaan"
+    }, 
+    {
+      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.203799756399, 
-      "lon": 3.46443106485, 
+      "lat": 51.203815078469, 
+      "lon": 3.4644246151, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1127,18 +1165,6 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koning Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.204174656747, 
-      "lon": 3.471378216267, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Leopoldlaan"
     }
   ]

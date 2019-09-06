@@ -181,12 +181,10 @@
       "street": "Arendlaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "3"
-      ], 
       "busnrs": [
-        "02/1"
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "29"
@@ -452,20 +450,27 @@
       "street": "Arendlaan"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "1"
-      ], 
       "hnrlbls": [
-        "47"
+        "47A-47B"
       ], 
-      "housenumber": "47", 
-      "lat": 50.909197110691, 
-      "lon": 4.366551204687, 
+      "housenumber": "47A", 
+      "lat": 50.909197560169, 
+      "lon": 4.366552057767, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Arendlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "47A-47B"
+      ], 
+      "housenumber": "47B", 
+      "lat": 50.909197560169, 
+      "lon": 4.366552057767, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Arendlaan"
     }, 
     {
@@ -673,10 +678,10 @@
       "street": "Arendlaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "66"

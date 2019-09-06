@@ -160,11 +160,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.829736334676, 
-      "lon": 4.759941790288, 
+      "lat": 50.82965515729, 
+      "lon": 4.759941965469, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bergstraat"
     }, 
     {
@@ -253,7 +253,7 @@
     }, 
     {
       "hnrlbls": [
-        "23"
+        "23-23B"
       ], 
       "housenumber": "23", 
       "lat": 50.829953097705, 
@@ -273,6 +273,18 @@
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23-23B"
+      ], 
+      "housenumber": "23B", 
+      "lat": 50.829953097705, 
+      "lon": 4.759396967438, 
+      "municipality": "Bierbeek", 
+      "pcode": "3360", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bergstraat"
     }, 
     {

@@ -109,6 +109,28 @@
       "street": "Langemarkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.87369990205, 
+      "lon": 2.986226820077, 
+      "municipality": "Zonnebeke", 
+      "pcode": "8980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Langemarkstraat"
+    }, 
+    {
       "hnrlbls": [
         "116"
       ], 
@@ -235,18 +257,6 @@
       "housenumber": "15", 
       "lat": 50.873748134843, 
       "lon": 2.986077617536, 
-      "municipality": "Zonnebeke", 
-      "pcode": "8980", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Langemarkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.873928519751, 
-      "lon": 2.985850776372, 
       "municipality": "Zonnebeke", 
       "pcode": "8980", 
       "source": "manueleAanduidingVanGebouw", 
@@ -601,37 +611,6 @@
       "housenumber": "43", 
       "lat": 50.875130228882, 
       "lon": 2.983796687216, 
-      "municipality": "Zonnebeke", 
-      "pcode": "8980", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Langemarkstraat"
-    }, 
-    {
-      "apptnrs": [
-        "102", 
-        "201"
-      ], 
-      "hnrlbls": [
-        "44A"
-      ], 
-      "housenumber": "44A", 
-      "lat": 50.875662097725, 
-      "lon": 2.983671450086, 
-      "municipality": "Zonnebeke", 
-      "pcode": "8980", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Langemarkstraat"
-    }, 
-    {
-      "apptnrs": [
-        "001"
-      ], 
-      "hnrlbls": [
-        "44B"
-      ], 
-      "housenumber": "44B", 
-      "lat": 50.875751418379, 
-      "lon": 2.983499569538, 
       "municipality": "Zonnebeke", 
       "pcode": "8980", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1294,7 +1273,7 @@
       "lon": 2.980548703501, 
       "municipality": "Zonnebeke", 
       "pcode": "8980", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Langemarkstraat"
     }, 
     {

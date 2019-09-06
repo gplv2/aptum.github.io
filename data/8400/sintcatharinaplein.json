@@ -33,7 +33,8 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "1"
+        "1", 
+        "201"
       ], 
       "hnrlbls": [
         "12B"
@@ -79,8 +80,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.216773165726, 
-      "lon": 2.905936050336, 
+      "lat": 51.216773035153, 
+      "lon": 2.905932762028, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -126,6 +127,7 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0302", 
@@ -360,6 +362,10 @@
       "street": "Sint-Catharinaplein"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -219,8 +219,7 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "25A"
@@ -398,11 +397,26 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.800981758187, 
-      "lon": 3.965189190065, 
+      "lat": 50.800959712656, 
+      "lon": 3.965235482477, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
+      "street": "Peperstraat"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 50.801020936904, 
+      "lon": 3.965158213376, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9506", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Peperstraat"
     }, 
     {

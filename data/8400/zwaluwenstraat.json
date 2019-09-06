@@ -101,6 +101,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "2"
       ], 
       "hnrlbls": [
@@ -133,14 +134,7 @@
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "1A", 
-        "1B", 
-        "2B", 
-        "3A", 
-        "3B", 
-        "6"
+        "0302"
       ], 
       "hnrlbls": [
         "110"
@@ -167,6 +161,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "2"
       ], 
@@ -178,7 +173,7 @@
       "lon": 2.911706258697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenstraat"
     }, 
     {
@@ -195,21 +190,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0402"
       ], 
       "hnrlbls": [
         "114"
@@ -224,16 +214,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "CO"
+        "0401"
       ], 
       "hnrlbls": [
         "114A"
@@ -248,16 +233,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "114B"
@@ -497,6 +480,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "1", 
         "2"
@@ -509,7 +493,7 @@
       "lon": 2.912968115893, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenstraat"
     }, 
     {
@@ -663,7 +647,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "147"
@@ -720,11 +706,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.218350425556, 
-      "lon": 2.91391959641, 
+      "lat": 51.218328512287, 
+      "lon": 2.914038380552, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenstraat"
     }, 
     {
@@ -736,7 +722,7 @@
       "lon": 2.914059108374, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zwaluwenstraat"
     }, 
     {
@@ -773,14 +759,14 @@
         "3A"
       ], 
       "hnrlbls": [
-        "135-156"
+        "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.218414637619, 
-      "lon": 2.914184573421, 
+      "lat": 51.218397783264, 
+      "lon": 2.914181090709, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwaluwenstraat"
     }, 
     {
@@ -799,6 +785,7 @@
       "busnrs": [
         "0101", 
         "1", 
+        "102", 
         "2", 
         "3", 
         "4", 
@@ -835,18 +822,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0201", 
-        "0203", 
+        "0202", 
         "0301", 
-        "0302", 
-        "2", 
-        "2A", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "B"
+        "0302"
       ], 
       "hnrlbls": [
         "160"
@@ -873,18 +855,13 @@
     }, 
     {
       "busnrs": [
-        "002C", 
+        "0001", 
+        "0101", 
         "0102", 
         "0201", 
-        "0302", 
-        "1", 
-        "1D", 
-        "2", 
-        "2C", 
-        "3", 
-        "4", 
-        "7", 
-        "C"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "162"
@@ -923,6 +900,8 @@
     }, 
     {
       "busnrs": [
+        "0002", 
+        "0102", 
         "1", 
         "C"
       ], 
@@ -930,8 +909,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.218263190304, 
-      "lon": 2.9143410372, 
+      "lat": 51.218261278343, 
+      "lon": 2.914346393443, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1422,9 +1401,6 @@
       "street": "Zwaluwenstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "47A"
       ], 
@@ -1478,8 +1454,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.217881311486, 
-      "lon": 2.907828831803, 
+      "lat": 51.217884298294, 
+      "lon": 2.907830456076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1562,15 +1538,9 @@
     }, 
     {
       "busnrs": [
+        "0006", 
         "0101", 
-        "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "7"
+        "0201"
       ], 
       "hnrlbls": [
         "57"
@@ -1773,8 +1743,7 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "72"
@@ -1884,7 +1853,7 @@
     {
       "busnrs": [
         "0101", 
-        "A000"
+        "1"
       ], 
       "hnrlbls": [
         "79A"
@@ -2022,9 +1991,6 @@
       "street": "Zwaluwenstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "88A"
       ], 
@@ -2106,8 +2072,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.217383217223, 
-      "lon": 2.91149102501, 
+      "lat": 51.217318280619, 
+      "lon": 2.911496059734, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

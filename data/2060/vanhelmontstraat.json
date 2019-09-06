@@ -133,6 +133,11 @@
       "street": "Van Helmontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -157,18 +162,21 @@
       "street": "Van Helmontstraat"
     }, 
     {
-      "busnrs": [
-        "7"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.224596177872, 
-      "lon": 4.435128663694, 
+      "lat": 51.224644184369, 
+      "lon": 4.435113559451, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Helmontstraat"
     }, 
     {
@@ -309,6 +317,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Helmontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.224573764387, 
+      "lon": 4.435027285405, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Helmontstraat"
     }, 
     {

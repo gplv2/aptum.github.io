@@ -34,9 +34,6 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
-      "busnrs": [
-        "16"
-      ], 
       "hnrlbls": [
         "7-11"
       ], 
@@ -139,64 +136,25 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.227412178175, 
-      "lon": 4.40669855495, 
+      "lat": 51.227185234274, 
+      "lon": 4.406660861007, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Oudeleeuwenrui"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "19a-19D"
-      ], 
-      "housenumber": "19C", 
-      "lat": 51.227230178938, 
-      "lon": 4.406652165933, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oudeleeuwenrui"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "19a-19D"
-      ], 
-      "housenumber": "19D", 
-      "lat": 51.227230178938, 
-      "lon": 4.406652165933, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oudeleeuwenrui"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "19a-19D"
-      ], 
-      "housenumber": "19a", 
-      "lat": 51.227230178938, 
-      "lon": 4.406652165933, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudeleeuwenrui"
     }, 
     {
@@ -248,6 +206,9 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -398,8 +359,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.227327468242, 
-      "lon": 4.408167086761, 
+      "lat": 51.227328816448, 
+      "lon": 4.408167231074, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -817,24 +778,6 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "1.4"
-      ], 
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "16", 
-        "17", 
-        "18", 
-        "2", 
-        "20", 
-        "7", 
-        "9"
-      ], 
       "hnrlbls": [
         "7-11"
       ], 
@@ -871,6 +814,13 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
+      "apptnrs": [
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "403"
+      ], 
       "hnrlbls": [
         "7-11"
       ], 

@@ -37,6 +37,9 @@
       "street": "Lindedorp"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -200,6 +203,18 @@
       "street": "Lindedorp"
     }, 
     {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.098666326968, 
+      "lon": 5.446586375889, 
+      "municipality": "Peer", 
+      "pcode": "3990", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Lindedorp"
+    }, 
+    {
       "busnrs": [
         "2", 
         "3"
@@ -256,11 +271,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.097259475089, 
-      "lon": 5.445588514115, 
+      "lat": 51.09723480246, 
+      "lon": 5.445711012518, 
       "municipality": "Peer", 
       "pcode": "3990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lindedorp"
     }, 
     {
@@ -676,8 +691,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.094080850324, 
-      "lon": 5.44536535936, 
+      "lat": 51.094080855646, 
+      "lon": 5.445354938034, 
       "municipality": "Peer", 
       "pcode": "3990", 
       "source": "afgeleidVanGebouw", 
@@ -717,6 +732,18 @@
       "municipality": "Peer", 
       "pcode": "3990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindedorp"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.100224438237, 
+      "lon": 5.446260951375, 
+      "municipality": "Peer", 
+      "pcode": "3990", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lindedorp"
     }
   ]

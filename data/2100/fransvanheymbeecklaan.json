@@ -83,6 +83,11 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -171,11 +176,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.227952589687, 
-      "lon": 4.479757057643, 
+      "lat": 51.228005697454, 
+      "lon": 4.479771357206, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
@@ -302,21 +307,6 @@
     }, 
     {
       "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "2_4"
-      ], 
-      "housenumber": "2_4", 
-      "lat": 51.227979850839, 
-      "lon": 4.47982426251, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Frans Van Heymbeecklaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -409,8 +399,9 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "35"
@@ -506,19 +497,20 @@
         "9"
       ], 
       "hnrlbls": [
-        "4-732"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.227952679706, 
-      "lon": 4.479756914704, 
+      "lat": 51.227981701316, 
+      "lon": 4.479863491334, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "42"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -532,8 +524,10 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "41"
@@ -547,6 +541,10 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -668,26 +666,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-732"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.227952679706, 
-      "lon": 4.479756914704, 
+      "lat": 51.22793932023, 
+      "lon": 4.480006973731, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Heymbeecklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.227939049224, 
-      "lon": 4.480008404626, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Van Heymbeecklaan"
     }, 
     {

@@ -92,14 +92,18 @@
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.244586226288, 
-      "lon": 4.439764499772, 
+      "lat": 51.244615822432, 
+      "lon": 4.43972387489, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vuurkruisenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -189,12 +193,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4", 
         "5", 
         "6"
       ], 
       "hnrlbls": [
-        "23-25"
+        "23"
       ], 
       "housenumber": "23", 
       "lat": 51.244921180581, 
@@ -214,23 +221,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Vuurkruisenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "23-25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.244921180581, 
-      "lon": 4.439384371898, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
       "street": "Vuurkruisenlaan"
     }, 
     {

@@ -13,6 +13,9 @@
       "street": "Singel"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -21,7 +24,7 @@
       "lon": 4.451620125944, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Singel"
     }, 
     {
@@ -616,7 +619,6 @@
     {
       "busnrs": [
         "1", 
-        "1.0", 
         "2", 
         "glvl"
       ], 
@@ -628,7 +630,7 @@
       "lon": 4.449457773603, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Singel"
     }, 
     {

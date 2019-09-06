@@ -182,7 +182,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-15A"
+        "15A"
       ], 
       "housenumber": "15A", 
       "lat": 51.096940098305, 
@@ -221,11 +221,11 @@
         "18-20"
       ], 
       "housenumber": "18", 
-      "lat": 51.096220774959, 
-      "lon": 3.367139582526, 
+      "lat": 51.096218735259, 
+      "lon": 3.367217004327, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wingenestraat"
     }, 
     {
@@ -254,6 +254,11 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
+        "00OC", 
+        "00OD", 
+        "00OE", 
         "0A", 
         "0B", 
         "0C", 
@@ -268,11 +273,11 @@
         "18-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.096220774959, 
-      "lon": 3.367139582526, 
+      "lat": 51.096218735259, 
+      "lon": 3.367217004327, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wingenestraat"
     }, 
     {
@@ -436,7 +441,7 @@
         "1A"
       ], 
       "hnrlbls": [
-        "32"
+        "32-32_1"
       ], 
       "housenumber": "32", 
       "lat": 51.095230840698, 
@@ -444,6 +449,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Wingenestraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "32-32_1"
+      ], 
+      "housenumber": "32_1", 
+      "lat": 51.095230840698, 
+      "lon": 3.366748196146, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wingenestraat"
     }, 
     {

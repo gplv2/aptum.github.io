@@ -17,6 +17,18 @@
     }, 
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.795805344606, 
+      "lon": 4.546866008298, 
+      "municipality": "Overijse", 
+      "pcode": "3090", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Duisburgsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -1824,7 +1836,11 @@
     }, 
     {
       "apptnrs": [
-        "1.01"
+        "0001", 
+        "0101"
+      ], 
+      "busnrs": [
+        "0102"
       ], 
       "hnrlbls": [
         "85"
@@ -1928,7 +1944,8 @@
       "street": "Duisburgsesteenweg"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -2019,11 +2036,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.795680339314, 
-      "lon": 4.546780287616, 
+      "lat": 50.795699275607, 
+      "lon": 4.546624335669, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Duisburgsesteenweg"
     }, 
     {

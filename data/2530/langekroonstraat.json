@@ -567,6 +567,9 @@
       "street": "Lange Kroonstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -1198,15 +1201,19 @@
       "street": "Lange Kroonstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.167081488644, 
-      "lon": 4.485373876215, 
+      "lat": 51.167073346114, 
+      "lon": 4.485336541121, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Kroonstraat"
     }, 
     {
@@ -1305,7 +1312,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "203"
@@ -2169,6 +2177,18 @@
       "municipality": "Boechout", 
       "pcode": "2530", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lange Kroonstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.164291089168, 
+      "lon": 4.48724134826, 
+      "municipality": "Boechout", 
+      "pcode": "2530", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Kroonstraat"
     }, 
     {

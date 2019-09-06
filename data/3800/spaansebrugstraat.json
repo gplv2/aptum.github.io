@@ -203,15 +203,31 @@
       "street": "Spaansebrugstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.813255500978, 
+      "lon": 5.184316881555, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spaansebrugstraat"
+    }, 
+    {
       "busnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
         "202", 
         "301", 
-        "302", 
-        "OO01", 
-        "OO02"
+        "302"
       ], 
       "hnrlbls": [
         "30"
@@ -565,6 +581,18 @@
       "street": "Spaansebrugstraat"
     }, 
     {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.813687061058, 
+      "lon": 5.181791131432, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Spaansebrugstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "101", 
@@ -671,8 +699,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.814408290887, 
-      "lon": 5.180139069725, 
+      "lat": 50.814403404355, 
+      "lon": 5.180143668208, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 

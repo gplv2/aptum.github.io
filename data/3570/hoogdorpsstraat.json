@@ -111,6 +111,7 @@
         "10", 
         "2", 
         "3", 
+        "4", 
         "6", 
         "7", 
         "8", 
@@ -309,6 +310,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4"
       ], 
@@ -392,7 +394,8 @@
         "5", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "34"
@@ -516,6 +519,23 @@
       "street": "Hoogdorpsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.874721162049, 
+      "lon": 5.304880824628, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogdorpsstraat"
+    }, 
+    {
       "hnrlbls": [
         "52"
       ], 
@@ -597,6 +617,11 @@
       "street": "Hoogdorpsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "60"
       ], 

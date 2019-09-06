@@ -736,6 +736,17 @@
       "street": "Middenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1144,9 +1155,6 @@
       "street": "Middenstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1156,6 +1164,26 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
+      "street": "Middenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "88A"
+      ], 
+      "housenumber": "88A", 
+      "lat": 50.80575865349, 
+      "lon": 3.951488996214, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9506", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Middenstraat"
     }, 
     {

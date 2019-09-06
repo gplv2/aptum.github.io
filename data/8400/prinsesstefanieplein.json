@@ -10,16 +10,7 @@
         "0402", 
         "0501", 
         "0502", 
-        "0601", 
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "3A", 
-        "4", 
-        "5", 
-        "6", 
-        "9"
+        "0601"
       ], 
       "hnrlbls": [
         "1"
@@ -34,6 +25,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -46,19 +39,7 @@
         "0502", 
         "0601", 
         "0602", 
-        "0701", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0701"
       ], 
       "hnrlbls": [
         "11"
@@ -103,22 +84,20 @@
     }, 
     {
       "busnrs": [
-        "004B", 
+        "0101", 
+        "0102", 
         "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
         "0402", 
         "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
         "0701", 
-        "1", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "4B", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+        "0702"
       ], 
       "hnrlbls": [
         "19"
@@ -128,7 +107,7 @@
       "lon": 2.910303770577, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -146,17 +125,18 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.224364064436, 
-      "lon": 2.910471442148, 
+      "lat": 51.224362869822, 
+      "lon": 2.910476633656, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
       "busnrs": [
         "0101", 
         "0201", 
+        "0502", 
         "0508", 
         "1", 
         "10", 
@@ -281,21 +261,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0401", 
+        "0402", 
+        "0501", 
         "0502", 
-        "0701", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "3", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
+        "0601", 
+        "0602", 
+        "0701"
       ], 
       "hnrlbls": [
         "33-35"
@@ -305,7 +284,7 @@
       "lon": 2.910988669065, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -317,11 +296,12 @@
       "lon": 2.910988669065, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
       "busnrs": [
+        "0301", 
         "2", 
         "3", 
         "4", 
@@ -336,7 +316,7 @@
       "lon": 2.911147859348, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -353,6 +333,8 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0501", 
         "0601", 
         "0701", 
         "1", 
@@ -422,9 +404,11 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "031A", 
         "0401", 
+        "0501", 
         "0701", 
         "081A", 
         "11A", 
@@ -450,30 +434,25 @@
     }, 
     {
       "busnrs": [
+        "0102", 
+        "011B", 
+        "012B", 
+        "021B", 
+        "022B", 
         "031B", 
         "032B", 
         "041B", 
         "042B", 
+        "051B", 
         "052B", 
         "061B", 
         "062B", 
+        "0701", 
         "0702", 
+        "071B", 
         "072B", 
-        "12", 
-        "12B", 
-        "1B", 
-        "21", 
-        "31B", 
-        "32B", 
-        "41", 
-        "41B", 
-        "42B", 
-        "52B", 
-        "61B", 
-        "62B", 
-        "72B", 
-        "81B", 
-        "B"
+        "081B", 
+        "082B"
       ], 
       "hnrlbls": [
         "49"
@@ -488,6 +467,7 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "1", 
         "2", 
         "4", 
@@ -500,11 +480,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.224280727668, 
-      "lon": 2.909698777899, 
+      "lat": 51.224281270235, 
+      "lon": 2.909691745556, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -519,7 +499,7 @@
       "lon": 2.911418989732, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -527,8 +507,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.223615932784, 
-      "lon": 2.911334231226, 
+      "lat": 51.223618221703, 
+      "lon": 2.911330294148, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -543,7 +523,7 @@
       "lon": 2.911153538157, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
@@ -570,11 +550,12 @@
       "lon": 2.911153538157, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
       "busnrs": [
+        "0501", 
         "3", 
         "5"
       ], 
@@ -582,17 +563,16 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.223328010713, 
-      "lon": 2.910950089052, 
+      "lat": 51.223325887429, 
+      "lon": 2.910952875605, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinses Stefanieplein"
     }, 
     {
       "busnrs": [
-        "0702", 
-        "5A"
+        "0702"
       ], 
       "hnrlbls": [
         "7"

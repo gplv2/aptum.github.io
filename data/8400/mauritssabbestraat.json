@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -10,18 +11,7 @@
         "0203", 
         "0301", 
         "0302", 
-        "0303", 
-        "1", 
-        "10", 
-        "2", 
-        "2B", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0303"
       ], 
       "hnrlbls": [
         "1"
@@ -31,7 +21,7 @@
       "lon": 2.910531378447, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maurits Sabbestraat"
     }, 
     {
@@ -151,7 +141,7 @@
       "lon": 2.909495285503, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Maurits Sabbestraat"
     }, 
     {
@@ -294,11 +284,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.210374917513, 
-      "lon": 2.90881330139, 
+      "lat": 51.210303908215, 
+      "lon": 2.908923585017, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maurits Sabbestraat"
     }, 
     {
@@ -414,11 +404,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.209736565074, 
-      "lon": 2.908343212437, 
+      "lat": 51.209744848676, 
+      "lon": 2.908395194223, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maurits Sabbestraat"
     }, 
     {
@@ -450,8 +440,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.209643833834, 
-      "lon": 2.90826696645, 
+      "lat": 51.209643740433, 
+      "lon": 2.908266683122, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -459,14 +449,26 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.209604804338, 
+      "lon": 2.908244143069, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Maurits Sabbestraat"
+    }, 
+    {
+      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.209566542488, 
-      "lon": 2.908203404983, 
+      "lat": 51.209548438605, 
+      "lon": 2.908251632559, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maurits Sabbestraat"
     }, 
     {

@@ -134,7 +134,8 @@
     }, 
     {
       "busnrs": [
-        "0"
+        "0", 
+        "1"
       ], 
       "hnrlbls": [
         "1-1A"
@@ -293,7 +294,7 @@
       "lon": 3.810665195954, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Trapstraat"
     }, 
     {
@@ -398,14 +399,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-34"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.867846703366, 
-      "lon": 3.811440258043, 
+      "lat": 50.867808561686, 
+      "lon": 3.811321236473, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Trapstraat"
     }, 
     {
@@ -422,12 +423,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "32-34"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 50.867846703366, 

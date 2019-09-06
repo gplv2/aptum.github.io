@@ -160,9 +160,6 @@
       "street": "Madeliefjeslaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "20A"
       ], 
@@ -176,6 +173,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
         "0101", 
         "0102", 
         "0103", 
@@ -192,31 +195,7 @@
         "0302", 
         "0303", 
         "0304", 
-        "0306", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "1D", 
-        "2", 
-        "20", 
-        "21", 
-        "23", 
-        "24", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0306"
       ], 
       "hnrlbls": [
         "21"
@@ -311,20 +290,15 @@
       "street": "Madeliefjeslaan"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.211457585252, 
-      "lon": 2.875804073187, 
+      "lat": 51.211394060787, 
+      "lon": 2.875806964827, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madeliefjeslaan"
     }, 
     {
@@ -344,8 +318,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.211211695864, 
-      "lon": 2.87529094137, 
+      "lat": 51.211213521615, 
+      "lon": 2.875286016436, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -378,6 +352,7 @@
     {
       "busnrs": [
         "0101", 
+        "0301", 
         "3"
       ], 
       "hnrlbls": [
@@ -388,7 +363,7 @@
       "lon": 2.876688349441, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madeliefjeslaan"
     }, 
     {
@@ -510,15 +485,16 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.211978579893, 
-      "lon": 2.874794048157, 
+      "lat": 51.21197873483, 
+      "lon": 2.874799196033, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Madeliefjeslaan"
     }, 
     {
       "busnrs": [
+        "0301", 
         "0401", 
         "1", 
         "2", 
@@ -533,7 +509,7 @@
       "lon": 2.876614833012, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madeliefjeslaan"
     }, 
     {
@@ -601,8 +577,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.212286060195, 
-      "lon": 2.874225973817, 
+      "lat": 51.212289839446, 
+      "lon": 2.874219125385, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -794,8 +770,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.212754934675, 
-      "lon": 2.873624092184, 
+      "lat": 51.212751406387, 
+      "lon": 2.873622344483, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

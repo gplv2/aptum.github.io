@@ -29,8 +29,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.860903921317, 
-      "lon": 3.855858561749, 
+      "lat": 50.860901773195, 
+      "lon": 3.855860715757, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -53,11 +53,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.861772315328, 
-      "lon": 3.855691571561, 
+      "lat": 50.861779328953, 
+      "lon": 3.855753709617, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europaweg"
     }, 
     {
@@ -65,8 +65,20 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.862225482062, 
-      "lon": 3.85382102901, 
+      "lat": 50.862252547954, 
+      "lon": 3.853863630036, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Europaweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 50.862341702526, 
+      "lon": 3.853653281577, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -114,18 +126,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.892007743654, 
-      "lon": 3.832744920626, 
+      "lat": 50.891921128809, 
+      "lon": 3.832675978134, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europaweg"
     }, 
     {
@@ -565,6 +577,42 @@
     }, 
     {
       "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 50.864025442728, 
+      "lon": 3.848505738448, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Europaweg"
+    }, 
+    {
+      "hnrlbls": [
+        "69B"
+      ], 
+      "housenumber": "69B", 
+      "lat": 50.863985646376, 
+      "lon": 3.848613567562, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Europaweg"
+    }, 
+    {
+      "hnrlbls": [
+        "69C"
+      ], 
+      "housenumber": "69C", 
+      "lat": 50.863944617837, 
+      "lon": 3.848727376166, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Europaweg"
+    }, 
+    {
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
@@ -652,11 +700,11 @@
         "85-87"
       ], 
       "housenumber": "85", 
-      "lat": 50.864882973899, 
-      "lon": 3.846581824722, 
+      "lat": 50.864815273452, 
+      "lon": 3.846782300605, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europaweg"
     }, 
     {
@@ -664,11 +712,11 @@
         "85-87"
       ], 
       "housenumber": "87", 
-      "lat": 50.864882973899, 
-      "lon": 3.846581824722, 
+      "lat": 50.864815273452, 
+      "lon": 3.846782300605, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europaweg"
     }, 
     {

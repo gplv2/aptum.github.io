@@ -266,6 +266,7 @@
       "busnrs": [
         "1", 
         "10", 
+        "11", 
         "15", 
         "16", 
         "2", 
@@ -513,7 +514,7 @@
       "lon": 4.4426968948, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijf-aprilwarande"
     }, 
     {
@@ -531,7 +532,8 @@
     {
       "busnrs": [
         "1", 
-        "6"
+        "6", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "32-34"
@@ -1284,6 +1286,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "5"
       ], 
@@ -1345,6 +1348,7 @@
     }, 
     {
       "busnrs": [
+        "2", 
         "3", 
         "4", 
         "5"

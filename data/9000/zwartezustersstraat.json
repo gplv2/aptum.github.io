@@ -2,7 +2,9 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -363,7 +365,7 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-7A"
       ], 
       "housenumber": "7", 
       "lat": 51.052134000074, 
@@ -371,6 +373,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Zwartezustersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7-7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.052134000074, 
+      "lon": 3.71900989577, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwartezustersstraat"
     }, 
     {

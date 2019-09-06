@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "103"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -615,6 +618,7 @@
     {
       "busnrs": [
         "1", 
+        "101", 
         "201", 
         "202", 
         "203"
@@ -1522,7 +1526,7 @@
       "lon": 2.727001755005, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1546,7 +1550,7 @@
       "lon": 2.727001755005, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1599,14 +1603,14 @@
     }, 
     {
       "hnrlbls": [
-        "44"
+        "44-46"
       ], 
       "housenumber": "44", 
-      "lat": 50.857324288632, 
-      "lon": 2.727129481448, 
+      "lat": 50.857324378505, 
+      "lon": 2.727129478309, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1623,14 +1627,14 @@
     }, 
     {
       "hnrlbls": [
-        "46"
+        "44-46"
       ], 
       "housenumber": "46", 
       "lat": 50.857324378505, 
       "lon": 2.727129478309, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Veurnestraat"
     }, 
     {
@@ -1856,7 +1860,7 @@
       "lon": 2.72862344743, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Veurnestraat"
     }, 
     {

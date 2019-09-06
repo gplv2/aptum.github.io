@@ -325,11 +325,9 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1/1", 
-        "1/2", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "44"
@@ -451,6 +449,9 @@
       "street": "Blaesenbergstraat"
     }, 
     {
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -631,18 +632,14 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "1/1", 
-        "1/2", 
-        "1/3", 
-        "1/4", 
-        "1/5"
-      ], 
       "busnrs": [
-        "O/01", 
-        "O/02"
+        "00/1", 
+        "00/2", 
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "01/4", 
+        "01/5"
       ], 
       "hnrlbls": [
         "68-72"
@@ -788,10 +785,10 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "82"
@@ -853,10 +850,8 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "busnrs": [
+        "00/1", 
         "01/1"
       ], 
       "hnrlbls": [
@@ -924,9 +919,9 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "93"
@@ -940,11 +935,10 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "00/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "94"
@@ -970,10 +964,10 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "96"
@@ -987,28 +981,25 @@
       "street": "Blaesenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "1/1", 
-        "1/2", 
-        "2/2", 
-        "3/1", 
-        "3/2"
-      ], 
       "busnrs": [
-        "O/01", 
-        "O/02"
+        "00/1", 
+        "00/2", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2"
       ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.923700359877, 
-      "lon": 4.409841729772, 
+      "lat": 50.923745820172, 
+      "lon": 4.409913736843, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Blaesenbergstraat"
     }, 
     {

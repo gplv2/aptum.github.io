@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0102"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.232483103649, 
-      "lon": 2.941329037656, 
+      "lat": 51.232479547031, 
+      "lon": 2.941324850678, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -86,11 +89,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "17"
@@ -129,16 +130,15 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0007", 
+        "0008", 
+        "0102", 
+        "0201", 
         "0202", 
-        "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0301"
       ], 
       "hnrlbls": [
         "2"
@@ -148,7 +148,7 @@
       "lon": 2.941006290683, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -156,8 +156,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.232340331017, 
-      "lon": 2.941685809197, 
+      "lat": 51.232340076955, 
+      "lon": 2.941687105721, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -278,8 +278,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.231935073766, 
-      "lon": 2.942022256701, 
+      "lat": 51.231939646514, 
+      "lon": 2.942028703684, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -323,9 +323,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "33"
@@ -342,12 +341,8 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "0202", 
-        "0203", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "35"
@@ -365,8 +360,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.23183798696, 
-      "lon": 2.942693794171, 
+      "lat": 51.231839744616, 
+      "lon": 2.942690446988, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -639,11 +634,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.231715225555, 
-      "lon": 2.945579151137, 
+      "lat": 51.231744346632, 
+      "lon": 2.945601030015, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -784,16 +779,30 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
-        "77"
+        "77-77A"
       ], 
       "housenumber": "77", 
+      "lat": 51.231774811451, 
+      "lon": 2.946257926525, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stanleylaan"
+    }, 
+    {
+      "busnrs": [
+        "0010"
+      ], 
+      "hnrlbls": [
+        "77-77A"
+      ], 
+      "housenumber": "77A", 
       "lat": 51.231774811451, 
       "lon": 2.946257926525, 
       "municipality": "Oostende", 

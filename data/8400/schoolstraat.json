@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.204003657605, 
+      "lon": 2.863895525741, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -157,15 +172,18 @@
       "street": "Schoolstraat"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.203222112333, 
-      "lon": 2.864798411968, 
+      "lat": 51.20322122459, 
+      "lon": 2.864799299228, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -185,8 +203,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.203160481286, 
-      "lon": 2.864921896861, 
+      "lat": 51.203178438203, 
+      "lon": 2.864955377782, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

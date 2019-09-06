@@ -176,8 +176,7 @@
     }, 
     {
       "apptnrs": [
-        "11", 
-        "21"
+        "11"
       ], 
       "hnrlbls": [
         "21A"
@@ -191,12 +190,31 @@
       "street": "Stationsplein"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.949009241004, 
       "lon": 3.129468940925, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.949042989288, 
+      "lon": 3.129455098269, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -474,6 +492,18 @@
       "street": "Stationsplein"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "55"
       ], 

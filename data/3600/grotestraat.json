@@ -418,6 +418,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "21", 
         "BU11", 
         "BU21"
@@ -629,15 +630,86 @@
       "street": "Grotestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
+      "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 50.96355517097, 
+      "lon": 5.487030819614, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32"
+      ], 
+      "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 50.963556839729, 
+      "lon": 5.486855467781, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01"
+      ], 
+      "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.963558827632, 
+      "lon": 5.486693790438, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 50.963574432571, 
-      "lon": 5.486461540948, 
+      "lat": 50.963559370234, 
+      "lon": 5.486504460118, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotestraat"
     }, 
     {
@@ -653,12 +725,20 @@
       "street": "Grotestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.963572525131, 
-      "lon": 5.486397431922, 
+      "lat": 50.963575829158, 
+      "lon": 5.486352523895, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -671,18 +751,6 @@
       "housenumber": "2", 
       "lat": 50.963694504693, 
       "lon": 5.498329584956, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grotestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "200"
-      ], 
-      "housenumber": "200", 
-      "lat": 50.963536705958, 
-      "lon": 5.486325823008, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1134,6 +1202,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -1165,8 +1234,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.963318997523, 
-      "lon": 5.494506060909, 
+      "lat": 50.963304265703, 
+      "lon": 5.494457873073, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1445,6 +1514,29 @@
       "street": "Grotestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16", 
+        "BU17", 
+        "BU18", 
+        "BU19", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU25", 
+        "BU31", 
+        "BU32", 
+        "BU33", 
+        "BU34", 
+        "BU35", 
+        "BU41"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -1457,19 +1549,6 @@
       "street": "Grotestraat"
     }, 
     {
-      "busnrs": [
-        "BU01", 
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU21", 
-        "BU22", 
-        "BU23", 
-        "BU31", 
-        "BU32", 
-        "BU33", 
-        "BU41"
-      ], 
       "hnrlbls": [
         "67A"
       ], 
@@ -1613,6 +1692,7 @@
     }, 
     {
       "busnrs": [
+        "22", 
         "BU01", 
         "BU11", 
         "BU12", 
@@ -1634,6 +1714,9 @@
     }, 
     {
       "busnrs": [
+        "11", 
+        "21", 
+        "22", 
         "BU01", 
         "BU11", 
         "BU21", 
@@ -1672,6 +1755,8 @@
     }, 
     {
       "busnrs": [
+        "32", 
+        "42", 
         "BU11", 
         "BU12", 
         "BU21", 
@@ -1717,6 +1802,7 @@
     }, 
     {
       "busnrs": [
+        "32", 
         "BU11", 
         "BU21", 
         "BU22", 
@@ -1737,6 +1823,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "BU01", 
         "BU11", 
         "BU21", 
@@ -1865,6 +1952,9 @@
     }, 
     {
       "busnrs": [
+        "12", 
+        "13", 
+        "23", 
         "BU01", 
         "BU02", 
         "BU03", 

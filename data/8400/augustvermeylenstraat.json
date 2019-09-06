@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.217562103583, 
-      "lon": 2.932605316728, 
+      "lat": 51.217566109381, 
+      "lon": 2.932602044118, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -53,11 +53,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.21758833452, 
-      "lon": 2.932848006292, 
+      "lat": 51.217584724197, 
+      "lon": 2.932846829078, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.217616510722, 
-      "lon": 2.93294734362, 
+      "lat": 51.21761779793, 
+      "lon": 2.932942293769, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -134,12 +134,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "118"
@@ -168,20 +166,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.217490021623, 
-      "lon": 2.933421481598, 
+      "lat": 51.217448730457, 
+      "lon": 2.933411872771, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -222,19 +217,15 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
         "0302", 
-        "0402", 
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "128"
@@ -244,7 +235,7 @@
       "lon": 2.933819145071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -276,9 +267,7 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "134"
@@ -497,13 +486,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "3"
@@ -513,7 +498,7 @@
       "lon": 2.927468589575, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -650,9 +635,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "41"
@@ -679,18 +664,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8"
+        "0302"
       ], 
       "hnrlbls": [
         "43"
@@ -700,7 +681,7 @@
       "lon": 2.929750844506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -732,9 +713,7 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "3"
+        "0401"
       ], 
       "hnrlbls": [
         "46"
@@ -775,9 +754,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "5"
@@ -792,7 +769,7 @@
     }, 
     {
       "hnrlbls": [
-        "50"
+        "20-50"
       ], 
       "housenumber": "50", 
       "lat": 51.217310931182, 
@@ -816,15 +793,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "0402", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "53"
@@ -834,7 +807,7 @@
       "lon": 2.930246740846, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -1010,11 +983,7 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "70"
@@ -1125,18 +1094,18 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.217047430867, 
-      "lon": 2.927536120998, 
+      "lat": 51.216978903984, 
+      "lon": 2.927556417902, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -1153,27 +1122,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0202"
       ], 
       "hnrlbls": [
         "81-85"
       ], 
       "housenumber": "81", 
-      "lat": 51.217236903411, 
-      "lon": 2.933365711945, 
+      "lat": 51.217242732579, 
+      "lon": 2.933305267139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -1197,34 +1161,28 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "81-85"
       ], 
       "housenumber": "85", 
-      "lat": 51.217236903411, 
-      "lon": 2.933365711945, 
+      "lat": 51.217242732579, 
+      "lon": 2.933305267139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "1A", 
-        "1R", 
-        "2", 
-        "4", 
-        "6"
+        "0302"
       ], 
       "hnrlbls": [
         "87"
@@ -1234,7 +1192,7 @@
       "lon": 2.933555749492, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "August Vermeylenstraat"
     }, 
     {
@@ -1254,8 +1212,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.216789293709, 
-      "lon": 2.927762252365, 
+      "lat": 51.216790289221, 
+      "lon": 2.927762794202, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1293,8 +1251,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.21757083314, 
-      "lon": 2.932147113176, 
+      "lat": 51.21757149002, 
+      "lon": 2.932149383336, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

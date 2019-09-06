@@ -2,6 +2,9 @@
   "addresses": [
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
+        "00OC", 
         "0A", 
         "0B", 
         "0C", 
@@ -16,7 +19,7 @@
         "3C"
       ], 
       "hnrlbls": [
-        "1"
+        "1-1_3"
       ], 
       "housenumber": "1", 
       "lat": 51.093147490704, 
@@ -160,11 +163,12 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A"
       ], 
       "hnrlbls": [
-        "109"
+        "109-109_1"
       ], 
       "housenumber": "109", 
       "lat": 51.099413103431, 
@@ -175,8 +179,23 @@
       "street": "Brugstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "11-13"
+        "109-109_1"
+      ], 
+      "housenumber": "109_1", 
+      "lat": 51.099413103431, 
+      "lon": 3.440217794895, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11-13_3"
       ], 
       "housenumber": "11", 
       "lat": 51.09370481214, 
@@ -332,12 +351,13 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "2A"
       ], 
       "hnrlbls": [
-        "121"
+        "121-121_2"
       ], 
       "housenumber": "121", 
       "lat": 51.100235614019, 
@@ -345,6 +365,36 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "121-121_2"
+      ], 
+      "housenumber": "121_1", 
+      "lat": 51.100235614019, 
+      "lon": 3.439871518155, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "121-121_2"
+      ], 
+      "housenumber": "121_2", 
+      "lat": 51.100235614019, 
+      "lon": 3.439871518155, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -397,13 +447,14 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
         "0A", 
         "1A", 
         "2A", 
         "3A"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11-13_3"
       ], 
       "housenumber": "13", 
       "lat": 51.09370481214, 
@@ -546,6 +597,51 @@
       "street": "Brugstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "11-13_3"
+      ], 
+      "housenumber": "13_1", 
+      "lat": 51.09370481214, 
+      "lon": 3.444620562496, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "11-13_3"
+      ], 
+      "housenumber": "13_2", 
+      "lat": 51.09370481214, 
+      "lon": 3.444620562496, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "11-13_3"
+      ], 
+      "housenumber": "13_3", 
+      "lat": 51.09370481214, 
+      "lon": 3.444620562496, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 
@@ -685,6 +781,9 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
+        "00OC", 
         "0A", 
         "0B", 
         "0C", 
@@ -693,7 +792,7 @@
         "2A"
       ], 
       "hnrlbls": [
-        "15"
+        "15-15_2"
       ], 
       "housenumber": "15", 
       "lat": 51.093847184373, 
@@ -812,6 +911,37 @@
       "street": "Brugstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "15-15_2"
+      ], 
+      "housenumber": "15_1", 
+      "lat": 51.093847184373, 
+      "lon": 3.444606330166, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "15-15_2"
+      ], 
+      "housenumber": "15_2", 
+      "lat": 51.093847184373, 
+      "lon": 3.444606330166, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
       "hnrlbls": [
         "16"
       ], 
@@ -897,7 +1027,7 @@
     }, 
     {
       "hnrlbls": [
-        "164"
+        "164-164_1"
       ], 
       "housenumber": "164", 
       "lat": 51.100076187892, 
@@ -936,10 +1066,25 @@
     }, 
     {
       "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "164-164_1"
+      ], 
+      "housenumber": "164_1", 
+      "lat": 51.100076187892, 
+      "lon": 3.44067735917, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
         "1A"
       ], 
       "hnrlbls": [
-        "166"
+        "166-166_1"
       ], 
       "housenumber": "166", 
       "lat": 51.100608191358, 
@@ -947,6 +1092,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "166-166_1"
+      ], 
+      "housenumber": "166_1", 
+      "lat": 51.100608191358, 
+      "lon": 3.440746616948, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -962,7 +1122,13 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "1.0"
+      ], 
       "busnrs": [
+        "00OA", 
+        "00OC", 
+        "00OE", 
         "0A", 
         "0C", 
         "0E", 
@@ -973,7 +1139,7 @@
         "2B"
       ], 
       "hnrlbls": [
-        "17"
+        "17-17_2"
       ], 
       "housenumber": "17", 
       "lat": 51.093980259464, 
@@ -1089,6 +1255,38 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "17-17_2"
+      ], 
+      "housenumber": "17_1", 
+      "lat": 51.093980259464, 
+      "lon": 3.444506913698, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "17-17_2"
+      ], 
+      "housenumber": "17_2", 
+      "lat": 51.093980259464, 
+      "lon": 3.444506913698, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1245,6 +1443,56 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "1-1_3"
+      ], 
+      "housenumber": "1_1", 
+      "lat": 51.093147490704, 
+      "lon": 3.44508338228, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "1-1_3"
+      ], 
+      "housenumber": "1_2", 
+      "lat": 51.093147490704, 
+      "lon": 3.44508338228, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "1-1_3"
+      ], 
+      "housenumber": "1_3", 
+      "lat": 51.093147490704, 
+      "lon": 3.44508338228, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1417,6 +1665,8 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
         "0A", 
         "0B", 
         "1A", 
@@ -1427,7 +1677,7 @@
         "3B"
       ], 
       "hnrlbls": [
-        "3"
+        "3-3_3"
       ], 
       "housenumber": "3", 
       "lat": 51.093293903773, 
@@ -1570,6 +1820,53 @@
       "street": "Brugstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "3-3_3"
+      ], 
+      "housenumber": "3_1", 
+      "lat": 51.093293903773, 
+      "lon": 3.444976710432, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "3-3_3"
+      ], 
+      "housenumber": "3_2", 
+      "lat": 51.093293903773, 
+      "lon": 3.444976710432, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "3-3_3"
+      ], 
+      "housenumber": "3_3", 
+      "lat": 51.093293903773, 
+      "lon": 3.444976710432, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -1703,6 +2000,8 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
         "0A", 
         "0B", 
         "1A", 
@@ -1712,7 +2011,7 @@
         "3A"
       ], 
       "hnrlbls": [
-        "5"
+        "5-5_3"
       ], 
       "housenumber": "5", 
       "lat": 51.093410745991, 
@@ -1863,7 +2162,7 @@
         "3A"
       ], 
       "hnrlbls": [
-        "59"
+        "59-59_3"
       ], 
       "housenumber": "59", 
       "lat": 51.095934402327, 
@@ -1871,6 +2170,100 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "59-59_3"
+      ], 
+      "housenumber": "59_1", 
+      "lat": 51.095934402327, 
+      "lon": 3.442810424644, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "59-59_3"
+      ], 
+      "housenumber": "59_2", 
+      "lat": 51.095934402327, 
+      "lon": 3.442810424644, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "59-59_3"
+      ], 
+      "housenumber": "59_3", 
+      "lat": 51.095934402327, 
+      "lon": 3.442810424644, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "5-5_3"
+      ], 
+      "housenumber": "5_1", 
+      "lat": 51.093410745991, 
+      "lon": 3.444893605118, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "5-5_3"
+      ], 
+      "housenumber": "5_2", 
+      "lat": 51.093410745991, 
+      "lon": 3.444893605118, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "5-5_3"
+      ], 
+      "housenumber": "5_3", 
+      "lat": 51.093410745991, 
+      "lon": 3.444893605118, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1944,11 +2337,26 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.09562327312, 
-      "lon": 3.444013770322, 
+      "lat": 51.095630611658, 
+      "lon": 3.44402104882, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "64_1"
+      ], 
+      "housenumber": "64_1", 
+      "lat": 51.095601566771, 
+      "lon": 3.44391669406, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -2132,6 +2540,56 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "75-77"
+      ], 
+      "housenumber": "75_1", 
+      "lat": 51.096700970722, 
+      "lon": 3.441990209455, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "75-77"
+      ], 
+      "housenumber": "75_2", 
+      "lat": 51.096700970722, 
+      "lon": 3.441990209455, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "75-77"
+      ], 
+      "housenumber": "75_3", 
+      "lat": 51.096700970722, 
+      "lon": 3.441990209455, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugstraat"
     }, 
     {

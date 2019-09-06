@@ -416,6 +416,10 @@
       "street": "Zandvlietstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -516,8 +520,10 @@
       "street": "Zandvlietstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "47"
@@ -809,12 +815,12 @@
       "street": "Zandvlietstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "66"
@@ -828,8 +834,11 @@
       "street": "Zandvlietstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "68"
@@ -859,8 +868,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.18588527064, 
-      "lon": 4.385873137342, 
+      "lat": 51.185884371444, 
+      "lon": 4.385875425405, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

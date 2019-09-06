@@ -212,8 +212,9 @@
       "street": "Toekomststraat"
     }, 
     {
-      "apptnrs": [
-        "3"
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "29"
@@ -357,6 +358,11 @@
       "street": "Toekomststraat"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "01/1", 
+        "O000"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -436,11 +442,11 @@
       "street": "Toekomststraat"
     }, 
     {
-      "apptnrs": [
-        "1/1", 
-        "1/2", 
-        "2/1", 
-        "2/2"
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2"
       ], 
       "hnrlbls": [
         "47-47A"
@@ -666,6 +672,9 @@
         "0", 
         "1", 
         "2"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "62"

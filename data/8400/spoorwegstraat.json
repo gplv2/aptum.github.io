@@ -2,21 +2,14 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "11", 
-        "2", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0402"
       ], 
       "hnrlbls": [
         "1"
@@ -30,15 +23,22 @@
       "street": "Spoorwegstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.224587224809, 
-      "lon": 2.917689046224, 
+      "lat": 51.224566576738, 
+      "lon": 2.917764710423, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
@@ -79,21 +79,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
         "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0302"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.224198829155, 
-      "lon": 2.917445284425, 
+      "lat": 51.224166237279, 
+      "lon": 2.917492685702, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
@@ -146,18 +148,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.223222871923, 
-      "lon": 2.91683784186, 
+      "lat": 51.223197090313, 
+      "lon": 2.916942011139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
@@ -176,31 +179,27 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.223118850839, 
-      "lon": 2.916830056049, 
+      "lat": 51.223100246837, 
+      "lon": 2.916918396491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "0302", 
-        "1", 
-        "2", 
-        "4"
+        "0202"
       ], 
       "hnrlbls": [
         "24"
@@ -232,28 +231,25 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "0301", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.222923679738, 
-      "lon": 2.91679375424, 
+      "lat": 51.222912763533, 
+      "lon": 2.916841911614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2", 
-        "3", 
-        "3B"
+        "0201"
       ], 
       "hnrlbls": [
         "28"
@@ -268,24 +264,26 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.222820891618, 
-      "lon": 2.916608117941, 
+      "lat": 51.22279245946, 
+      "lon": 2.916774646169, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "30"
@@ -300,11 +298,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "D"
+        "0201"
       ], 
       "hnrlbls": [
         "31"
@@ -318,15 +314,19 @@
       "street": "Spoorwegstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.222653636013, 
-      "lon": 2.916604878402, 
+      "lat": 51.222649176326, 
+      "lon": 2.91660043595, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
@@ -339,8 +339,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.222591048736, 
-      "lon": 2.916691437684, 
+      "lat": 51.222587323797, 
+      "lon": 2.916688260844, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -443,7 +443,7 @@
       "lon": 2.916536775651, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }, 
     {
@@ -460,30 +460,17 @@
         "0401", 
         "0402", 
         "0403", 
-        "0501", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0501"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.224705837023, 
-      "lon": 2.917787008002, 
+      "lat": 51.224693631084, 
+      "lon": 2.917861980215, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorwegstraat"
     }
   ]

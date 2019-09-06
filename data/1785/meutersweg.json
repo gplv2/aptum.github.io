@@ -592,11 +592,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.952574189336, 
-      "lon": 4.227306120674, 
+      "lat": 50.952564023234, 
+      "lon": 4.227374319641, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Meutersweg"
     }, 
     {
@@ -646,12 +646,41 @@
       "street": "Meutersweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.954807145168, 
       "lon": 4.229676178143, 
+      "municipality": "Merchtem", 
+      "pcode": "1785", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meutersweg"
+    }, 
+    {
+      "apptnrs": [
+        "A001", 
+        "A011", 
+        "A012", 
+        "A021", 
+        "A022", 
+        "A031"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.954750080537, 
+      "lon": 4.229538010774, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "manueleAanduidingVanGebouw", 

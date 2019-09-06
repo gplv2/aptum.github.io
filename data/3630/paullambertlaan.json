@@ -145,9 +145,6 @@
       "street": "Paul Lambertlaan"
     }, 
     {
-      "apptnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -352,6 +349,9 @@
       "street": "Paul Lambertlaan"
     }, 
     {
+      "apptnrs": [
+        "24"
+      ], 
       "busnrs": [
         "1", 
         "10", 
@@ -382,7 +382,7 @@
         "K26"
       ], 
       "hnrlbls": [
-        "3-3K"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.998884253861, 
@@ -533,18 +533,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Paul Lambertlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3K"
-      ], 
-      "housenumber": "3K", 
-      "lat": 50.998884253861, 
-      "lon": 5.692474064172, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
       "street": "Paul Lambertlaan"
     }, 
     {
@@ -719,8 +707,7 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "K9"
+        "9"
       ], 
       "hnrlbls": [
         "56"

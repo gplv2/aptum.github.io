@@ -109,6 +109,13 @@
       "street": "Geensbeekstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +152,25 @@
       "street": "Geensbeekstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.953660019214, 
+      "lon": 4.103841951451, 
+      "municipality": "Aalst", 
+      "pcode": "9310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Geensbeekstraat"
+    }, 
+    {
       "hnrlbls": [
         "21"
       ], 
@@ -177,7 +203,7 @@
       "lon": 4.104171298405, 
       "municipality": "Aalst", 
       "pcode": "9310", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Geensbeekstraat"
     }, 
     {

@@ -38,15 +38,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
         "0201", 
+        "0202", 
         "0203", 
         "0301", 
-        "0303", 
-        "1", 
-        "3"
+        "0303"
       ], 
       "hnrlbls": [
         "104"
@@ -367,11 +368,11 @@
     }, 
     {
       "hnrlbls": [
-        "33-52"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.234215418581, 
-      "lon": 2.942352875229, 
+      "lat": 51.234245871112, 
+      "lon": 2.942462780674, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -423,18 +424,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stroombanklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.235540123622, 
-      "lon": 2.941781208724, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Stroombanklaan"
     }, 
     {
@@ -565,11 +554,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.235978587065, 
-      "lon": 2.941447583194, 
+      "lat": 51.235978129097, 
+      "lon": 2.941446881184, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stroombanklaan"
     }, 
     {
@@ -613,11 +602,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.236175211889, 
-      "lon": 2.941262413709, 
+      "lat": 51.236173763599, 
+      "lon": 2.94126904553, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stroombanklaan"
     }, 
     {
@@ -641,7 +630,7 @@
       "lon": 2.941154036754, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stroombanklaan"
     }, 
     {

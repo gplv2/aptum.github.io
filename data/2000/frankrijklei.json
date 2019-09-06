@@ -283,6 +283,17 @@
       "street": "Frankrijklei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -295,34 +306,33 @@
       "street": "Frankrijklei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "702", 
+        "801", 
+        "802"
       ], 
       "hnrlbls": [
-        "116-118"
+        "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.214537402664, 
-      "lon": 4.411583077463, 
+      "lat": 51.21456022721, 
+      "lon": 4.411599413688, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {
@@ -357,14 +367,14 @@
     }, 
     {
       "hnrlbls": [
-        "116-118"
+        "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.214537402664, 
-      "lon": 4.411583077463, 
+      "lat": 51.214525016251, 
+      "lon": 4.411535266075, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {
@@ -884,9 +894,6 @@
         "601", 
         "701", 
         "801"
-      ], 
-      "busnrs": [
-        "51"
       ], 
       "hnrlbls": [
         "154"
@@ -1582,7 +1589,7 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "41-41_43"
       ], 
       "housenumber": "41", 
       "lat": 51.21665171748, 
@@ -1590,6 +1597,21 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Frankrijklei"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "41-41_43"
+      ], 
+      "housenumber": "41_43", 
+      "lat": 51.21665171748, 
+      "lon": 4.415173493213, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Frankrijklei"
     }, 
     {
@@ -1745,8 +1767,80 @@
     }, 
     {
       "apptnrs": [
+        "0201", 
+        "0301", 
         "0401", 
         "0402", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0607", 
+        "0608", 
+        "0609", 
+        "0610", 
+        "0611", 
+        "0612", 
+        "0613", 
+        "0614", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0707", 
+        "0708", 
+        "0709", 
+        "0710", 
+        "0711", 
+        "0712", 
+        "0713", 
+        "0714", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
+        "0807", 
+        "0808", 
+        "0809", 
+        "0810", 
+        "0811", 
+        "0812", 
+        "0813", 
+        "0814", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "0906", 
+        "0907", 
+        "0908", 
+        "0909", 
+        "0910", 
+        "0911", 
+        "0912", 
+        "0913", 
+        "0914", 
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "1005", 
+        "1006", 
+        "1007", 
+        "1008", 
+        "1009", 
+        "1010", 
+        "1011", 
+        "1012", 
+        "1013", 
+        "1014", 
         "1101", 
         "1102", 
         "1103", 
@@ -1916,7 +2010,8 @@
         "2602", 
         "2603", 
         "2604", 
-        "2605"
+        "2605", 
+        "2606"
       ], 
       "hnrlbls": [
         "5"
@@ -2291,6 +2386,18 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.218420184635, 
+      "lon": 4.416068524504, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Frankrijklei"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -2567,11 +2674,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.215959649007, 
-      "lon": 4.413232118506, 
+      "lat": 51.215889781202, 
+      "lon": 4.413539323983, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {
@@ -2614,35 +2721,35 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 51.215719033359, 
-      "lon": 4.413221724123, 
+      "lat": 51.215811783438, 
+      "lon": 4.413483145968, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {
       "hnrlbls": [
-        "86B-86C"
+        "86B"
       ], 
       "housenumber": "86B", 
-      "lat": 51.215918600375, 
-      "lon": 4.413392799734, 
+      "lat": 51.215722474093, 
+      "lon": 4.413390891669, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {
       "hnrlbls": [
-        "86B-86C"
+        "86C"
       ], 
       "housenumber": "86C", 
-      "lat": 51.215918600375, 
-      "lon": 4.413392799734, 
+      "lat": 51.21564323705, 
+      "lon": 4.41328462206, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frankrijklei"
     }, 
     {

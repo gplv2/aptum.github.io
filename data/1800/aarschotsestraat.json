@@ -133,9 +133,9 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "2", 
-        "3"
+      "busnrs": [
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "113"
@@ -294,6 +294,18 @@
     }, 
     {
       "hnrlbls": [
+        "123A"
+      ], 
+      "housenumber": "123A", 
+      "lat": 50.926395764458, 
+      "lon": 4.457426563909, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Aarschotsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "124"
       ], 
       "housenumber": "124", 
@@ -329,9 +341,6 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -404,8 +413,8 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "135"
@@ -419,11 +428,11 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "14"
@@ -449,9 +458,6 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -536,9 +542,6 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -919,9 +922,9 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
+      "busnrs": [
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "59"
@@ -1007,10 +1010,10 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "67"
@@ -1052,12 +1055,10 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
       "busnrs": [
-        "00/1"
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "71"
@@ -1083,9 +1084,9 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
+      "busnrs": [
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "73"
@@ -1147,8 +1148,8 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "76"
@@ -1162,10 +1163,8 @@
       "street": "Aarschotsestraat"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "busnrs": [
+        "00/1", 
         "01/1"
       ], 
       "hnrlbls": [
@@ -1380,8 +1379,8 @@
     {
       "busnrs": [
         "00/1", 
-        "0001", 
-        "0002"
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "86"
@@ -1459,8 +1458,8 @@
         "92-94"
       ], 
       "housenumber": "92", 
-      "lat": 50.925849160342, 
-      "lon": 4.456069047526, 
+      "lat": 50.925816723885, 
+      "lon": 4.456049074099, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1483,8 +1482,8 @@
         "92-94"
       ], 
       "housenumber": "94", 
-      "lat": 50.925849160342, 
-      "lon": 4.456069047526, 
+      "lat": 50.925816723885, 
+      "lon": 4.456049074099, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

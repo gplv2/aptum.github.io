@@ -131,7 +131,9 @@
     }, 
     {
       "apptnrs": [
-        "0.1"
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "116"
@@ -249,18 +251,19 @@
       "street": "Trammezandlei"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.240833271416, 
-      "lon": 4.442631055939, 
+      "lat": 51.240853604854, 
+      "lon": 4.44259958576, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Trammezandlei"
     }, 
     {
@@ -276,15 +279,19 @@
       "street": "Trammezandlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.240833271416, 
-      "lon": 4.442631055939, 
+      "lat": 51.240813027943, 
+      "lon": 4.44266238304, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Trammezandlei"
     }, 
     {
@@ -493,8 +500,10 @@
       "street": "Trammezandlei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "5"

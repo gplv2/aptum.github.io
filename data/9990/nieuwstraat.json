@@ -80,8 +80,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.206708777431, 
-      "lon": 3.445851830044, 
+      "lat": 51.20667430354, 
+      "lon": 3.445880559327, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -100,8 +100,8 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "1-01"
       ], 
       "hnrlbls": [
         "19"
@@ -191,8 +191,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.206526526564, 
-      "lon": 3.446134621226, 
+      "lat": 51.20647391976, 
+      "lon": 3.446143531561, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -349,11 +349,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.207348727343, 
-      "lon": 3.446499020776, 
+      "lat": 51.207355098179, 
+      "lon": 3.446382266544, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -373,11 +373,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.20735486514, 
-      "lon": 3.446594491811, 
+      "lat": 51.207304805872, 
+      "lon": 3.446388268978, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -534,15 +534,19 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "1-01"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.205646026911, 
-      "lon": 3.446075182313, 
+      "lat": 51.205644132787, 
+      "lon": 3.446074361173, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwstraat"
     }, 
     {

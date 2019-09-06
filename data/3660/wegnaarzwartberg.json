@@ -181,8 +181,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.040918207767, 
-      "lon": 5.572446764719, 
+      "lat": 51.040921995245, 
+      "lon": 5.572454420038, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 
@@ -680,11 +680,23 @@
         "156A"
       ], 
       "housenumber": "156A", 
-      "lat": 51.039855082447, 
-      "lon": 5.568144325441, 
+      "lat": 51.039929064169, 
+      "lon": 5.568189144224, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
+        "156B"
+      ], 
+      "housenumber": "156B", 
+      "lat": 51.039853093701, 
+      "lon": 5.568136574171, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -1432,10 +1444,6 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "6"
-      ], 
       "hnrlbls": [
         "231"
       ], 
@@ -1454,18 +1462,6 @@
       "housenumber": "232", 
       "lat": 51.036150076578, 
       "lon": 5.557652229522, 
-      "municipality": "Oudsbergen", 
-      "pcode": "3660", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Weg naar Zwartberg"
-    }, 
-    {
-      "hnrlbls": [
-        "239"
-      ], 
-      "housenumber": "239", 
-      "lat": 51.035510126315, 
-      "lon": 5.558304830126, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1503,11 +1499,11 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.035273684154, 
-      "lon": 5.557068037269, 
+      "lat": 51.035219078697, 
+      "lon": 5.557107144016, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -2029,15 +2025,19 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 51.033349356333, 
-      "lon": 5.550585492872, 
+      "lat": 51.033240623057, 
+      "lon": 5.550670288688, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -2528,6 +2528,18 @@
     }, 
     {
       "hnrlbls": [
+        "335A"
+      ], 
+      "housenumber": "335A", 
+      "lat": 51.031080013288, 
+      "lon": 5.543056483823, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
         "336"
       ], 
       "housenumber": "336", 
@@ -2653,6 +2665,18 @@
       "housenumber": "347", 
       "lat": 51.030524345413, 
       "lon": 5.541477705026, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
+        "348A"
+      ], 
+      "housenumber": "348A", 
+      "lat": 51.030680769625, 
+      "lon": 5.540530547419, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2927,6 +2951,23 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "367"
+      ], 
+      "housenumber": "367", 
+      "lat": 51.029696369025, 
+      "lon": 5.538586101414, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
       "hnrlbls": [
         "368"
       ], 
@@ -3088,15 +3129,15 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.041906038971, 
-      "lon": 5.579110128473, 
+      "lat": 51.041898312473, 
+      "lon": 5.579284476338, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3390,6 +3431,18 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.041909623819, 
+      "lon": 5.579111219457, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
         "400"
       ], 
       "housenumber": "400", 
@@ -3599,21 +3652,6 @@
     }, 
     {
       "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.04193642541, 
-      "lon": 5.578839110501, 
-      "municipality": "Oudsbergen", 
-      "pcode": "3660", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Weg naar Zwartberg"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -3740,11 +3778,35 @@
     }, 
     {
       "hnrlbls": [
-        "430B"
+        "43"
       ], 
-      "housenumber": "430B", 
+      "housenumber": "43", 
+      "lat": 51.041419348838, 
+      "lon": 5.579622172313, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
+        "430"
+      ], 
+      "housenumber": "430", 
       "lat": 51.027972712327, 
       "lon": 5.532009740781, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
+        "430A"
+      ], 
+      "housenumber": "430A", 
+      "lat": 51.027956231306, 
+      "lon": 5.531949027982, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -4042,6 +4104,18 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 51.042491100653, 
+      "lon": 5.577423404366, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -4072,11 +4146,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.041728803569, 
-      "lon": 5.57844058092, 
+      "lat": 51.041723345934, 
+      "lon": 5.578438015524, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -4088,7 +4162,7 @@
       "lon": 5.578374865114, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -4103,11 +4177,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.042080523803, 
-      "lon": 5.577317963698, 
+      "lat": 51.042164574755, 
+      "lon": 5.577327408069, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {

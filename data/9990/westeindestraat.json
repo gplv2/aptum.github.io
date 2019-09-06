@@ -85,8 +85,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.20813628678, 
-      "lon": 3.438763386636, 
+      "lat": 51.208116312767, 
+      "lon": 3.438772514019, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -121,8 +121,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.208096673249, 
-      "lon": 3.438549805064, 
+      "lat": 51.208077866531, 
+      "lon": 3.438558766162, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -169,8 +169,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.207844066899, 
-      "lon": 3.438102630947, 
+      "lat": 51.207834460162, 
+      "lon": 3.438104110435, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -309,7 +309,8 @@
         "3-01", 
         "3-02", 
         "3-03", 
-        "3-04"
+        "3-04", 
+        "4-01"
       ], 
       "busnrs": [
         "001", 
@@ -1023,8 +1024,8 @@
         "26-26A"
       ], 
       "housenumber": "26", 
-      "lat": 51.208879824192, 
-      "lon": 3.443744868307, 
+      "lat": 51.208861950911, 
+      "lon": 3.443746796712, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1035,8 +1036,8 @@
         "26-26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.208879824192, 
-      "lon": 3.443744868307, 
+      "lat": 51.208861950911, 
+      "lon": 3.443746796712, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1139,6 +1140,15 @@
       "street": "Westeindestraat"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "1-02", 
+        "2-01", 
+        "2-02", 
+        "3-01", 
+        "3-02"
+      ], 
       "busnrs": [
         "A", 
         "B"
@@ -1274,6 +1284,16 @@
       "street": "Westeindestraat"
     }, 
     {
+      "apptnrs": [
+        "1-01", 
+        "1-02", 
+        "1-03", 
+        "2-01", 
+        "2-02", 
+        "2-03", 
+        "3-01", 
+        "3-02"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -1497,8 +1517,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.208880037512, 
-      "lon": 3.441223604203, 
+      "lat": 51.208859660049, 
+      "lon": 3.441227157518, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1517,15 +1537,22 @@
       "street": "Westeindestraat"
     }, 
     {
+      "apptnrs": [
+        "1-01", 
+        "2-01"
+      ], 
+      "busnrs": [
+        "0-01"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.208953265322, 
-      "lon": 3.441081760686, 
+      "lat": 51.208844668543, 
+      "lon": 3.441115116474, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Westeindestraat"
     }, 
     {
@@ -1653,8 +1680,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.208574884903, 
-      "lon": 3.441009428105, 
+      "lat": 51.208565072258, 
+      "lon": 3.441041965136, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

@@ -98,27 +98,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
         "102", 
         "103", 
         "104", 
-        "13", 
-        "16", 
         "201", 
         "202", 
         "203", 
-        "3", 
+        "204", 
         "301", 
         "302", 
         "303", 
         "304", 
         "401", 
         "402", 
-        "403", 
-        "6", 
-        "7", 
-        "8"
+        "403"
       ], 
       "hnrlbls": [
         "108"
@@ -690,34 +685,47 @@
       "street": "Baron R. de Vironlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "160-162"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.845342660476, 
-      "lon": 4.27554721195, 
+      "lat": 50.845278215689, 
+      "lon": 4.275446100502, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Baron R. de Vironlaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
+      "hnrlbls": [
+        "162"
       ], 
+      "housenumber": "162", 
+      "lat": 50.845267282008, 
+      "lon": 4.275488576795, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Baron R. de Vironlaan"
+    }, 
+    {
       "busnrs": [
         "101", 
         "201"
       ], 
       "hnrlbls": [
-        "160-162"
+        "162A"
       ], 
-      "housenumber": "162", 
-      "lat": 50.845342660476, 
-      "lon": 4.27554721195, 
+      "housenumber": "162A", 
+      "lat": 50.84525518606, 
+      "lon": 4.275539148734, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Baron R. de Vironlaan"
     }, 
     {
@@ -837,7 +845,8 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "2"

@@ -745,6 +745,10 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1024,18 +1028,20 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.178006667595, 
-      "lon": 4.356072673041, 
+      "lat": 51.178071295928, 
+      "lon": 4.35608023552, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -1292,14 +1298,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "4-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.178006667595, 
-      "lon": 4.356072673041, 
+      "lat": 51.177958045657, 
+      "lon": 4.356132316989, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {

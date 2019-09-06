@@ -300,10 +300,6 @@
       "street": "Koninginlaan"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -561,12 +557,6 @@
       "street": "Koninginlaan"
     }, 
     {
-      "apptnrs": [
-        "GLVL", 
-        "VER1", 
-        "VER2", 
-        "VER3"
-      ], 
       "busnrs": [
         "1", 
         "101", 
@@ -812,6 +802,7 @@
     {
       "apptnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0201", 
         "0301"
@@ -905,6 +896,26 @@
       "street": "Koninginlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.315075566939, 
+      "lon": 3.134198421269, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koninginlaan"
+    }, 
+    {
       "hnrlbls": [
         "31"
       ], 
@@ -962,9 +973,6 @@
       "street": "Koninginlaan"
     }, 
     {
-      "apptnrs": [
-        "-102"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -1305,16 +1313,12 @@
       "street": "Koninginlaan"
     }, 
     {
-      "apptnrs": [
-        "GV A", 
-        "GV V", 
-        "V1 A", 
-        "V1 V", 
-        "VER2"
-      ], 
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "102", 
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "59"

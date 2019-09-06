@@ -55,11 +55,16 @@
       "street": "Dordrechtlaan"
     }, 
     {
-      "busnrs": [
-        "13"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.204330837406, 
@@ -100,18 +105,6 @@
       "housenumber": "12B", 
       "lat": 51.205618345739, 
       "lon": 4.461441788242, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "11-13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.204330837406, 
-      "lon": 4.460645677527, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -202,10 +195,6 @@
       "street": "Dordrechtlaan"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -254,10 +243,6 @@
       "street": "Dordrechtlaan"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -1094,6 +1079,11 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1231,7 +1221,7 @@
     }, 
     {
       "hnrlbls": [
-        "56A-56_6"
+        "56A-56D"
       ], 
       "housenumber": "56A", 
       "lat": 51.205831218765, 
@@ -1246,7 +1236,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "56A-56_6"
+        "56A-56D"
       ], 
       "housenumber": "56B", 
       "lat": 51.205831218765, 
@@ -1258,7 +1248,7 @@
     }, 
     {
       "hnrlbls": [
-        "56A-56_6"
+        "56A-56D"
       ], 
       "housenumber": "56C", 
       "lat": 51.205831218765, 
@@ -1270,114 +1260,9 @@
     }, 
     {
       "hnrlbls": [
-        "56A-56_6"
+        "56A-56D"
       ], 
       "housenumber": "56D", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_1", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_2", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_3", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_4", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_5", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "D"
-      ], 
-      "hnrlbls": [
-        "56A-56_6"
-      ], 
-      "housenumber": "56_6", 
       "lat": 51.205831218765, 
       "lon": 4.459800867268, 
       "municipality": "Antwerpen", 
@@ -1411,90 +1296,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58W", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58X", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58Y", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58Z", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "W", 
-        "X", 
-        "Y", 
-        "Z"
-      ], 
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58_1", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "W", 
-        "X", 
-        "Y", 
-        "Z"
-      ], 
-      "hnrlbls": [
-        "58W-58_2"
-      ], 
-      "housenumber": "58_2", 
-      "lat": 51.20577022248, 
-      "lon": 4.459290787091, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dordrechtlaan"
     }, 
     {
@@ -1572,42 +1373,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "W", 
-        "X", 
-        "Y", 
-        "Z"
-      ], 
-      "hnrlbls": [
-        "62_1-62_2"
-      ], 
-      "housenumber": "62_1", 
-      "lat": 51.205834975554, 
-      "lon": 4.458071099848, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "W", 
-        "X", 
-        "Y", 
-        "Z"
-      ], 
-      "hnrlbls": [
-        "62_1-62_2"
-      ], 
-      "housenumber": "62_2", 
-      "lat": 51.205834975554, 
-      "lon": 4.458071099848, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dordrechtlaan"
     }, 
     {

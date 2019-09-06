@@ -169,9 +169,6 @@
       "street": "Eendrachtstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -220,9 +217,6 @@
       "street": "Eendrachtstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -247,9 +241,6 @@
       "street": "Eendrachtstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -262,9 +253,6 @@
       "street": "Eendrachtstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "3-5"
       ], 
@@ -445,27 +433,40 @@
       "street": "Eendrachtstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.227677329619, 
-      "lon": 4.438482176292, 
+      "lat": 51.227708653867, 
+      "lon": 4.438557951951, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.227677688897, 
-      "lon": 4.438482606296, 
+      "lat": 51.227682752117, 
+      "lon": 4.438583537293, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eendrachtstraat"
     }
   ]

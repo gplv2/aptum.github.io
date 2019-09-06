@@ -26,7 +26,14 @@
     }, 
     {
       "busnrs": [
-        "0301"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "11"
@@ -60,6 +67,7 @@
         "0501", 
         "0502", 
         "0503", 
+        "0504", 
         "0601", 
         "0602", 
         "0603", 
@@ -74,7 +82,6 @@
         "0901", 
         "0902", 
         "0903", 
-        "0904", 
         "1001", 
         "1002", 
         "1003", 
@@ -105,32 +112,67 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.234226471, 
-      "lon": 2.933498605815, 
+      "lat": 51.234166679615, 
+      "lon": 2.933609135128, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.234418723843, 
-      "lon": 2.933265285207, 
+      "lat": 51.234422710528, 
+      "lon": 2.933260436846, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.234045870749, 
-      "lon": 2.933758773873, 
+      "lat": 51.234042187953, 
+      "lon": 2.933759030403, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -152,12 +194,69 @@
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "1101", 
+        "1102"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.23395371017, 
-      "lon": 2.933876312819, 
+      "lat": 51.233666576327, 
+      "lon": 2.934321760906, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -168,11 +267,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.233901002406, 
-      "lon": 2.93395569196, 
+      "lat": 51.233904111685, 
+      "lon": 2.933960035475, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -180,11 +279,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.23377471413, 
-      "lon": 2.934127979768, 
+      "lat": 51.23377646807, 
+      "lon": 2.934124345831, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -250,27 +349,113 @@
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701", 
+        "0702", 
+        "0703"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.233303446477, 
-      "lon": 2.935113500974, 
+      "lat": 51.233345097582, 
+      "lon": 2.935182530542, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0606", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "1005"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.233608246943, 
-      "lon": 2.93441205185, 
+      "lat": 51.23360750545, 
+      "lon": 2.934410213077, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -278,14 +463,43 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.232830974903, 
-      "lon": 2.935517806051, 
+      "lat": 51.232827267825, 
+      "lon": 2.935516058436, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0507", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0607", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0707"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -410,8 +624,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.231806712384, 
-      "lon": 2.936978064561, 
+      "lat": 51.231803221437, 
+      "lon": 2.936979317285, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -434,11 +648,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.231564588416, 
-      "lon": 2.937362523254, 
+      "lat": 51.231568575273, 
+      "lon": 2.93735767554, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -485,8 +699,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.231342020413, 
-      "lon": 2.937951714355, 
+      "lat": 51.231484369223, 
+      "lon": 2.938207526532, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -497,11 +711,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.231330543263, 
-      "lon": 2.93812518489, 
+      "lat": 51.23132612421, 
+      "lon": 2.938124031733, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -521,8 +735,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.230829618848, 
-      "lon": 2.938697703534, 
+      "lat": 51.230825908354, 
+      "lon": 2.938695669469, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -553,6 +767,16 @@
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -581,11 +805,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.230331208075, 
-      "lon": 2.939113914316, 
+      "lat": 51.230331090533, 
+      "lon": 2.939111626906, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -593,11 +817,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.230169242306, 
-      "lon": 2.939339961406, 
+      "lat": 51.230250387684, 
+      "lon": 2.939225501198, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -637,6 +861,18 @@
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -650,9 +886,15 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
+        "0201", 
+        "0202", 
         "0301", 
-        "0401"
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "7"
@@ -692,7 +934,13 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
         "0302", 
+        "0401", 
+        "0402", 
         "3"
       ], 
       "hnrlbls": [

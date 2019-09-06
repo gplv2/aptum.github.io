@@ -50,18 +50,6 @@
     }, 
     {
       "hnrlbls": [
-        "101"
-      ], 
-      "housenumber": "101", 
-      "lat": 50.869224655321, 
-      "lon": 5.482267782308, 
-      "municipality": "Hoeselt", 
-      "pcode": "3730", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
@@ -73,6 +61,12 @@
       "street": "Groenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -721,6 +715,10 @@
       "street": "Groenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40A"
       ], 
@@ -1270,11 +1268,11 @@
         "64B"
       ], 
       "housenumber": "64B", 
-      "lat": 50.865772139631, 
-      "lon": 5.479024920984, 
+      "lat": 50.865792867734, 
+      "lon": 5.478867716807, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groenstraat"
     }, 
     {
@@ -1880,8 +1878,8 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 50.868322569714, 
-      "lon": 5.480655295209, 
+      "lat": 50.868323963416, 
+      "lon": 5.480660016675, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanPerceelGrb", 

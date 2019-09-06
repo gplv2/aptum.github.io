@@ -42,6 +42,11 @@
       "street": "Duboisstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -208,6 +213,10 @@
       "street": "Duboisstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -309,15 +318,20 @@
       "street": "Duboisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.228656909291, 
-      "lon": 4.416411905521, 
+      "lat": 51.228749692824, 
+      "lon": 4.416354023198, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Duboisstraat"
     }, 
     {

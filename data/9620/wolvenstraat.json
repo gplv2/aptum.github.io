@@ -46,11 +46,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.86812781431, 
@@ -58,21 +58,6 @@
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wolvenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "12-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 50.86812781431, 
-      "lon": 3.807343691556, 
-      "municipality": "Zottegem", 
-      "pcode": "9620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wolvenstraat"
     }, 
     {
@@ -331,6 +316,24 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.869641012313, 
+      "lon": 3.806620839576, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Wolvenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -445,8 +448,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.869133932136, 
-      "lon": 3.806570641103, 
+      "lat": 50.869133317167, 
+      "lon": 3.806573631821, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 

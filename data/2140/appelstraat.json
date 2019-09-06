@@ -264,6 +264,10 @@
       "street": "Appelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -384,8 +388,10 @@
       "street": "Appelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "38"
@@ -421,8 +427,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.213488335298, 
-      "lon": 4.440726039798, 
+      "lat": 51.213532096175, 
+      "lon": 4.440746715862, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -575,26 +581,11 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.213531736727, 
-      "lon": 4.440746572192, 
+      "lat": 51.213488335298, 
+      "lon": 4.440726039798, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Appelstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "4_4"
-      ], 
-      "housenumber": "4_4", 
-      "lat": 51.213532097935, 
-      "lon": 4.44074385366, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Appelstraat"
     }, 
     {
@@ -868,9 +859,6 @@
       "street": "Appelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "7"
       ], 

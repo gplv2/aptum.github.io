@@ -1230,9 +1230,21 @@
     }, 
     {
       "hnrlbls": [
-        "39"
+        "39A-39B"
       ], 
-      "housenumber": "39", 
+      "housenumber": "39A", 
+      "lat": 51.153301351405, 
+      "lon": 4.144101004271, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prinses Jos.-Charlottelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "39A-39B"
+      ], 
+      "housenumber": "39B", 
       "lat": 51.153301351405, 
       "lon": 4.144101004271, 
       "municipality": "Sint-Niklaas", 
@@ -1253,9 +1265,11 @@
       "street": "Prinses Jos.-Charlottelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "40"
@@ -1405,6 +1419,16 @@
       "street": "Prinses Jos.-Charlottelaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1915,7 +1939,8 @@
         "6"
       ], 
       "hnrlbls": [
-        "88"
+        "88", 
+        "2-88"
       ], 
       "housenumber": "88", 
       "lat": 51.151903672879, 

@@ -242,19 +242,15 @@
       "street": "Tuinwijkstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "011"
-      ], 
       "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.893416927845, 
-      "lon": 4.470152662471, 
+      "lat": 50.89336944793, 
+      "lon": 4.470274226465, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tuinwijkstraat"
     }, 
     {
@@ -544,7 +540,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.889973449067, 
@@ -603,9 +599,6 @@
       "street": "Tuinwijkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -642,18 +635,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tuinwijkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.889973449067, 
-      "lon": 4.463082167573, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tuinwijkstraat"
     }, 
     {
@@ -1055,7 +1036,8 @@
     {
       "apptnrs": [
         "001", 
-        "011"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "65"
@@ -1393,8 +1375,12 @@
       "street": "Tuinwijkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 50.890330976701, 
@@ -1523,18 +1509,6 @@
       "housenumber": "99", 
       "lat": 50.892972785619, 
       "lon": 4.469398532099, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tuinwijkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 50.890330976701, 
-      "lon": 4.464163328085, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 

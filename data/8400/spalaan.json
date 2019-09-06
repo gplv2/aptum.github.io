@@ -498,9 +498,6 @@
       "street": "Spalaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "53A"
       ], 
@@ -766,6 +763,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -782,15 +782,15 @@
         "0207", 
         "0301", 
         "0302", 
+        "0303", 
         "0304", 
         "0305", 
+        "0307", 
         "0401", 
         "0402", 
         "0403", 
         "0404", 
-        "2", 
-        "3", 
-        "501T"
+        "0501"
       ], 
       "hnrlbls": [
         "78"
@@ -800,7 +800,7 @@
       "lon": 2.879235527305, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spalaan"
     }, 
     {

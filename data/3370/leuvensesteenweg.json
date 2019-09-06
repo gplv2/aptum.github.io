@@ -1588,6 +1588,9 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -2324,11 +2327,11 @@
         "320A-320D"
       ], 
       "housenumber": "320A", 
-      "lat": 50.841190376256, 
-      "lon": 4.83410107715, 
+      "lat": 50.841169516549, 
+      "lon": 4.833920982426, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2340,11 +2343,11 @@
         "320A-320D"
       ], 
       "housenumber": "320B", 
-      "lat": 50.841190376256, 
-      "lon": 4.83410107715, 
+      "lat": 50.841169516549, 
+      "lon": 4.833920982426, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2356,11 +2359,11 @@
         "320A-320D"
       ], 
       "housenumber": "320C", 
-      "lat": 50.841190376256, 
-      "lon": 4.83410107715, 
+      "lat": 50.841169516549, 
+      "lon": 4.833920982426, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2372,11 +2375,11 @@
         "320A-320D"
       ], 
       "housenumber": "320D", 
-      "lat": 50.841190376256, 
-      "lon": 4.83410107715, 
+      "lat": 50.841169516549, 
+      "lon": 4.833920982426, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2927,8 +2930,26 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "367B-367C"
+        "367A-367C"
+      ], 
+      "housenumber": "367A", 
+      "lat": 50.842523793395, 
+      "lon": 4.83197616585, 
+      "municipality": "Boutersem", 
+      "pcode": "3370", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "367A-367C"
       ], 
       "housenumber": "367B", 
       "lat": 50.842523793395, 
@@ -2943,7 +2964,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "367B-367C"
+        "367A-367C"
       ], 
       "housenumber": "367C", 
       "lat": 50.842523793395, 
@@ -3836,18 +3857,6 @@
       "housenumber": "451B", 
       "lat": 50.84679037234, 
       "lon": 4.822428266087, 
-      "municipality": "Boutersem", 
-      "pcode": "3370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "452"
-      ], 
-      "housenumber": "452", 
-      "lat": 50.847635571385, 
-      "lon": 4.819053740145, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
       "source": "afgeleidVanGebouw", 

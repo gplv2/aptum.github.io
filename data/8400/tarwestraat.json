@@ -21,7 +21,7 @@
       "lon": 2.911040769813, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -62,18 +62,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0302"
       ], 
       "hnrlbls": [
         "109"
@@ -431,9 +427,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0201", 
-        "3"
+        "0202"
       ], 
       "hnrlbls": [
         "23"
@@ -443,7 +441,7 @@
       "lon": 2.911372324924, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -488,7 +486,10 @@
     }, 
     {
       "busnrs": [
+        "0202", 
+        "0203", 
         "0204", 
+        "0304", 
         "1", 
         "11", 
         "12", 
@@ -556,6 +557,7 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "1", 
         "2", 
         "3", 
@@ -569,7 +571,7 @@
       "lon": 2.911217878043, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -694,7 +696,7 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-47"
       ], 
       "housenumber": "45", 
       "lat": 51.218126803048, 
@@ -728,11 +730,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "47"
+        "45-47"
       ], 
       "housenumber": "47", 
-      "lat": 51.218126061336, 
-      "lon": 2.911147301519, 
+      "lat": 51.218126803048, 
+      "lon": 2.911134537827, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -747,7 +749,7 @@
       "lon": 2.911934622333, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -963,6 +965,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "1", 
         "2", 
         "3"
@@ -975,7 +978,7 @@
       "lon": 2.911346304983, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -1103,8 +1106,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.217162684161, 
-      "lon": 2.910783028707, 
+      "lat": 51.217141575421, 
+      "lon": 2.910872011292, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1176,10 +1179,9 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "3K", 
-        "4", 
-        "7"
+        "0101", 
+        "0201", 
+        "1"
       ], 
       "hnrlbls": [
         "82"
@@ -1298,6 +1300,7 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "1", 
         "2", 
         "3"
@@ -1310,7 +1313,7 @@
       "lon": 2.911206747789, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -1372,6 +1375,7 @@
     {
       "busnrs": [
         "-101", 
+        "0101", 
         "0201", 
         "1", 
         "3"
@@ -1384,7 +1388,7 @@
       "lon": 2.910792982212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {

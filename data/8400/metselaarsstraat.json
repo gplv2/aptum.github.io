@@ -13,8 +13,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.221306090618, 
-      "lon": 2.9022340279, 
+      "lat": 51.221342017437, 
+      "lon": 2.902187802277, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -183,6 +183,7 @@
         "-101", 
         "0101", 
         "0201", 
+        "0202", 
         "1", 
         "2", 
         "3"
@@ -195,7 +196,7 @@
       "lon": 2.902964715491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Metselaarsstraat"
     }, 
     {
@@ -234,7 +235,7 @@
       "lon": 2.90313234327, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Metselaarsstraat"
     }, 
     {
@@ -299,12 +300,8 @@
     }, 
     {
       "busnrs": [
-        "-101", 
-        "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "30"
@@ -334,8 +331,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.220805596267, 
-      "lon": 2.903429834884, 
+      "lat": 51.220803807254, 
+      "lon": 2.903423305708, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -651,11 +648,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.220546631081, 
-      "lon": 2.904296927594, 
+      "lat": 51.220385507758, 
+      "lon": 2.904048451515, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Metselaarsstraat"
     }, 
     {
@@ -663,8 +660,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.220278274282, 
-      "lon": 2.903853973394, 
+      "lat": 51.220225416216, 
+      "lon": 2.903796222608, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -834,21 +831,15 @@
       "street": "Metselaarsstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.220011394837, 
-      "lon": 2.904176443268, 
+      "lat": 51.220048708871, 
+      "lon": 2.904227667509, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Metselaarsstraat"
     }, 
     {
@@ -856,8 +847,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.221126662635, 
-      "lon": 2.902489056412, 
+      "lat": 51.221118489511, 
+      "lon": 2.90248244159, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -892,7 +883,7 @@
     }, 
     {
       "busnrs": [
-        "B"
+        "B000"
       ], 
       "hnrlbls": [
         "9"

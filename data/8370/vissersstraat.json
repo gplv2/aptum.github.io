@@ -78,10 +78,6 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1", 
-        "VER2"
-      ], 
       "busnrs": [
         "101", 
         "201"
@@ -250,9 +246,10 @@
       "street": "Vissersstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "27"
@@ -319,6 +316,11 @@
       "street": "Vissersstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0301"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -557,15 +559,50 @@
       "street": "Vissersstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.315523591079, 
+      "lon": 3.127672901316, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vissersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.315329797593, 
-      "lon": 3.127889072756, 
+      "lat": 51.31535890408, 
+      "lon": 3.127878686232, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vissersstraat"
     }, 
     {
@@ -575,18 +612,6 @@
       "housenumber": "48", 
       "lat": 51.315609671197, 
       "lon": 3.127738025236, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vissersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.315372698395, 
-      "lon": 3.127925511432, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -622,9 +647,6 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": [
-        "0401"
-      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -650,6 +672,21 @@
       "housenumber": "52", 
       "lat": 51.315784316165, 
       "lon": 3.1278050919, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vissersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0401"
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.315482286047, 
+      "lon": 3.127977816354, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -800,12 +837,6 @@
       "street": "Vissersstraat"
     }, 
     {
-      "apptnrs": [
-        "VER1"
-      ], 
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "7"
       ], 

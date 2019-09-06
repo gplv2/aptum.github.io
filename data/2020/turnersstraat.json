@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -374,6 +371,9 @@
         "007", 
         "008", 
         "009", 
+        "010", 
+        "011", 
+        "012", 
         "101", 
         "102", 
         "103", 
@@ -386,6 +386,7 @@
         "110", 
         "111", 
         "112", 
+        "113", 
         "201", 
         "202", 
         "203", 
@@ -410,17 +411,18 @@
         "309", 
         "310", 
         "311", 
-        "312"
+        "312", 
+        "313"
       ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.186120676026, 
-      "lon": 4.381870641219, 
+      "lat": 51.186104507877, 
+      "lon": 4.381774808967, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnersstraat"
     }, 
     {
@@ -428,11 +430,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.186129666455, 
-      "lon": 4.381854195873, 
+      "lat": 51.186155037221, 
+      "lon": 4.381654252711, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnersstraat"
     }, 
     {

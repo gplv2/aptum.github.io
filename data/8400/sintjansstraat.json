@@ -35,8 +35,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.210071369605, 
-      "lon": 2.90614732183, 
+      "lat": 51.209974031673, 
+      "lon": 2.906120316612, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -95,11 +95,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.210319861113, 
-      "lon": 2.906685565406, 
+      "lat": 51.210318341872, 
+      "lon": 2.906679029125, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -153,11 +153,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.210282227599, 
-      "lon": 2.906826580766, 
+      "lat": 51.210183820954, 
+      "lon": 2.90681492216, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -189,11 +189,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.210270308215, 
-      "lon": 2.90696779212, 
+      "lat": 51.210180387312, 
+      "lon": 2.906944417134, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -259,6 +259,7 @@
     {
       "busnrs": [
         "0102", 
+        "0104", 
         "0201", 
         "0202", 
         "0301", 
@@ -278,7 +279,7 @@
       "lon": 2.907253040865, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -286,8 +287,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.209845408219, 
-      "lon": 2.906965790299, 
+      "lat": 51.209807721607, 
+      "lon": 2.906913441769, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -307,28 +308,18 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
-        "0106", 
-        "0107", 
-        "0108", 
         "0201", 
         "0202", 
-        "0206", 
-        "0207", 
+        "0203", 
         "0301", 
         "0302", 
-        "0303", 
-        "0306", 
-        "0307", 
-        "0308", 
-        "1", 
-        "2", 
-        "3", 
-        "6", 
-        "7", 
-        "8"
+        "0303"
       ], 
       "hnrlbls": [
         "4"
@@ -379,8 +370,10 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "1", 
         "2", 
         "3", 
@@ -395,7 +388,7 @@
       "lon": 2.908131427345, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -484,20 +477,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
         "0103", 
-        "0109", 
-        "0111", 
         "0201", 
         "0202", 
-        "0203", 
-        "0209", 
-        "0210", 
-        "0211", 
-        "1", 
-        "10", 
-        "2", 
-        "9"
+        "0203"
       ], 
       "hnrlbls": [
         "6"

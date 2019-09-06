@@ -52,8 +52,9 @@
     {
       "busnrs": [
         "1", 
-        "4", 
-        "BUS3"
+        "2", 
+        "3", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "104"
@@ -234,7 +235,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "114"
@@ -244,7 +246,7 @@
       "lon": 4.443855230773, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Armand Segerslei"
     }, 
     {
@@ -599,6 +601,18 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Armand Segerslei"
+    }, 
+    {
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 51.167912929847, 
+      "lon": 4.444505001948, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Armand Segerslei"
     }, 
     {
@@ -1473,11 +1487,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.170762863554, 
-      "lon": 4.445030828181, 
+      "lat": 51.170776412971, 
+      "lon": 4.445066595318, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Armand Segerslei"
     }, 
     {

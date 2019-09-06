@@ -13,10 +13,6 @@
       "street": "Oudstrijderslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -26,6 +22,22 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oudstrijderslaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.003403289883, 
+      "lon": 4.633676474883, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -66,6 +78,18 @@
     }, 
     {
       "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.002992794037, 
+      "lon": 4.632621879369, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oudstrijderslaan"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -90,19 +114,19 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.003310310882, 
-      "lon": 4.633052361332, 
+      "lat": 51.003335119147, 
+      "lon": 4.633292561885, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -302,17 +326,14 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.003027808713, 
-      "lon": 4.630473089272, 
+      "lat": 51.002997679194, 
+      "lon": 4.630560823228, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -334,18 +355,6 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudstrijderslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.00256285389, 
-      "lon": 4.628344170921, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -391,12 +400,16 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.002589931887, 
-      "lon": 4.62796877919, 
+      "lat": 51.002566411766, 
+      "lon": 4.627954544514, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -410,11 +423,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.002543546502, 
-      "lon": 4.627847282837, 
+      "lat": 51.002550298076, 
+      "lon": 4.627802158376, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -463,11 +476,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.00259073212, 
-      "lon": 4.627402336114, 
+      "lat": 51.002573839851, 
+      "lon": 4.627358220418, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -487,38 +500,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.002765741534, 
-      "lon": 4.627243314218, 
+      "lat": 51.002708028637, 
+      "lon": 4.627203674039, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudstrijderslaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.002740148063, 
-      "lon": 4.629224035702, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Oudstrijderslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.002999123493, 
-      "lon": 4.628616571431, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -673,6 +659,12 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -715,6 +707,11 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "6", 
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -755,6 +752,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oudstrijderslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.003728932076, 
+      "lon": 4.625562651347, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {

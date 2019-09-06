@@ -113,6 +113,25 @@
       "street": "Berlaarbaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 51.047287898968, 
+      "lon": 4.532855875309, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Berlaarbaan"
+    }, 
+    {
       "hnrlbls": [
         "154"
       ], 
@@ -1373,11 +1392,11 @@
         "344"
       ], 
       "housenumber": "344", 
-      "lat": 51.067133053643, 
-      "lon": 4.564101445398, 
+      "lat": 51.066937540335, 
+      "lon": 4.564265971689, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Berlaarbaan"
     }, 
     {
@@ -1586,6 +1605,18 @@
     }, 
     {
       "hnrlbls": [
+        "372"
+      ], 
+      "housenumber": "372", 
+      "lat": 51.069181774848, 
+      "lon": 4.568450737999, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Berlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
         "374"
       ], 
       "housenumber": "374", 
@@ -1697,8 +1728,8 @@
         "396"
       ], 
       "housenumber": "396", 
-      "lat": 51.069795760184, 
-      "lon": 4.572352851705, 
+      "lat": 51.069804323088, 
+      "lon": 4.57233933535, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1733,8 +1764,8 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 51.070835665485, 
-      "lon": 4.572002704986, 
+      "lat": 51.070839617616, 
+      "lon": 4.572004434306, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1745,8 +1776,8 @@
         "402"
       ], 
       "housenumber": "402", 
-      "lat": 51.070877755248, 
-      "lon": 4.572145990806, 
+      "lat": 51.070882706775, 
+      "lon": 4.572141589504, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1830,9 +1861,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "21"
+        "0001", 
+        "0011", 
+        "0021"
       ], 
       "hnrlbls": [
         "414"
@@ -2141,8 +2172,8 @@
         "458"
       ], 
       "housenumber": "458", 
-      "lat": 51.075693692105, 
-      "lon": 4.581959179823, 
+      "lat": 51.075701578453, 
+      "lon": 4.58197234328, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanPerceelGrb", 

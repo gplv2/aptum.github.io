@@ -141,10 +141,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "C"
+        "0201"
       ], 
       "hnrlbls": [
         "4"
@@ -171,7 +170,9 @@
         "1B", 
         "2", 
         "3B", 
-        "3C"
+        "3C", 
+        "B001", 
+        "B004"
       ], 
       "hnrlbls": [
         "40"
@@ -198,19 +199,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0302"
       ], 
       "hnrlbls": [
         "44"
@@ -220,7 +215,7 @@
       "lon": 2.914533942778, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haverstraat"
     }, 
     {
@@ -252,8 +247,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.219254173069, 
-      "lon": 2.916133506076, 
+      "lat": 51.219255882295, 
+      "lon": 2.916133596004, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

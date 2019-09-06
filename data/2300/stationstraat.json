@@ -155,6 +155,10 @@
       "street": "Stationstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -182,7 +186,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "22"
@@ -619,6 +624,21 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationstraat"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "80b"
+      ], 
+      "housenumber": "80b", 
+      "lat": 51.323924685271, 
+      "lon": 4.939872761476, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Stationstraat"
     }, 
     {

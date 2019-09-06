@@ -397,9 +397,6 @@
       "street": "Baron Opsomerlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -674,6 +671,22 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Baron Opsomerlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "64B"
+      ], 
+      "housenumber": "64B", 
+      "lat": 51.130862096537, 
+      "lon": 4.561776280007, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Baron Opsomerlaan"
     }, 
     {

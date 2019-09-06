@@ -9,7 +9,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "1-9"
+        "1-7"
       ], 
       "housenumber": "1", 
       "lat": 50.882208734668, 
@@ -56,15 +56,21 @@
       "street": "Woluwestraat"
     }, 
     {
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.882095370853, 
-      "lon": 4.46755561121, 
+      "lat": 50.8820835487, 
+      "lon": 4.467184988232, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Woluwestraat"
     }, 
     {
@@ -75,7 +81,25 @@
         "012"
       ], 
       "hnrlbls": [
-        "15"
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.881925368366, 
+      "lon": 4.46714515065, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Woluwestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
+      "hnrlbls": [
+        "15-15_3"
       ], 
       "housenumber": "15", 
       "lat": 50.881795721259, 
@@ -105,11 +129,11 @@
         "A"
       ], 
       "hnrlbls": [
-        "15_3-17"
+        "15-15_3"
       ], 
       "housenumber": "15_3", 
-      "lat": 50.881669105936, 
-      "lon": 4.467007484391, 
+      "lat": 50.881795721259, 
+      "lon": 4.467061748932, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -123,7 +147,7 @@
         "012"
       ], 
       "hnrlbls": [
-        "15_3-17"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 50.881669105936, 
@@ -255,7 +279,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-9"
+        "1-7"
       ], 
       "housenumber": "7", 
       "lat": 50.882208734668, 
@@ -267,14 +291,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.882208734668, 
-      "lon": 4.467334884561, 
+      "lat": 50.882101486064, 
+      "lon": 4.467552782153, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Woluwestraat"
     }
   ]

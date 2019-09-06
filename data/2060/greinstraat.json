@@ -143,6 +143,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -283,11 +284,11 @@
     }, 
     {
       "hnrlbls": [
-        "30A-78"
+        "30"
       ], 
-      "housenumber": "30A", 
-      "lat": 51.221293780662, 
-      "lon": 4.424779472118, 
+      "housenumber": "30", 
+      "lat": 51.221299580988, 
+      "lon": 4.424867220356, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -295,20 +296,17 @@
     }, 
     {
       "hnrlbls": [
-        "31-35"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.222088608144, 
-      "lon": 4.424998722154, 
+      "lat": 51.222124438631, 
+      "lon": 4.424880821352, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Greinstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -321,36 +319,37 @@
       "street": "Greinstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "31-35"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.222088608144, 
-      "lon": 4.424998722154, 
+      "lat": 51.222064023237, 
+      "lon": 4.424908802464, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Greinstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 51.221166745484, 
       "lon": 4.424840435657, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Greinstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31-35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.222088608144, 
-      "lon": 4.424998722154, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

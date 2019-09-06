@@ -1,10 +1,22 @@
 {
   "streets": [
     {
+      "b": 51.119374626726, 
+      "l": 3.764056114922, 
+      "name": "Adrien de Gerlachestraat", 
+      "numOfAddr": 1, 
+      "r": 3.764056114922, 
+      "sanName": "adriendegerlachestraat", 
+      "t": 51.119374626726
+    }, 
+    {
       "b": 51.157888418561, 
       "l": 3.816394417784, 
       "name": "Albert De Smetstraat", 
       "numOfAddr": 61, 
+      "otherPCs": [
+        "9050"
+      ], 
       "r": 3.831890783059, 
       "sanName": "albertdesmetstraat", 
       "t": 51.165100043952
@@ -76,10 +88,10 @@
       "b": 51.163132529477, 
       "l": 3.765169210722, 
       "name": "Christoffel Columbuslaan", 
-      "numOfAddr": 17, 
-      "r": 3.791682575058, 
+      "numOfAddr": 11, 
+      "r": 3.788615128682, 
       "sanName": "christoffelcolumbuslaan", 
-      "t": 51.169701107731
+      "t": 51.169662547402
     }, 
     {
       "b": 51.121548561597, 
@@ -184,7 +196,7 @@
       "b": 51.110129757548, 
       "l": 3.764319809887, 
       "name": "John Kennedylaan", 
-      "numOfAddr": 12, 
+      "numOfAddr": 13, 
       "otherPCs": [
         "9000"
       ], 
@@ -215,6 +227,9 @@
       "l": 3.811345713867, 
       "name": "Karel Bauwensstraat", 
       "numOfAddr": 31, 
+      "otherPCs": [
+        "9000"
+      ], 
       "r": 3.815457087236, 
       "sanName": "karelbauwensstraat", 
       "t": 51.155354226753
@@ -250,7 +265,7 @@
       "b": 51.156497788142, 
       "l": 3.80042751656, 
       "name": "Knippegroen", 
-      "numOfAddr": 18, 
+      "numOfAddr": 16, 
       "r": 3.812199419849, 
       "sanName": "knippegroen", 
       "t": 51.157881921127
@@ -325,7 +340,7 @@
       "b": 51.149876834372, 
       "l": 3.812119491592, 
       "name": "Marcel Herpelinckstraat", 
-      "numOfAddr": 38, 
+      "numOfAddr": 37, 
       "r": 3.818105604, 
       "sanName": "marcelherpelinckstraat", 
       "t": 51.152767005084
@@ -370,7 +385,7 @@
       "b": 51.121628008394, 
       "l": 3.797094618299, 
       "name": "Moleneinde", 
-      "numOfAddr": 45, 
+      "numOfAddr": 49, 
       "r": 3.800463570141, 
       "sanName": "moleneinde", 
       "t": 51.122954611244
@@ -421,10 +436,10 @@
       "t": 51.146039757639
     }, 
     {
-      "b": 51.151454895171, 
+      "b": 51.151234297638, 
       "l": 3.81299675119, 
       "name": "Rapenburgstraat", 
-      "numOfAddr": 35, 
+      "numOfAddr": 36, 
       "r": 3.817200093873, 
       "sanName": "rapenburgstraat", 
       "t": 51.153905965599
@@ -433,7 +448,7 @@
       "b": 51.121031637958, 
       "l": 3.783351089739, 
       "name": "Rechtstraat", 
-      "numOfAddr": 94, 
+      "numOfAddr": 95, 
       "r": 3.796849689759, 
       "sanName": "rechtstraat", 
       "t": 51.122347431275
@@ -487,7 +502,7 @@
       "b": 51.153542560046, 
       "l": 3.815992105172, 
       "name": "Sint-Kruis-Winkeldorp", 
-      "numOfAddr": 120, 
+      "numOfAddr": 119, 
       "r": 3.829678523051, 
       "sanName": "sintkruiswinkeldorp", 
       "t": 51.155727019857
@@ -496,7 +511,7 @@
       "b": 51.111423762504, 
       "l": 3.77489566156, 
       "name": "Skaldenstraat", 
-      "numOfAddr": 35, 
+      "numOfAddr": 37, 
       "r": 3.798784320825, 
       "sanName": "skaldenstraat", 
       "t": 51.119352260532

@@ -28,10 +28,6 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -148,6 +144,10 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,54 +157,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A-21F"
-      ], 
-      "housenumber": "21A", 
-      "lat": 51.219836879272, 
-      "lon": 4.420435291804, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A-21F"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.219836879272, 
-      "lon": 4.420435291804, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A-21F"
-      ], 
-      "housenumber": "21D", 
-      "lat": 51.219836879272, 
-      "lon": 4.420435291804, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A-21F"
-      ], 
-      "housenumber": "21F", 
-      "lat": 51.219836879272, 
-      "lon": 4.420435291804, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Wesenbekestraat"
     }, 
     {
@@ -495,24 +447,9 @@
         "3"
       ], 
       "hnrlbls": [
-        "38-38_2"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.220223744931, 
-      "lon": 4.421028717086, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Wesenbekestraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "38-38_2"
-      ], 
-      "housenumber": "38_2", 
       "lat": 51.220223744931, 
       "lon": 4.421028717086, 
       "municipality": "Antwerpen", 
@@ -548,11 +485,9 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -854,7 +789,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
         "4", 
         "5"
       ], 
@@ -955,8 +892,11 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "64"
@@ -970,9 +910,6 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1043,11 +980,6 @@
       "street": "Van Wesenbekestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "7"
       ], 

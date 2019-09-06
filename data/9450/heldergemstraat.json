@@ -745,11 +745,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.881054402536, 
-      "lon": 3.954937444942, 
+      "lat": 50.88111751082, 
+      "lon": 3.955040054211, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -799,11 +799,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.881941088607, 
-      "lon": 3.954567428198, 
+      "lat": 50.882025039828, 
+      "lon": 3.95448768027, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -895,11 +895,11 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 50.881549197029, 
-      "lon": 3.953996079829, 
+      "lat": 50.881624754121, 
+      "lon": 3.954085221703, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -919,11 +919,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.882412704376, 
-      "lon": 3.95401305169, 
+      "lat": 50.882507285261, 
+      "lon": 3.954143521885, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -1219,8 +1219,8 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.883099567619, 
-      "lon": 3.953113863241, 
+      "lat": 50.883098040446, 
+      "lon": 3.953114160944, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1235,7 +1235,7 @@
       "lon": 3.952295358902, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -1555,11 +1555,11 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 50.884397111682, 
-      "lon": 3.950753187249, 
+      "lat": 50.884449731271, 
+      "lon": 3.950761814762, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -2209,6 +2209,18 @@
     }, 
     {
       "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.874934923392, 
+      "lon": 3.958242637268, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heldergemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -2236,8 +2248,8 @@
         "66-66A"
       ], 
       "housenumber": "66", 
-      "lat": 50.875642941739, 
-      "lon": 3.958242428295, 
+      "lat": 50.875683338257, 
+      "lon": 3.958149011448, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -2260,8 +2272,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.875728827599, 
-      "lon": 3.958149609109, 
+      "lat": 50.875752737157, 
+      "lon": 3.95814883215, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -2356,11 +2368,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.876111258135, 
-      "lon": 3.9579734975, 
+      "lat": 50.876186820313, 
+      "lon": 3.958039191416, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
@@ -2368,17 +2380,18 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.875545755586, 
-      "lon": 3.957699667664, 
+      "lat": 50.875588089816, 
+      "lon": 3.957826319926, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {
       "busnrs": [
         "2", 
         "3", 
+        "4", 
         "5", 
         "6"
       ], 
@@ -2455,6 +2468,18 @@
     }, 
     {
       "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 50.876443968047, 
+      "lon": 3.957717965232, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heldergemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -2470,11 +2495,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.87647604598, 
-      "lon": 3.9577651416, 
+      "lat": 50.876483018343, 
+      "lon": 3.957702420978, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heldergemstraat"
     }, 
     {

@@ -50,7 +50,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "100-106"
+        "100"
       ], 
       "housenumber": "100", 
       "lat": 51.254156631804, 
@@ -114,23 +114,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "100-106"
+        "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.254156631804, 
-      "lon": 4.453640942122, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "100-106"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.254156631804, 
-      "lon": 4.453640942122, 
+      "lat": 51.254181668989, 
+      "lon": 4.453447620685, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -142,11 +130,10 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
-        "47-108"
+        "108"
       ], 
       "housenumber": "108", 
       "lat": 51.254181309458, 
@@ -217,8 +204,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.254210046949, 
-      "lon": 4.45273192632, 
+      "lat": 51.254209688136, 
+      "lon": 4.452730923021, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -258,8 +245,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.25419752137, 
-      "lon": 4.452650832448, 
+      "lat": 51.254197971295, 
+      "lon": 4.452650117089, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -305,16 +292,18 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.254202433269, 
-      "lon": 4.452569340542, 
+      "lat": 51.254201715231, 
+      "lon": 4.452567906888, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "121"
@@ -332,8 +321,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.254204831567, 
-      "lon": 4.452483403773, 
+      "lat": 51.25420564143, 
+      "lon": 4.452482116124, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -630,15 +619,21 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.254987546532, 
-      "lon": 4.448986816575, 
+      "lat": 51.254867706382, 
+      "lon": 4.44902556895, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -695,6 +690,12 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "13-15"
       ], 
@@ -1151,8 +1152,10 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "20"
@@ -1237,14 +1240,14 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.254477229696, 
-      "lon": 4.457666320546, 
+      "lat": 51.254414209411, 
+      "lon": 4.457682814706, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -1364,20 +1367,22 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.254477229696, 
-      "lon": 4.457666320546, 
+      "lat": 51.254415502693, 
+      "lon": 4.457636695248, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -1915,18 +1920,6 @@
     }, 
     {
       "hnrlbls": [
-        "72-74"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.254100212201, 
-      "lon": 4.454838282092, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
@@ -1947,7 +1940,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "72-74"
+        "74"
       ], 
       "housenumber": "74", 
       "lat": 51.254100212201, 
@@ -2086,9 +2079,6 @@
         "102", 
         "201"
       ], 
-      "busnrs": [
-        "202"
-      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -2170,6 +2160,7 @@
     }, 
     {
       "apptnrs": [
+        "002", 
         "101", 
         "102", 
         "201", 

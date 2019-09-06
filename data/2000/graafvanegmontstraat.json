@@ -119,11 +119,6 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
-      "busnrs": [
-        "13", 
-        "5", 
-        "9"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -277,6 +272,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -499,8 +495,10 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "37"
@@ -875,6 +873,10 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -888,14 +890,14 @@
     }, 
     {
       "hnrlbls": [
-        "59-76"
+        "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.210088981805, 
-      "lon": 4.394432298511, 
+      "lat": 51.210118746148, 
+      "lon": 4.394375504754, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Graaf van Egmontstraat"
     }, 
     {
@@ -912,11 +914,8 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "101", 
         "201", 
-        "301", 
-        "401"
+        "301"
       ], 
       "hnrlbls": [
         "60"

@@ -151,6 +151,14 @@
       "street": "Assesteenweg"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5", 
+        "bus 6"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -846,6 +854,18 @@
     }, 
     {
       "hnrlbls": [
+        "244"
+      ], 
+      "housenumber": "244", 
+      "lat": 50.834527540945, 
+      "lon": 4.143934523131, 
+      "municipality": "Lennik", 
+      "pcode": "1750", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Assesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "248"
       ], 
       "housenumber": "248", 
@@ -873,11 +893,11 @@
         "250"
       ], 
       "housenumber": "250", 
-      "lat": 50.835541959616, 
-      "lon": 4.144517545277, 
+      "lat": 50.835582554733, 
+      "lon": 4.14412085681, 
       "municipality": "Lennik", 
       "pcode": "1750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Assesteenweg"
     }, 
     {

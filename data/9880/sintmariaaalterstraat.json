@@ -74,6 +74,18 @@
     }, 
     {
       "hnrlbls": [
+        "110A"
+      ], 
+      "housenumber": "110A", 
+      "lat": 51.086910920331, 
+      "lon": 3.434284340861, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
@@ -157,6 +169,10 @@
       "street": "Sint-Maria-Aalterstraat"
     }, 
     {
+      "apptnrs": [
+        "1.0", 
+        "2.0"
+      ], 
       "busnrs": [
         "1A", 
         "1B", 
@@ -184,6 +200,73 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "17_1-64_2"
+      ], 
+      "housenumber": "17_1", 
+      "lat": 51.091129356546, 
+      "lon": 3.443845494356, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "C", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "17_1-64_2"
+      ], 
+      "housenumber": "17_2", 
+      "lat": 51.091129356546, 
+      "lon": 3.443845494356, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "B", 
+        "C", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "17_1-64_2"
+      ], 
+      "housenumber": "17_3", 
+      "lat": 51.091129356546, 
+      "lon": 3.443845494356, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "17_1-64_2"
+      ], 
+      "housenumber": "17_4", 
+      "lat": 51.091129356546, 
+      "lon": 3.443845494356, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Maria-Aalterstraat"
     }, 
     {
@@ -326,6 +409,7 @@
     }, 
     {
       "busnrs": [
+        "00OB", 
         "0A", 
         "0B", 
         "1A", 
@@ -340,6 +424,21 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "27_1"
+      ], 
+      "housenumber": "27_1", 
+      "lat": 51.090786890665, 
+      "lon": 3.443024624521, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Sint-Maria-Aalterstraat"
     }, 
     {
@@ -455,8 +554,8 @@
         "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.090631074152, 
-      "lon": 3.442265162556, 
+      "lat": 51.090631961757, 
+      "lon": 3.44226371753, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -491,8 +590,8 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.09054542686, 
-      "lon": 3.442119260119, 
+      "lat": 51.090544452738, 
+      "lon": 3.442121135093, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -515,8 +614,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.090523559128, 
-      "lon": 3.442036187436, 
+      "lat": 51.090522752439, 
+      "lon": 3.442036488902, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +626,8 @@
         "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 51.090501649856, 
-      "lon": 3.441947834096, 
+      "lat": 51.09050022633, 
+      "lon": 3.441949717972, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -536,6 +635,8 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
         "0A", 
         "0B", 
         "1A", 
@@ -546,7 +647,7 @@
         "2C"
       ], 
       "hnrlbls": [
-        "4"
+        "4-4_2"
       ], 
       "housenumber": "4", 
       "lat": 51.091688009903, 
@@ -653,6 +754,39 @@
       "street": "Sint-Maria-Aalterstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "4-4_2"
+      ], 
+      "housenumber": "4_1", 
+      "lat": 51.091688009903, 
+      "lon": 3.445102056982, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "4-4_2"
+      ], 
+      "housenumber": "4_2", 
+      "lat": 51.091688009903, 
+      "lon": 3.445102056982, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
       "hnrlbls": [
         "50"
       ], 
@@ -750,6 +884,8 @@
     }, 
     {
       "busnrs": [
+        "00OA", 
+        "00OB", 
         "0A", 
         "0B", 
         "1A", 
@@ -758,7 +894,7 @@
         "2B"
       ], 
       "hnrlbls": [
-        "6"
+        "6-6_2"
       ], 
       "housenumber": "6", 
       "lat": 51.09164625056, 
@@ -886,6 +1022,38 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "6-6_2"
+      ], 
+      "housenumber": "6_1", 
+      "lat": 51.09164625056, 
+      "lon": 3.4448777674, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Sint-Maria-Aalterstraat"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "6-6_2"
+      ], 
+      "housenumber": "6_2", 
+      "lat": 51.09164625056, 
+      "lon": 3.4448777674, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Maria-Aalterstraat"
     }, 
     {

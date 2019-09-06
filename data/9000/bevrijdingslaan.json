@@ -757,14 +757,12 @@
       "street": "Bevrijdingslaan"
     }, 
     {
-      "apptnrs": [
-        "0102"
-      ], 
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0101", 
-        "0201"
+        "0102"
       ], 
       "hnrlbls": [
         "148"
@@ -1506,6 +1504,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101"
       ], 
       "hnrlbls": [
@@ -1677,14 +1676,14 @@
     }, 
     {
       "hnrlbls": [
-        "208A"
+        "208-210"
       ], 
-      "housenumber": "208A", 
+      "housenumber": "208", 
       "lat": 51.063128285802, 
       "lon": 3.697380836713, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -1701,18 +1700,6 @@
     }, 
     {
       "hnrlbls": [
-        "20A"
-      ], 
-      "housenumber": "20A", 
-      "lat": 51.059998790232, 
-      "lon": 3.702873073817, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bevrijdingslaan"
-    }, 
-    {
-      "hnrlbls": [
         "19-21"
       ], 
       "housenumber": "21", 
@@ -1725,14 +1712,14 @@
     }, 
     {
       "hnrlbls": [
-        "210A-212"
+        "208-210"
       ], 
-      "housenumber": "210A", 
-      "lat": 51.063160194475, 
-      "lon": 3.697285513029, 
+      "housenumber": "210", 
+      "lat": 51.063128285802, 
+      "lon": 3.697380836713, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -1749,7 +1736,7 @@
     }, 
     {
       "hnrlbls": [
-        "210A-212"
+        "212"
       ], 
       "housenumber": "212", 
       "lat": 51.063160194475, 
@@ -2421,6 +2408,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Bevrijdingslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "284-288B"
+      ], 
+      "housenumber": "288", 
+      "lat": 51.063665054784, 
+      "lon": 3.695806761579, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {

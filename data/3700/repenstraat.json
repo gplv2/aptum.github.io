@@ -1,6 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "1-1b"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.780295772877, 
+      "lon": 5.467373908327, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Repenstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -90,6 +111,22 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Repenstraat"
+    }, 
+    {
+      "busnrs": [
+        "4", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "1-1b"
+      ], 
+      "housenumber": "1b", 
+      "lat": 50.780295772877, 
+      "lon": 5.467373908327, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Repenstraat"
     }, 
     {

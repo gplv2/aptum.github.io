@@ -375,15 +375,18 @@
       "street": "Oordegemkouter"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.957715384317, 
-      "lon": 3.903502250308, 
+      "lat": 50.957667586033, 
+      "lon": 3.903463155483, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oordegemkouter"
     }, 
     {
@@ -721,14 +724,31 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.958260001105, 
-      "lon": 3.904719503453, 
+      "lat": 50.958236784271, 
+      "lon": 3.90469055441, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
       "street": "Oordegemkouter"
     }, 
     {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.958273157497, 
+      "lon": 3.904750402263, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oordegemkouter"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -1210,32 +1230,18 @@
       "street": "Oordegemkouter"
     }, 
     {
-      "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 50.960328758769, 
-      "lon": 3.908184261253, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Oordegemkouter"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "1"
       ], 
       "hnrlbls": [
-        "76A"
+        "76A-76B"
       ], 
       "housenumber": "76A", 
-      "lat": 50.960330048412, 
-      "lon": 3.908192219654, 
+      "lat": 50.96032872833, 
+      "lon": 3.90810754021, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oordegemkouter"
     }, 
     {
@@ -1244,14 +1250,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "76B"
+        "76A-76B"
       ], 
       "housenumber": "76B", 
-      "lat": 50.960328750974, 
-      "lon": 3.908182268568, 
+      "lat": 50.96032872833, 
+      "lon": 3.90810754021, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oordegemkouter"
     }, 
     {

@@ -559,8 +559,9 @@
       "street": "Sevenhanslei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "39"
@@ -931,6 +932,18 @@
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sevenhanslei"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.312628851222, 
+      "lon": 4.422505664265, 
+      "municipality": "Kapellen", 
+      "pcode": "2950", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sevenhanslei"
     }, 
     {
