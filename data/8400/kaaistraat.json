@@ -165,66 +165,65 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "0701", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.231238412728, 
-      "lon": 2.920166075917, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kaaistraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.231550819034, 
-      "lon": 2.919564269578, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kaaistraat"
-    }, 
-    {
-      "busnrs": [
         "0001", 
         "0101", 
         "0201", 
         "0301", 
         "0401", 
-        "0501"
+        "0501", 
+        "0601", 
+        "0701"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.231261334518, 
+      "lon": 2.920209896568, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.231607642003, 
+      "lon": 2.919689515884, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.231796546711, 
-      "lon": 2.919985068307, 
+      "lat": 51.23177610908, 
+      "lon": 2.919945895467, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -233,11 +232,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.231117351349, 
-      "lon": 2.920286394226, 
+      "lat": 51.231134211739, 
+      "lon": 2.92032710968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -277,12 +276,9 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "24"
@@ -392,32 +388,30 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.230928557822, 
-      "lon": 2.920499168904, 
+      "lat": 51.230957675756, 
+      "lon": 2.920557116096, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
       "busnrs": [
         "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
         "0501", 
+        "0601", 
         "0701", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0801"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.231529212727, 
-      "lon": 2.919701260463, 
+      "lat": 51.23156956426, 
+      "lon": 2.919788213394, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -535,15 +529,20 @@
       "street": "Kaaistraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "36-69"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.230381833447, 
-      "lon": 2.9217449965, 
+      "lat": 51.230293567046, 
+      "lon": 2.92174630337, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -578,19 +577,20 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.231736983164, 
-      "lon": 2.920091163509, 
+      "lat": 51.231705076739, 
+      "lon": 2.919989055554, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -651,17 +651,29 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004"
+        "0004", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.230487110547, 
-      "lon": 2.920988410312, 
+      "lat": 51.230526713485, 
+      "lon": 2.921153853504, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -679,14 +691,12 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0005", 
-        "0006", 
-        "0007", 
         "0101", 
-        "0501"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "45"
@@ -734,25 +744,23 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
+        "0401", 
         "0501", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.231473043405, 
-      "lon": 2.91977617719, 
+      "lat": 51.231515773482, 
+      "lon": 2.919866492803, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -793,19 +801,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "1"
+        "0301"
       ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.23000722496, 
-      "lon": 2.921767645371, 
+      "lat": 51.23002674583, 
+      "lon": 2.921805414069, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {

@@ -145,8 +145,13 @@
       "street": "Henisstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "11-11B"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 50.784172293575, 
@@ -259,23 +264,6 @@
       "housenumber": "119", 
       "lat": 50.78786171356, 
       "lon": 5.469398409753, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Henisstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "11-11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.784172293575, 
-      "lon": 5.471482642256, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1207,6 +1195,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-4"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.783819489598, 
+      "lon": 5.47140743281, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Henisstraat"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -1715,22 +1715,6 @@
       "street": "Henisstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2B-4"
-      ], 
-      "housenumber": "2B", 
-      "lat": 50.783916115736, 
-      "lon": 5.471295391257, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Henisstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -1856,14 +1840,14 @@
     }, 
     {
       "hnrlbls": [
-        "2B-4"
+        "2-4"
       ], 
       "housenumber": "4", 
-      "lat": 50.783916115736, 
-      "lon": 5.471295391257, 
+      "lat": 50.783819489598, 
+      "lon": 5.47140743281, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Henisstraat"
     }, 
     {

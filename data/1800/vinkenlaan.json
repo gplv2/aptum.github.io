@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "2"
-      ], 
       "busnrs": [
         "02/1"
       ], 
@@ -103,8 +100,8 @@
       "street": "Vinkenlaan"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "11"
@@ -1192,6 +1189,18 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Vinkenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.913658159176, 
+      "lon": 4.378490965944, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vinkenlaan"
     }, 
     {

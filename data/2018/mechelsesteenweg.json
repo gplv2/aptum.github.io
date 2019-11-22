@@ -240,8 +240,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.206522241637, 
-      "lon": 4.410354622309, 
+      "lat": 51.206528084325, 
+      "lon": 4.410354055253, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -280,7 +280,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-122"
+        "118-122"
       ], 
       "housenumber": "118", 
       "lat": 51.207028085472, 
@@ -303,7 +303,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-122"
+        "118-122"
       ], 
       "housenumber": "120", 
       "lat": 51.207028085472, 
@@ -335,7 +335,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-122"
+        "118-122"
       ], 
       "housenumber": "122", 
       "lat": 51.207028085472, 
@@ -364,6 +364,12 @@
       "street": "Mechelsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "124-126"
       ], 
@@ -1620,11 +1626,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.203490721968, 
-      "lon": 4.412043930507, 
+      "lat": 51.203508583708, 
+      "lon": 4.41186996273, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1665,6 +1671,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "197A"
+      ], 
+      "housenumber": "197A", 
+      "lat": 51.203405368857, 
+      "lon": 4.411943980783, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2474,6 +2492,7 @@
       "busnrs": [
         "01", 
         "11", 
+        "12", 
         "21", 
         "31", 
         "41", 
@@ -3369,7 +3388,7 @@
     }, 
     {
       "apptnrs": [
-        "001", 
+        "101", 
         "201", 
         "301", 
         "401", 
@@ -3380,8 +3399,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.20855337104, 
-      "lon": 4.40904228038, 
+      "lat": 51.208529580253, 
+      "lon": 4.408959836838, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

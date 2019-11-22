@@ -170,7 +170,7 @@
     }, 
     {
       "hnrlbls": [
-        "109-110"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 51.047797185512, 
@@ -193,27 +193,32 @@
       "street": "Heernislaan"
     }, 
     {
-      "hnrlbls": [
-        "109-110"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
-      "housenumber": "110", 
-      "lat": 51.047797185512, 
-      "lon": 3.745213483681, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Heernislaan"
-    }, 
-    {
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.047723666665, 
-      "lon": 3.745301025241, 
+      "lat": 51.047749242238, 
+      "lon": 3.745275728483, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heernislaan"
+    }, 
+    {
+      "hnrlbls": [
+        "111A"
+      ], 
+      "housenumber": "111A", 
+      "lat": 51.047701051132, 
+      "lon": 3.745342112091, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heernislaan"
     }, 
     {
@@ -1172,11 +1177,11 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.051152388186, 
-      "lon": 3.741375172752, 
+      "lat": 51.051130873535, 
+      "lon": 3.741403271489, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1316,19 +1321,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.051152388186, 
-      "lon": 3.741375172752, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Heernislaan"
-    }, 
-    {
-      "hnrlbls": [
-        "4-8"
+        "5-8"
       ], 
       "housenumber": "5", 
       "lat": 51.051152388186, 
@@ -1399,68 +1392,34 @@
       "street": "Heernislaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.049673698723, 
-      "lon": 3.742973997457, 
+      "lat": 51.049640046771, 
+      "lon": 3.743086541594, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heernislaan"
     }, 
     {
       "hnrlbls": [
-        "56-61"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Heernislaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56-61"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Heernislaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56-61"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Heernislaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56-61"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Heernislaan"
-    }, 
-    {
-      "hnrlbls": [
-        "4-8"
+        "5-8"
       ], 
       "housenumber": "6", 
       "lat": 51.051152388186, 
@@ -1472,26 +1431,26 @@
     }, 
     {
       "hnrlbls": [
-        "56-61"
+        "61"
       ], 
-      "housenumber": "60", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
+      "housenumber": "61", 
+      "lat": 51.049421697366, 
+      "lon": 3.742815496983, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heernislaan"
     }, 
     {
       "hnrlbls": [
-        "56-61"
+        "62"
       ], 
-      "housenumber": "61", 
-      "lat": 51.049541074979, 
-      "lon": 3.743069608676, 
+      "housenumber": "62", 
+      "lat": 51.049397163885, 
+      "lon": 3.742766052677, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heernislaan"
     }, 
     {
@@ -1580,7 +1539,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "5-8"
       ], 
       "housenumber": "7", 
       "lat": 51.051152388186, 
@@ -1817,7 +1776,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "5-8"
       ], 
       "housenumber": "8", 
       "lat": 51.051152388186, 
@@ -1951,8 +1910,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.048739856174, 
-      "lon": 3.744136915474, 
+      "lat": 51.048744764423, 
+      "lon": 3.744130147308, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

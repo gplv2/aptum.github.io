@@ -9,8 +9,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.913467648764, 
-      "lon": 3.920066133629, 
+      "lat": 50.913479751475, 
+      "lon": 3.920128158624, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -189,8 +189,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.918836932356, 
-      "lon": 3.910906345967, 
+      "lat": 50.918836719817, 
+      "lon": 3.910851737751, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -213,8 +213,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 50.919019365338, 
-      "lon": 3.910753963493, 
+      "lat": 50.919028520095, 
+      "lon": 3.910657879256, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -225,8 +225,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.919224129374, 
-      "lon": 3.910541916111, 
+      "lat": 50.91916342323, 
+      "lon": 3.910534970472, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -369,7 +369,6 @@
         "1", 
         "2", 
         "3", 
-        "4", 
         "5", 
         "6", 
         "7"
@@ -402,23 +401,11 @@
         "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 50.914089324759, 
-      "lon": 3.917799365503, 
+      "lat": 50.914085446823, 
+      "lon": 3.917772669138, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.91476561418, 
-      "lon": 3.918435346174, 
-      "municipality": "Erpe-Mere", 
-      "pcode": "9420", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentsestraat"
     }, 
     {
@@ -480,6 +467,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -509,27 +497,14 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.914617498631, 
-      "lon": 3.917833404358, 
-      "municipality": "Erpe-Mere", 
-      "pcode": "9420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.914609885509, 
-      "lon": 3.917606239545, 
+      "lat": 50.914493252114, 
+      "lon": 3.91768969324, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -655,8 +630,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.913603771, 
-      "lon": 3.91971829715, 
+      "lat": 50.913626233411, 
+      "lon": 3.919691775897, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -787,8 +762,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.915414253653, 
-      "lon": 3.915451668629, 
+      "lat": 50.91543673977, 
+      "lon": 3.915408221806, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -931,11 +906,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.916395290277, 
-      "lon": 3.912779954098, 
+      "lat": 50.916456397552, 
+      "lon": 3.912890425072, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gentsestraat"
     }, 
     {
@@ -1063,8 +1038,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.917083837331, 
-      "lon": 3.912836984797, 
+      "lat": 50.917055047873, 
+      "lon": 3.91278464674, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1120,15 +1095,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.917460226947, 
-      "lon": 3.912349962129, 
+      "lat": 50.917420331165, 
+      "lon": 3.912424014255, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

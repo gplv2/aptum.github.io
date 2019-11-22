@@ -384,11 +384,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.865840865443, 
-      "lon": 3.806373754427, 
+      "lat": 50.865850736017, 
+      "lon": 3.806351191698, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wurmendries"
     }, 
     {
@@ -427,11 +427,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.865768392098, 
-      "lon": 3.806126308545, 
+      "lat": 50.865784090555, 
+      "lon": 3.80611930216, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wurmendries"
     }, 
     {
@@ -859,8 +859,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.86618909861, 
-      "lon": 3.807853227702, 
+      "lat": 50.866189187145, 
+      "lon": 3.807852942534, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -915,15 +915,20 @@
       "street": "Wurmendries"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.866576878869, 
-      "lon": 3.807695040228, 
+      "lat": 50.866555485234, 
+      "lon": 3.807657792213, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wurmendries"
     }, 
     {

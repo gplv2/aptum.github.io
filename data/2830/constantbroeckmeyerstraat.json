@@ -257,11 +257,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.054463135267, 
-      "lon": 4.353135606985, 
+      "lat": 51.054479499729, 
+      "lon": 4.35317197083, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -269,11 +269,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.053193045809, 
-      "lon": 4.352124124149, 
+      "lat": 51.053230338644, 
+      "lon": 4.352041106626, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -293,11 +293,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.053169301969, 
-      "lon": 4.352028006499, 
+      "lat": 51.053148800833, 
+      "lon": 4.351981376872, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -525,7 +525,7 @@
       "lon": 4.351258617029, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -749,11 +749,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.053464812413, 
-      "lon": 4.351694600713, 
+      "lat": 51.053465628618, 
+      "lon": 4.351746514359, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -869,11 +869,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.053176386279, 
-      "lon": 4.351261279983, 
+      "lat": 51.053174056243, 
+      "lon": 4.35131105513, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -901,9 +901,6 @@
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "72-72A"
       ], 
@@ -924,13 +921,10 @@
       "lon": 4.351111011812, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "74-74A"
       ], 
@@ -951,7 +945,7 @@
       "lon": 4.351049985399, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -1119,7 +1113,7 @@
       "lon": 4.349930432906, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }, 
     {
@@ -1143,7 +1137,7 @@
       "lon": 4.349870834546, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Constant Broeckmeyerstraat"
     }
   ]

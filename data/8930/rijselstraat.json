@@ -155,15 +155,18 @@
       "street": "Rijselstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.791647922331, 
-      "lon": 3.124458901325, 
+      "lat": 50.791630204973, 
+      "lon": 3.12440759533, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -803,7 +806,7 @@
       "lon": 3.121964545624, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijselstraat"
     }, 
     {
@@ -982,8 +985,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.790010896929, 
-      "lon": 3.126140437628, 
+      "lat": 50.790011425708, 
+      "lon": 3.126139430779, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1024,8 +1027,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.789951788539, 
-      "lon": 3.126162280875, 
+      "lat": 50.789952885188, 
+      "lon": 3.126163954039, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1065,11 +1068,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.795721987234, 
-      "lon": 3.122091408325, 
+      "lat": 50.795722492383, 
+      "lon": 3.122240347448, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1338,11 +1341,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.7956637895, 
-      "lon": 3.122181895141, 
+      "lat": 50.79563892416, 
+      "lon": 3.121991185338, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1625,7 +1628,7 @@
       "lon": 3.126623699808, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1645,11 +1648,11 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.789060103175, 
-      "lon": 3.126843945493, 
+      "lat": 50.789006033094, 
+      "lon": 3.126654030548, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1880,8 +1883,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.795601217062, 
-      "lon": 3.12212311986, 
+      "lat": 50.795602130983, 
+      "lon": 3.122124514253, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2487,8 +2490,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.795491522636, 
-      "lon": 3.122308596658, 
+      "lat": 50.795489177727, 
+      "lon": 3.122198008861, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2626,8 +2629,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.795412082284, 
-      "lon": 3.12225310518, 
+      "lat": 50.79541226356, 
+      "lon": 3.122253242239, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2668,8 +2671,8 @@
         "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 50.7953203237, 
-      "lon": 3.122392002192, 
+      "lat": 50.79532070978, 
+      "lon": 3.122386033923, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2710,8 +2713,8 @@
         "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 50.7953203237, 
-      "lon": 3.122392002192, 
+      "lat": 50.79532070978, 
+      "lon": 3.122386033923, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2734,8 +2737,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.795224124833, 
-      "lon": 3.122468456807, 
+      "lat": 50.795219609852, 
+      "lon": 3.122449709207, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2788,8 +2791,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.795100676805, 
-      "lon": 3.122425904515, 
+      "lat": 50.795099514946, 
+      "lon": 3.12243501416, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2812,8 +2815,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.795007320416, 
-      "lon": 3.122752803547, 
+      "lat": 50.795011413428, 
+      "lon": 3.122757234663, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 

@@ -54,7 +54,8 @@
         "BU12", 
         "BU21", 
         "BU22", 
-        "BU31"
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "12"
@@ -69,6 +70,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU11", 
         "BU12", 
@@ -91,8 +93,11 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU12", 
-        "BU22"
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "14"
@@ -358,6 +363,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
@@ -370,11 +376,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.011822571194, 
-      "lon": 5.489261181901, 
+      "lat": 51.011824100371, 
+      "lon": 5.489213905146, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwe Kempen"
     }, 
     {

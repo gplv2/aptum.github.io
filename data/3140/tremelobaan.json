@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.003963650516, 
@@ -233,9 +238,6 @@
       "street": "Tremelobaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -350,18 +352,6 @@
       "housenumber": "126", 
       "lat": 50.996054390055, 
       "lon": 4.671446512717, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tremelobaan"
-    }, 
-    {
-      "hnrlbls": [
-        "128"
-      ], 
-      "housenumber": "128", 
-      "lat": 50.996066279983, 
-      "lon": 4.67150684485, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1104,9 +1094,6 @@
       "street": "Tremelobaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "182"
       ], 
@@ -1144,14 +1131,14 @@
     }, 
     {
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.00369634587, 
-      "lon": 4.634070071598, 
+      "lat": 51.003741661845, 
+      "lon": 4.634065342446, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tremelobaan"
     }, 
     {
@@ -1185,42 +1172,6 @@
       "housenumber": "196", 
       "lat": 50.996280523126, 
       "lon": 4.685331515648, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tremelobaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.003963650516, 
-      "lon": 4.632489022703, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tremelobaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.003963650516, 
-      "lon": 4.632489022703, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tremelobaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.003963650516, 
-      "lon": 4.632489022703, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1315,14 +1266,14 @@
     }, 
     {
       "hnrlbls": [
-        "19-21"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.00369634587, 
-      "lon": 4.634070071598, 
+      "lat": 51.003699279109, 
+      "lon": 4.634124511829, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tremelobaan"
     }, 
     {
@@ -1454,26 +1405,26 @@
     }, 
     {
       "hnrlbls": [
-        "230-232"
+        "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.994430178443, 
-      "lon": 4.687891495277, 
+      "lat": 50.994429702211, 
+      "lon": 4.687868273929, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tremelobaan"
     }, 
     {
       "hnrlbls": [
-        "230-232"
+        "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.994430178443, 
-      "lon": 4.687891495277, 
+      "lat": 50.994429383814, 
+      "lon": 4.687919266105, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tremelobaan"
     }, 
     {
@@ -1670,19 +1621,19 @@
     }, 
     {
       "hnrlbls": [
-        "266-268"
+        "266"
       ], 
       "housenumber": "266", 
-      "lat": 50.994797049222, 
-      "lon": 4.691173617281, 
+      "lat": 50.994793572518, 
+      "lon": 4.691130290499, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tremelobaan"
     }, 
     {
       "hnrlbls": [
-        "266-268"
+        "268"
       ], 
       "housenumber": "268", 
       "lat": 50.994797049222, 
@@ -1925,18 +1876,6 @@
     }, 
     {
       "hnrlbls": [
-        "48A"
-      ], 
-      "housenumber": "48A", 
-      "lat": 51.002082323063, 
-      "lon": 4.644148441658, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Tremelobaan"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -1987,6 +1926,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tremelobaan"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 51.001995614687, 
+      "lon": 4.645279815012, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tremelobaan"
     }, 
     {

@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.782684677614, 
@@ -130,24 +136,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Beemdstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.782684677614, 
-      "lon": 5.475514057817, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
       "street": "Beemdstraat"
     }, 
     {

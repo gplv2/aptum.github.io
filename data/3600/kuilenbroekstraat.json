@@ -101,6 +101,7 @@
         "BU01", 
         "BU02", 
         "BU03", 
+        "BU04", 
         "BU05", 
         "BU06", 
         "BU07", 
@@ -120,11 +121,10 @@
       "street": "Kuilenbroekstraat"
     }, 
     {
-      "apptnrs": [
-        "bus 1"
-      ], 
       "busnrs": [
-        "bus 11"
+        "BU01", 
+        "BU02", 
+        "BU11"
       ], 
       "hnrlbls": [
         "20"
@@ -213,6 +213,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
         "BU05", 
         "BU06", 

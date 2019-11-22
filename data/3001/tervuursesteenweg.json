@@ -164,10 +164,10 @@
     }, 
     {
       "busnrs": [
-        "7777"
+        "00K1"
       ], 
       "hnrlbls": [
-        "111"
+        "111-113"
       ], 
       "housenumber": "111", 
       "lat": 50.874935512448, 
@@ -179,14 +179,14 @@
     }, 
     {
       "hnrlbls": [
-        "113"
+        "111-113"
       ], 
       "housenumber": "113", 
-      "lat": 50.874785296508, 
-      "lon": 4.680061922512, 
+      "lat": 50.874935512448, 
+      "lon": 4.680162944403, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -3006,8 +3006,7 @@
         "0002", 
         "0101", 
         "0102", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "38"
@@ -3051,6 +3050,18 @@
       "housenumber": "39", 
       "lat": 50.876292058113, 
       "lon": 4.681535537277, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "390"
+      ], 
+      "housenumber": "390", 
+      "lat": 50.87066936429, 
+      "lon": 4.653021131274, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

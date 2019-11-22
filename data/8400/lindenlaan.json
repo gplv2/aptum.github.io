@@ -2,20 +2,19 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.210663060221, 
-      "lon": 2.904037512072, 
+      "lat": 51.210639616167, 
+      "lon": 2.904097217304, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -31,15 +30,19 @@
       "street": "Lindenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.210609723101, 
-      "lon": 2.903984654408, 
+      "lat": 51.210586296794, 
+      "lon": 2.904045790332, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -367,18 +370,19 @@
     }, 
     {
       "busnrs": [
-        "0002", 
+        "0001", 
+        "0101", 
         "0102"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.209782839824, 
-      "lon": 2.903965529868, 
+      "lat": 51.209796080707, 
+      "lon": 2.903873226903, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {

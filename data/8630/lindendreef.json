@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -185,15 +188,22 @@
       "street": "Lindendreef"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.069585167473, 
-      "lon": 2.663618384068, 
+      "lat": 51.069636211352, 
+      "lon": 2.663535751518, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindendreef"
     }, 
     {
@@ -201,11 +211,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.069549995211, 
-      "lon": 2.663437000343, 
+      "lat": 51.06957912114, 
+      "lon": 2.663417957742, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindendreef"
     }, 
     {
@@ -221,15 +231,68 @@
       "street": "Lindendreef"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.069438965187, 
-      "lon": 2.663183032413, 
+      "lat": 51.06953092427, 
+      "lon": 2.663305833821, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lindendreef"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.069484129866, 
+      "lon": 2.66320364851, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lindendreef"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.069442801226, 
+      "lon": 2.663131232646, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lindendreef"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.069409280666, 
+      "lon": 2.66304540325, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindendreef"
     }, 
     {

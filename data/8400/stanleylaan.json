@@ -132,13 +132,12 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0003", 
-        "0007", 
-        "0008", 
+        "0101", 
         "0102", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "2"
@@ -177,18 +176,20 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.232320030393, 
-      "lon": 2.941776642842, 
+      "lat": 51.232290889713, 
+      "lon": 2.941745745426, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -259,15 +260,18 @@
       "street": "Stanleylaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.232215661646, 
-      "lon": 2.942067799582, 
+      "lat": 51.232189158144, 
+      "lon": 2.942046844946, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -368,22 +372,15 @@
       "street": "Stanleylaan"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0200", 
-        "0201", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.231800376845, 
-      "lon": 2.942817946782, 
+      "lat": 51.231834094196, 
+      "lon": 2.942818347729, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -675,22 +672,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2"
+        "0202"
       ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.231750278677, 
-      "lon": 2.945847569497, 
+      "lat": 51.231783468867, 
+      "lon": 2.945848991067, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {
@@ -730,15 +725,20 @@
       "street": "Stanleylaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.231739555913, 
-      "lon": 2.946084736838, 
+      "lat": 51.231779226852, 
+      "lon": 2.946086820024, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stanleylaan"
     }, 
     {

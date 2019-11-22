@@ -16,27 +16,32 @@
       "street": "Aartshertogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.215130048259, 
-      "lon": 2.886420895989, 
+      "lat": 51.21521110042, 
+      "lon": 2.886546863667, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
       "busnrs": [
         "0001", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "0401", 
-        "0402"
+        "0302"
       ], 
       "hnrlbls": [
         "11"
@@ -75,8 +80,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "14"
@@ -91,13 +95,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "1", 
-        "1A", 
-        "2"
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "15"
@@ -157,18 +162,17 @@
     {
       "busnrs": [
         "0101", 
-        "0102", 
         "0201"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.21498123405, 
-      "lon": 2.886899428465, 
+      "lat": 51.215001873698, 
+      "lon": 2.886925111185, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -265,19 +269,15 @@
       "street": "Aartshertogstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "9"
-      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.21576499302, 
-      "lon": 2.886016660274, 
+      "lat": 51.21573072974, 
+      "lon": 2.885979958926, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -561,32 +561,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
         "0202", 
-        "0203", 
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0203"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.216124600692, 
-      "lon": 2.885242401364, 
+      "lat": 51.216102445649, 
+      "lon": 2.885210611647, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -669,44 +660,37 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.216034415679, 
-      "lon": 2.884825707197, 
+      "lat": 51.216083086418, 
+      "lon": 2.884878554652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
       "busnrs": [
-        "-001", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "6"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.216241911752, 
-      "lon": 2.885026526696, 
+      "lat": 51.216216722746, 
+      "lon": 2.884996551265, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -745,8 +729,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0003", 
         "0101", 
         "0201", 
         "0301"
@@ -850,44 +832,41 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "7", 
-        "8"
+        "0302"
       ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.21645227764, 
-      "lon": 2.884610576308, 
+      "lat": 51.21642695916, 
+      "lon": 2.884577455834, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
       "busnrs": [
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.216294713064, 
-      "lon": 2.884326718132, 
+      "lat": 51.216341333334, 
+      "lon": 2.884373761572, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -931,40 +910,35 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.216544697042, 
+      "lon": 2.88433121709, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aartshertogstraat"
+    }, 
+    {
+      "busnrs": [
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
         "0302", 
-        "1", 
-        "2", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.216570037142, 
-      "lon": 2.884366054605, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Aartshertogstraat"
-    }, 
-    {
-      "busnrs": [
-        "001A", 
-        "002B", 
-        "003A", 
-        "003B", 
-        "0102", 
-        "1", 
-        "1A", 
-        "1B", 
-        "2B", 
-        "3B", 
-        "B"
+        "0401"
       ], 
       "hnrlbls": [
         "68"
@@ -993,15 +967,19 @@
       "street": "Aartshertogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.216436846046, 
-      "lon": 2.883997106786, 
+      "lat": 51.216478018694, 
+      "lon": 2.88405420063, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -1021,6 +999,7 @@
         "0001", 
         "0002", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
@@ -1079,19 +1058,17 @@
         "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.215105703119, 
-      "lon": 2.88656581511, 
+      "lat": 51.215155549912, 
+      "lon": 2.886633656026, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aartshertogstraat"
     }, 
     {
@@ -1188,7 +1165,9 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "92"

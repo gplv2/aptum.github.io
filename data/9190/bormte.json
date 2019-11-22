@@ -2764,15 +2764,23 @@
       "street": "Bormte"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.20248230715, 
-      "lon": 4.039714342702, 
+      "lat": 51.202270660211, 
+      "lon": 4.039305916752, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bormte"
     }, 
     {
@@ -2857,6 +2865,44 @@
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bormte"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.202219374218, 
+      "lon": 4.039481404307, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bormte"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.202324367042, 
+      "lon": 4.039580818787, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bormte"
     }
   ]

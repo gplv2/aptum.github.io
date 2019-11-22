@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.467363539744, 
-      "lon": 4.468186881079, 
+      "lat": 51.467362372833, 
+      "lon": 4.468185151837, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -181,8 +181,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.465113241689, 
-      "lon": 4.459980057416, 
+      "lat": 51.465114321071, 
+      "lon": 4.459978908463, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -637,8 +637,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.464487151003, 
-      "lon": 4.458725149973, 
+      "lat": 51.464475186734, 
+      "lon": 4.45873951504, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -705,7 +705,7 @@
       "lon": 4.458569779099, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -972,8 +972,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.463445703168, 
-      "lon": 4.456915532437, 
+      "lat": 51.463448668487, 
+      "lon": 4.456916257525, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1258,8 +1258,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.462987144943, 
-      "lon": 4.454502506714, 
+      "lat": 51.462998383226, 
+      "lon": 4.454497060221, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1630,17 +1630,19 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.462866223427, 
-      "lon": 4.452305384343, 
+      "lat": 51.462884076772, 
+      "lon": 4.452223261514, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1648,8 +1650,8 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.462692024197, 
-      "lon": 4.453093956572, 
+      "lat": 51.462693012713, 
+      "lon": 4.453094102264, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1675,6 +1677,39 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "220"
+      ], 
+      "housenumber": "220", 
+      "lat": 51.46287909655, 
+      "lon": 4.452148722846, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "220A"
+      ], 
+      "housenumber": "220A", 
+      "lat": 51.463128272719, 
+      "lon": 4.452086730544, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "hnrlbls": [
         "221"
       ], 
@@ -1684,6 +1719,18 @@
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "222"
+      ], 
+      "housenumber": "222", 
+      "lat": 51.462869076193, 
+      "lon": 4.452084246633, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2017,8 +2064,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.466679128169, 
-      "lon": 4.465284984041, 
+      "lat": 51.466683896096, 
+      "lon": 4.465279382271, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 

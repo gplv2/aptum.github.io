@@ -74,7 +74,6 @@
     }, 
     {
       "busnrs": [
-        "BU02", 
         "BU11"
       ], 
       "hnrlbls": [
@@ -107,6 +106,18 @@
       "housenumber": "21", 
       "lat": 50.952021879985, 
       "lon": 5.41762780704, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aspergerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.952464262082, 
+      "lon": 5.417509470166, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -189,11 +200,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.952328570669, 
-      "lon": 5.416767470298, 
+      "lat": 50.952231892192, 
+      "lon": 5.416841880374, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aspergerijstraat"
     }, 
     {
@@ -597,9 +608,6 @@
       "street": "Aspergerijstraat"
     }, 
     {
-      "busnrs": [
-        "BU01"
-      ], 
       "hnrlbls": [
         "79"
       ], 

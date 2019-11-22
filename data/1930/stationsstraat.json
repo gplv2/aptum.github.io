@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -961,12 +965,12 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "6"
@@ -1005,18 +1009,6 @@
     }, 
     {
       "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.883309687628, 
-      "lon": 4.471784645011, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -1032,11 +1024,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.881530375931, 
-      "lon": 4.472228895615, 
+      "lat": 50.881712232539, 
+      "lon": 4.472228446301, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1174,7 +1166,7 @@
       "lon": 4.47195037565, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

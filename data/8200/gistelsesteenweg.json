@@ -780,8 +780,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.20170778048, 
-      "lon": 3.202907229068, 
+      "lat": 51.201721433569, 
+      "lon": 3.20292434519, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1405,7 +1405,7 @@
     }, 
     {
       "hnrlbls": [
-        "182"
+        "182-182A"
       ], 
       "housenumber": "182", 
       "lat": 51.201347874061, 
@@ -1416,15 +1416,21 @@
       "street": "Gistelse Steenweg"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201"
+      ], 
       "hnrlbls": [
-        "182A"
+        "182-182A"
       ], 
       "housenumber": "182A", 
-      "lat": 51.201320230184, 
-      "lon": 3.199519228214, 
+      "lat": 51.201347874061, 
+      "lon": 3.199451140029, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gistelse Steenweg"
     }, 
     {
@@ -4061,6 +4067,18 @@
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gistelse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "379A"
+      ], 
+      "housenumber": "379A", 
+      "lat": 51.198187858299, 
+      "lon": 3.186793087032, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gistelse Steenweg"
     }, 
     {
@@ -8075,10 +8093,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "93"

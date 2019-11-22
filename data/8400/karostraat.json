@@ -133,6 +133,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0201"
       ], 
       "hnrlbls": [
@@ -237,21 +238,20 @@
     {
       "busnrs": [
         "-101", 
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.22467138136, 
-      "lon": 2.91642980968, 
+      "lat": 51.224618079917, 
+      "lon": 2.916481865809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -268,7 +268,8 @@
     }, 
     {
       "busnrs": [
-        "0201"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "29"
@@ -450,7 +451,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201"
       ], 
@@ -458,11 +458,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.224362259694, 
-      "lon": 2.916638728976, 
+      "lat": 51.224468112145, 
+      "lon": 2.916532063819, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -580,6 +580,10 @@
       "street": "Ka\u00efrostraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -592,10 +596,6 @@
       "street": "Ka\u00efrostraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -699,8 +699,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.224202738087, 
-      "lon": 2.914864517622, 
+      "lat": 51.224202098467, 
+      "lon": 2.914863678538, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -770,22 +770,17 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.224074160397, 
-      "lon": 2.915382362643, 
+      "lat": 51.224119242509, 
+      "lon": 2.915349174092, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
       "busnrs": [
-        "-101", 
         "0001", 
-        "0002", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
+        "0101"
       ], 
       "hnrlbls": [
         "65"
@@ -859,23 +854,18 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "5"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.223987860184, 
-      "lon": 2.915177885248, 
+      "lat": 51.224061051645, 
+      "lon": 2.915120340642, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -907,15 +897,19 @@
       "street": "Ka\u00efrostraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.223972400534, 
-      "lon": 2.914030003046, 
+      "lat": 51.223935248272, 
+      "lon": 2.914057361842, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -962,22 +956,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "0201", 
-        "1", 
-        "1A", 
-        "2", 
-        "8"
+        "0201"
       ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.223969213015, 
-      "lon": 2.913895093441, 
+      "lat": 51.22391080818, 
+      "lon": 2.913926837658, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -1097,6 +1089,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
         "0101", 
         "0102", 
         "0103", 
@@ -1146,25 +1148,14 @@
         "0507", 
         "0508", 
         "0509", 
-        "0510", 
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "60", 
-        "7", 
-        "8", 
-        "9"
+        "0510"
       ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.22252731663, 
-      "lon": 2.912538336938, 
+      "lat": 51.222564720552, 
+      "lon": 2.912502236798, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -37,15 +37,19 @@
       "street": "Romestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.225730247628, 
-      "lon": 2.914945185657, 
+      "lat": 51.225698422566, 
+      "lon": 2.914864711123, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -153,15 +157,20 @@
       "street": "Romestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.22535876492, 
-      "lon": 2.914841796437, 
+      "lat": 51.225381365733, 
+      "lon": 2.914910531287, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -196,22 +205,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
-        "26-29"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.225446443713, 
-      "lon": 2.91533401638, 
+      "lat": 51.22543938955, 
+      "lon": 2.915140378393, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -252,40 +259,37 @@
     }, 
     {
       "busnrs": [
-        "-101", 
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "2"
+        "0401"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.225398317039, 
-      "lon": 2.915214534073, 
+      "lat": 51.22537734948, 
+      "lon": 2.915161640463, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0301", 
-        "1", 
-        "3"
+        "-101", 
+        "0101"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.225066055907, 
-      "lon": 2.915149723123, 
+      "lat": 51.22508833964, 
+      "lon": 2.915207300067, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -337,17 +341,20 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.225190744258, 
-      "lon": 2.915449364637, 
+      "lat": 51.225164788802, 
+      "lon": 2.915378300405, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -486,18 +493,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "C"
+        "0201"
       ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.224504319107, 
-      "lon": 2.916127479894, 
+      "lat": 51.224482754749, 
+      "lon": 2.916069880839, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -588,15 +593,21 @@
       "street": "Romestraat"
     }, 
     {
+      "busnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.224200346427, 
-      "lon": 2.916499454275, 
+      "lat": 51.224167944799, 
+      "lon": 2.91640854788, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -613,23 +624,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0301", 
-        "0302", 
-        "1", 
-        "3", 
-        "4", 
-        "5"
+        "0301"
       ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.224160603958, 
-      "lon": 2.916703993384, 
+      "lat": 51.224093317851, 
+      "lon": 2.916481024951, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -648,8 +656,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "54"
@@ -680,21 +687,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.224014317347, 
-      "lon": 2.916651279719, 
+      "lat": 51.223988422075, 
+      "lon": 2.91659238418, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -716,18 +721,18 @@
     {
       "busnrs": [
         "0001", 
-        "0003", 
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.223986767774, 
-      "lon": 2.91672859002, 
+      "lat": 51.223949952315, 
+      "lon": 2.916636962289, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -744,49 +749,53 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "4", 
-        "5"
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.225914946501, 
-      "lon": 2.914758454359, 
+      "lat": 51.225884620895, 
+      "lon": 2.914675642072, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.223937882495, 
-      "lon": 2.916766906459, 
+      "lat": 51.223902989399, 
+      "lon": 2.916678082334, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.224428487523, 
-      "lon": 2.915787090215, 
+      "lat": 51.224456643918, 
+      "lon": 2.915847060808, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -891,8 +900,7 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "73"
@@ -949,11 +957,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "8"
@@ -968,18 +973,20 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "-101", 
+        "-102", 
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.223819685659, 
-      "lon": 2.91640994296, 
+      "lat": 51.223844891961, 
+      "lon": 2.916471293517, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -1010,19 +1017,17 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0102", 
-        "0201", 
-        "0202"
+        "0102"
       ], 
       "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.223683015037, 
-      "lon": 2.916547345562, 
+      "lat": 51.223709255481, 
+      "lon": 2.916612386203, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Romestraat"
     }, 
     {
@@ -1055,10 +1060,6 @@
       "street": "Romestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0201"
-      ], 
       "hnrlbls": [
         "93"
       ], 

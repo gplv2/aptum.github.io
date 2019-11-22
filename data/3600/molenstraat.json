@@ -358,14 +358,15 @@
         "BU21", 
         "BU22", 
         "BU31", 
+        "BU32", 
         "BU41"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.964182672713, 
-      "lon": 5.502064357197, 
+      "lat": 50.964187297277, 
+      "lon": 5.502032294399, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -374,7 +375,8 @@
     {
       "busnrs": [
         "BU11", 
-        "BU21"
+        "BU21", 
+        "BU31"
       ], 
       "hnrlbls": [
         "17-19"
@@ -510,8 +512,8 @@
     }, 
     {
       "busnrs": [
-        "BU12", 
-        "BU21"
+        "B12", 
+        "B21"
       ], 
       "hnrlbls": [
         "2A"
@@ -686,12 +688,12 @@
     }, 
     {
       "busnrs": [
-        "BU11", 
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32", 
-        "BU41"
+        "B11", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41"
       ], 
       "hnrlbls": [
         "3A"
@@ -735,7 +737,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "BU11", 
         "BU31"
       ], 
       "hnrlbls": [
@@ -754,7 +756,8 @@
         "BU01", 
         "BU02", 
         "BU03", 
-        "BU04"
+        "BU04", 
+        "BU05"
       ], 
       "hnrlbls": [
         "43"
@@ -773,6 +776,7 @@
         "BU12", 
         "BU21", 
         "BU22", 
+        "BU31", 
         "BU32", 
         "BU41", 
         "BU42"
@@ -812,14 +816,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-52"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.964102435276, 
-      "lon": 5.503401079091, 
+      "lat": 50.964139698448, 
+      "lon": 5.503256910872, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -835,15 +839,25 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
+      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.964105977764, 
-      "lon": 5.503397321005, 
+      "lat": 50.964137343393, 
+      "lon": 5.503370461599, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -899,14 +913,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-52"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.964102435276, 
-      "lon": 5.503401079091, 
+      "lat": 50.964130108813, 
+      "lon": 5.503467949205, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -923,14 +937,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-52"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.964102435276, 
-      "lon": 5.503401079091, 
+      "lat": 50.964124209471, 
+      "lon": 5.503557496648, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -983,10 +997,11 @@
     }, 
     {
       "busnrs": [
+        "B002", 
         "BU01", 
-        "BU02", 
         "BU03", 
         "BU04", 
+        "BU05", 
         "BU06", 
         "BU07", 
         "BU08", 
@@ -997,8 +1012,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.964301887361, 
-      "lon": 5.504066202889, 
+      "lat": 50.964309619213, 
+      "lon": 5.504001044168, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1030,13 +1045,14 @@
     }, 
     {
       "busnrs": [
-        "BU11", 
-        "BU12", 
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32", 
-        "BU41"
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41", 
+        "B42"
       ], 
       "hnrlbls": [
         "60A"
@@ -1051,14 +1067,14 @@
     }, 
     {
       "busnrs": [
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32", 
-        "BU41", 
-        "BU42", 
-        "BU51", 
-        "BU52"
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41", 
+        "B42", 
+        "B51", 
+        "B52"
       ], 
       "hnrlbls": [
         "60B"
@@ -1073,14 +1089,13 @@
     }, 
     {
       "busnrs": [
-        "BU11", 
-        "BU12", 
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32", 
-        "BU41", 
-        "BU42"
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B41", 
+        "B42"
       ], 
       "hnrlbls": [
         "60C"
@@ -1120,11 +1135,11 @@
         "BU51"
       ], 
       "hnrlbls": [
-        "2-66"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.963925745638, 
-      "lon": 5.505459953962, 
+      "lat": 50.963983345455, 
+      "lon": 5.505128216733, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1154,14 +1169,15 @@
         "BU32", 
         "BU41", 
         "BU42", 
-        "BU51"
+        "BU51", 
+        "BU52"
       ], 
       "hnrlbls": [
-        "2-66"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.963925745638, 
-      "lon": 5.505459953962, 
+      "lat": 50.963954886397, 
+      "lon": 5.50535644963, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1195,16 +1211,17 @@
         "BU22", 
         "BU31", 
         "BU32", 
+        "BU41", 
         "BU42", 
         "BU51", 
         "BU52"
       ], 
       "hnrlbls": [
-        "2-66"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.963925745638, 
-      "lon": 5.505459953962, 
+      "lat": 50.963934381906, 
+      "lon": 5.505580177204, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1213,9 +1230,11 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU31", 
+        "BU32", 
         "BU41", 
         "BU42"
       ], 

@@ -526,6 +526,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03"
       ], 
@@ -596,7 +597,14 @@
       "busnrs": [
         "BU01", 
         "BU02", 
-        "BU03"
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "36"
@@ -640,7 +648,9 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02"
+        "BU02", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "40"
@@ -693,6 +703,9 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -857,6 +870,14 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -992,6 +1013,7 @@
     }, 
     {
       "busnrs": [
+        "BU11", 
         "BU12", 
         "BU13", 
         "BU21", 
@@ -1001,7 +1023,8 @@
         "BU31", 
         "BU32", 
         "BU33", 
-        "BU34"
+        "BU34", 
+        "BU41"
       ], 
       "hnrlbls": [
         "69"
@@ -1056,14 +1079,14 @@
     }, 
     {
       "hnrlbls": [
-        "78-84"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.961406496018, 
-      "lon": 5.502379871141, 
+      "lat": 50.961579195829, 
+      "lon": 5.502445405312, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1088,18 +1111,19 @@
         "BU23", 
         "BU31", 
         "BU32", 
+        "BU33", 
         "BU34", 
         "BU35"
       ], 
       "hnrlbls": [
-        "78-84"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.961406496018, 
-      "lon": 5.502379871141, 
+      "lat": 50.961520754532, 
+      "lon": 5.502501788617, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1155,7 +1179,7 @@
         "BU32"
       ], 
       "hnrlbls": [
-        "78-84"
+        "84"
       ], 
       "housenumber": "84", 
       "lat": 50.961406496018, 

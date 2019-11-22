@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.964219551487, 
-      "lon": 5.498729904082, 
+      "lat": 50.964217978318, 
+      "lon": 5.49865042608, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winterslagstraat"
     }, 
     {
@@ -91,7 +91,8 @@
     {
       "busnrs": [
         "BU01", 
-        "BU11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "105"
@@ -148,34 +149,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
         "BU01", 
         "BU02", 
-        "BU03", 
-        "BU04", 
         "BU11", 
         "BU12", 
-        "BU13", 
-        "BU14", 
-        "BU15", 
         "BU21", 
         "BU22", 
-        "BU23", 
-        "BU24", 
-        "BU25", 
         "BU31", 
-        "BU32", 
-        "BU33", 
-        "BU41", 
-        "BU42"
+        "BU32"
       ], 
       "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.970152090763, 
-      "lon": 5.500096777052, 
+      "lat": 50.970148522917, 
+      "lon": 5.500093843222, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -206,48 +194,54 @@
       "street": "Winterslagstraat"
     }, 
     {
-      "apptnrs": [
-        "BU02"
-      ], 
       "busnrs": [
-        "1", 
-        "3", 
         "BU01", 
+        "BU03", 
         "BU11", 
         "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
         "BU21", 
         "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU25", 
         "BU31", 
-        "BU32"
+        "BU32", 
+        "BU33", 
+        "BU41", 
+        "BU42"
       ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.970231259239, 
-      "lon": 5.500109794753, 
+      "lat": 50.970228919583, 
+      "lon": 5.500110023023, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winterslagstraat"
     }, 
     {
       "busnrs": [
         "BU02", 
         "BU03", 
+        "BU04", 
         "BU05", 
         "BU07", 
         "BU08"
       ], 
       "hnrlbls": [
-        "6-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.964219551487, 
-      "lon": 5.498729904082, 
+      "lat": 50.964282211242, 
+      "lon": 5.498645995617, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winterslagstraat"
     }, 
     {
@@ -454,6 +448,9 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -736,21 +733,21 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU04", 
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU14", 
-        "BU21", 
-        "BU22", 
-        "BU23", 
-        "BU24", 
-        "BU31", 
-        "BU32", 
-        "BU33"
+        "B01", 
+        "B02", 
+        "B03", 
+        "B04", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B24", 
+        "B31", 
+        "B32", 
+        "B33"
       ], 
       "hnrlbls": [
         "174A"
@@ -788,9 +785,6 @@
       "street": "Winterslagstraat"
     }, 
     {
-      "busnrs": [
-        "BU01"
-      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -843,6 +837,10 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -867,6 +865,10 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1316,6 +1318,7 @@
     {
       "busnrs": [
         "BU02", 
+        "BU11", 
         "BU21"
       ], 
       "hnrlbls": [
@@ -1499,7 +1502,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-46"
+        "9A-29"
       ], 
       "housenumber": "25", 
       "lat": 50.964438919479, 
@@ -1606,6 +1609,9 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU02"
+      ], 
       "hnrlbls": [
         "266"
       ], 
@@ -1619,7 +1625,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-46"
+        "9A-29"
       ], 
       "housenumber": "27", 
       "lat": 50.964438919479, 
@@ -1649,7 +1655,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-46"
+        "9A-29"
       ], 
       "housenumber": "29", 
       "lat": 50.964438919479, 
@@ -1685,13 +1691,18 @@
     }, 
     {
       "busnrs": [
-        "11", 
         "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
         "BU05", 
-        "BU07"
+        "BU07", 
+        "BU11", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
       ], 
       "hnrlbls": [
         "32"
@@ -1717,6 +1728,7 @@
         "BU09", 
         "BU10", 
         "BU11", 
+        "BU12", 
         "BU13", 
         "BU14", 
         "BU15", 
@@ -1741,6 +1753,7 @@
         "BU34", 
         "BU35", 
         "BU36", 
+        "BU37", 
         "BU38", 
         "BU39", 
         "BU40", 
@@ -1920,11 +1933,8 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21", 
-        "31", 
-        "41", 
         "BU01", 
+        "BU11", 
         "BU21", 
         "BU31", 
         "BU41"
@@ -1942,6 +1952,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU11", 
         "BU21", 
         "BU31", 
@@ -1983,6 +1994,26 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU07", 
+        "BU08", 
+        "BU09", 
+        "BU10", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16", 
+        "BU17", 
+        "BU18"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -2024,7 +2055,6 @@
     }, 
     {
       "busnrs": [
-        "13", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -2037,6 +2067,7 @@
         "BU10", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU14", 
         "BU15", 
         "BU16", 
@@ -2079,6 +2110,9 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU01"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -2116,14 +2150,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-12"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.964219551487, 
-      "lon": 5.498729904082, 
+      "lat": 50.964115841839, 
+      "lon": 5.498669887453, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winterslagstraat"
     }, 
     {
@@ -2163,9 +2197,6 @@
       "street": "Winterslagstraat"
     }, 
     {
-      "busnrs": [
-        "BU01"
-      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -2210,6 +2241,17 @@
       "street": "Winterslagstraat"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42", 
+        "BU51", 
+        "BU52"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -2260,6 +2302,8 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
+        "BU09", 
         "BU11", 
         "BU12", 
         "BU21", 
@@ -2321,18 +2365,19 @@
         "BU06", 
         "BU07", 
         "BU08", 
+        "BU09", 
         "BU10", 
         "BU11"
       ], 
       "hnrlbls": [
-        "6-12"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.964219551487, 
-      "lon": 5.498729904082, 
+      "lat": 50.964160017941, 
+      "lon": 5.498657000904, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winterslagstraat"
     }, 
     {
@@ -2418,8 +2463,9 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21"
+        "BU01", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "89"

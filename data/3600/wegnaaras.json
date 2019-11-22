@@ -30,6 +30,7 @@
       "busnrs": [
         "BU12", 
         "BU13", 
+        "BU21", 
         "BU22", 
         "BU31", 
         "BU32", 
@@ -37,6 +38,7 @@
         "BU41", 
         "BU42", 
         "BU43", 
+        "BU51", 
         "BU61"
       ], 
       "hnrlbls": [
@@ -84,9 +86,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "2"
+        "BU01", 
+        "BU02", 
+        "BU11"
       ], 
       "hnrlbls": [
         "105"
@@ -112,15 +114,20 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU12"
+      ], 
       "hnrlbls": [
-        "107-111"
+        "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.969486648197, 
-      "lon": 5.509728789853, 
+      "lat": 50.969414105672, 
+      "lon": 5.509709367888, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
@@ -136,27 +143,44 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU22", 
+        "BU31"
+      ], 
       "hnrlbls": [
-        "107-111"
+        "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.969486648197, 
-      "lon": 5.509728789853, 
+      "lat": 50.969459309631, 
+      "lon": 5.509850003028, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
-        "107-111"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.969486648197, 
-      "lon": 5.509728789853, 
+      "lat": 50.969500395474, 
+      "lon": 5.509988829547, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
@@ -267,7 +291,6 @@
     }, 
     {
       "busnrs": [
-        "46", 
         "BU10", 
         "BU11", 
         "BU12", 
@@ -279,6 +302,7 @@
         "BU21", 
         "BU22", 
         "BU23", 
+        "BU25", 
         "BU26", 
         "BU27", 
         "BU30", 
@@ -294,6 +318,7 @@
         "BU43", 
         "BU44", 
         "BU45", 
+        "BU46", 
         "BU47"
       ], 
       "hnrlbls": [
@@ -335,6 +360,7 @@
         "BU65", 
         "BU66", 
         "BU67", 
+        "BU69", 
         "BU70", 
         "BU71", 
         "BU72", 
@@ -345,6 +371,7 @@
         "BU80", 
         "BU81", 
         "BU82", 
+        "BU83", 
         "BU84", 
         "BU85", 
         "BU86"
@@ -374,87 +401,89 @@
     }, 
     {
       "busnrs": [
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU14", 
-        "BU15", 
-        "BU16", 
-        "BU20", 
-        "BU21", 
-        "BU22", 
-        "BU23", 
-        "BU24", 
-        "BU25", 
-        "BU26", 
-        "BU31", 
-        "BU32", 
-        "BU33", 
-        "BU34", 
-        "BU35", 
-        "BU36", 
-        "BU37", 
-        "BU40", 
-        "BU41", 
-        "BU42", 
-        "BU43", 
-        "BU44", 
-        "BU45", 
-        "BU46", 
-        "BU47"
+        "B10", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B15", 
+        "B16", 
+        "B20", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B24", 
+        "B25", 
+        "B26", 
+        "B31", 
+        "B32", 
+        "B33", 
+        "B34", 
+        "B35", 
+        "B36", 
+        "B37", 
+        "B40", 
+        "B41", 
+        "B42", 
+        "B43", 
+        "B44", 
+        "B45", 
+        "B46", 
+        "B47"
       ], 
       "hnrlbls": [
-        "121A-121B"
+        "121A"
       ], 
       "housenumber": "121A", 
-      "lat": 50.970614446588, 
-      "lon": 5.511332462991, 
+      "lat": 50.970542832522, 
+      "lon": 5.511430243803, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
       "busnrs": [
-        "BU50", 
-        "BU51", 
-        "BU52", 
-        "BU53", 
-        "BU54", 
-        "BU55", 
-        "BU56", 
-        "BU57", 
-        "BU61", 
-        "BU62", 
-        "BU63", 
-        "BU64", 
-        "BU65", 
-        "BU66", 
-        "BU67", 
-        "BU70", 
-        "BU71", 
-        "BU72", 
-        "BU73", 
-        "BU74", 
-        "BU75", 
-        "BU76", 
-        "BU77", 
-        "BU80", 
-        "BU81", 
-        "BU82", 
-        "BU83", 
-        "BU84", 
-        "BU86"
+        "B50", 
+        "B51", 
+        "B52", 
+        "B53", 
+        "B54", 
+        "B55", 
+        "B56", 
+        "B57", 
+        "B61", 
+        "B62", 
+        "B63", 
+        "B64", 
+        "B65", 
+        "B66", 
+        "B67", 
+        "B70", 
+        "B71", 
+        "B72", 
+        "B73", 
+        "B74", 
+        "B75", 
+        "B76", 
+        "B77", 
+        "B80", 
+        "B81", 
+        "B82", 
+        "B83", 
+        "B84", 
+        "B85", 
+        "B86"
       ], 
       "hnrlbls": [
-        "121A-121B"
+        "121B"
       ], 
       "housenumber": "121B", 
-      "lat": 50.970614446588, 
-      "lon": 5.511332462991, 
+      "lat": 50.970726396807, 
+      "lon": 5.511191525898, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
@@ -615,6 +644,7 @@
         "BU12", 
         "BU13", 
         "BU14", 
+        "BU15", 
         "BU16", 
         "BU17", 
         "BU21", 
@@ -716,16 +746,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "4"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "146"
@@ -752,14 +782,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "21", 
-        "22", 
-        "3"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "148"
@@ -865,6 +895,11 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -889,6 +924,12 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -989,12 +1030,13 @@
     }, 
     {
       "busnrs": [
-        "7", 
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
         "BU05", 
         "BU06", 
+        "BU07", 
         "BU08", 
         "BU09", 
         "BU10", 
@@ -1139,6 +1181,7 @@
         "BU04", 
         "BU05", 
         "BU06", 
+        "BU07", 
         "BU08", 
         "BU09", 
         "BU10", 
@@ -1226,6 +1269,10 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -1238,6 +1285,11 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU12"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -1388,6 +1440,7 @@
         "BU08", 
         "BU09", 
         "BU10", 
+        "BU11", 
         "BU12", 
         "BU13", 
         "BU14", 
@@ -1663,15 +1716,20 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
+        "BU05", 
         "BU06", 
         "BU07", 
         "BU08", 
         "BU09", 
         "BU10", 
+        "BU11", 
+        "BU12", 
         "BU13", 
+        "BU14", 
         "BU15", 
         "BU16", 
         "BU17"
@@ -1737,7 +1795,6 @@
     }, 
     {
       "busnrs": [
-        "12", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -1749,6 +1806,7 @@
         "BU09", 
         "BU10", 
         "BU11", 
+        "BU12", 
         "BU13"
       ], 
       "hnrlbls": [
@@ -1977,6 +2035,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU11"
       ], 
       "hnrlbls": [
@@ -2358,6 +2417,9 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "284"
       ], 
@@ -2525,8 +2587,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "302"
@@ -2701,6 +2763,7 @@
     }, 
     {
       "busnrs": [
+        "BU02", 
         "BU03"
       ], 
       "hnrlbls": [
@@ -3179,15 +3242,12 @@
       "street": "Weg Naar As"
     }, 
     {
-      "busnrs": [
-        "AB13"
-      ], 
       "hnrlbls": [
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 50.983842977265, 
-      "lon": 5.536586852559, 
+      "lat": 50.983757958295, 
+      "lon": 5.536475349416, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -3195,20 +3255,23 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU12"
+        "B01", 
+        "B02", 
+        "B03", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B21"
       ], 
       "hnrlbls": [
         "361A"
       ], 
       "housenumber": "361A", 
-      "lat": 50.984002598566, 
-      "lon": 5.536519049351, 
+      "lat": 50.983927907661, 
+      "lon": 5.536698211474, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
@@ -3439,13 +3502,16 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
         "BU05", 
         "BU06", 
+        "BU11", 
         "BU12", 
         "BU13", 
+        "BU14", 
         "BU15", 
         "BU21", 
         "BU22", 
@@ -3471,15 +3537,29 @@
       "street": "Weg Naar As"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.967731144753, 
-      "lon": 5.507817488363, 
+      "lat": 50.967708131196, 
+      "lon": 5.507826610482, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weg Naar As"
     }, 
     {
@@ -3737,6 +3817,7 @@
       "busnrs": [
         "BU03", 
         "BU04", 
+        "BU05", 
         "BU06", 
         "BU07", 
         "BU08", 
@@ -3794,14 +3875,15 @@
         "BU01", 
         "BU02", 
         "BU03", 
-        "BU05"
+        "BU05", 
+        "BU06"
       ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.968917841557, 
-      "lon": 5.508190045105, 
+      "lat": 50.968959386353, 
+      "lon": 5.508207571592, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -3872,6 +3954,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU11", 
         "BU21"
       ], 

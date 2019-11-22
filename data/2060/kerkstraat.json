@@ -788,22 +788,27 @@
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "1001", 
-        "2001", 
-        "3001", 
-        "4001", 
-        "5001"
-      ], 
       "hnrlbls": [
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.21969293203, 
-      "lon": 4.435272326037, 
+      "lat": 51.219685035266, 
+      "lon": 4.435249413994, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "163A"
+      ], 
+      "housenumber": "163A", 
+      "lat": 51.219693830218, 
+      "lon": 4.435273472365, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1022,11 +1027,10 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "19"
@@ -1969,9 +1973,10 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "70"

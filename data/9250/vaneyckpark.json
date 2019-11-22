@@ -245,8 +245,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.138818452845, 
-      "lon": 4.11577835632, 
+      "lat": 51.138820356946, 
+      "lon": 4.115786061671, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
@@ -353,11 +353,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.138848780322, 
-      "lon": 4.116637486081, 
+      "lat": 51.138845155815, 
+      "lon": 4.116539488409, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Eyckpark"
     }, 
     {
@@ -449,8 +449,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.140842725346, 
-      "lon": 4.117769288105, 
+      "lat": 51.140846141018, 
+      "lon": 4.117769269802, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
@@ -650,29 +650,19 @@
     }, 
     {
       "busnrs": [
-        "70_101"
+        "0001", 
+        "0002", 
+        "0101"
       ], 
       "hnrlbls": [
-        "70_001"
+        "70"
       ], 
-      "housenumber": "70_001", 
-      "lat": 51.140132823319, 
-      "lon": 4.121024465403, 
+      "housenumber": "70", 
+      "lat": 51.140262912158, 
+      "lon": 4.120691709186, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Van Eyckpark"
-    }, 
-    {
-      "hnrlbls": [
-        "70_002"
-      ], 
-      "housenumber": "70_002", 
-      "lat": 51.140045097114, 
-      "lon": 4.120854466564, 
-      "municipality": "Waasmunster", 
-      "pcode": "9250", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Van Eyckpark"
     }, 
     {

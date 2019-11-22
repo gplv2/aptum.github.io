@@ -83,8 +83,8 @@
     }, 
     {
       "busnrs": [
-        "01", 
-        "02"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "19"
@@ -94,7 +94,7 @@
       "lon": 5.692508182635, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoenderstraat"
     }, 
     {
@@ -133,34 +133,14 @@
         "2R", 
         "3L"
       ], 
+      "busnrs": [
+        "L", 
+        "R"
+      ], 
       "hnrlbls": [
-        "21-21R"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.963905330348, 
-      "lon": 5.692417633407, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoenderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21R"
-      ], 
-      "housenumber": "21L", 
-      "lat": 50.963905330348, 
-      "lon": 5.692417633407, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoenderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21R"
-      ], 
-      "housenumber": "21R", 
       "lat": 50.963905330348, 
       "lon": 5.692417633407, 
       "municipality": "Maasmechelen", 
@@ -235,9 +215,6 @@
       "street": "Hoenderstraat"
     }, 
     {
-      "apptnrs": [
-        "0.00"
-      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -275,7 +252,7 @@
       "lon": 5.692973580297, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoenderstraat"
     }, 
     {

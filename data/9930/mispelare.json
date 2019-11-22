@@ -37,6 +37,9 @@
       "street": "Mispelare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +52,9 @@
       "street": "Mispelare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12A"
       ], 
@@ -226,6 +232,30 @@
       "municipality": "Lievegem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Mispelare"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.108431887504, 
+      "lon": 3.583868401044, 
+      "municipality": "Lievegem", 
+      "pcode": "9930", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Mispelare"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.108615093246, 
+      "lon": 3.583409519488, 
+      "municipality": "Lievegem", 
+      "pcode": "9930", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Mispelare"
     }
   ]

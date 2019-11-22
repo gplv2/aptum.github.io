@@ -217,9 +217,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -942,9 +939,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -1091,18 +1085,15 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.220983055071, 
-      "lon": 4.429625294561, 
+      "lat": 51.221121642214, 
+      "lon": 4.429651814117, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -1472,14 +1463,18 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.221353512861, 
-      "lon": 4.430052753143, 
+      "lat": 51.221354679849, 
+      "lon": 4.43005561738, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "192"
       ], 
@@ -1800,11 +1795,11 @@
         "212A"
       ], 
       "housenumber": "212A", 
-      "lat": 51.221334775826, 
-      "lon": 4.431486217074, 
+      "lat": 51.221304202888, 
+      "lon": 4.431509363209, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -1972,11 +1967,11 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 51.221592922433, 
-      "lon": 4.431485995692, 
+      "lat": 51.221481090312, 
+      "lon": 4.431516903783, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -2350,14 +2345,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-251"
+        "251"
       ], 
       "housenumber": "251", 
-      "lat": 51.221749526759, 
-      "lon": 4.432763978959, 
+      "lat": 51.221724505131, 
+      "lon": 4.432825921857, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {

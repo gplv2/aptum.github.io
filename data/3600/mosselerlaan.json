@@ -40,7 +40,8 @@
       "busnrs": [
         "BU01", 
         "BU02", 
-        "BU03"
+        "BU03", 
+        "BU04"
       ], 
       "hnrlbls": [
         "108"
@@ -218,6 +219,7 @@
     }, 
     {
       "busnrs": [
+        "BU03", 
         "BU11", 
         "BU12", 
         "BU13"
@@ -424,11 +426,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.971437277027, 
-      "lon": 5.507335624062, 
+      "lat": 50.971467948364, 
+      "lon": 5.507380509739, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mosselerlaan"
     }, 
     {
@@ -569,31 +571,15 @@
       "street": "Mosselerlaan"
     }, 
     {
-      "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU04", 
-        "BU05", 
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU14", 
-        "BU15", 
-        "BU21", 
-        "BU22", 
-        "BU23", 
-        "BU24"
-      ], 
       "hnrlbls": [
-        "2A-5"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.969536497444, 
-      "lon": 5.504768984009, 
+      "lat": 50.969651362664, 
+      "lon": 5.504883681727, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mosselerlaan"
     }, 
     {
@@ -610,30 +596,6 @@
     }, 
     {
       "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 50.972006491175, 
-      "lon": 5.506913603207, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Mosselerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.972045220111, 
-      "lon": 5.507156891403, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Mosselerlaan"
-    }, 
-    {
-      "hnrlbls": [
         "55-62"
       ], 
       "housenumber": "55", 
@@ -642,18 +604,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mosselerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 50.972435022112, 
-      "lon": 5.507316158685, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mosselerlaan"
     }, 
     {

@@ -1,23 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204", 
-        "0205", 
-        "0206", 
-        "0301", 
-        "0302"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -79,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "109-111"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 51.062835823842, 
@@ -127,26 +110,14 @@
     }, 
     {
       "hnrlbls": [
-        "109-111"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.062835823842, 
-      "lon": 3.726364216301, 
+      "lat": 51.062991061252, 
+      "lon": 3.726313441831, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kartuizerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "113"
-      ], 
-      "housenumber": "113", 
-      "lat": 51.062995706869, 
-      "lon": 3.726275146551, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kartuizerlaan"
     }, 
     {

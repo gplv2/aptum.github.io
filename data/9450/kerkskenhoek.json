@@ -65,11 +65,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.891482380181, 
-      "lon": 3.993414597251, 
+      "lat": 50.891480044328, 
+      "lon": 3.993415042278, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkskenhoek"
     }, 
     {
@@ -125,11 +125,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.891037715978, 
-      "lon": 3.992641408377, 
+      "lat": 50.891039241884, 
+      "lon": 3.992640685532, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkskenhoek"
     }, 
     {
@@ -238,6 +238,18 @@
       "housenumber": "20", 
       "lat": 50.894834362665, 
       "lon": 3.997542342598, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkskenhoek"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.893386719862, 
+      "lon": 3.997664773, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -356,8 +368,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.893620760959, 
-      "lon": 3.996597610188, 
+      "lat": 50.893619324023, 
+      "lon": 3.996598047966, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -397,8 +409,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.893509936125, 
-      "lon": 3.996574181462, 
+      "lat": 50.893509303727, 
+      "lon": 3.996573191508, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -510,18 +522,6 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkskenhoek"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.892930164466, 
-      "lon": 3.996136159658, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkskenhoek"
     }, 
     {
@@ -801,27 +801,21 @@
       "street": "Kerkskenhoek"
     }, 
     {
-      "hnrlbls": [
-        "680001-680"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
-      "housenumber": "68_0001", 
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
       "lat": 50.892817236678, 
       "lon": 3.995279698234, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkskenhoek"
-    }, 
-    {
-      "hnrlbls": [
-        "680001-680"
-      ], 
-      "housenumber": "68_0002", 
-      "lat": 50.892817236678, 
-      "lon": 3.995279698234, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkskenhoek"
     }, 
     {

@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "100-102"
       ], 
@@ -25,7 +21,7 @@
       "lon": 4.203965841052, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Borgstraat"
     }, 
     {
@@ -37,7 +33,7 @@
       "lon": 4.203965841052, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Borgstraat"
     }, 
     {

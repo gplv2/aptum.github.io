@@ -2,19 +2,17 @@
   "addresses": [
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.233382018349, 
-      "lon": 2.919800344937, 
+      "lat": 51.233355020049, 
+      "lon": 2.919739322165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnplein"
     }, 
     {
@@ -48,15 +46,18 @@
       "street": "Mijnplein"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.233313427934, 
-      "lon": 2.91993278652, 
+      "lat": 51.233263314746, 
+      "lon": 2.91998102605, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnplein"
     }, 
     {
@@ -73,7 +74,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -121,15 +121,14 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "0501"
+        "0401"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.233311695501, 
-      "lon": 2.920364009988, 
+      "lat": 51.233276349666, 
+      "lon": 2.920289356066, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -138,19 +137,17 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
+        "0301", 
         "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.233272754101, 
-      "lon": 2.920406890132, 
+      "lat": 51.233237457359, 
+      "lon": 2.920336244258, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

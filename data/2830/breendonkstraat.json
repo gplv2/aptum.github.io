@@ -65,11 +65,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.053026884186, 
-      "lon": 4.34936478149, 
+      "lat": 51.053011785846, 
+      "lon": 4.349384183748, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -103,21 +103,6 @@
       "housenumber": "109", 
       "lat": 51.052253049096, 
       "lon": 4.348946652365, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Breendonkstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "11-11B"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.055402170901, 
-      "lon": 4.355090575423, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -252,14 +237,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.055402170901, 
-      "lon": 4.355090575423, 
+      "lat": 51.05549764715, 
+      "lon": 4.355216488497, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -271,14 +256,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11B"
       ], 
       "housenumber": "11B", 
-      "lat": 51.055402170901, 
-      "lon": 4.355090575423, 
+      "lat": 51.055430025365, 
+      "lon": 4.35498901751, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -1136,7 +1121,7 @@
     }, 
     {
       "hnrlbls": [
-        "22-22B"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.056316461973, 
@@ -1244,18 +1229,6 @@
     }, 
     {
       "hnrlbls": [
-        "22-22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 51.056316461973, 
-      "lon": 4.356199408045, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Breendonkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -1291,6 +1264,23 @@
       "street": "Breendonkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "233A"
+      ], 
+      "housenumber": "233A", 
+      "lat": 51.045744774906, 
+      "lon": 4.340722736943, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Breendonkstraat"
+    }, 
+    {
       "hnrlbls": [
         "234"
       ], 
@@ -1303,6 +1293,13 @@
       "street": "Breendonkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "235"
       ], 
@@ -2179,11 +2176,47 @@
         "320"
       ], 
       "housenumber": "320", 
-      "lat": 51.044205038981, 
-      "lon": 4.337719355251, 
+      "lat": 51.044209803243, 
+      "lon": 4.33771977994, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "320A"
+      ], 
+      "housenumber": "320A", 
+      "lat": 51.044182190095, 
+      "lon": 4.337653777552, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "320B"
+      ], 
+      "housenumber": "320B", 
+      "lat": 51.044141187998, 
+      "lon": 4.337605750587, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "320C"
+      ], 
+      "housenumber": "320C", 
+      "lat": 51.044114384421, 
+      "lon": 4.337542171902, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -2191,11 +2224,11 @@
         "320D"
       ], 
       "housenumber": "320D", 
-      "lat": 51.044086682764, 
-      "lon": 4.337481873496, 
+      "lat": 51.044086861136, 
+      "lon": 4.337476454879, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -2227,11 +2260,11 @@
         "324"
       ], 
       "housenumber": "324", 
-      "lat": 51.044001693906, 
-      "lon": 4.337316237274, 
+      "lat": 51.044015803716, 
+      "lon": 4.33730524843, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -2239,11 +2272,23 @@
         "324A"
       ], 
       "housenumber": "324A", 
-      "lat": 51.04397902476, 
-      "lon": 4.337251372897, 
+      "lat": 51.043988369702, 
+      "lon": 4.337237677932, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "324B"
+      ], 
+      "housenumber": "324B", 
+      "lat": 51.043965969209, 
+      "lon": 4.337169106049, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -2251,11 +2296,11 @@
         "324C"
       ], 
       "housenumber": "324C", 
-      "lat": 51.04392927993, 
-      "lon": 4.337114660255, 
+      "lat": 51.043940333848, 
+      "lon": 4.337105099305, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -3234,6 +3279,18 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.053608084486, 
+      "lon": 4.350370598713, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {

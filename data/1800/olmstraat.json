@@ -521,7 +521,6 @@
         "02/1"
       ], 
       "busnrs": [
-        "0001", 
         "01/1", 
         "O000"
       ], 
@@ -789,6 +788,10 @@
       "street": "Olmstraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "00/2"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -927,8 +930,8 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "02/1", 
+        "1"
       ], 
       "hnrlbls": [
         "18"
@@ -2220,7 +2223,6 @@
     }, 
     {
       "apptnrs": [
-        "0", 
         "1"
       ], 
       "busnrs": [
@@ -3214,6 +3216,30 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Olmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.930117006343, 
+      "lon": 4.434145587371, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Olmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.930188002373, 
+      "lon": 4.434180110898, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Olmstraat"
     }, 
     {

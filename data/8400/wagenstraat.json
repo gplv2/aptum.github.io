@@ -2,19 +2,19 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.219160950006, 
-      "lon": 2.908380700953, 
+      "lat": 51.219117230728, 
+      "lon": 2.908327527634, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wagenstraat"
     }, 
     {
@@ -58,15 +58,16 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.219088536235, 
-      "lon": 2.908522830397, 
+      "lat": 51.219043424852, 
+      "lon": 2.90846612174, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -93,11 +94,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.219057860034, 
-      "lon": 2.908579477921, 
+      "lat": 51.219010283412, 
+      "lon": 2.908519697018, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wagenstraat"
     }, 
     {
@@ -149,21 +150,15 @@
       "street": "Wagenstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "1"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.219298017007, 
-      "lon": 2.908152371253, 
+      "lat": 51.219252557567, 
+      "lon": 2.9080747729, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wagenstraat"
     }, 
     {
@@ -248,6 +243,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Wagenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.218691973753, 
+      "lon": 2.908798933538, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wagenstraat"
     }, 
     {

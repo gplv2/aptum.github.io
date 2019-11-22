@@ -113,14 +113,14 @@
     }, 
     {
       "busnrs": [
-        "AB02", 
-        "AB03", 
-        "AB11", 
-        "AB12", 
-        "AB13", 
-        "AB14", 
-        "AB21", 
-        "AB22"
+        "B02", 
+        "B03", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "2"
@@ -128,6 +128,18 @@
       "housenumber": "2", 
       "lat": 50.970308877949, 
       "lon": 5.505156487915, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Loofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.971848747227, 
+      "lon": 5.505916322158, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -170,15 +182,31 @@
       "street": "Loofstraat"
     }, 
     {
+      "busnrs": [
+        "B01", 
+        "B02", 
+        "B03", 
+        "B04", 
+        "B05", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B15", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B24"
+      ], 
       "hnrlbls": [
-        "2A-5"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.969536497444, 
-      "lon": 5.504768984009, 
+      "lat": 50.969515513884, 
+      "lon": 5.50474483981, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Loofstraat"
     }, 
     {
@@ -283,7 +311,7 @@
     }, 
     {
       "busnrs": [
-        "BU1", 
+        "BU01", 
         "BU11"
       ], 
       "hnrlbls": [

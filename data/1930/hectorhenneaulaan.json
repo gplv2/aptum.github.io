@@ -486,11 +486,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.880558377276, 
-      "lon": 4.476075690203, 
+      "lat": 50.879701937696, 
+      "lon": 4.472517979438, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {
@@ -605,10 +605,8 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "021"
       ], 
       "hnrlbls": [
         "31"
@@ -646,9 +644,9 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "34"
@@ -674,9 +672,9 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "36"
@@ -743,11 +741,6 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -939,11 +932,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.880795750281, 
-      "lon": 4.475431259729, 
+      "lat": 50.880760694939, 
+      "lon": 4.475427485095, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {
@@ -1087,14 +1080,14 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
-        "82-82_2"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 50.880153242939, 
@@ -1102,51 +1095,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hector Henneaulaan"
-    }, 
-    {
-      "busnrs": [
-        "0"
-      ], 
-      "hnrlbls": [
-        "82-82_2"
-      ], 
-      "housenumber": "82A", 
-      "lat": 50.880153242939, 
-      "lon": 4.473783482941, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hector Henneaulaan"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "82-82_2"
-      ], 
-      "housenumber": "82_1", 
-      "lat": 50.880153242939, 
-      "lon": 4.473783482941, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hector Henneaulaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "82-82_2"
-      ], 
-      "housenumber": "82_2", 
-      "lat": 50.880153242939, 
-      "lon": 4.473783482941, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {
@@ -1394,12 +1342,6 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "99"
       ], 

@@ -556,11 +556,10 @@
       "street": "Boomsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
         "189"
@@ -2391,18 +2390,6 @@
       "street": "Boomsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "505"
-      ], 
-      "housenumber": "505", 
-      "lat": 51.161515257536, 
-      "lon": 4.385790934153, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Boomsesteenweg"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "101", 
@@ -2468,19 +2455,20 @@
       "street": "Boomsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "514"
       ], 
       "housenumber": "514", 
-      "lat": 51.165432859351, 
-      "lon": 4.38506245436, 
+      "lat": 51.165440778237, 
+      "lon": 4.385000268442, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -2866,15 +2854,20 @@
       "street": "Boomsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.181698631756, 
-      "lon": 4.389471594658, 
+      "lat": 51.181698721693, 
+      "lon": 4.389471308674, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -3756,11 +3749,11 @@
         "860"
       ], 
       "housenumber": "860", 
-      "lat": 51.155482016906, 
-      "lon": 4.38250563174, 
+      "lat": 51.15519354631, 
+      "lon": 4.381189287323, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Boomsesteenweg"
     }, 
     {

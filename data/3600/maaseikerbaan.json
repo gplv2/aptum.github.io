@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "BU01"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -28,15 +25,10 @@
       "street": "Maaseikerbaan"
     }, 
     {
-      "apptnrs": [
-        "BUS 01"
-      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "BUS 11", 
-        "BUS 12"
+        "BU01", 
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "103"
@@ -74,6 +66,26 @@
       "street": "Maaseikerbaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
+      "hnrlbls": [
+        "113"
+      ], 
+      "housenumber": "113", 
+      "lat": 50.992789771738, 
+      "lon": 5.548584065473, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Maaseikerbaan"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "115"
       ], 

@@ -1,19 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.220657018899, 
-      "lon": 2.901003216636, 
+      "lat": 51.220714520717, 
+      "lon": 2.901109063699, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Duivenhokstraat"
     }, 
     {
@@ -355,18 +351,18 @@
     {
       "busnrs": [
         "-101", 
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.220159369276, 
-      "lon": 2.902166434166, 
+      "lat": 51.220138801439, 
+      "lon": 2.902117261732, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Duivenhokstraat"
     }, 
     {
@@ -398,11 +394,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.220123195915, 
-      "lon": 2.902214527442, 
+      "lat": 51.22010145503, 
+      "lon": 2.902150503449, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Duivenhokstraat"
     }, 
     {
@@ -749,6 +745,23 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Duivenhokstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.21944188728, 
+      "lon": 2.902617745437, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Duivenhokstraat"
     }, 
     {

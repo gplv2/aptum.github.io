@@ -26,7 +26,8 @@
         "0004", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "3"
@@ -41,20 +42,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "4"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.230539969517, 
-      "lon": 2.922737691455, 
+      "lat": 51.230572962129, 
+      "lon": 2.922744973445, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoor Pypestraat"
     }, 
     {
@@ -70,9 +73,6 @@
       "street": "Pastoor Pypestraat"
     }, 
     {
-      "apptnrs": [
-        "0205"
-      ], 
       "busnrs": [
         "0101", 
         "0102", 

@@ -103,17 +103,17 @@
     }, 
     {
       "busnrs": [
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.226169421168, 
-      "lon": 2.915392094489, 
+      "lat": 51.226198046419, 
+      "lon": 2.91545362742, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -217,11 +217,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "20"
@@ -266,14 +265,12 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
         "0301", 
         "0302", 
-        "1", 
-        "2", 
-        "5", 
-        "7", 
-        "8"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "22"
@@ -463,7 +460,6 @@
     {
       "busnrs": [
         "0001", 
-        "0003", 
         "0101", 
         "0201"
       ], 
@@ -491,11 +487,6 @@
       "street": "Ieperstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -532,15 +523,21 @@
       "street": "Ieperstraat"
     }, 
     {
+      "busnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.225528311581, 
-      "lon": 2.916509933712, 
+      "lat": 51.225502802076, 
+      "lon": 2.91645317194, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -625,9 +622,7 @@
         "-101", 
         "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "0401"
+        "0201"
       ], 
       "hnrlbls": [
         "44"

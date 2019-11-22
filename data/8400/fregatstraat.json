@@ -58,8 +58,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.225781218546, 
-      "lon": 2.924964560545, 
+      "lat": 51.225904456312, 
+      "lon": 2.924889587478, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -86,11 +86,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.22569931018, 
-      "lon": 2.924927007224, 
+      "lat": 51.225721161138, 
+      "lon": 2.925015814948, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fregatstraat"
     }, 
     {
@@ -142,15 +142,20 @@
       "street": "Fregatstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.225589542448, 
-      "lon": 2.925044944692, 
+      "lat": 51.225602425352, 
+      "lon": 2.925091363904, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fregatstraat"
     }, 
     {
@@ -290,18 +295,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.225994977093, 
-      "lon": 2.924800450312, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Fregatstraat"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -314,18 +307,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.225924889627, 
-      "lon": 2.924854879187, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Fregatstraat"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -334,18 +315,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fregatstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.225848253897, 
-      "lon": 2.92489576581, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Fregatstraat"
     }
   ]

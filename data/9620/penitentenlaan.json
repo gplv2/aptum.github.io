@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
-      "lat": 50.88250147274, 
-      "lon": 3.781021648779, 
+      "lat": 50.882501745967, 
+      "lon": 3.781022355894, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -78,14 +78,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "1A"
+        "1-1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.882501745967, 
       "lon": 3.781022355894, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Penitentenlaan"
     }, 
     {
@@ -129,11 +129,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.882213958759, 
-      "lon": 3.780981047391, 
+      "lat": 50.882022487674, 
+      "lon": 3.780839204383, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Penitentenlaan"
     }, 
     {
@@ -198,18 +198,6 @@
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Penitentenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.881064784231, 
-      "lon": 3.779684380097, 
-      "municipality": "Zottegem", 
-      "pcode": "9620", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Penitentenlaan"
     }
   ]

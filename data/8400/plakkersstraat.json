@@ -2,18 +2,18 @@
   "addresses": [
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.220722041784, 
-      "lon": 2.902331558221, 
+      "lat": 51.220715294091, 
+      "lon": 2.902323896549, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plakkersstraat"
     }, 
     {
@@ -357,17 +357,18 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.219982578567, 
-      "lon": 2.903526552522, 
+      "lat": 51.219947850307, 
+      "lon": 2.903466371898, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plakkersstraat"
     }, 
     {
@@ -556,16 +557,15 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.21948567552, 
-      "lon": 2.904287289757, 
+      "lat": 51.219447488417, 
+      "lon": 2.904223638911, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -633,7 +633,6 @@
     }, 
     {
       "busnrs": [
-        "-101", 
         "0001", 
         "0101", 
         "0201"
@@ -642,8 +641,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.219325510455, 
-      "lon": 2.904421158427, 
+      "lat": 51.219320108631, 
+      "lon": 2.904406010336, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -663,20 +662,19 @@
     }, 
     {
       "busnrs": [
-        "-001", 
-        "0101", 
-        "0201", 
-        "1"
+        "-101", 
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.219336570826, 
-      "lon": 2.904523024477, 
+      "lat": 51.219293025034, 
+      "lon": 2.904454960881, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plakkersstraat"
     }, 
     {

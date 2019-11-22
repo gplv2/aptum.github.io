@@ -229,11 +229,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.23106728077, 
-      "lon": 2.917631034765, 
+      "lat": 51.231027224732, 
+      "lon": 2.917678245578, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
@@ -246,34 +246,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Wittenonnenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 51.230842682264, 
-      "lon": 2.91778278935, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wittenonnenstraat"
-    }, 
-    {
-      "busnrs": [
-        "0201", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "24B"
-      ], 
-      "housenumber": "24B", 
-      "lat": 51.230765408431, 
-      "lon": 2.917654174383, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
@@ -453,20 +425,19 @@
     }, 
     {
       "busnrs": [
-        "0401", 
-        "1", 
-        "3", 
-        "4"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.230616734592, 
-      "lon": 2.917069716985, 
+      "lat": 51.230661370365, 
+      "lon": 2.917102693153, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
@@ -543,33 +514,34 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.230613333058, 
-      "lon": 2.916528851081, 
+      "lat": 51.230589784038, 
+      "lon": 2.916543903401, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
       "busnrs": [
-        "A1", 
-        "A2", 
-        "A3", 
-        "B1", 
-        "B2", 
-        "B3", 
-        "C1", 
-        "C2", 
-        "C3"
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "4"
@@ -586,18 +558,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.230585418817, 
-      "lon": 2.916459270904, 
+      "lat": 51.230567049916, 
+      "lon": 2.916486189881, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
@@ -645,51 +616,33 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
         "0401", 
-        "0501", 
-        "0600", 
-        "0601", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0501"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.230502592086, 
-      "lon": 2.916251934231, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wittenonnenstraat"
-    }, 
-    {
-      "busnrs": [
-        "0801"
-      ], 
-      "hnrlbls": [
-        "49-51"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.230558070895, 
-      "lon": 2.915989171174, 
+      "lat": 51.230479816509, 
+      "lon": 2.916271401444, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {
-      "hnrlbls": [
-        "49-51"
+      "busnrs": [
+        "0801", 
+        "0802"
       ], 
-      "housenumber": "49B", 
-      "lat": 51.230558070895, 
-      "lon": 2.915989171174, 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.230542478165, 
+      "lon": 2.916103063243, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -709,18 +662,6 @@
       "housenumber": "5", 
       "lat": 51.231697254241, 
       "lon": 2.919225649157, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wittenonnenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "49-51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.230558070895, 
-      "lon": 2.915989171174, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -823,18 +764,20 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "0401", 
-        "0501"
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.230199611888, 
-      "lon": 2.915504045562, 
+      "lat": 51.230173768273, 
+      "lon": 2.915537211549, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wittenonnenstraat"
     }, 
     {

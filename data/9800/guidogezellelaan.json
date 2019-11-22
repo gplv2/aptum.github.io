@@ -53,7 +53,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "101-101A"
+        "101"
       ], 
       "housenumber": "101", 
       "lat": 50.982239338971, 
@@ -61,18 +61,6 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Guido Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "101-101A"
-      ], 
-      "housenumber": "101A", 
-      "lat": 50.982239338971, 
-      "lon": 3.533416706008, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -635,11 +623,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.984854875121, 
-      "lon": 3.531958022157, 
+      "lat": 50.984862756065, 
+      "lon": 3.532042337191, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -671,23 +659,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.98444118648, 
-      "lon": 3.531657063775, 
+      "lat": 50.984442790014, 
+      "lon": 3.531642365928, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Guido Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.984603072719, 
-      "lon": 3.532084426018, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -700,18 +676,6 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Guido Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.984603072719, 
-      "lon": 3.532084426018, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -806,6 +770,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -816,11 +781,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.98540371145, 
-      "lon": 3.53140374901, 
+      "lat": 50.98539292588, 
+      "lon": 3.53134084835, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1190,11 +1155,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.985341546767, 
-      "lon": 3.531447870365, 
+      "lat": 50.985331604628, 
+      "lon": 3.531389797083, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1471,18 +1436,6 @@
     }, 
     {
       "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.985292352186, 
-      "lon": 3.531508138643, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Guido Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -1495,11 +1448,11 @@
     }, 
     {
       "hnrlbls": [
-        "81-83"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.982633794991, 
-      "lon": 3.532971615459, 
+      "lat": 50.982667475695, 
+      "lon": 3.532941962832, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1525,11 +1478,11 @@
     }, 
     {
       "hnrlbls": [
-        "81-83"
+        "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.982633794991, 
-      "lon": 3.532971615459, 
+      "lat": 50.982625548749, 
+      "lon": 3.532975037914, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1555,11 +1508,11 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.982563407056, 
-      "lon": 3.532933848188, 
+      "lat": 50.982594889868, 
+      "lon": 3.533012469423, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1607,11 +1560,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.982625641593, 
-      "lon": 3.53379890204, 
+      "lat": 50.982553147013, 
+      "lon": 3.533616193678, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1639,27 +1592,15 @@
       "street": "Guido Gezellelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302"
-      ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.982495589863, 
-      "lon": 3.5336636453, 
+      "lat": 50.982471939834, 
+      "lon": 3.533700666652, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1724,11 +1665,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.982315454735, 
-      "lon": 3.533831054626, 
+      "lat": 50.982314220571, 
+      "lon": 3.53383449451, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {

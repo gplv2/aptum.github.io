@@ -58,9 +58,9 @@
     }, 
     {
       "busnrs": [
-        "BB22", 
         "BU01", 
         "BU11", 
+        "BU12", 
         "BU21", 
         "BU22"
       ], 
@@ -77,10 +77,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU11", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B11", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "103A"
@@ -95,11 +95,11 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B11", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "103B"
@@ -113,6 +113,12 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "B01", 
+        "B11", 
+        "B21", 
+        "B31"
+      ], 
       "hnrlbls": [
         "103C"
       ], 
@@ -294,10 +300,14 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21", 
+        "BU01", 
+        "BU02", 
         "BU03", 
+        "BU11", 
+        "BU12", 
         "BU13", 
+        "BU21", 
+        "BU22", 
         "BU23", 
         "BU32"
       ], 
@@ -314,7 +324,9 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "123"
@@ -915,9 +927,6 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "4A"
-      ], 
       "hnrlbls": [
         "4A"
       ], 
@@ -930,9 +939,6 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "4B"
-      ], 
       "hnrlbls": [
         "4B"
       ], 
@@ -969,6 +975,9 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1063,7 +1072,8 @@
       "busnrs": [
         "BU11", 
         "BU12", 
-        "BU21"
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "63"
@@ -1269,6 +1279,20 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU21", 
+        "BU22", 
+        "BU23"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1293,6 +1317,19 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1317,6 +1354,21 @@
       "street": "Onderwijslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU21", 
+        "BU22", 
+        "BU23"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1416,9 +1468,6 @@
       "street": "Onderwijslaan"
     }, 
     {
-      "busnrs": [
-        "AB11"
-      ], 
       "hnrlbls": [
         "2-99"
       ], 
@@ -1432,11 +1481,11 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B11", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "99A"

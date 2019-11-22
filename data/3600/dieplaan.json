@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-11"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "lat": 50.96421250106, 
+      "lon": 5.496562928697, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "lat": 50.96420605703, 
+      "lon": 5.496072751189, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -217,14 +217,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-31"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.964076015069, 
-      "lon": 5.494970990407, 
+      "lat": 50.964211080831, 
+      "lon": 5.495080156752, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -281,14 +281,14 @@
         "BU50"
       ], 
       "hnrlbls": [
-        "1-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.964076015069, 
-      "lon": 5.494970990407, 
+      "lat": 50.964210643803, 
+      "lon": 5.494994442168, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -313,51 +313,92 @@
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.964999494672, 
+      "lon": 5.496629707066, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.965013573736, 
+      "lon": 5.496343031957, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41", 
+        "B51"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "2D"
       ], 
       "housenumber": "2D", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.965023838838, 
+      "lon": 5.496060251239, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "B11", 
+        "B12", 
+        "B13", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B31", 
+        "B32", 
+        "B33", 
+        "B41", 
+        "B42"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "2E"
       ], 
       "housenumber": "2E", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.96493980993, 
+      "lon": 5.495504134055, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -378,11 +419,13 @@
         "BU14", 
         "BU15", 
         "BU16", 
+        "BU17", 
         "BU18", 
         "BU19", 
         "BU20", 
         "BU21", 
         "BU22", 
+        "BU23", 
         "BU24", 
         "BU25", 
         "BU26", 
@@ -399,26 +442,29 @@
         "BU37"
       ], 
       "hnrlbls": [
-        "1-11"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "lat": 50.9642135147, 
+      "lon": 5.496457317796, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
-        "1-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.964076015069, 
-      "lon": 5.494970990407, 
+      "lat": 50.964210264006, 
+      "lon": 5.494902749609, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -434,15 +480,25 @@
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.964692382659, 
+      "lon": 5.496630287134, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -478,6 +534,7 @@
         "BU26", 
         "BU31", 
         "BU32", 
+        "BU33", 
         "BU34", 
         "BU35", 
         "BU36", 
@@ -486,6 +543,7 @@
         "BU43", 
         "BU44", 
         "BU45", 
+        "BU46", 
         "BU51", 
         "BU52", 
         "BU53", 
@@ -522,7 +580,6 @@
     }, 
     {
       "busnrs": [
-        "11", 
         "BU01", 
         "BU11"
       ], 
@@ -551,14 +608,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-11"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "lat": 50.964210734096, 
+      "lon": 5.496353608704, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -622,15 +679,25 @@
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.964690435463, 
+      "lon": 5.496046250525, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -667,8 +734,10 @@
         "BU13", 
         "BU14", 
         "BU15", 
+        "BU16", 
         "BU21", 
         "BU22", 
+        "BU23", 
         "BU24", 
         "BU25", 
         "BU26", 
@@ -732,6 +801,7 @@
         "BU10", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU14", 
         "BU15"
       ], 
@@ -748,14 +818,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-11"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "lat": 50.964209211743, 
+      "lon": 5.496249929904, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -836,15 +906,25 @@
       "street": "Dieplaan"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
+      ], 
       "hnrlbls": [
-        "2B-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.964880758276, 
-      "lon": 5.496402335157, 
+      "lat": 50.964688179169, 
+      "lon": 5.495700386669, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -926,14 +1006,26 @@
     }, 
     {
       "hnrlbls": [
-        "1-11"
+        "8A"
       ], 
-      "housenumber": "9", 
-      "lat": 50.964051355712, 
-      "lon": 5.496417254375, 
+      "housenumber": "8A", 
+      "lat": 50.964690732578, 
+      "lon": 5.495874705361, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dieplaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.964207574583, 
+      "lon": 5.49615820706, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -980,6 +1072,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU03", 
         "BU04", 
         "BU05", 
@@ -993,6 +1086,7 @@
         "BU21", 
         "BU22", 
         "BU23", 
+        "BU24", 
         "BU25", 
         "BU26", 
         "BU31", 
@@ -1030,14 +1124,14 @@
         "BU83"
       ], 
       "hnrlbls": [
-        "95-97"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.964066738887, 
-      "lon": 5.491543897352, 
+      "lat": 50.964068691456, 
+      "lon": 5.491753505494, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dieplaan"
     }, 
     {
@@ -1093,11 +1187,11 @@
         "BU81"
       ], 
       "hnrlbls": [
-        "95-97"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.964066738887, 
-      "lon": 5.491543897352, 
+      "lat": 50.964066222559, 
+      "lon": 5.491325069919, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

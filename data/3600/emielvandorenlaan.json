@@ -76,7 +76,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "11"
@@ -300,6 +301,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22"
@@ -489,6 +491,7 @@
         "BU07", 
         "BU08", 
         "BU09", 
+        "BU10", 
         "BU11", 
         "BU12", 
         "BU14"
@@ -519,6 +522,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU11"
       ], 
       "hnrlbls": [
@@ -592,9 +596,31 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.997784362257, 
+      "lon": 5.506977740005, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Emiel Van Dorenlaan"
+    }, 
+    {
+      "busnrs": [
         "BU11", 
         "BU12", 
         "BU13", 
+        "BU14", 
         "BU21", 
         "BU22", 
         "BU23", 
@@ -768,6 +794,27 @@
       "street": "Emiel Van Dorenlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.997632527029, 
+      "lon": 5.507041863551, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Emiel Van Dorenlaan"
+    }, 
+    {
       "hnrlbls": [
         "51"
       ], 
@@ -782,6 +829,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU11"
       ], 
       "hnrlbls": [
@@ -1053,23 +1101,21 @@
       "street": "Emiel Van Dorenlaan"
     }, 
     {
-      "apptnrs": [
-        "BU 1", 
-        "BU 2"
-      ], 
       "busnrs": [
-        "BU 11", 
-        "BU 12"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.997607500419, 
-      "lon": 5.506330057916, 
+      "lat": 50.997630583031, 
+      "lon": 5.506453140725, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Van Dorenlaan"
     }, 
     {

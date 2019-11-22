@@ -170,7 +170,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
         "102", 
         "103", 
@@ -183,14 +183,26 @@
         "401"
       ], 
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.817029218159, 
-      "lon": 5.18370715039, 
+      "lat": 50.81708951747, 
+      "lon": 5.183581468149, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Breendonkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.817144065241, 
+      "lon": 5.183610512612, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
@@ -217,19 +229,19 @@
         "402"
       ], 
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.817029218159, 
-      "lon": 5.18370715039, 
+      "lat": 50.817189083632, 
+      "lon": 5.183639533822, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Breendonkstraat"
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
         "102", 
         "201", 

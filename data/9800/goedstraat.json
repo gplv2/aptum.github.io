@@ -122,18 +122,6 @@
     }, 
     {
       "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.978974231002, 
-      "lon": 3.465628696458, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Goedstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17A"
       ], 
       "housenumber": "17A", 
@@ -317,11 +305,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.978911478408, 
-      "lon": 3.463533427103, 
+      "lat": 50.978892668641, 
+      "lon": 3.463495625722, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Goedstraat"
     }, 
     {
@@ -425,11 +413,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.979958750884, 
-      "lon": 3.461741238409, 
+      "lat": 50.979933160779, 
+      "lon": 3.46169858374, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Goedstraat"
     }, 
     {
@@ -674,14 +662,26 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "9A"
       ], 
-      "housenumber": "9", 
-      "lat": 50.978435223533, 
-      "lon": 3.467754753875, 
+      "housenumber": "9A", 
+      "lat": 50.978339665669, 
+      "lon": 3.467661321981, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Goedstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.978365780668, 
+      "lon": 3.467502753358, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Goedstraat"
     }
   ]

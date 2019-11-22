@@ -1913,6 +1913,11 @@
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -2100,15 +2105,21 @@
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.030420472866, 
-      "lon": 5.275863658563, 
+      "lat": 51.030419558275, 
+      "lon": 5.275714094208, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {

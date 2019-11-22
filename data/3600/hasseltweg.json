@@ -170,18 +170,6 @@
     }, 
     {
       "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.965274454763, 
-      "lon": 5.476305525632, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hasseltweg"
-    }, 
-    {
-      "hnrlbls": [
         "120"
       ], 
       "housenumber": "120", 
@@ -281,11 +269,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.965342406892, 
-      "lon": 5.476192525247, 
+      "lat": 50.965205912298, 
+      "lon": 5.476032836665, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -678,6 +666,10 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -756,6 +748,18 @@
       "housenumber": "199", 
       "lat": 50.959799326848, 
       "lon": 5.453624255332, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hasseltweg"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.965461353943, 
+      "lon": 5.47704997679, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1086,9 +1090,6 @@
       "street": "Hasseltweg"
     }, 
     {
-      "busnrs": [
-        "BU11"
-      ], 
       "hnrlbls": [
         "247"
       ], 
@@ -1305,9 +1306,6 @@
       "street": "Hasseltweg"
     }, 
     {
-      "busnrs": [
-        "BU02"
-      ], 
       "hnrlbls": [
         "280"
       ], 
@@ -1372,6 +1370,10 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU02", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "285"
       ], 
@@ -1397,7 +1399,8 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "287-289"
@@ -1483,6 +1486,9 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU01"
+      ], 
       "hnrlbls": [
         "294"
       ], 
@@ -1861,6 +1867,9 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "341"
       ], 
@@ -2487,12 +2496,28 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "408"
       ], 
       "housenumber": "408", 
       "lat": 50.951429334892, 
       "lon": 5.404661172534, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hasseltweg"
+    }, 
+    {
+      "hnrlbls": [
+        "409"
+      ], 
+      "housenumber": "409", 
+      "lat": 50.95489818263, 
+      "lon": 5.420061492761, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -2792,6 +2817,9 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "481"
       ], 
@@ -2880,6 +2908,10 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "505"
       ], 
@@ -2999,19 +3031,6 @@
       "street": "Hasseltweg"
     }, 
     {
-      "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU05", 
-        "BU06", 
-        "BU09", 
-        "BU10", 
-        "BU11", 
-        "BU13", 
-        "BU14", 
-        "BU15"
-      ], 
       "hnrlbls": [
         "70"
       ], 

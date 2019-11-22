@@ -1,27 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "1-3"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.226269986591, 
-      "lon": 4.40183854846, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Schipperskapelstraat"
-    }, 
-    {
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.22609250159, 
-      "lon": 4.401397521705, 
+      "lat": 51.226144368179, 
+      "lon": 4.401384389094, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -40,11 +25,17 @@
       "street": "Lange Schipperskapelstraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.226269986591, 
@@ -52,21 +43,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Schipperskapelstraat"
-    }, 
-    {
-      "busnrs": [
-        "131"
-      ], 
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.226224460408, 
-      "lon": 4.401681194549, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Schipperskapelstraat"
     }, 
     {
@@ -90,26 +66,14 @@
         "901"
       ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.226089651987, 
-      "lon": 4.401620974858, 
+      "lat": 51.226226484338, 
+      "lon": 4.401517290215, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Schipperskapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.226089651987, 
-      "lon": 4.401620974858, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Lange Schipperskapelstraat"
     }
   ]

@@ -17,6 +17,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04"
@@ -40,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.012681765921, 
-      "lon": 5.490269220725, 
+      "lat": 51.012764117461, 
+      "lon": 5.490363257296, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bornstraat"
     }, 
     {
@@ -73,7 +74,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "2"
@@ -171,6 +173,9 @@
       "street": "Bornstraat"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "6"
       ], 

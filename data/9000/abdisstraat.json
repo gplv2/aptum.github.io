@@ -253,8 +253,13 @@
       "street": "Abdisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.04325920676, 
@@ -379,18 +384,6 @@
       "housenumber": "56", 
       "lat": 51.042572540882, 
       "lon": 3.71424968316, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Abdisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.04325920676, 
-      "lon": 3.71228810687, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

@@ -277,6 +277,12 @@
       "street": "Volkstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -362,14 +368,14 @@
     }, 
     {
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.210865650396, 
-      "lon": 4.39608642456, 
+      "lat": 51.210909875258, 
+      "lon": 4.396078723621, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Volkstraat"
     }, 
     {
@@ -414,10 +420,11 @@
         "201", 
         "202", 
         "301", 
-        "302"
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
-        "29-31"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.210865650396, 
@@ -794,7 +801,11 @@
     {
       "apptnrs": [
         "001", 
-        "101"
+        "101", 
+        "301", 
+        "401", 
+        "501", 
+        "601"
       ], 
       "hnrlbls": [
         "51"

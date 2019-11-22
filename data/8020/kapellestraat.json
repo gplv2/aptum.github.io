@@ -33,7 +33,7 @@
       "lon": 3.240472087454, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kapellestraat"
     }, 
     {
@@ -235,18 +235,29 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "A"
+        "1"
       ], 
       "hnrlbls": [
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.149343704656, 
-      "lon": 3.241330126805, 
+      "lat": 51.149396080238, 
+      "lon": 3.241307709412, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "116A"
+      ], 
+      "housenumber": "116A", 
+      "lat": 51.149306431521, 
+      "lon": 3.241390199097, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -326,19 +337,7 @@
       "lon": 3.242097613799, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kapellestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "128"
-      ], 
-      "housenumber": "128", 
-      "lat": 51.14844229078, 
-      "lon": 3.242034639147, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kapellestraat"
     }, 
     {
@@ -895,26 +894,14 @@
     }, 
     {
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.151800463214, 
-      "lon": 3.238965692988, 
+      "lat": 51.151837041317, 
+      "lon": 3.238964665582, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapellestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "58A", 
-      "lat": 51.151800463214, 
-      "lon": 3.238965692988, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -955,17 +942,18 @@
     }, 
     {
       "apptnrs": [
+        "0-01", 
         "1-01"
       ], 
       "hnrlbls": [
-        "58-60"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.151800463214, 
-      "lon": 3.238965692988, 
+      "lat": 51.151791500185, 
+      "lon": 3.239006075158, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -1133,11 +1121,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.149590392378, 
-      "lon": 3.241613895159, 
+      "lat": 51.149561699121, 
+      "lon": 3.241640457749, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -1150,18 +1138,6 @@
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapellestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.151111918424, 
-      "lon": 3.239555227118, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -1293,7 +1269,7 @@
       "lon": 3.246559846447, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {

@@ -72,6 +72,10 @@
       "street": "Gildelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -81,6 +85,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gildelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "14O"
+      ], 
+      "housenumber": "14O", 
+      "lat": 50.962449389456, 
+      "lon": 5.484684104983, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gildelaan"
     }, 
     {
@@ -96,6 +112,10 @@
       "street": "Gildelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -105,6 +125,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gildelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "16O"
+      ], 
+      "housenumber": "16O", 
+      "lat": 50.962514028763, 
+      "lon": 5.484636814847, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gildelaan"
     }, 
     {
@@ -123,6 +155,7 @@
       "busnrs": [
         "BU01", 
         "BU11", 
+        "BU21", 
         "BU31"
       ], 
       "hnrlbls": [
@@ -183,16 +216,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3", 
-        "31", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -317,7 +340,9 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU01", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "40"
@@ -371,6 +396,7 @@
         "BU11", 
         "BU12", 
         "BU21", 
+        "BU22", 
         "BU31"
       ], 
       "hnrlbls": [
@@ -468,6 +494,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
         "BU05", 
         "BU06"

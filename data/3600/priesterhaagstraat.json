@@ -30,6 +30,7 @@
         "BU03", 
         "BU04", 
         "BU05", 
+        "BU06", 
         "BU07", 
         "BU08", 
         "BU09"
@@ -95,6 +96,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
         "BU05", 
         "BU06", 
@@ -144,6 +146,7 @@
         "BU04", 
         "BU05", 
         "BU06", 
+        "BU07", 
         "BU08", 
         "BU09"
       ], 
@@ -190,6 +193,7 @@
         "BU05", 
         "BU06", 
         "BU07", 
+        "BU08", 
         "BU09"
       ], 
       "hnrlbls": [
@@ -241,8 +245,10 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU03", 
         "BU04", 
+        "BU05", 
         "BU06", 
         "BU07", 
         "BU08", 
@@ -482,11 +488,11 @@
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.953241184247, 
-      "lon": 5.499674046344, 
+      "lat": 50.953332135507, 
+      "lon": 5.499835938281, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -494,38 +500,38 @@
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.953241184247, 
-      "lon": 5.499674046344, 
+      "lat": 50.953183005318, 
+      "lon": 5.499591228451, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Priesterhaagstraat"
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.953241184247, 
-      "lon": 5.499674046344, 
+      "lat": 50.953141556608, 
+      "lon": 5.499582257773, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Priesterhaagstraat"
     }, 
     {
       "hnrlbls": [
-        "32-38"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.953241184247, 
-      "lon": 5.499674046344, 
+      "lat": 50.953018449642, 
+      "lon": 5.499557368376, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Priesterhaagstraat"
     }, 
     {
@@ -560,11 +566,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.953157334366, 
-      "lon": 5.499689672243, 
+      "lat": 50.953077534377, 
+      "lon": 5.499564771876, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Priesterhaagstraat"
     }, 
     {
@@ -645,6 +651,7 @@
         "BU05", 
         "BU06", 
         "BU07", 
+        "BU08", 
         "BU09"
       ], 
       "hnrlbls": [

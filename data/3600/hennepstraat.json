@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.964109313913, 
+      "lon": 5.461829409409, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hennepstraat"
+    }, 
+    {
       "busnrs": [
         "BU01", 
         "BU02", 
@@ -22,11 +34,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.964092888167, 
-      "lon": 5.461642956126, 
+      "lat": 50.964169962383, 
+      "lon": 5.461804202076, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hennepstraat"
     }, 
     {

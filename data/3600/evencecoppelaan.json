@@ -26,9 +26,6 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "22", 
-        "31", 
         "BU01", 
         "BU02", 
         "BU11", 
@@ -51,17 +48,18 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "22", 
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU21", 
         "BU22", 
+        "BU23", 
         "BU31", 
-        "BU32"
+        "BU32", 
+        "BU33"
       ], 
       "hnrlbls": [
         "102"
@@ -76,9 +74,6 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "21", 
-        "31", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -461,7 +456,9 @@
         "BU09", 
         "BU10", 
         "BU11", 
+        "BU12", 
         "BU13", 
+        "BU14", 
         "BU15", 
         "BU16", 
         "BU17", 
@@ -475,11 +472,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.971060335896, 
-      "lon": 5.499829807346, 
+      "lat": 50.971058385908, 
+      "lon": 5.499826912538, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Evence Copp\u00e9elaan"
     }, 
     {
@@ -596,6 +593,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02"
       ], 
       "hnrlbls": [
@@ -636,7 +634,9 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02"
+        "BU02", 
+        "BU03", 
+        "BU11"
       ], 
       "hnrlbls": [
         "47"
@@ -665,16 +665,19 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
         "BU05", 
         "BU11", 
         "BU12", 
         "BU13", 
+        "BU14", 
         "BU15", 
         "BU21", 
         "BU22", 
         "BU23", 
         "BU24", 
+        "BU25", 
         "BU31", 
         "BU32", 
         "BU33", 
@@ -745,6 +748,7 @@
         "BU01", 
         "BU02", 
         "BU04", 
+        "BU11", 
         "BU12"
       ], 
       "hnrlbls": [
@@ -762,6 +766,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU11", 
         "BU12"
       ], 
       "hnrlbls": [
@@ -777,7 +782,8 @@
     }, 
     {
       "busnrs": [
-        "BU02"
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "6"
@@ -800,18 +806,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Evence Copp\u00e9elaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.971910860236, 
-      "lon": 5.499049118155, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
       "street": "Evence Copp\u00e9elaan"
     }, 
     {
@@ -852,6 +846,72 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Evence Copp\u00e9elaan"
+    }, 
+    {
+      "busnrs": [
+        "B01", 
+        "B02", 
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.971843801677, 
+      "lon": 5.49923516882, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Evence Copp\u00e9elaan"
+    }, 
+    {
+      "busnrs": [
+        "B03", 
+        "B04", 
+        "B13", 
+        "B14", 
+        "B23", 
+        "B24", 
+        "B33", 
+        "B34", 
+        "B42"
+      ], 
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.971910860236, 
+      "lon": 5.499049118155, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Evence Copp\u00e9elaan"
+    }, 
+    {
+      "busnrs": [
+        "B05", 
+        "B06", 
+        "B15", 
+        "B16", 
+        "B25", 
+        "B35"
+      ], 
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.972063603013, 
+      "lon": 5.498993142077, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Evence Copp\u00e9elaan"
     }, 
     {
@@ -958,6 +1018,7 @@
         "BU03", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU21", 
         "BU22", 
         "BU23", 
@@ -978,6 +1039,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU11", 

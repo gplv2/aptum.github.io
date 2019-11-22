@@ -512,6 +512,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU11", 
         "BU12"
       ], 
       "hnrlbls": [
@@ -694,15 +695,19 @@
       "street": "Mispadstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.988634691034, 
-      "lon": 5.526232521691, 
+      "lat": 50.988600501298, 
+      "lon": 5.526226121499, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mispadstraat"
     }, 
     {
@@ -986,14 +991,14 @@
     }, 
     {
       "hnrlbls": [
-        "74-76"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.982508084659, 
-      "lon": 5.524344426338, 
+      "lat": 50.982518174894, 
+      "lon": 5.524250819151, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mispadstraat"
     }, 
     {
@@ -1010,14 +1015,14 @@
     }, 
     {
       "hnrlbls": [
-        "74-76"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.982508084659, 
-      "lon": 5.524344426338, 
+      "lat": 50.982566685501, 
+      "lon": 5.524437449598, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mispadstraat"
     }, 
     {
@@ -1037,11 +1042,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.982405328179, 
-      "lon": 5.524325939934, 
+      "lat": 50.982289579201, 
+      "lon": 5.524248170634, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mispadstraat"
     }, 
     {

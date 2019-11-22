@@ -446,7 +446,7 @@
       "lon": 4.444791305745, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Deurnestraat"
     }, 
     {
@@ -1062,7 +1062,7 @@
       "lon": 4.44761550659, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deurnestraat"
     }, 
     {
@@ -1367,18 +1367,6 @@
     }, 
     {
       "hnrlbls": [
-        "221"
-      ], 
-      "housenumber": "221", 
-      "lat": 51.184725990929, 
-      "lon": 4.445216046465, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Deurnestraat"
-    }, 
-    {
-      "hnrlbls": [
         "227"
       ], 
       "housenumber": "227", 
@@ -1589,11 +1577,11 @@
         "250"
       ], 
       "housenumber": "250", 
-      "lat": 51.184447874473, 
-      "lon": 4.449648667749, 
+      "lat": 51.184502291732, 
+      "lon": 4.449465123617, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Deurnestraat"
     }, 
     {
@@ -1968,7 +1956,7 @@
       "lon": 4.449727036907, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deurnestraat"
     }, 
     {
@@ -2694,11 +2682,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.175341387277, 
-      "lon": 4.443743718594, 
+      "lat": 51.175324229461, 
+      "lon": 4.443867808789, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Deurnestraat"
     }, 
     {
@@ -2731,11 +2719,23 @@
       "street": "Deurnestraat"
     }, 
     {
+      "hnrlbls": [
+        "58B-58bis"
+      ], 
+      "housenumber": "58B", 
+      "lat": 51.175373826202, 
+      "lon": 4.444038909282, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deurnestraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "58bis"
+        "58B-58bis"
       ], 
       "housenumber": "58bis", 
       "lat": 51.175373826202, 
@@ -2818,11 +2818,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.175798131639, 
-      "lon": 4.443687118411, 
+      "lat": 51.175798584087, 
+      "lon": 4.443682400323, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deurnestraat"
     }, 
     {

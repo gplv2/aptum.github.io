@@ -25,7 +25,6 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
         "0202", 
         "0301", 
@@ -35,6 +34,7 @@
         "0403", 
         "0501", 
         "0502", 
+        "0503", 
         "0601"
       ], 
       "hnrlbls": [
@@ -56,6 +56,7 @@
         "0102", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
         "0303", 
@@ -64,10 +65,7 @@
         "0501", 
         "0502", 
         "0503", 
-        "0601", 
-        "1D", 
-        "3", 
-        "3D"
+        "0601"
       ], 
       "hnrlbls": [
         "12"
@@ -103,20 +101,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
         "0401", 
-        "2", 
-        "5", 
-        "6"
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.234697457529, 
-      "lon": 2.918913573434, 
+      "lat": 51.234681761429, 
+      "lon": 2.918872532759, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boekareststraat"
     }, 
     {
@@ -136,41 +137,58 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
         "0104", 
+        "0201", 
+        "0202", 
         "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
         "0304", 
+        "0401", 
         "0402", 
+        "0403", 
         "0404", 
+        "0501", 
         "0502", 
-        "3", 
-        "53"
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.234773598397, 
-      "lon": 2.918825141235, 
+      "lat": 51.234740560064, 
+      "lon": 2.918748123114, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boekareststraat"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.234621078125, 
-      "lon": 2.918425050971, 
+      "lat": 51.234648059544, 
+      "lon": 2.918484643162, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boekareststraat"
     }, 
     {
@@ -178,11 +196,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.234904489762, 
-      "lon": 2.918751474579, 
+      "lat": 51.234856722288, 
+      "lon": 2.918638970387, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boekareststraat"
     }, 
     {

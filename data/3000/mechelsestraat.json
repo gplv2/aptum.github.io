@@ -354,6 +354,14 @@
       "street": "Mechelsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -2687,7 +2695,7 @@
         "0302"
       ], 
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
       "lat": 50.880913487101, 
@@ -2698,16 +2706,12 @@
       "street": "Mechelsestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0002"
-      ], 
       "hnrlbls": [
-        "42A"
+        "42-42A"
       ], 
       "housenumber": "42A", 
-      "lat": 50.88091983942, 
-      "lon": 4.699665032478, 
+      "lat": 50.880913487101, 
+      "lon": 4.699654330271, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2862,16 +2866,6 @@
       "street": "Mechelsestraat"
     }, 
     {
-      "apptnrs": [
-        "0101"
-      ], 
-      "busnrs": [
-        "0001", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204"
-      ], 
       "hnrlbls": [
         "3-5"
       ], 

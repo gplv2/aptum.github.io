@@ -49,24 +49,16 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
       "lat": 50.994419286748, 
       "lon": 5.520003495131, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stalenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "79-106"
-      ], 
-      "housenumber": "106", 
-      "lat": 50.99270750608, 
-      "lon": 5.51597059581, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -217,9 +209,6 @@
       "street": "Stalenstraat"
     }, 
     {
-      "busnrs": [
-        "BU01"
-      ], 
       "hnrlbls": [
         "115-117"
       ], 
@@ -348,6 +337,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
@@ -356,11 +346,11 @@
         "BU08"
       ], 
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.993740200679, 
-      "lon": 5.51914588189, 
+      "lat": 50.993773409717, 
+      "lon": 5.519197412103, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -380,11 +370,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.993740200679, 
-      "lon": 5.51914588189, 
+      "lat": 50.993706991618, 
+      "lon": 5.519094351751, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -445,14 +435,15 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02"
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
-        "133-135"
+        "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.993583490275, 
-      "lon": 5.518944873591, 
+      "lat": 50.993603864626, 
+      "lon": 5.518994236299, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -472,14 +463,16 @@
     }, 
     {
       "busnrs": [
-        "BU02"
+        "BU01", 
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
-        "133-135"
+        "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.993583490275, 
-      "lon": 5.518944873591, 
+      "lat": 50.993563026023, 
+      "lon": 5.518895508718, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -529,6 +522,9 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -543,6 +539,7 @@
     {
       "busnrs": [
         "BU02", 
+        "BU11", 
         "BU21"
       ], 
       "hnrlbls": [
@@ -634,7 +631,8 @@
     }, 
     {
       "busnrs": [
-        "BU11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "152"
@@ -649,11 +647,10 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21", 
         "BU01", 
         "BU02", 
-        "BU03"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "153"
@@ -743,6 +740,9 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "BU01"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -771,6 +771,11 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU21", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -823,34 +828,34 @@
     }, 
     {
       "hnrlbls": [
-        "171-173"
+        "171"
       ], 
       "housenumber": "171", 
-      "lat": 50.992547017144, 
-      "lon": 5.517684496473, 
+      "lat": 50.992718809899, 
+      "lon": 5.517381867971, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stalenstraat"
     }, 
     {
       "busnrs": [
-        "LBU01", 
-        "LBU02", 
-        "LBU03", 
-        "RBU01", 
-        "RBU02", 
-        "RBU03"
+        "L001", 
+        "L002", 
+        "L003", 
+        "R001", 
+        "R002", 
+        "R003"
       ], 
       "hnrlbls": [
-        "171-173"
+        "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.992547017144, 
-      "lon": 5.517684496473, 
+      "lat": 50.992685477888, 
+      "lon": 5.517315237218, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stalenstraat"
     }, 
     {
@@ -1040,7 +1045,9 @@
     {
       "busnrs": [
         "BU01", 
-        "BU03"
+        "BU02", 
+        "BU03", 
+        "BU11"
       ], 
       "hnrlbls": [
         "197"
@@ -1115,6 +1122,7 @@
     }, 
     {
       "busnrs": [
+        "BU02", 
         "BU11", 
         "BU21"
       ], 
@@ -1426,11 +1434,11 @@
         "BU32"
       ], 
       "hnrlbls": [
-        "245-249"
+        "245"
       ], 
       "housenumber": "245", 
-      "lat": 50.990578622825, 
-      "lon": 5.512621810373, 
+      "lat": 50.99063384666, 
+      "lon": 5.512767172542, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1448,11 +1456,11 @@
         "BU32"
       ], 
       "hnrlbls": [
-        "245-249"
+        "247"
       ], 
       "housenumber": "247", 
-      "lat": 50.990578622825, 
-      "lon": 5.512621810373, 
+      "lat": 50.990574773385, 
+      "lon": 5.512610890437, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1460,6 +1468,8 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
+        "BU02", 
         "BU11", 
         "BU12", 
         "BU21", 
@@ -1468,11 +1478,11 @@
         "BU32"
       ], 
       "hnrlbls": [
-        "245-249"
+        "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.990578622825, 
-      "lon": 5.512621810373, 
+      "lat": 50.990527336759, 
+      "lon": 5.512487513067, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1614,8 +1624,12 @@
         "BU01", 
         "BU02", 
         "BU03", 
+        "BU11", 
+        "BU12", 
         "BU13", 
-        "BU21"
+        "BU21", 
+        "BU22", 
+        "BU23"
       ], 
       "hnrlbls": [
         "275"
@@ -1773,6 +1787,7 @@
     }, 
     {
       "busnrs": [
+        "BU11", 
         "BU21"
       ], 
       "hnrlbls": [
@@ -1813,6 +1828,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU21"
       ], 
       "hnrlbls": [
@@ -1865,7 +1881,8 @@
     {
       "busnrs": [
         "BU02", 
-        "BU11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "42"
@@ -1898,6 +1915,7 @@
     {
       "busnrs": [
         "BU11", 
+        "BU12", 
         "BU21"
       ], 
       "hnrlbls": [
@@ -1991,6 +2009,9 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -2027,6 +2048,11 @@
       "street": "Stalenstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -2053,6 +2079,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU11", 
         "BU21"
       ], 
@@ -2068,9 +2095,6 @@
       "street": "Stalenstraat"
     }, 
     {
-      "busnrs": [
-        "ABU00"
-      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -2096,7 +2120,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "58-60"
@@ -2186,7 +2211,8 @@
     }, 
     {
       "busnrs": [
-        "BU11"
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "64"
@@ -2216,7 +2242,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU21"
       ], 
       "hnrlbls": [
         "67"
@@ -2231,7 +2258,6 @@
     }, 
     {
       "busnrs": [
-        "11", 
         "BU01", 
         "BU11"
       ], 
@@ -2398,7 +2424,8 @@
       "busnrs": [
         "BU01", 
         "BU02", 
-        "BU11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "88"
@@ -2452,14 +2479,14 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU12", 
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32"
+        "B01", 
+        "B02", 
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32"
       ], 
       "hnrlbls": [
         "90A"
@@ -2474,17 +2501,22 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.994659539518, 
-      "lon": 5.520752609623, 
+      "lat": 50.994643370584, 
+      "lon": 5.520769591816, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Stalenstraat"
     }, 
     {

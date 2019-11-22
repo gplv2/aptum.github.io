@@ -514,27 +514,35 @@
       "street": "Lakborslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "149-151"
+        "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.223624424766, 
-      "lon": 4.45417020348, 
+      "lat": 51.223617858313, 
+      "lon": 4.454300306737, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lakborslei"
+    }, 
+    {
+      "hnrlbls": [
+        "149A"
+      ], 
+      "housenumber": "149A", 
+      "lat": 51.2235788539, 
+      "lon": 4.454293220677, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lakborslei"
     }, 
     {
@@ -551,14 +559,14 @@
     }, 
     {
       "hnrlbls": [
-        "149-151"
+        "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.223624424766, 
-      "lon": 4.45417020348, 
+      "lat": 51.223655608007, 
+      "lon": 4.45430238054, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lakborslei"
     }, 
     {
@@ -1871,22 +1879,6 @@
       "street": "Lakborslei"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101"
-      ], 
-      "hnrlbls": [
-        "277-279"
-      ], 
-      "housenumber": "277", 
-      "lat": 51.227566645801, 
-      "lon": 4.45428069849, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lakborslei"
-    }, 
-    {
       "hnrlbls": [
         "278"
       ], 
@@ -1899,8 +1891,12 @@
       "street": "Lakborslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "277-279"
+        "279"
       ], 
       "housenumber": "279", 
       "lat": 51.227566645801, 

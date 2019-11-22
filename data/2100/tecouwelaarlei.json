@@ -361,18 +361,15 @@
       "street": "Te Couwelaarlei"
     }, 
     {
-      "busnrs": [
-        "130"
-      ], 
       "hnrlbls": [
-        "128-130"
+        "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.222645736333, 
-      "lon": 4.458430194464, 
+      "lat": 51.222722560091, 
+      "lon": 4.458582929004, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Te Couwelaarlei"
     }, 
     {
@@ -388,8 +385,14 @@
       "street": "Te Couwelaarlei"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "128-130"
+        "130"
       ], 
       "housenumber": "130", 
       "lat": 51.222645736333, 
@@ -1445,6 +1448,11 @@
       "street": "Te Couwelaarlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "96"
       ], 

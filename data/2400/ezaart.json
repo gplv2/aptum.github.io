@@ -208,7 +208,7 @@
       "street": "Ezaart"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -481,6 +481,29 @@
       "street": "Ezaart"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 51.17866351759, 
+      "lon": 5.093853036327, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "202", 
+        "203"
+      ], 
       "busnrs": [
         "3"
       ], 
@@ -505,6 +528,23 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
+      "apptnrs": [
+        "103", 
+        "202", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "140"
+      ], 
+      "housenumber": "140", 
+      "lat": 51.178137771987, 
+      "lon": 5.093542683269, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ezaart"
     }, 
     {
@@ -816,18 +856,6 @@
     }, 
     {
       "hnrlbls": [
-        "174"
-      ], 
-      "housenumber": "174", 
-      "lat": 51.177960562984, 
-      "lon": 5.090879981624, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ezaart"
-    }, 
-    {
-      "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
@@ -1124,8 +1152,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.177344508608, 
-      "lon": 5.088812441537, 
+      "lat": 51.177340364478, 
+      "lon": 5.088813950603, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -1211,8 +1239,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.177182696023, 
-      "lon": 5.088372202949, 
+      "lat": 51.177171757623, 
+      "lon": 5.088382330518, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -1633,8 +1661,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 51.17668487116, 
-      "lon": 5.084946869782, 
+      "lat": 51.176712349109, 
+      "lon": 5.085040387416, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1717,7 +1745,8 @@
         "1", 
         "101", 
         "102", 
-        "2"
+        "2", 
+        "201"
       ], 
       "hnrlbls": [
         "262"
@@ -2027,6 +2056,22 @@
       "street": "Ezaart"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.180369725328, 
+      "lon": 5.102316478941, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
       "hnrlbls": [
         "300"
       ], 
@@ -2132,6 +2177,21 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
+      "apptnrs": [
+        "102"
+      ], 
+      "hnrlbls": [
+        "318"
+      ], 
+      "housenumber": "318", 
+      "lat": 51.175338641798, 
+      "lon": 5.080586294378, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ezaart"
     }, 
     {
@@ -2915,8 +2975,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.179810407266, 
-      "lon": 5.097605244939, 
+      "lat": 51.179809505807, 
+      "lon": 5.097605659888, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
@@ -3034,8 +3094,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.179636575503, 
-      "lon": 5.096874733695, 
+      "lat": 51.179620251467, 
+      "lon": 5.096883488589, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 

@@ -200,31 +200,30 @@
       "street": "Godefriduskaai"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "301", 
-        "302", 
-        "303", 
-        "304", 
-        "401", 
-        "402", 
-        "403", 
-        "404", 
-        "501", 
-        "502", 
-        "503", 
-        "504", 
-        "601", 
-        "602", 
-        "603", 
-        "604"
+      "busnrs": [
+        "1", 
+        "10", 
+        "12", 
+        "13", 
+        "14", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "20", 
+        "21", 
+        "22", 
+        "24", 
+        "25", 
+        "26", 
+        "27", 
+        "28", 
+        "29", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "28"
@@ -288,6 +287,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Godefriduskaai"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 51.227934400576, 
+      "lon": 4.409104125097, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Godefriduskaai"
     }, 
     {

@@ -135,9 +135,6 @@
       "street": "Sledderlo"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "22A"
       ], 
@@ -189,14 +186,15 @@
       "busnrs": [
         "BU01", 
         "BU02", 
-        "BU11"
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
-        "26-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.935157184919, 
-      "lon": 5.521064981661, 
+      "lat": 50.935227115324, 
+      "lon": 5.521057309935, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +219,11 @@
         "BU11"
       ], 
       "hnrlbls": [
-        "26-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.935157184919, 
-      "lon": 5.521064981661, 
+      "lat": 50.935087255909, 
+      "lon": 5.521072511119, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -301,8 +299,9 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "BU02"
+        "BU01", 
+        "BU02", 
+        "BU11"
       ], 
       "hnrlbls": [
         "36"
@@ -329,7 +328,7 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU11"
       ], 
       "hnrlbls": [
         "38"
@@ -519,11 +518,11 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 50.931385053312, 
-      "lon": 5.521829440489, 
+      "lat": 50.931379105687, 
+      "lon": 5.52167521934, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sledderlo"
     }, 
     {
@@ -575,9 +574,6 @@
       "street": "Sledderlo"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "54A"
       ], 
@@ -591,8 +587,8 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02"
+        "B01", 
+        "B02"
       ], 
       "hnrlbls": [
         "55A"
@@ -670,7 +666,8 @@
     }, 
     {
       "busnrs": [
-        "AB11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "61-61A"
@@ -684,6 +681,10 @@
       "street": "Sledderlo"
     }, 
     {
+      "busnrs": [
+        "B01", 
+        "B11"
+      ], 
       "hnrlbls": [
         "61-61A"
       ], 
@@ -708,6 +709,9 @@
       "street": "Sledderlo"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -732,9 +736,6 @@
       "street": "Sledderlo"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "63A"
       ], 
@@ -855,9 +856,6 @@
       "street": "Sledderlo"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "74A"
       ], 

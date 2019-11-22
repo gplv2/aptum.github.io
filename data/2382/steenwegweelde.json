@@ -370,9 +370,6 @@
       "street": "Steenweg Weelde"
     }, 
     {
-      "apptnrs": [
-        "0.1"
-      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -386,12 +383,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.1", 
-        "1.2"
-      ], 
-      "busnrs": [
-        "1"
+        "0-1", 
+        "1-1", 
+        "1-2"
       ], 
       "hnrlbls": [
         "14a"
@@ -1410,6 +1404,18 @@
       "municipality": "Ravels", 
       "pcode": "2382", 
       "source": "afgeleidVanPerceelKadaster", 
+      "street": "Steenweg Weelde"
+    }, 
+    {
+      "hnrlbls": [
+        "99A"
+      ], 
+      "housenumber": "99A", 
+      "lat": 51.4368413021, 
+      "lon": 5.028729376185, 
+      "municipality": "Ravels", 
+      "pcode": "2382", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenweg Weelde"
     }
   ]

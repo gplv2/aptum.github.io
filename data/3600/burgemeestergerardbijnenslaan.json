@@ -3,6 +3,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU03", 
         "BU11", 
         "BU12", 
@@ -10,7 +11,10 @@
         "BU21", 
         "BU22", 
         "BU23", 
-        "BU32"
+        "BU32", 
+        "BU33", 
+        "BU41", 
+        "BU42"
       ], 
       "hnrlbls": [
         "1"
@@ -28,8 +32,10 @@
         "BU01", 
         "BU02", 
         "BU11", 
+        "BU12", 
         "BU21", 
         "BU22", 
+        "BU31", 
         "BU32"
       ], 
       "hnrlbls": [
@@ -48,6 +54,7 @@
         "BU01", 
         "BU02", 
         "BU11", 
+        "BU12", 
         "BU21", 
         "BU22", 
         "BU31", 
@@ -68,6 +75,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
@@ -108,11 +116,12 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
-        "BU12"
+        "BU12", 
+        "BU91"
       ], 
       "hnrlbls": [
         "18"
@@ -141,18 +150,18 @@
         "BU61"
       ], 
       "hnrlbls": [
-        "2-66"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.963925745638, 
-      "lon": 5.505459953962, 
+      "lat": 50.963830369174, 
+      "lon": 5.505774828862, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -170,7 +179,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -188,7 +197,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -206,7 +215,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -232,7 +241,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU03", 
@@ -259,7 +268,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -282,7 +291,7 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU11", 
@@ -308,10 +317,11 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
         "BU03", 
+        "BU04", 
         "BU11", 
         "BU12", 
         "BU13", 
@@ -334,16 +344,16 @@
       "street": "Burgemeester Gerard Bijnenslaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "BU01", 
         "BU02", 
-        "BU03", 
         "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
         "BU31", 
-        "BU32"
+        "BU32", 
+        "BU41"
       ], 
       "hnrlbls": [
         "36"
@@ -380,11 +390,13 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
+        "BU31", 
         "BU32"
       ], 
       "hnrlbls": [

@@ -2,62 +2,68 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0103", 
+        "0104", 
         "0105", 
         "0106", 
+        "0201", 
         "0202", 
         "0203", 
         "0204", 
         "0205", 
         "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
         "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
         "0405", 
+        "0406", 
+        "0501", 
         "0502", 
+        "0503", 
         "0504", 
+        "0505", 
         "0506", 
         "0601", 
         "0603", 
         "0604", 
         "0605", 
         "0606", 
+        "0701", 
+        "0702", 
         "0703", 
         "0704", 
+        "0705", 
         "0706", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
         "0901", 
+        "0902", 
+        "0903", 
         "0904", 
         "0905", 
-        "1", 
-        "10", 
-        "1001", 
-        "1003", 
-        "10F", 
-        "2", 
-        "25", 
-        "26", 
-        "27", 
-        "28", 
-        "2B", 
-        "31", 
-        "36", 
-        "37", 
-        "3C", 
-        "3E", 
-        "54", 
-        "55", 
-        "60", 
-        "7", 
-        "7B", 
-        "8", 
-        "B", 
-        "D"
+        "0906", 
+        "1001"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.233366726694, 
-      "lon": 2.914158228643, 
+      "lat": 51.233397172202, 
+      "lon": 2.914141097502, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -66,9 +72,13 @@
     {
       "busnrs": [
         "0001", 
-        "0003", 
-        "0004", 
-        "0005"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "10"
@@ -91,11 +101,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.229844465802, 
-      "lon": 2.918423969182, 
+      "lat": 51.229811294149, 
+      "lon": 2.918328778816, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -133,20 +143,19 @@
     }, 
     {
       "busnrs": [
+        "0002", 
         "0201", 
-        "0301", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.229760541416, 
-      "lon": 2.918522801037, 
+      "lat": 51.229728856836, 
+      "lon": 2.91843157377, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -193,9 +202,7 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "111"
@@ -239,15 +246,18 @@
       "street": "Christinastraat"
     }, 
     {
+      "busnrs": [
+        "0501"
+      ], 
       "hnrlbls": [
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.229355247826, 
-      "lon": 2.91904185345, 
+      "lat": 51.229320435037, 
+      "lon": 2.91896676071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -346,14 +356,14 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301", 
         "0401", 
         "0501", 
         "0601", 
-        "0701"
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "12"
@@ -430,18 +440,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Christinastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "125"
-      ], 
-      "housenumber": "125", 
-      "lat": 51.228785169889, 
-      "lon": 2.919187151697, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Christinastraat"
     }, 
     {
@@ -645,42 +643,44 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "0103", 
+        "0001", 
+        "0101", 
         "0201", 
-        "0302", 
+        "0301", 
         "0401", 
-        "5"
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.228366425686, 
-      "lon": 2.920267166631, 
+      "lat": 51.22836653532, 
+      "lon": 2.920261435908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.233244199403, 
-      "lon": 2.914707349255, 
+      "lat": 51.233209882649, 
+      "lon": 2.91462894438, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -751,14 +751,11 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "0301", 
-        "0501", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "147-151"
@@ -772,10 +769,6 @@
       "street": "Christinastraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "147-151"
       ], 
@@ -958,12 +951,14 @@
     }, 
     {
       "busnrs": [
-        "0801", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "2"
@@ -1143,7 +1138,6 @@
         "0501", 
         "0502", 
         "0601", 
-        "0602", 
         "0701", 
         "0702", 
         "0801"
@@ -1322,19 +1316,22 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "5B", 
-        "6"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.233483247269, 
-      "lon": 2.914407626443, 
+      "lat": 51.233488158366, 
+      "lon": 2.914397592551, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1350,12 +1347,6 @@
       "street": "Christinastraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "1"
-      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1385,10 +1376,6 @@
       "street": "Christinastraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1453,21 +1440,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.231107689384, 
-      "lon": 2.916469639824, 
+      "lat": 51.231153763569, 
+      "lon": 2.916590490656, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1477,21 +1462,17 @@
         "0301", 
         "0401", 
         "0501", 
-        "0601", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0601"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.233165951166, 
-      "lon": 2.91418525515, 
+      "lat": 51.233143933196, 
+      "lon": 2.914120070927, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1562,20 +1543,19 @@
     {
       "busnrs": [
         "0101", 
-        "0401", 
-        "1", 
-        "4", 
-        "5"
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.230996480424, 
-      "lon": 2.916579350948, 
+      "lat": 51.231056541486, 
+      "lon": 2.91671179416, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1690,20 +1670,22 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
-        "0701", 
-        "1", 
-        "3"
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.233433601505, 
-      "lon": 2.91445714637, 
+      "lat": 51.233417556445, 
+      "lon": 2.914431727801, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1766,18 +1748,14 @@
         "0103", 
         "0201", 
         "0202", 
+        "0203", 
+        "0301", 
         "0302", 
         "0303", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "B007"
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "68"
@@ -1791,17 +1769,12 @@
       "street": "Christinastraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.230568144007, 
-      "lon": 2.917227306478, 
+      "lat": 51.230574647991, 
+      "lon": 2.917266481249, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1845,11 +1818,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.230609577986, 
-      "lon": 2.917548910182, 
+      "lat": 51.230564323789, 
+      "lon": 2.917436196144, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1893,11 +1866,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.230535956942, 
-      "lon": 2.917615493346, 
+      "lat": 51.230499304439, 
+      "lon": 2.9175224151, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1920,11 +1893,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.230510916268, 
-      "lon": 2.91764820383, 
+      "lat": 51.230470817587, 
+      "lon": 2.917545352771, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -1946,7 +1919,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -1964,26 +1936,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
+        "0201", 
         "0202", 
+        "0301", 
         "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
         "0602", 
         "0701", 
-        "0801", 
-        "1", 
-        "10", 
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0702", 
+        "0801"
       ], 
       "hnrlbls": [
         "8"
@@ -2001,11 +1969,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.230422958908, 
-      "lon": 2.917674710175, 
+      "lat": 51.230412315163, 
+      "lon": 2.917613183567, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2039,18 +2007,17 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.230219024442, 
-      "lon": 2.917972015245, 
+      "lat": 51.230172657867, 
+      "lon": 2.917878523633, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2075,11 +2042,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.230167203475, 
-      "lon": 2.918042214681, 
+      "lat": 51.230142196381, 
+      "lon": 2.91796037283, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2099,19 +2066,14 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.230107871257, 
-      "lon": 2.918101049347, 
+      "lat": 51.230068139801, 
+      "lon": 2.918028113724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -2131,11 +2093,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.230062676115, 
-      "lon": 2.918161735139, 
+      "lat": 51.230021512809, 
+      "lon": 2.918074668452, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2152,17 +2114,17 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0002"
       ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.230026129905, 
-      "lon": 2.918209264866, 
+      "lat": 51.229984901695, 
+      "lon": 2.918116902268, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2182,11 +2144,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.229989762018, 
-      "lon": 2.918249343194, 
+      "lat": 51.229945811161, 
+      "lon": 2.918162220086, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2210,11 +2172,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.229945799423, 
-      "lon": 2.91825658127, 
+      "lat": 51.229919166775, 
+      "lon": 2.918196125242, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
@@ -2231,19 +2193,34 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3"
+        "0401"
       ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.22992705402, 
-      "lon": 2.918333483419, 
+      "lat": 51.2298893402, 
+      "lon": 2.918227122394, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Christinastraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 51.229784169946, 
+      "lon": 2.918125580381, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2251,49 +2228,36 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "97"
-      ], 
-      "housenumber": "97", 
-      "lat": 51.22974518622, 
-      "lon": 2.918040307879, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Christinastraat"
-    }, 
-    {
-      "busnrs": [
-        "0401", 
-        "2", 
-        "3"
+        "0002", 
+        "0003", 
+        "0401"
       ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.229885584761, 
-      "lon": 2.918375438471, 
+      "lat": 51.229855294427, 
+      "lon": 2.918273285434, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }, 
     {
       "busnrs": [
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.229704516373, 
-      "lon": 2.918096127318, 
+      "lat": 51.229736963707, 
+      "lon": 2.918161556887, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Christinastraat"
     }
   ]

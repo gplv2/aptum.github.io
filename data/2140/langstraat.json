@@ -932,8 +932,10 @@
       "street": "Langstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "175"
@@ -1060,6 +1062,11 @@
       "street": "Langstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -2106,7 +2113,7 @@
       "lon": 4.433879071916, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Langstraat"
     }
   ]

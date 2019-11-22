@@ -38,8 +38,10 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21"
       ], 
       "hnrlbls": [
         "13"
@@ -191,7 +193,12 @@
         "BU01", 
         "BU02", 
         "BU03", 
-        "BU04"
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
       ], 
       "hnrlbls": [
         "24"
@@ -206,33 +213,34 @@
     }, 
     {
       "hnrlbls": [
-        "25-27A"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.964740923027, 
-      "lon": 5.50020316607, 
+      "lat": 50.964667540531, 
+      "lon": 5.500196126505, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU04", 
-        "BU05"
+        "B01", 
+        "B02", 
+        "B03", 
+        "B04", 
+        "B05", 
+        "B06"
       ], 
       "hnrlbls": [
         "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 50.964739660574, 
-      "lon": 5.500203562687, 
+      "lat": 50.964708662846, 
+      "lon": 5.500238975457, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -249,38 +257,45 @@
     }, 
     {
       "hnrlbls": [
-        "25-27A"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.964740923027, 
-      "lon": 5.50020316607, 
+      "lat": 50.964747249272, 
+      "lon": 5.50028375639, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "hnrlbls": [
-        "25-27A"
+        "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 50.964740923027, 
-      "lon": 5.50020316607, 
+      "lat": 50.964774625749, 
+      "lon": 5.500316307811, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.964866300001, 
-      "lon": 5.50030969492, 
+      "lat": 50.964861515135, 
+      "lon": 5.500321111152, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -449,7 +464,9 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
+        "BU05", 
         "BU06", 
         "BU07"
       ], 
@@ -617,25 +634,28 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.963835461699, 
-      "lon": 5.498966362842, 
+      "lat": 50.963807556029, 
+      "lon": 5.498942057245, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
-        "11", 
-        "2", 
-        "21", 
-        "3", 
-        "31", 
-        "BU01"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU21", 
+        "BU31"
       ], 
       "hnrlbls": [
         "51"
@@ -722,19 +742,19 @@
     }, 
     {
       "busnrs": [
-        "bus 1", 
-        "bus 11", 
-        "bus 21"
+        "BU01", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.963835461699, 
-      "lon": 5.498966362842, 
+      "lat": 50.963830755343, 
+      "lon": 5.499016361641, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

@@ -53,9 +53,21 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "14A-14B"
       ], 
-      "housenumber": "14", 
+      "housenumber": "14A", 
+      "lat": 50.869051889579, 
+      "lon": 3.810120687958, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14A-14B"
+      ], 
+      "housenumber": "14B", 
       "lat": 50.869051889579, 
       "lon": 3.810120687958, 
       "municipality": "Zottegem", 
@@ -204,6 +216,11 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -216,6 +233,13 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "28-30"
       ], 
@@ -253,8 +277,8 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "28-30"
@@ -478,8 +502,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.868308437695, 
-      "lon": 3.809232248434, 
+      "lat": 50.868300293464, 
+      "lon": 3.809258768954, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanGebouw", 
@@ -497,11 +521,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.868145564327, 
-      "lon": 3.80946304778, 
+      "lat": 50.868267326498, 
+      "lon": 3.809207450263, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -587,8 +611,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.868171902382, 
-      "lon": 3.809085133142, 
+      "lat": 50.868169783547, 
+      "lon": 3.809093255899, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanGebouw", 
@@ -619,8 +643,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.86813154548, 
-      "lon": 3.809067713429, 
+      "lat": 50.868138679995, 
+      "lon": 3.809055695326, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanGebouw", 

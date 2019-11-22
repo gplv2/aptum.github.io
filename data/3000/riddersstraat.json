@@ -32,11 +32,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.883709742483, 
-      "lon": 4.691772232657, 
+      "lat": 50.883695085837, 
+      "lon": 4.69183877961, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -471,18 +471,6 @@
     }, 
     {
       "hnrlbls": [
-        "5-15"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.881630786835, 
-      "lon": 4.690448593626, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Riddersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
@@ -764,18 +752,6 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Riddersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.881630786835, 
-      "lon": 4.690448593626, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Riddersstraat"
     }, 
     {
@@ -1174,10 +1150,11 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "176"
@@ -3232,14 +3209,14 @@
         "0302"
       ], 
       "hnrlbls": [
-        "5-15"
+        "5-7"
       ], 
       "housenumber": "5", 
-      "lat": 50.881630786835, 
-      "lon": 4.690448593626, 
+      "lat": 50.881680215542, 
+      "lon": 4.690518988379, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -3532,7 +3509,7 @@
         "0302"
       ], 
       "hnrlbls": [
-        "7"
+        "5-7"
       ], 
       "housenumber": "7", 
       "lat": 50.881680215542, 
@@ -3766,18 +3743,6 @@
       "street": "Riddersstraat"
     }, 
     {
-      "hnrlbls": [
-        "84"
-      ], 
-      "housenumber": "84", 
-      "lat": 50.883231879695, 
-      "lon": 4.691960781297, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Riddersstraat"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0002", 
@@ -3939,14 +3904,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "97-99"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.883569447615, 
-      "lon": 4.691760892031, 
+      "lat": 50.883486052622, 
+      "lon": 4.691783480576, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -3970,14 +3935,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "97-99"
+        "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.883569447615, 
-      "lon": 4.691760892031, 
+      "lat": 50.883610267306, 
+      "lon": 4.691823415888, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Riddersstraat"
     }
   ]

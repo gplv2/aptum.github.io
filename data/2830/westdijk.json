@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -148,6 +152,10 @@
       "street": "Westdijk"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -161,7 +169,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "21A"
@@ -185,6 +194,18 @@
       "housenumber": "21B", 
       "lat": 51.058671320512, 
       "lon": 4.362791329992, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Westdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.058587815279, 
+      "lon": 4.362832846559, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -816,11 +837,11 @@
         "70"
       ], 
       "hnrlbls": [
-        "67-70"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.055041102999, 
-      "lon": 4.361976491473, 
+      "lat": 51.055232033667, 
+      "lon": 4.362088713367, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -837,11 +858,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "67-70"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.055041102999, 
-      "lon": 4.361976491473, 
+      "lat": 51.055138727471, 
+      "lon": 4.362067474032, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -857,11 +878,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "67-70"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.055041102999, 
-      "lon": 4.361976491473, 
+      "lat": 51.055030855623, 
+      "lon": 4.361976635431, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -895,11 +916,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "67-70"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.055041102999, 
-      "lon": 4.361976491473, 
+      "lat": 51.05492046721, 
+      "lon": 4.361893641963, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

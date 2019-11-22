@@ -287,8 +287,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.215783158866, 
-      "lon": 4.434634256115, 
+      "lat": 51.215784866098, 
+      "lon": 4.434635260372, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1212,8 +1212,10 @@
       "street": "Kattenberg"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "8"
@@ -1319,15 +1321,20 @@
       "street": "Kattenberg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.215526581995, 
-      "lon": 4.437986533787, 
+      "lat": 51.21552017991, 
+      "lon": 4.438020872111, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kattenberg"
     }, 
     {

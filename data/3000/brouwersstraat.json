@@ -882,9 +882,9 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
-        "0102", 
-        "0201"
+        "0102"
       ], 
       "hnrlbls": [
         "46"
@@ -1816,6 +1816,22 @@
       "street": "Brouwersstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "93C"
+      ], 
+      "housenumber": "93C", 
+      "lat": 50.88321160373, 
+      "lon": 4.692076457113, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwersstraat"
+    }, 
+    {
       "hnrlbls": [
         "94"
       ], 
@@ -1828,16 +1844,12 @@
       "street": "Brouwersstraat"
     }, 
     {
-      "apptnrs": [
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.88321160373, 
-      "lon": 4.692076457113, 
+      "lat": 50.883231879695, 
+      "lon": 4.691960781297, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

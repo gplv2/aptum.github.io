@@ -327,22 +327,27 @@
       "street": "Karel Van Overmeirelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.229348450338, 
-      "lon": 4.480833664331, 
+      "lat": 51.229299952903, 
+      "lon": 4.480886229433, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Karel Van Overmeirelaan"
     }, 
     {
@@ -358,18 +363,6 @@
       "housenumber": "28", 
       "lat": 51.229044280006, 
       "lon": 4.481026191787, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Karel Van Overmeirelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.229354209865, 
-      "lon": 4.480920575727, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -411,38 +404,25 @@
       "street": "Karel Van Overmeirelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "33", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.229363074907, 
-      "lon": 4.481049726557, 
+      "lat": 51.229316147124, 
+      "lon": 4.481058631823, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Karel Van Overmeirelaan"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "31_2"
-      ], 
-      "housenumber": "31_2", 
-      "lat": 51.229361727612, 
-      "lon": 4.481048721179, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Karel Van Overmeirelaan"
     }, 
     {
@@ -459,7 +439,7 @@
     }, 
     {
       "hnrlbls": [
-        "31-33"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.229363074907, 

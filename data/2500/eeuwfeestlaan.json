@@ -874,6 +874,26 @@
       "street": "Eeuwfeestlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "172"
+      ], 
+      "housenumber": "172", 
+      "lat": 51.138365545505, 
+      "lon": 4.566410574614, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Eeuwfeestlaan"
+    }, 
+    {
       "hnrlbls": [
         "173"
       ], 
@@ -1492,34 +1512,47 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "AB 1", 
-        "AB 2", 
-        "AB 3", 
-        "AB 4", 
-        "AB 5", 
-        "AB 6", 
-        "AB 7", 
-        "AB 8", 
-        "BB 1", 
-        "BB 2", 
-        "BB 3", 
-        "BB 4", 
-        "BB 5", 
-        "BB 6", 
-        "BB 7", 
-        "BB 8", 
-        "BB 9", 
-        "BB10", 
-        "BB11", 
-        "BB12"
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
-        "226"
+        "226A"
       ], 
-      "housenumber": "226", 
-      "lat": 51.13923015165, 
-      "lon": 4.570129777053, 
+      "housenumber": "226A", 
+      "lat": 51.138351776408, 
+      "lon": 4.569182252421, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Eeuwfeestlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "226B"
+      ], 
+      "housenumber": "226B", 
+      "lat": 51.138544391182, 
+      "lon": 4.569242663105, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1538,15 +1571,23 @@
       "street": "Eeuwfeestlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.138457943379, 
-      "lon": 4.56917613702, 
+      "lat": 51.139216581873, 
+      "lon": 4.570075422801, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eeuwfeestlaan"
     }, 
     {

@@ -13,6 +13,11 @@
       "street": "Reinpadstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU12"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -109,6 +114,11 @@
       "street": "Reinpadstraat"
     }, 
     {
+      "busnrs": [
+        "L00O", 
+        "R001", 
+        "R00O"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -130,6 +140,7 @@
         "BU06", 
         "BU07", 
         "BU08", 
+        "BU09", 
         "BU10", 
         "BU11", 
         "BU12", 
@@ -281,6 +292,7 @@
         "BU06", 
         "BU07", 
         "BU08", 
+        "BU09", 
         "BU10", 
         "BU11", 
         "BU12", 
@@ -592,8 +604,10 @@
         "BU04", 
         "BU05", 
         "BU06", 
+        "BU07", 
         "BU08", 
         "BU09", 
+        "BU10", 
         "BU11", 
         "BU12", 
         "BU13", 
@@ -736,6 +750,7 @@
     }, 
     {
       "busnrs": [
+        "BU03", 
         "BU04", 
         "BU05", 
         "BU06", 
@@ -749,6 +764,7 @@
         "BU14", 
         "BU15", 
         "BU16", 
+        "BU17", 
         "BU18"
       ], 
       "hnrlbls": [
@@ -908,7 +924,6 @@
     }, 
     {
       "busnrs": [
-        "17", 
         "BU02", 
         "BU03", 
         "BU04", 
@@ -920,9 +935,11 @@
         "BU10", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU14", 
         "BU15", 
-        "BU16"
+        "BU16", 
+        "BU17"
       ], 
       "hnrlbls": [
         "21"
@@ -1081,7 +1098,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "BU01"
       ], 
       "hnrlbls": [
         "26"
@@ -1108,6 +1125,7 @@
     }, 
     {
       "busnrs": [
+        "A006", 
         "BU01", 
         "BU02", 
         "BU03", 
@@ -1230,10 +1248,10 @@
     }, 
     {
       "busnrs": [
-        "BUL00", 
-        "BUL01", 
-        "BUR00", 
-        "BUR01"
+        "L001", 
+        "L00O", 
+        "R001", 
+        "R00O"
       ], 
       "hnrlbls": [
         "44"
@@ -1412,15 +1430,20 @@
       "street": "Reinpadstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.969771239696, 
-      "lon": 5.508166946054, 
+      "lat": 50.969922282332, 
+      "lon": 5.507850968874, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Reinpadstraat"
     }, 
     {
@@ -1670,6 +1693,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
@@ -1730,6 +1754,14 @@
       "street": "Reinpadstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "96"
       ], 
@@ -1744,7 +1776,8 @@
     {
       "busnrs": [
         "BU01", 
-        "BU11"
+        "BU11", 
+        "BU12"
       ], 
       "hnrlbls": [
         "98"

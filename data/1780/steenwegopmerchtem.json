@@ -2284,8 +2284,13 @@
       "street": "Steenweg op Merchtem"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0A", 
+        "0B", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B"
       ], 
       "hnrlbls": [
         "34"
@@ -2308,18 +2313,6 @@
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
-      "street": "Steenweg op Merchtem"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.908591908026, 
-      "lon": 4.304633293356, 
-      "municipality": "Wemmel", 
-      "pcode": "1780", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Steenweg op Merchtem"
     }, 
     {
@@ -3028,6 +3021,23 @@
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Merchtem"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.909680438838, 
+      "lon": 4.301563493992, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenweg op Merchtem"
     }, 
     {

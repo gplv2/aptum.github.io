@@ -344,11 +344,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.129059479054, 
-      "lon": 4.390690277984, 
+      "lat": 51.129050995685, 
+      "lon": 4.390866838227, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapellestraat"
     }, 
     {
@@ -749,8 +749,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.127858745308, 
-      "lon": 4.390339433664, 
+      "lat": 51.12786279071, 
+      "lon": 4.390336864333, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -791,11 +791,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.127721081036, 
-      "lon": 4.390588208107, 
+      "lat": 51.127809591272, 
+      "lon": 4.390264272376, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -2141,7 +2141,11 @@
     {
       "busnrs": [
         "A", 
-        "B"
+        "B1", 
+        "B2", 
+        "C1", 
+        "C2", 
+        "D"
       ], 
       "hnrlbls": [
         "53"

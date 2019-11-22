@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-16A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.207810328062, 
-      "lon": 4.403075093374, 
+      "lat": 51.207860122189, 
+      "lon": 4.403081140655, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Paleisstraat"
     }, 
     {
@@ -514,6 +514,11 @@
       "street": "Paleisstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "132"
       ], 

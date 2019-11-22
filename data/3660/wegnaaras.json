@@ -505,36 +505,44 @@
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.029867762156, 
-      "lon": 5.582327999384, 
+      "lat": 51.029927606665, 
+      "lon": 5.582348370479, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar As"
     }, 
     {
-      "busnrs": [
-        "B"
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
-        "139_2"
+        "139A"
       ], 
-      "housenumber": "139_2", 
-      "lat": 51.029881124581, 
-      "lon": 5.582392216365, 
+      "housenumber": "139A", 
+      "lat": 51.029868294286, 
+      "lon": 5.582337422663, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar As"
+    }, 
+    {
+      "hnrlbls": [
+        "139B"
+      ], 
+      "housenumber": "139B", 
+      "lat": 51.029846589153, 
+      "lon": 5.582323743484, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar As"
     }, 
     {

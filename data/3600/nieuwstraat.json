@@ -42,19 +42,20 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU04", 
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU14", 
-        "BU22", 
-        "BU23", 
-        "BU24", 
-        "BU31", 
-        "BU32"
+        "B01", 
+        "B02", 
+        "B03", 
+        "B04", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B14", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B24", 
+        "B31", 
+        "B32"
       ], 
       "hnrlbls": [
         "100A"
@@ -89,7 +90,8 @@
         "BU13", 
         "BU21", 
         "BU22", 
-        "BU23"
+        "BU23", 
+        "BU31"
       ], 
       "hnrlbls": [
         "102"
@@ -118,9 +120,11 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU03", 
         "BU11", 
         "BU12", 
-        "BU13"
+        "BU13", 
+        "BU21"
       ], 
       "hnrlbls": [
         "104"
@@ -436,18 +440,6 @@
     }, 
     {
       "hnrlbls": [
-        "143"
-      ], 
-      "housenumber": "143", 
-      "lat": 50.953930584418, 
-      "lon": 5.499792735623, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
         "144"
       ], 
       "housenumber": "144", 
@@ -460,9 +452,9 @@
     }, 
     {
       "hnrlbls": [
-        "145"
+        "147"
       ], 
-      "housenumber": "145", 
+      "housenumber": "147", 
       "lat": 50.953839250823, 
       "lon": 5.499427721537, 
       "municipality": "Genk", 
@@ -804,6 +796,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU04", 
@@ -952,6 +945,28 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.962437138407, 
+      "lon": 5.497729976025, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "33"
       ], 
@@ -989,6 +1004,7 @@
     }, 
     {
       "busnrs": [
+        "BU02", 
         "BU11", 
         "BU21", 
         "BU31"
@@ -1578,6 +1594,23 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03"
+      ], 
+      "hnrlbls": [
+        "96A"
+      ], 
+      "housenumber": "96A", 
+      "lat": 50.959741863493, 
+      "lon": 5.498851973636, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "97"
       ], 
@@ -1591,6 +1624,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03", 
         "BU11", 
@@ -1611,16 +1645,16 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU03", 
-        "BU11", 
-        "BU12", 
-        "BU13", 
-        "BU21", 
-        "BU22", 
-        "BU23", 
-        "BU31"
+        "B01", 
+        "B02", 
+        "B03", 
+        "B11", 
+        "B12", 
+        "B13", 
+        "B21", 
+        "B22", 
+        "B23", 
+        "B31"
       ], 
       "hnrlbls": [
         "98A"

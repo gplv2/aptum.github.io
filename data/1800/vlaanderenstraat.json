@@ -697,9 +697,11 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "67"
@@ -873,6 +875,10 @@
       "street": "Vlaanderenstraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "00/2"
+      ], 
       "hnrlbls": [
         "93"
       ], 

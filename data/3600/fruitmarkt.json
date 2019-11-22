@@ -6,14 +6,14 @@
         "BU02"
       ], 
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.965438506251, 
-      "lon": 5.499705060727, 
+      "lat": 50.9654008755, 
+      "lon": 5.499710416686, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fruitmarkt"
     }, 
     {
@@ -46,6 +46,7 @@
         "BU12", 
         "BU13", 
         "BU21", 
+        "BU22", 
         "BU23", 
         "BU31", 
         "BU32", 
@@ -112,7 +113,7 @@
     }, 
     {
       "busnrs": [
-        "11", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
@@ -143,18 +144,25 @@
       "street": "Fruitmarkt"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.965438506251, 
-      "lon": 5.499705060727, 
+      "lat": 50.965477672672, 
+      "lon": 5.499708284, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fruitmarkt"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -200,9 +208,8 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21", 
-        "32"
+        "BU11", 
+        "BU32"
       ], 
       "hnrlbls": [
         "5"

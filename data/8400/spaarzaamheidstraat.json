@@ -464,17 +464,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.215652667826, 
-      "lon": 2.899129590512, 
+      "lat": 51.21567486165, 
+      "lon": 2.899179278294, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spaarzaamheidstraat"
     }, 
     {
@@ -1088,11 +1089,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.218963277737, 
-      "lon": 2.90051810599, 
+      "lat": 51.218979156801, 
+      "lon": 2.900421262942, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spaarzaamheidstraat"
     }, 
     {
@@ -1383,19 +1384,15 @@
       "street": "Spaarzaamheidstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "2"
-      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.218620751131, 
-      "lon": 2.900011100023, 
+      "lat": 51.218616449209, 
+      "lon": 2.90005561315, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spaarzaamheidstraat"
     }, 
     {
@@ -1411,10 +1408,6 @@
       "street": "Spaarzaamheidstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1439,11 +1432,6 @@
       "street": "Spaarzaamheidstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1474,9 +1462,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "0201"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "58A"
@@ -1637,20 +1627,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.219807566157, 
-      "lon": 2.900136213899, 
+      "lat": 51.219779113486, 
+      "lon": 2.90039336138, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spaarzaamheidstraat"
     }, 
     {
@@ -1685,20 +1672,17 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0003", 
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.217778843698, 
-      "lon": 2.900172027398, 
+      "lat": 51.21778930536, 
+      "lon": 2.900087811408, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spaarzaamheidstraat"
     }, 
     {
@@ -1731,9 +1715,6 @@
       "street": "Spaarzaamheidstraat"
     }, 
     {
-      "busnrs": [
-        "0001"
-      ], 
       "hnrlbls": [
         "75"
       ], 

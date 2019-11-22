@@ -127,8 +127,12 @@
       "street": "Minneplein"
     }, 
     {
+      "apptnrs": [
+        "1A", 
+        "1B"
+      ], 
       "hnrlbls": [
-        "16"
+        "16-16A"
       ], 
       "housenumber": "16", 
       "lat": 50.85310877244, 
@@ -136,6 +140,18 @@
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Minneplein"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.853069571543, 
+      "lon": 2.882419485622, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minneplein"
     }, 
     {

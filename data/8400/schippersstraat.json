@@ -157,6 +157,7 @@
         "0102", 
         "0201", 
         "0202", 
+        "0301", 
         "0401", 
         "0402", 
         "0501"
@@ -256,19 +257,26 @@
       "street": "Schippersstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.233967435931, 
-      "lon": 2.919945975533, 
+      "lat": 51.233988166402, 
+      "lon": 2.919979699506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schippersstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -282,7 +290,8 @@
         "0303", 
         "0304", 
         "0401", 
-        "0402"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "3"
@@ -299,17 +308,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "1"
+        "0301"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.233365913202, 
-      "lon": 2.920790632114, 
+      "lat": 51.233309144513, 
+      "lon": 2.920662370932, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schippersstraat"
     }, 
     {
@@ -415,6 +424,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
@@ -439,9 +450,6 @@
       "street": "Schippersstraat"
     }, 
     {
-      "busnrs": [
-        "0001"
-      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -467,14 +475,14 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0402"
       ], 
       "hnrlbls": [
         "40"
@@ -831,17 +839,18 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.233874687416, 
-      "lon": 2.920102510649, 
+      "lat": 51.233854151688, 
+      "lon": 2.920055319871, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schippersstraat"
     }, 
     {

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -9,7 +12,7 @@
       "lon": 5.385936879903, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -269,8 +272,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.85807493232, 
-      "lon": 5.385785927203, 
+      "lat": 50.858074833809, 
+      "lon": 5.385786919357, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +368,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.869190239416, 
-      "lon": 5.373727599104, 
+      "lat": 50.869190243068, 
+      "lon": 5.373727172959, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
@@ -1362,8 +1365,8 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 50.859357065767, 
-      "lon": 5.383812424045, 
+      "lat": 50.859357458396, 
+      "lon": 5.383798228045, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1468,8 +1471,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.859953967055, 
-      "lon": 5.383081427949, 
+      "lat": 50.859956324808, 
+      "lon": 5.383068694676, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1509,18 +1512,6 @@
     }, 
     {
       "hnrlbls": [
-        "45D-47B"
-      ], 
-      "housenumber": "45D", 
-      "lat": 50.860822913995, 
-      "lon": 5.383067242004, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hasseltsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -1549,30 +1540,6 @@
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Hasseltsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "45D-47B"
-      ], 
-      "housenumber": "47A", 
-      "lat": 50.860822913995, 
-      "lon": 5.383067242004, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hasseltsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "45D-47B"
-      ], 
-      "housenumber": "47B", 
-      "lat": 50.860822913995, 
-      "lon": 5.383067242004, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -1625,8 +1592,8 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 50.86043945123, 
-      "lon": 5.382612928211, 
+      "lat": 50.860439815689, 
+      "lon": 5.382612367887, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
@@ -1673,8 +1640,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.860613711897, 
-      "lon": 5.382474499853, 
+      "lat": 50.860614163785, 
+      "lon": 5.382474225511, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
@@ -2058,8 +2025,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.862966682123, 
-      "lon": 5.380514924059, 
+      "lat": 50.862960730421, 
+      "lon": 5.380527438774, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanPerceelGrb", 

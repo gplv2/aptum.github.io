@@ -188,14 +188,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "399-401"
+        "399"
       ], 
       "housenumber": "399", 
-      "lat": 50.889917689702, 
-      "lon": 4.264714818554, 
+      "lat": 50.88991039766, 
+      "lon": 4.264600708923, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -208,14 +208,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "399-401"
+        "401"
       ], 
       "housenumber": "401", 
-      "lat": 50.889917689702, 
-      "lon": 4.264714818554, 
+      "lat": 50.889865267687, 
+      "lon": 4.2648013453, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -228,18 +228,6 @@
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "404A"
-      ], 
-      "housenumber": "404A", 
-      "lat": 50.895037445034, 
-      "lon": 4.240675548223, 
-      "municipality": "Asse", 
-      "pcode": "1731", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -418,8 +406,7 @@
     {
       "busnrs": [
         "0001", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "427"
@@ -435,17 +422,18 @@
     {
       "busnrs": [
         "001", 
-        "101"
+        "101", 
+        "ZN"
       ], 
       "hnrlbls": [
         "427A"
       ], 
       "housenumber": "427A", 
-      "lat": 50.888711534228, 
-      "lon": 4.267665762467, 
+      "lat": 50.888697604945, 
+      "lon": 4.267565739444, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -753,8 +741,8 @@
         "464"
       ], 
       "housenumber": "464", 
-      "lat": 50.890777000895, 
-      "lon": 4.25248547719, 
+      "lat": 50.891249175476, 
+      "lon": 4.253730779608, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -1525,8 +1513,8 @@
         "539"
       ], 
       "housenumber": "539", 
-      "lat": 50.883653227922, 
-      "lon": 4.276050264133, 
+      "lat": 50.88356571549, 
+      "lon": 4.27610713542, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -1537,11 +1525,11 @@
         "541"
       ], 
       "housenumber": "541", 
-      "lat": 50.883245776193, 
-      "lon": 4.277254540528, 
+      "lat": 50.883215495794, 
+      "lon": 4.277388887199, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2397,7 +2385,7 @@
       "lon": 4.275637848463, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2432,14 +2420,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "632"
+        "632-636"
       ], 
       "housenumber": "632", 
-      "lat": 50.883089365203, 
-      "lon": 4.275877149842, 
+      "lat": 50.883013715966, 
+      "lon": 4.275930302818, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2456,14 +2444,14 @@
     }, 
     {
       "hnrlbls": [
-        "634"
+        "632-636"
       ], 
       "housenumber": "634", 
-      "lat": 50.883097973639, 
-      "lon": 4.27596438449, 
+      "lat": 50.883013715966, 
+      "lon": 4.275930302818, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2492,7 +2480,7 @@
         "3VL"
       ], 
       "hnrlbls": [
-        "636"
+        "632-636"
       ], 
       "housenumber": "636", 
       "lat": 50.883013715966, 
@@ -3431,26 +3419,14 @@
     }, 
     {
       "hnrlbls": [
-        "732-738A"
+        "732"
       ], 
       "housenumber": "732", 
-      "lat": 50.880328324054, 
-      "lon": 4.278041987705, 
+      "lat": 50.88038541075, 
+      "lon": 4.277812820714, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "732-738A"
-      ], 
-      "housenumber": "738A", 
-      "lat": 50.880328324054, 
-      "lon": 4.278041987705, 
-      "municipality": "Asse", 
-      "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3568,11 +3544,11 @@
         "2-754"
       ], 
       "housenumber": "754", 
-      "lat": 50.878023031606, 
-      "lon": 4.281208008314, 
+      "lat": 50.878030935781, 
+      "lon": 4.281199184235, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3807,8 +3783,8 @@
         "788"
       ], 
       "housenumber": "788", 
-      "lat": 50.877193924666, 
-      "lon": 4.282663077087, 
+      "lat": 50.877218073484, 
+      "lon": 4.282741606573, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -3871,8 +3847,8 @@
         "798"
       ], 
       "housenumber": "798", 
-      "lat": 50.876950911693, 
-      "lon": 4.282500689584, 
+      "lat": 50.876877797065, 
+      "lon": 4.282458907776, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -4277,25 +4253,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "101", 
-        "102", 
-        "103", 
-        "1L", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "2L", 
-        "3", 
-        "301", 
-        "302", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "GV"
+        "0001", 
+        "001R", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "850"

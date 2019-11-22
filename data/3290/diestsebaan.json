@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "A001", 
+        "B001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.999623832381, 
-      "lon": 5.083614737265, 
+      "lat": 50.999749096208, 
+      "lon": 5.083578612563, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diestsebaan"
     }, 
     {
@@ -233,8 +237,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.996549202183, 
-      "lon": 5.072552103749, 
+      "lat": 50.996550115552, 
+      "lon": 5.072549695766, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -478,39 +482,8 @@
       "street": "Diestsebaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.999659219328, 
-      "lon": 5.083546040459, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Diestsebaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.999730002877, 
-      "lon": 5.083525324467, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Diestsebaan"
-    }, 
-    {
       "apptnrs": [
-        "2", 
-        "A1"
+        "0001"
       ], 
       "hnrlbls": [
         "2"
@@ -650,15 +623,23 @@
       "street": "Diestsebaan"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "B001"
+      ], 
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.999597082906, 
-      "lon": 5.083371713709, 
+      "lat": 50.999571622761, 
+      "lon": 5.083419335104, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diestsebaan"
     }, 
     {
@@ -710,36 +691,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Diestsebaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.999577138252, 
-      "lon": 5.083384515822, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Diestsebaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.99956688544, 
-      "lon": 5.083355724177, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Diestsebaan"
     }, 
     {
@@ -879,8 +830,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.998338092844, 
-      "lon": 5.078848637387, 
+      "lat": 50.998330342314, 
+      "lon": 5.078866754607, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

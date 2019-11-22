@@ -249,27 +249,15 @@
       "street": "Putstraat"
     }, 
     {
-      "hnrlbls": [
-        "27-27B"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.77899203411, 
-      "lon": 5.461911212342, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Putstraat"
-    }, 
-    {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "27-27B"
+        "27"
       ], 
-      "housenumber": "27B", 
+      "housenumber": "27", 
       "lat": 50.77899203411, 
       "lon": 5.461911212342, 
       "municipality": "Tongeren", 
@@ -437,28 +425,13 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "35-35B"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.778917998686, 
-      "lon": 5.461588447112, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Putstraat"
-    }, 
-    {
-      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "35-35B"
+        "35"
       ], 
-      "housenumber": "35B", 
+      "housenumber": "35", 
       "lat": 50.778917998686, 
       "lon": 5.461588447112, 
       "municipality": "Tongeren", 
@@ -693,8 +666,12 @@
       "street": "Putstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "57-57b"
+        "57"
       ], 
       "housenumber": "57", 
       "lat": 50.778551104598, 
@@ -702,22 +679,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Putstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "57-57b"
-      ], 
-      "housenumber": "57b", 
-      "lat": 50.778551104598, 
-      "lon": 5.460758600335, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Putstraat"
     }, 
     {

@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.066369792146, 
+      "lon": 4.359824418374, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Veert"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -61,15 +77,24 @@
       "street": "Veert"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.066531959011, 
-      "lon": 4.35992739072, 
+      "lat": 51.066574570788, 
+      "lon": 4.359991437943, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veert"
     }, 
     {

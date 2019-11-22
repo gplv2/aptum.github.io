@@ -344,9 +344,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "31-31A"
@@ -820,20 +820,27 @@
       "street": "Jozef Plateaustraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "81-81A"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.046316658559, 
-      "lon": 3.726671838633, 
+      "lat": 51.0463189296, 
+      "lon": 3.726527634625, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Plateaustraat"
     }, 
     {
       "hnrlbls": [
-        "81-81A"
+        "81A"
       ], 
       "housenumber": "81A", 
       "lat": 51.046316658559, 

@@ -49,6 +49,11 @@
       "street": "Tarwestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -173,11 +178,23 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.06112514757, 
-      "lon": 3.717296485682, 
+      "lat": 51.061126779536, 
+      "lon": 3.717331554768, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tarwestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.061122139661, 
+      "lon": 3.717272705049, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -197,11 +214,23 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.061116131898, 
-      "lon": 3.717177784046, 
+      "lat": 51.061117590431, 
+      "lon": 3.71721399673, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tarwestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.06111293789, 
+      "lon": 3.717152864818, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tarwestraat"
     }, 
     {
@@ -774,6 +803,11 @@
       "street": "Tarwestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "69"
       ], 

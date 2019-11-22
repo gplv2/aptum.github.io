@@ -614,15 +614,23 @@
       "street": "J. Bruyndonckxstraat"
     }, 
     {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B"
+      ], 
       "hnrlbls": [
-        "3-95"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.907038396321, 
-      "lon": 4.300965263595, 
+      "lat": 50.906952163723, 
+      "lon": 4.300922165444, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "J. Bruyndonckxstraat"
     }, 
     {
@@ -721,18 +729,6 @@
     }, 
     {
       "hnrlbls": [
-        "3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.907056378276, 
-      "lon": 4.300970924933, 
-      "municipality": "Wemmel", 
-      "pcode": "1780", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "J. Bruyndonckxstraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -781,7 +777,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-95"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 50.907038396321, 

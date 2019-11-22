@@ -281,11 +281,11 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 50.942294004238, 
-      "lon": 5.459367549711, 
+      "lat": 50.942288939263, 
+      "lon": 5.459409552092, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mee\u00ebnheide"
     }, 
     {
@@ -446,9 +446,9 @@
     }, 
     {
       "busnrs": [
-        "21", 
         "BU01", 
-        "BU11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "146"
@@ -582,6 +582,14 @@
       "street": "Mee\u00ebnheide"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13"
+      ], 
       "hnrlbls": [
         "18"
       ], 

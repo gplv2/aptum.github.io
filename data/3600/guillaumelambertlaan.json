@@ -153,18 +153,6 @@
     }, 
     {
       "hnrlbls": [
-        "115"
-      ], 
-      "housenumber": "115", 
-      "lat": 51.005439074197, 
-      "lon": 5.494512925849, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guillaume Lambertlaan"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -300,11 +288,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.000473421067, 
-      "lon": 5.496404004988, 
+      "lat": 51.000479268397, 
+      "lon": 5.496122328647, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guillaume Lambertlaan"
     }, 
     {
@@ -324,11 +312,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.000585049117, 
-      "lon": 5.496294564812, 
+      "lat": 51.000553871632, 
+      "lon": 5.496086368857, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guillaume Lambertlaan"
     }, 
     {
@@ -612,6 +600,10 @@
       "street": "Guillaume Lambertlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -642,7 +634,10 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
+        "BU02", 
         "BU11", 
+        "BU12", 
         "BU13", 
         "BU21", 
         "BU22"
@@ -713,8 +708,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "64"
@@ -769,6 +764,10 @@
       "street": "Guillaume Lambertlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -806,6 +805,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU11"
       ], 
@@ -881,6 +881,20 @@
       "street": "Guillaume Lambertlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05", 
+        "BU06", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -906,9 +920,14 @@
     }, 
     {
       "busnrs": [
-        "12", 
-        "14", 
-        "2"
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15"
       ], 
       "hnrlbls": [
         "78"
@@ -952,18 +971,6 @@
       "housenumber": "81", 
       "lat": 51.003906116776, 
       "lon": 5.495494697839, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guillaume Lambertlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 51.004903876193, 
-      "lon": 5.495969405178, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

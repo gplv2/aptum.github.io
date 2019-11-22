@@ -13,15 +13,19 @@
       "street": "Toekomststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0301"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.223331785228, 
-      "lon": 2.907882169127, 
+      "lat": 51.223390721259, 
+      "lon": 2.908010033527, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Toekomststraat"
     }, 
     {
@@ -41,6 +45,7 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0001", 
         "0101", 
         "0201"
@@ -49,8 +54,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.223303452668, 
-      "lon": 2.908026653912, 
+      "lat": 51.223324881604, 
+      "lon": 2.908080243451, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -139,8 +144,6 @@
     }, 
     {
       "busnrs": [
-        "0006", 
-        "0012", 
         "0101", 
         "0102", 
         "0201", 
@@ -154,8 +157,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.223716103573, 
-      "lon": 2.907604839338, 
+      "lat": 51.223718363771, 
+      "lon": 2.907634977226, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -186,10 +189,6 @@
     }, 
     {
       "busnrs": [
-        "0002", 
-        "0003", 
-        "0005", 
-        "0006", 
         "0101", 
         "0102", 
         "0201", 
@@ -203,8 +202,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.22354783218, 
-      "lon": 2.90781054689, 
+      "lat": 51.223579358819, 
+      "lon": 2.90779366766, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -212,15 +211,17 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
-        "2"
+        "0401"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.223569516957, 
-      "lon": 2.908110521921, 
+      "lat": 51.223555045126, 
+      "lon": 2.908067022351, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

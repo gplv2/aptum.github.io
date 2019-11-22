@@ -13,67 +13,37 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "12A1", 
+        "12A2", 
+        "12A3", 
+        "12A4", 
+        "12B", 
+        "12B1", 
+        "12B2", 
+        "12B3", 
+        "12B4", 
+        "12C", 
+        "12C1", 
+        "12C2", 
+        "12C3", 
+        "12D", 
+        "12D1", 
+        "12D2", 
+        "12D3"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "12A"
       ], 
       "hnrlbls": [
-        "12A-12D"
+        "12"
       ], 
-      "housenumber": "12A", 
-      "lat": 50.99205742803, 
-      "lon": 5.050263365897, 
+      "housenumber": "12", 
+      "lat": 50.99253615961, 
+      "lon": 5.050488840433, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "12A-12D"
-      ], 
-      "housenumber": "12B", 
-      "lat": 50.99205742803, 
-      "lon": 5.050263365897, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "12A-12D"
-      ], 
-      "housenumber": "12C", 
-      "lat": 50.99205742803, 
-      "lon": 5.050263365897, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "12A-12D"
-      ], 
-      "housenumber": "12D", 
-      "lat": 50.99205742803, 
-      "lon": 5.050263365897, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -259,23 +229,11 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.991988530069, 
-      "lon": 5.048500385429, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "25-25BIS"
       ], 
       "housenumber": "25", 
-      "lat": 50.992998561378, 
-      "lon": 5.04813216646, 
+      "lat": 50.992995595094, 
+      "lon": 5.04813212341, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +244,8 @@
         "25-25BIS"
       ], 
       "housenumber": "25BIS", 
-      "lat": 50.992998561378, 
-      "lon": 5.04813216646, 
+      "lat": 50.992995595094, 
+      "lon": 5.04813212341, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -386,8 +344,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.993258304121, 
-      "lon": 5.047487961182, 
+      "lat": 50.993213820317, 
+      "lon": 5.047469938108, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

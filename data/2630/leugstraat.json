@@ -13,12 +13,20 @@
       "street": "Leugstraat"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2", 
+        "C1", 
+        "C2"
+      ], 
       "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.129543066207, 
-      "lon": 4.382026054027, 
+      "lat": 51.129517901218, 
+      "lon": 4.381997618789, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -37,12 +45,19 @@
       "street": "Leugstraat"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2", 
+        "C"
+      ], 
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.129493353398, 
-      "lon": 4.382070894935, 
+      "lat": 51.129429619581, 
+      "lon": 4.382104160472, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -58,18 +73,6 @@
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Leugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "104"
-      ], 
-      "housenumber": "104", 
-      "lat": 51.129344848962, 
-      "lon": 4.382164561518, 
-      "municipality": "Aartselaar", 
-      "pcode": "2630", 
-      "source": "afgeleidVanGebouw", 
       "street": "Leugstraat"
     }, 
     {
@@ -1983,7 +1986,7 @@
       "lon": 4.37995433599, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leugstraat"
     }, 
     {

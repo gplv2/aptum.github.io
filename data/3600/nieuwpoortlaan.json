@@ -73,15 +73,39 @@
       "street": "Nieuwpoortlaan"
     }, 
     {
-      "hnrlbls": [
-        "15"
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11"
       ], 
-      "housenumber": "15", 
-      "lat": 50.925140724222, 
-      "lon": 5.533710659127, 
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.925094664311, 
+      "lon": 5.533550481641, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Nieuwpoortlaan"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11"
+      ], 
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.925033842812, 
+      "lon": 5.533718245967, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwpoortlaan"
     }, 
     {

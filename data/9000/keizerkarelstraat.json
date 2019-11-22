@@ -99,8 +99,13 @@
       "street": "Keizer Karelstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "108-110"
+        "108"
       ], 
       "housenumber": "108", 
       "lat": 51.052568059419, 
@@ -148,18 +153,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizer Karelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "108-110"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.052568059419, 
-      "lon": 3.731823999123, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Keizer Karelstraat"
     }, 
     {
@@ -694,7 +687,7 @@
         "0101", 
         "0102", 
         "0201", 
-        "0202"
+        "0301"
       ], 
       "hnrlbls": [
         "142"

@@ -13,6 +13,10 @@
       "street": "Fransebosstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -290,7 +294,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "44"
@@ -450,7 +455,7 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02"
+        "BU11"
       ], 
       "hnrlbls": [
         "59"
@@ -465,7 +470,9 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
+        "BU03", 
         "BU04", 
         "BU05"
       ], 

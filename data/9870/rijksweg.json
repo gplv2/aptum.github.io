@@ -221,6 +221,23 @@
       "street": "Rijksweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "115A"
+      ], 
+      "housenumber": "115A", 
+      "lat": 50.953237637219, 
+      "lon": 3.491350527358, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
       "hnrlbls": [
         "117"
       ], 
@@ -863,7 +880,7 @@
       "lon": 3.485708788305, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rijksweg"
     }, 
     {

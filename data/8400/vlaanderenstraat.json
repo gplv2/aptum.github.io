@@ -54,10 +54,6 @@
       "street": "Vlaanderenstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -94,6 +90,21 @@
     }, 
     {
       "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.233112564497, 
+      "lon": 2.916191402229, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vlaanderenstraat"
+    }, 
+    {
+      "busnrs": [
         "0301", 
         "3", 
         "4", 
@@ -112,10 +123,10 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
-        "3", 
-        "4", 
-        "5"
+        "0401"
       ], 
       "hnrlbls": [
         "23"
@@ -205,40 +216,47 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
+        "0301", 
+        "0401", 
         "0501", 
-        "1", 
-        "6"
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.233726261201, 
-      "lon": 2.915645168004, 
+      "lat": 51.233704021711, 
+      "lon": 2.9155911588, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vlaanderenstraat"
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
         "0701", 
-        "0801", 
-        "3", 
-        "5", 
-        "7", 
-        "8"
+        "0801"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.233778645437, 
-      "lon": 2.915606303691, 
+      "lat": 51.233758058686, 
+      "lon": 2.915555106933, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vlaanderenstraat"
     }, 
     {
@@ -277,16 +295,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
         "0301", 
+        "0401", 
         "0501", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "39"
@@ -324,62 +340,6 @@
       "street": "Vlaanderenstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204", 
-        "0301", 
-        "0302", 
-        "0303", 
-        "0304", 
-        "0401", 
-        "0402", 
-        "0403", 
-        "0404", 
-        "0501", 
-        "0502", 
-        "0503", 
-        "0504", 
-        "0601", 
-        "0602", 
-        "0603", 
-        "0604", 
-        "0701", 
-        "0702", 
-        "0703", 
-        "0704", 
-        "0801", 
-        "0802", 
-        "0803", 
-        "0804", 
-        "0901", 
-        "0902", 
-        "0903", 
-        "0904", 
-        "1001", 
-        "1002", 
-        "1003", 
-        "1004", 
-        "1101", 
-        "1102"
-      ], 
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 51.233978894246, 
-      "lon": 2.915316813073, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vlaanderenstraat"
-    }, 
-    {
       "hnrlbls": [
         "44"
       ], 
@@ -394,12 +354,6 @@
     {
       "busnrs": [
         "0001", 
-        "0006", 
-        "0014", 
-        "0016", 
-        "0018", 
-        "0021", 
-        "0023", 
         "0101", 
         "0102", 
         "0103", 
@@ -414,60 +368,35 @@
         "0304", 
         "0401", 
         "0402", 
-        "0403", 
-        "0404", 
         "0501", 
         "0502", 
         "0503", 
-        "0504", 
         "0601", 
         "0602", 
         "0603", 
-        "0604", 
-        "0701", 
-        "0702", 
-        "0703", 
-        "0704", 
-        "0801", 
-        "0802", 
-        "0803", 
-        "0804", 
-        "0901", 
-        "0902", 
-        "0903", 
-        "0904", 
-        "1001", 
-        "1002", 
-        "1003"
+        "0701"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.234049907956, 
-      "lon": 2.915242999357, 
+      "lat": 51.234013021461, 
+      "lon": 2.915277371638, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Vlaanderenstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0202", 
-        "0401", 
-        "0402"
-      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.232544509147, 
-      "lon": 2.91636933286, 
+      "lat": 51.232563398892, 
+      "lon": 2.916414137666, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vlaanderenstraat"
     }, 
     {
@@ -610,10 +539,14 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "5", 
-        "6", 
-        "7"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "72"
@@ -712,11 +645,11 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.2324968459, 
-      "lon": 2.916734248247, 
+      "lat": 51.23247952441, 
+      "lon": 2.916692688048, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vlaanderenstraat"
     }, 
     {

@@ -2,14 +2,16 @@
   "addresses": [
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.217549536088, 
-      "lon": 2.902573008595, 
+      "lat": 51.217560859655, 
+      "lon": 2.902471159013, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -65,17 +67,15 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.217566832938, 
-      "lon": 2.901974095928, 
+      "lat": 51.217537532561, 
+      "lon": 2.902010947995, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -138,7 +138,7 @@
       "lon": 2.902549100638, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Conscienceplein"
     }, 
     {

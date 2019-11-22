@@ -36,7 +36,18 @@
     }, 
     {
       "busnrs": [
-        "51"
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32", 
+        "BU33", 
+        "BU41", 
+        "BU42", 
+        "BU51"
       ], 
       "hnrlbls": [
         "101"
@@ -50,6 +61,16 @@
       "street": "Stadsplein"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -62,6 +83,15 @@
       "street": "Stadsplein"
     }, 
     {
+      "busnrs": [
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -219,26 +249,26 @@
     }, 
     {
       "hnrlbls": [
-        "28-40"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.964852581115, 
-      "lon": 5.496181414416, 
+      "lat": 50.964917928443, 
+      "lon": 5.496885144617, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stadsplein"
     }, 
     {
       "hnrlbls": [
-        "29-36"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
+      "lat": 50.964924492236, 
+      "lon": 5.496725850717, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stadsplein"
     }, 
     {
@@ -255,83 +285,11 @@
     }, 
     {
       "hnrlbls": [
-        "29-36"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "29-36"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "29-36"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "29-36"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "29-36"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "29-36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.964864064108, 
-      "lon": 5.496183968596, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stadsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.964776680831, 
-      "lon": 5.49553708442, 
+      "lat": 50.964931816861, 
+      "lon": 5.496618396974, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -339,14 +297,74 @@
     }, 
     {
       "hnrlbls": [
-        "28-40"
+        "31"
       ], 
-      "housenumber": "40", 
-      "lat": 50.964852581115, 
-      "lon": 5.496181414416, 
+      "housenumber": "31", 
+      "lat": 50.964935270734, 
+      "lon": 5.496520815785, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stadsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.964940154981, 
+      "lon": 5.49640533066, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stadsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.964943436579, 
+      "lon": 5.496325683644, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stadsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.965031247549, 
+      "lon": 5.495831501585, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stadsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.964685971177, 
+      "lon": 5.495536896202, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stadsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.964888375813, 
+      "lon": 5.495505175097, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stadsplein"
     }
   ]

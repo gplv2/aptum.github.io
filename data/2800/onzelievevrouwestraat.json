@@ -68,11 +68,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.022552901677, 
-      "lon": 4.481241976501, 
+      "lat": 51.022554068605, 
+      "lon": 4.481243689642, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Onze-Lieve-Vrouwestraat"
     }, 
     {
@@ -559,11 +559,27 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.024658447611, 
-      "lon": 4.477487612281, 
+      "lat": 51.024610741768, 
+      "lon": 4.477362926998, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Onze-Lieve-Vrouwestraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.024595617064, 
+      "lon": 4.477387834955, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Onze-Lieve-Vrouwestraat"
     }, 
     {
@@ -1648,12 +1664,6 @@
       "street": "Onze-Lieve-Vrouwestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "96"
       ], 

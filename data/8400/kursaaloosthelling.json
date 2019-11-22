@@ -2,7 +2,6 @@
   "addresses": [
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301", 
@@ -23,9 +22,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
         "0101", 
         "0102", 
         "0201", 
@@ -37,7 +33,9 @@
         "0501", 
         "0502", 
         "0601", 
-        "0602"
+        "0602", 
+        "0701", 
+        "0702"
       ], 
       "hnrlbls": [
         "10"
@@ -54,6 +52,7 @@
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0004", 
         "0101", 
         "0102", 
@@ -70,11 +69,9 @@
         "0401", 
         "0402", 
         "0403", 
-        "0404", 
         "0501", 
         "0502", 
         "0503", 
-        "0504", 
         "0601", 
         "0602", 
         "0603", 
@@ -82,14 +79,15 @@
         "0701", 
         "0702", 
         "0703", 
-        "0704"
+        "0704", 
+        "0801"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.232514641955, 
-      "lon": 2.912484212159, 
+      "lat": 51.232472618114, 
+      "lon": 2.912429821309, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -165,51 +163,65 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
         "0401", 
+        "0501", 
         "0601", 
-        "1", 
-        "2"
+        "0701"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.232134527028, 
-      "lon": 2.913045521013, 
+      "lat": 51.232119015694, 
+      "lon": 2.912997748585, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Oosthelling"
     }, 
     {
       "busnrs": [
-        "0501", 
-        "6"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.232171346015, 
-      "lon": 2.912998406092, 
+      "lat": 51.23215372543, 
+      "lon": 2.91295456575, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Oosthelling"
     }, 
     {
       "busnrs": [
-        "5"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.232206277792, 
-      "lon": 2.912951350012, 
+      "lat": 51.232185894235, 
+      "lon": 2.912909457446, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Oosthelling"
     }, 
     {
@@ -243,21 +255,31 @@
     }, 
     {
       "busnrs": [
-        "003B", 
+        "0001", 
+        "0101", 
         "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
         "0602", 
-        "1B", 
-        "3B"
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.23229647593, 
-      "lon": 2.912807486791, 
+      "lat": 51.232277368038, 
+      "lon": 2.912774289287, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kursaal-Oosthelling"
     }
   ]

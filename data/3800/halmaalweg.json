@@ -683,18 +683,6 @@
     }, 
     {
       "hnrlbls": [
-        "17-17BIS"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.814169102041, 
-      "lon": 5.174443755838, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Halmaalweg"
-    }, 
-    {
-      "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
@@ -731,18 +719,6 @@
     }, 
     {
       "hnrlbls": [
-        "17-17BIS"
-      ], 
-      "housenumber": "17BIS", 
-      "lat": 50.814169102041, 
-      "lon": 5.174443755838, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Halmaalweg"
-    }, 
-    {
-      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -751,6 +727,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Halmaalweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.814083471584, 
+      "lon": 5.174306486494, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halmaalweg"
     }, 
     {
@@ -851,7 +839,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
@@ -861,11 +850,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.814125213038, 
-      "lon": 5.174171826112, 
+      "lat": 50.814037119914, 
+      "lon": 5.174131151217, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Halmaalweg"
     }, 
     {

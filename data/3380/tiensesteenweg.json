@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.834533553813, 
-      "lon": 4.942211104555, 
+      "lat": 50.834529117094, 
+      "lon": 4.942217580577, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -689,11 +689,26 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.863035181926, 
-      "lon": 4.955953387779, 
+      "lat": 50.862862843132, 
+      "lon": 4.955864725296, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "148A"
+      ], 
+      "housenumber": "148A", 
+      "lat": 50.862994857102, 
+      "lon": 4.955802029339, 
+      "municipality": "Glabbeek", 
+      "pcode": "3380", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -713,8 +728,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.836834537548, 
-      "lon": 4.944767081658, 
+      "lat": 50.836834064346, 
+      "lon": 4.94477190276, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1385,17 +1400,22 @@
     }, 
     {
       "busnrs": [
-        "202"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
-        "198-200"
+        "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.871215921377, 
-      "lon": 4.959462921777, 
+      "lat": 50.870154555427, 
+      "lon": 4.959113569395, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -1403,8 +1423,8 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 50.836712237075, 
-      "lon": 4.945377887228, 
+      "lat": 50.83672055822, 
+      "lon": 4.945367625774, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1415,8 +1435,8 @@
         "19B"
       ], 
       "housenumber": "19B", 
-      "lat": 50.837177027004, 
-      "lon": 4.945538766299, 
+      "lat": 50.83717901443, 
+      "lon": 4.945536803145, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1444,18 +1464,6 @@
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tiensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "198-200"
-      ], 
-      "housenumber": "200", 
-      "lat": 50.871215921377, 
-      "lon": 4.959462921777, 
-      "municipality": "Glabbeek", 
-      "pcode": "3380", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -1631,8 +1639,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.834655522473, 
-      "lon": 4.94465233961, 
+      "lat": 50.834655435372, 
+      "lon": 4.944651770697, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1835,8 +1843,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.841293444515, 
-      "lon": 4.946508090849, 
+      "lat": 50.841306360772, 
+      "lon": 4.946495755411, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1895,8 +1903,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.842114120217, 
-      "lon": 4.947710284665, 
+      "lat": 50.842127657424, 
+      "lon": 4.947699660803, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2231,11 +2239,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.843660844466, 
-      "lon": 4.9469215836, 
+      "lat": 50.843741828778, 
+      "lon": 4.946887935547, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -2291,8 +2299,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.834363473066, 
-      "lon": 4.94213634405, 
+      "lat": 50.83435621701, 
+      "lon": 4.942149457768, 
       "municipality": "Glabbeek", 
       "pcode": "3380", 
       "source": "afgeleidVanPerceelGrb", 

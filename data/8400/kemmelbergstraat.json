@@ -3,20 +3,19 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7"
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.228333849417, 
-      "lon": 2.909795483217, 
+      "lat": 51.228364111034, 
+      "lon": 2.90985825312, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -113,19 +112,19 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.228988512829, 
-      "lon": 2.909540751724, 
+      "lat": 51.228936301613, 
+      "lon": 2.909440437572, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kemmelbergstraat"
     }, 
     {
       "busnrs": [
         "-101", 
+        "0001", 
         "0101", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "18"
@@ -140,8 +139,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0401"
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "19"
@@ -183,13 +186,13 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301", 
         "0401", 
         "0501", 
-        "0601"
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "21"
@@ -231,19 +234,24 @@
     }, 
     {
       "busnrs": [
-        "0601", 
-        "11", 
-        "2", 
-        "4", 
-        "5", 
-        "9"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.229166467407, 
-      "lon": 2.909252534802, 
+      "lat": 51.229126249751, 
+      "lon": 2.909191650839, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -266,11 +274,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "1", 
-        "21", 
-        "5"
+        "0301"
       ], 
       "hnrlbls": [
         "27"
@@ -285,19 +295,23 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "4", 
-        "5"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.228850210456, 
-      "lon": 2.909064264338, 
+      "lat": 51.228905731346, 
+      "lon": 2.909170488082, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kemmelbergstraat"
     }, 
     {
@@ -354,17 +368,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
+        "0301", 
         "0401", 
-        "2", 
-        "3"
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.229261520136, 
-      "lon": 2.90901430525, 
+      "lat": 51.229260707397, 
+      "lon": 2.908999439332, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -402,37 +418,32 @@
       "street": "Kemmelbergstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.228989392102, 
-      "lon": 2.90893433451, 
+      "lat": 51.229018144308, 
+      "lon": 2.909005886305, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kemmelbergstraat"
     }, 
     {
-      "busnrs": [
-        "31A", 
-        "35", 
-        "41", 
-        "41A", 
-        "4C", 
-        "51A", 
-        "A", 
-        "CONC"
-      ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.229089982729, 
-      "lon": 2.90888264586, 
+      "lat": 51.229040314323, 
+      "lon": 2.908864584245, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kemmelbergstraat"
     }, 
     {
@@ -477,11 +488,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.22913786846, 
-      "lon": 2.90879996054, 
+      "lat": 51.229133843692, 
+      "lon": 2.908794359107, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kemmelbergstraat"
     }, 
     {
@@ -535,11 +546,12 @@
     }, 
     {
       "busnrs": [
-        "0010", 
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
         "0303", 
@@ -558,8 +570,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.229243138466, 
-      "lon": 2.908726790212, 
+      "lat": 51.229259083203, 
+      "lon": 2.908714836139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -617,18 +629,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.22863622086, 
-      "lon": 2.909936796891, 
+      "lat": 51.228601242116, 
+      "lon": 2.909870594531, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kemmelbergstraat"
     }
   ]

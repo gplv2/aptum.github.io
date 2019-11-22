@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.729921334117, 
-      "lon": 3.329876086488, 
+      "lat": 50.729922750934, 
+      "lon": 3.329893903848, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "afgeleidVanGebouw", 
@@ -368,8 +368,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.729816338487, 
-      "lon": 3.329027194511, 
+      "lat": 50.729816252946, 
+      "lon": 3.329017563854, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "afgeleidVanGebouw", 
@@ -785,7 +785,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-8A"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 50.729717029371, 
@@ -808,15 +808,19 @@
       "street": "Ijzeren Bareel"
     }, 
     {
+      "busnrs": [
+        "8", 
+        "8 a"
+      ], 
       "hnrlbls": [
-        "8-8A"
+        "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.729717029371, 
-      "lon": 3.329041566508, 
+      "lat": 50.729717383895, 
+      "lon": 3.329040992072, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ijzeren Bareel"
     }, 
     {

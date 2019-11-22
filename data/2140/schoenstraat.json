@@ -432,19 +432,29 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.21338307694, 
-      "lon": 4.436516158168, 
+      "lat": 51.213453228766, 
+      "lon": 4.436287714471, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Schoenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.213428065847, 
+      "lon": 4.436279663501, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schoenstraat"
     }, 
     {
@@ -660,6 +670,11 @@
       "street": "Schoenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 

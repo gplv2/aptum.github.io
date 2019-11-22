@@ -85,10 +85,6 @@
       "street": "Socialestraat"
     }, 
     {
-      "busnrs": [
-        "A00", 
-        "B00"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -377,9 +373,6 @@
       "street": "Socialestraat"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "4A"
       ], 
@@ -489,7 +482,7 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "B01"
       ], 
       "hnrlbls": [
         "8A"
@@ -504,8 +497,8 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02"
+        "B01", 
+        "B02"
       ], 
       "hnrlbls": [
         "8B"
@@ -519,9 +512,6 @@
       "street": "Socialestraat"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "8C"
       ], 
@@ -534,26 +524,20 @@
       "street": "Socialestraat"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
-        "8D-8E"
+        "8D"
       ], 
       "housenumber": "8D", 
-      "lat": 51.012420064224, 
-      "lon": 5.510036810771, 
+      "lat": 51.012364490591, 
+      "lon": 5.509973462882, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Socialestraat"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
-        "8D-8E"
+        "8E"
       ], 
       "housenumber": "8E", 
       "lat": 51.012420064224, 
@@ -564,6 +548,11 @@
       "street": "Socialestraat"
     }, 
     {
+      "busnrs": [
+        "B02", 
+        "B11", 
+        "B12"
+      ], 
       "hnrlbls": [
         "8F"
       ], 
@@ -577,10 +566,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU12"
+        "B01", 
+        "B02", 
+        "B11", 
+        "B12"
       ], 
       "hnrlbls": [
         "8G"

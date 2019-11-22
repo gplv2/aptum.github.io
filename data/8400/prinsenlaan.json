@@ -3,6 +3,8 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
+        "0101", 
         "0201", 
         "0301"
       ], 
@@ -10,8 +12,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.222852540559, 
-      "lon": 2.910411754891, 
+      "lat": 51.222876924887, 
+      "lon": 2.910559312944, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -79,21 +81,20 @@
     }, 
     {
       "busnrs": [
-        "-101", 
+        "0001", 
         "0101", 
         "0201", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.222126363977, 
-      "lon": 2.910750852288, 
+      "lat": 51.22214269622, 
+      "lon": 2.910843255333, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsenlaan"
     }, 
     {
@@ -182,17 +183,18 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.221535287696, 
-      "lon": 2.910957014132, 
+      "lat": 51.221557843581, 
+      "lon": 2.911058383966, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsenlaan"
     }, 
     {
@@ -209,37 +211,37 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.221431391965, 
-      "lon": 2.911010511132, 
+      "lat": 51.221446338977, 
+      "lon": 2.911099949771, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsenlaan"
     }, 
     {
       "busnrs": [
         "-101", 
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.221374434126, 
-      "lon": 2.911006421576, 
+      "lat": 51.221396235916, 
+      "lon": 2.911119553925, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsenlaan"
     }, 
     {
@@ -307,15 +309,21 @@
       "street": "Prinsenlaan"
     }, 
     {
+      "busnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.221109429245, 
-      "lon": 2.911110478363, 
+      "lat": 51.221129364833, 
+      "lon": 2.911218085147, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsenlaan"
     }, 
     {

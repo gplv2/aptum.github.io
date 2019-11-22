@@ -217,6 +217,10 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -286,6 +290,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU03"
       ], 
@@ -401,6 +406,7 @@
     }, 
     {
       "busnrs": [
+        "BU02", 
         "BU11"
       ], 
       "hnrlbls": [
@@ -428,9 +434,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "21"
+        "BU01", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "27"
@@ -485,7 +491,8 @@
     }, 
     {
       "busnrs": [
-        "BU02"
+        "BU02", 
+        "BU11"
       ], 
       "hnrlbls": [
         "31"
@@ -500,9 +507,11 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU11", 
         "BU12", 
-        "BU21"
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "32"
@@ -547,12 +556,16 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.000250234344, 
-      "lon": 5.506619378572, 
+      "lat": 51.000228248318, 
+      "lon": 5.506578096297, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -575,6 +588,9 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "B02"
+      ], 
       "hnrlbls": [
         "36B"
       ], 
@@ -588,17 +604,18 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.000221244907, 
-      "lon": 5.506632921582, 
+      "lat": 51.000272220355, 
+      "lon": 5.506660660886, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoevenzavellaan"
     }, 
     {
@@ -616,7 +633,8 @@
     {
       "busnrs": [
         "BU11", 
-        "BU21"
+        "BU21", 
+        "BU31"
       ], 
       "hnrlbls": [
         "40"
@@ -823,11 +841,11 @@
     }, 
     {
       "busnrs": [
-        "ABU01", 
-        "ABU02", 
-        "ABU03", 
-        "BBU02", 
-        "BBU03"
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU05"
       ], 
       "hnrlbls": [
         "55"
@@ -843,7 +861,11 @@
     {
       "busnrs": [
         "BU03", 
-        "BU07"
+        "BU07", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "56"
@@ -953,6 +975,9 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "63-65"
       ], 
@@ -998,12 +1023,10 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "21", 
-        "bus 1", 
-        "bus 12", 
-        "bus 21", 
-        "bus11"
+        "BU01", 
+        "BU11", 
+        "BU12", 
+        "BU21"
       ], 
       "hnrlbls": [
         "66"
@@ -1011,6 +1034,18 @@
       "housenumber": "66", 
       "lat": 51.001938316482, 
       "lon": 5.508540864009, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoevenzavellaan"
+    }, 
+    {
+      "hnrlbls": [
+        "66A"
+      ], 
+      "housenumber": "66A", 
+      "lat": 51.002041802664, 
+      "lon": 5.508595531377, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1046,11 +1081,11 @@
     }, 
     {
       "busnrs": [
-        "BU11", 
-        "BU21", 
-        "BU22", 
-        "BU31", 
-        "BU32"
+        "B11", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32"
       ], 
       "hnrlbls": [
         "68A"
@@ -1213,6 +1248,9 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1450,6 +1488,10 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "96-100"
       ], 
@@ -1478,6 +1520,9 @@
       "street": "Hoevenzavellaan"
     }, 
     {
+      "busnrs": [
+        "BU11"
+      ], 
       "hnrlbls": [
         "96-100"
       ], 
@@ -1491,7 +1536,8 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "99"

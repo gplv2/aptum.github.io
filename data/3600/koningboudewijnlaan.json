@@ -14,9 +14,7 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "BU01", 
-        "BU03"
+        "BU11"
       ], 
       "hnrlbls": [
         "10"
@@ -58,8 +56,10 @@
     }, 
     {
       "busnrs": [
+        "BU02", 
         "BU03", 
         "BU04", 
+        "BU11", 
         "BU12", 
         "BU21"
       ], 
@@ -100,18 +100,19 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "BU01"
+        "BU01", 
+        "BU02", 
+        "BU03"
       ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.012675028049, 
-      "lon": 5.490287585941, 
+      "lat": 51.012607204233, 
+      "lon": 5.49018791222, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -278,10 +279,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "2A"
@@ -296,10 +297,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "2B"
@@ -327,6 +328,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22"
@@ -359,6 +361,10 @@
       "street": "Koning Boudewijnlaan"
     }, 
     {
+      "busnrs": [
+        "B01", 
+        "B21"
+      ], 
       "hnrlbls": [
         "31A"
       ], 
@@ -643,6 +649,7 @@
         "BU08", 
         "BU11", 
         "BU12", 
+        "BU13", 
         "BU14", 
         "BU15", 
         "BU16", 
@@ -714,7 +721,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
-        "BU12"
+        "BU11"
       ], 
       "hnrlbls": [
         "55"
@@ -745,18 +752,14 @@
       "street": "Koning Boudewijnlaan"
     }, 
     {
-      "apptnrs": [
-        "BU 1", 
-        "BU 11", 
-        "BU 12", 
-        "BU 2", 
-        "BU 21", 
-        "BU 22", 
-        "BU 31"
-      ], 
       "busnrs": [
-        "12", 
-        "22"
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31"
       ], 
       "hnrlbls": [
         "58"
@@ -916,9 +919,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "6A"
@@ -933,10 +937,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "6B"
@@ -951,10 +955,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B02", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "6C"
@@ -1114,6 +1118,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
         "BU21"
       ], 
       "hnrlbls": [

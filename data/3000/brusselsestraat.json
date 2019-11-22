@@ -134,8 +134,19 @@
       "street": "Brusselsestraat"
     }, 
     {
+      "hnrlbls": [
+        "106-106C"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.880660701632, 
+      "lon": 4.695652930275, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsestraat"
+    }, 
+    {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -145,9 +156,9 @@
         "0302"
       ], 
       "hnrlbls": [
-        "106"
+        "106-106C"
       ], 
-      "housenumber": "106", 
+      "housenumber": "106C", 
       "lat": 50.880660701632, 
       "lon": 4.695652930275, 
       "municipality": "Leuven", 
@@ -456,7 +467,7 @@
     }, 
     {
       "hnrlbls": [
-        "124"
+        "124-124B"
       ], 
       "housenumber": "124", 
       "lat": 50.880748168479, 
@@ -488,14 +499,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "124B"
+        "124-124B"
       ], 
       "housenumber": "124B", 
-      "lat": 50.880891557263, 
-      "lon": 4.694651185722, 
+      "lat": 50.880748168479, 
+      "lon": 4.694621058779, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsestraat"
     }, 
     {
@@ -1292,6 +1303,25 @@
       "street": "Brusselsestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "163-165"
+      ], 
+      "housenumber": "163", 
+      "lat": 50.881974377616, 
+      "lon": 4.686326887937, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsestraat"
+    }, 
+    {
       "hnrlbls": [
         "164-166"
       ], 
@@ -1307,27 +1337,17 @@
       "apptnrs": [
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
         "0202", 
-        "0203", 
         "0301", 
         "0302", 
-        "0303", 
         "0401", 
         "0402", 
-        "0403", 
         "0501", 
-        "0502", 
-        "503", 
-        "E106", 
-        "E108"
-      ], 
-      "busnrs": [
-        "113"
+        "0502"
       ], 
       "hnrlbls": [
-        "165"
+        "163-165"
       ], 
       "housenumber": "165", 
       "lat": 50.881974377616, 
@@ -1447,11 +1467,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.880924142148, 
-      "lon": 4.692236169802, 
+      "lat": 50.880931778769, 
+      "lon": 4.692237785584, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsestraat"
     }, 
     {
@@ -3799,7 +3819,7 @@
     }, 
     {
       "hnrlbls": [
-        "77-77E"
+        "77-77D"
       ], 
       "housenumber": "77", 
       "lat": 50.880476283598, 
@@ -3816,7 +3836,7 @@
         "0301"
       ], 
       "hnrlbls": [
-        "77-77E"
+        "77-77D"
       ], 
       "housenumber": "77C", 
       "lat": 50.880476283598, 
@@ -3836,7 +3856,7 @@
         "0302"
       ], 
       "hnrlbls": [
-        "77-77E"
+        "77-77D"
       ], 
       "housenumber": "77D", 
       "lat": 50.880476283598, 
@@ -3859,14 +3879,14 @@
         "0401"
       ], 
       "hnrlbls": [
-        "77-77E"
+        "77E"
       ], 
       "housenumber": "77E", 
-      "lat": 50.880476283598, 
-      "lon": 4.694442258115, 
+      "lat": 50.880287833318, 
+      "lon": 4.69425906555, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsestraat"
     }, 
     {
@@ -3907,11 +3927,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.880489034873, 
-      "lon": 4.6942532158, 
+      "lat": 50.880537389761, 
+      "lon": 4.694223995406, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsestraat"
     }, 
     {
@@ -4021,8 +4041,7 @@
         "0102", 
         "0201", 
         "0301", 
-        "0401", 
-        "302"
+        "0302"
       ], 
       "hnrlbls": [
         "87-89"

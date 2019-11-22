@@ -189,11 +189,6 @@
       "street": "Houtmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2"
-      ], 
       "hnrlbls": [
         "21A"
       ], 
@@ -335,14 +330,26 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30A"
       ], 
-      "housenumber": "30", 
-      "lat": 50.817116874786, 
-      "lon": 5.190396872524, 
+      "housenumber": "30A", 
+      "lat": 50.817066016895, 
+      "lon": 5.190354686817, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houtmarkt"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 50.817058547204, 
+      "lon": 5.190407063879, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtmarkt"
     }, 
     {
@@ -389,14 +396,6 @@
       "street": "Houtmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201", 
-        "202", 
-        "3"
-      ], 
       "hnrlbls": [
         "37-39"
       ], 
@@ -467,6 +466,9 @@
       "street": "Houtmarkt"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "busnrs": [
         "101", 
         "102", 

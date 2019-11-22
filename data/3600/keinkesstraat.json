@@ -62,6 +62,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02"
       ], 
       "hnrlbls": [
@@ -128,8 +129,10 @@
         "BU01", 
         "BU02", 
         "BU03", 
+        "BU04", 
         "BU11", 
-        "BU12"
+        "BU12", 
+        "BU13"
       ], 
       "hnrlbls": [
         "20"
@@ -422,6 +425,7 @@
     {
       "busnrs": [
         "BU11", 
+        "BU21", 
         "BU22", 
         "BU31", 
         "BU32", 
@@ -608,6 +612,18 @@
       "housenumber": "7D", 
       "lat": 50.951035579257, 
       "lon": 5.503153922741, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Keinkesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.951022852135, 
+      "lon": 5.501901717249, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

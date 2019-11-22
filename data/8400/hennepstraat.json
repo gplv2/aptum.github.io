@@ -1,19 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.219754682678, 
-      "lon": 2.908528317668, 
+      "lat": 51.219726667631, 
+      "lon": 2.908487392864, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -194,6 +190,8 @@
     }, 
     {
       "busnrs": [
+        "-101", 
+        "0001", 
         "0101"
       ], 
       "hnrlbls": [
@@ -358,11 +356,6 @@
       "street": "Hennepstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -388,19 +381,18 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.219021788229, 
-      "lon": 2.909116721423, 
+      "lat": 51.219059199028, 
+      "lon": 2.909175962104, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {
@@ -428,6 +420,12 @@
       "street": "Hennepstraat"
     }, 
     {
+      "busnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -489,18 +487,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.218599921892, 
-      "lon": 2.909826792824, 
+      "lat": 51.21862699546, 
+      "lon": 2.909864311192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hennepstraat"
     }, 
     {

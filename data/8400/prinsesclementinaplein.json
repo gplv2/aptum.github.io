@@ -27,6 +27,25 @@
       "street": "Prinses Clementinaplein"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.223392286506, 
+      "lon": 2.909134570141, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prinses Clementinaplein"
+    }, 
+    {
       "hnrlbls": [
         "18"
       ], 
@@ -252,15 +271,14 @@
         "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "0401"
+        "0301"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.222920202781, 
-      "lon": 2.909519715595, 
+      "lat": 51.222927083657, 
+      "lon": 2.909516350655, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -376,8 +394,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.223006842037, 
-      "lon": 2.910144505529, 
+      "lat": 51.223008061343, 
+      "lon": 2.910141317727, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -385,9 +403,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0004", 
         "0101", 
         "0201", 
         "0301", 
@@ -421,12 +436,12 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
         "0401", 
-        "1", 
-        "3", 
-        "5", 
-        "6"
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "66"

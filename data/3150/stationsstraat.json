@@ -68,8 +68,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.974443863526, 
-      "lon": 4.628185625258, 
+      "lat": 50.974464866107, 
+      "lon": 4.628159543657, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -116,11 +116,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.9764827519, 
-      "lon": 4.636133041331, 
+      "lat": 50.976797052899, 
+      "lon": 4.636155912204, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -152,8 +152,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.972894207462, 
-      "lon": 4.626801527969, 
+      "lat": 50.972901053915, 
+      "lon": 4.626794874063, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -232,6 +232,28 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 50.976608308942, 
+      "lon": 4.63614287217, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "apptnrs": [
         "2", 
         "3", 
@@ -270,11 +292,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.972609004975, 
-      "lon": 4.62560214834, 
+      "lat": 50.972706628977, 
+      "lon": 4.625478532905, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1249,18 +1271,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.977231116713, 
-      "lon": 4.63410869564, 
-      "municipality": "Haacht", 
-      "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stationsstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -1645,8 +1655,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.975846421088, 
-      "lon": 4.632112424308, 
+      "lat": 50.975818068629, 
+      "lon": 4.632128638918, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -1657,11 +1667,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.976545192134, 
-      "lon": 4.636384854872, 
+      "lat": 50.976798987953, 
+      "lon": 4.636411083196, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1774,6 +1784,29 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.976684385955, 
+      "lon": 4.636406440277, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "hnrlbls": [
         "8"
       ], 
@@ -1870,15 +1903,23 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.976823786936, 
-      "lon": 4.636494807168, 
+      "lat": 50.976568696163, 
+      "lon": 4.636405778008, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1987,6 +2028,26 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.976470746093, 
+      "lon": 4.636391548107, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }
   ]

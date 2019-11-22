@@ -207,11 +207,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.283334025896, 
-      "lon": 4.480685357919, 
+      "lat": 51.283708394937, 
+      "lon": 4.47991445279, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bredabaan"
     }, 
     {
@@ -2633,7 +2633,7 @@
     }, 
     {
       "hnrlbls": [
-        "163-165"
+        "163"
       ], 
       "housenumber": "163", 
       "lat": 51.285559506372, 
@@ -2656,25 +2656,15 @@
       "street": "Bredabaan"
     }, 
     {
-      "apptnrs": [
-        "1001", 
-        "1002", 
-        "2001", 
-        "2002", 
-        "3001", 
-        "3002", 
-        "4001", 
-        "4002"
-      ], 
       "hnrlbls": [
-        "163-165"
+        "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.285559506372, 
-      "lon": 4.484667336511, 
+      "lat": 51.285611223708, 
+      "lon": 4.48472264881, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -4871,6 +4861,10 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "306"
       ], 
@@ -7929,6 +7923,8 @@
     {
       "apptnrs": [
         "0001", 
+        "1001", 
+        "2001", 
         "3001"
       ], 
       "hnrlbls": [
@@ -8557,7 +8553,9 @@
     {
       "apptnrs": [
         "0001", 
-        "1001"
+        "1001", 
+        "2001", 
+        "3001"
       ], 
       "hnrlbls": [
         "533"
@@ -12443,11 +12441,11 @@
         "854"
       ], 
       "housenumber": "854", 
-      "lat": 51.327290790314, 
-      "lon": 4.521744836633, 
+      "lat": 51.327357385388, 
+      "lon": 4.521541485987, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredabaan"
     }, 
     {

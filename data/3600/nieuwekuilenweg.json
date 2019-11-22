@@ -37,7 +37,9 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02"
+        "BU02", 
+        "BU11", 
+        "BU21"
       ], 
       "hnrlbls": [
         "100"
@@ -63,6 +65,10 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -92,7 +98,8 @@
     }, 
     {
       "busnrs": [
-        "BUS11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "106"
@@ -186,8 +193,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.974597530729, 
-      "lon": 5.493516736308, 
+      "lat": 50.97457934459, 
+      "lon": 5.493547627009, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -210,11 +217,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.974592454314, 
-      "lon": 5.493380198039, 
+      "lat": 50.97461571686, 
+      "lon": 5.493485845583, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwe Kuilenweg"
     }, 
     {
@@ -232,11 +239,13 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU11", 
         "BU12", 
         "BU13", 
         "BU21", 
         "BU22", 
+        "BU23", 
         "BU31", 
         "BU32", 
         "BU33"
@@ -318,7 +327,8 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "126"
@@ -426,6 +436,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02"
       ], 
       "hnrlbls": [
@@ -476,6 +487,13 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU02", 
+        "BU11", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -506,6 +524,18 @@
     }, 
     {
       "hnrlbls": [
+        "152O"
+      ], 
+      "housenumber": "152O", 
+      "lat": 50.975963661159, 
+      "lon": 5.490923090111, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Nieuwe Kuilenweg"
+    }, 
+    {
+      "hnrlbls": [
         "154-156"
       ], 
       "housenumber": "154", 
@@ -517,6 +547,10 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU02", 
+        "BU03"
+      ], 
       "hnrlbls": [
         "154-156"
       ], 
@@ -560,6 +594,16 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -584,6 +628,16 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -706,6 +760,7 @@
       "busnrs": [
         "BU01", 
         "BU02", 
+        "BU11", 
         "BU12", 
         "BU21", 
         "BU22", 
@@ -713,14 +768,14 @@
         "BU32"
       ], 
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.971843702634, 
-      "lon": 5.496925334546, 
+      "lat": 50.971767703945, 
+      "lon": 5.497040975005, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwe Kuilenweg"
     }, 
     {
@@ -741,18 +796,20 @@
         "BU02", 
         "BU11", 
         "BU12", 
+        "BU21", 
         "BU22", 
+        "BU31", 
         "BU32"
       ], 
       "hnrlbls": [
-        "29-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.971843702634, 
-      "lon": 5.496925334546, 
+      "lat": 50.971823874487, 
+      "lon": 5.496958603199, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwe Kuilenweg"
     }, 
     {
@@ -779,11 +836,11 @@
         "BU02"
       ], 
       "hnrlbls": [
-        "39-41"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.972044366583, 
-      "lon": 5.496644106416, 
+      "lat": 50.971892788862, 
+      "lon": 5.496841083216, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -833,6 +890,7 @@
         "BU07", 
         "BU08", 
         "BU09", 
+        "BU10", 
         "BU11", 
         "BU12", 
         "BU13", 
@@ -846,7 +904,7 @@
         "BU22"
       ], 
       "hnrlbls": [
-        "39-41"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 50.972044366583, 
@@ -984,7 +1042,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "BU01", 
         "BU11", 
         "BU21"
@@ -1002,10 +1059,12 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU11", 
         "BU12", 
         "BU13", 
+        "BU21", 
         "BU22", 
         "BU23", 
         "BU31"
@@ -1023,10 +1082,6 @@
     }, 
     {
       "busnrs": [
-        "12", 
-        "2", 
-        "21", 
-        "31", 
         "BU01", 
         "BU02", 
         "BU11", 
@@ -1061,8 +1116,8 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU02"
+        "B01", 
+        "B02"
       ], 
       "hnrlbls": [
         "57A"
@@ -1152,10 +1207,10 @@
     }, 
     {
       "busnrs": [
-        "BU01", 
-        "BU11", 
-        "BU21", 
-        "BU22"
+        "B01", 
+        "B11", 
+        "B21", 
+        "B22"
       ], 
       "hnrlbls": [
         "65A"
@@ -1201,6 +1256,7 @@
         "BU01", 
         "BU02", 
         "BU03", 
+        "BU04", 
         "BU05", 
         "BU06", 
         "BU07", 
@@ -1224,6 +1280,7 @@
         "BU32", 
         "BU33", 
         "BU34", 
+        "BU35", 
         "BU36", 
         "BU37", 
         "BU38", 
@@ -1265,6 +1322,7 @@
     {
       "busnrs": [
         "BU01", 
+        "BU02", 
         "BU03", 
         "BU04", 
         "BU05"
@@ -1281,6 +1339,22 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU04", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU24", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1317,6 +1391,15 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -1329,6 +1412,10 @@
       "street": "Nieuwe Kuilenweg"
     }, 
     {
+      "busnrs": [
+        "BU21", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1397,6 +1484,7 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU11"
       ], 
       "hnrlbls": [

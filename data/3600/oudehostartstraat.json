@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "BU01", 
         "BU02", 
         "BU11", 
         "BU12", 
@@ -140,6 +141,11 @@
       "street": "Oude Hostartstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -152,6 +158,10 @@
       "street": "Oude Hostartstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -221,8 +231,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "BU01", 
+        "BU11"
       ], 
       "hnrlbls": [
         "31"
@@ -332,6 +342,11 @@
       "street": "Oude Hostartstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03"
+      ], 
       "hnrlbls": [
         "46"
       ], 

@@ -15,7 +15,11 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0302", 
         "0401"
       ], 
       "hnrlbls": [
@@ -144,24 +148,24 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
         "0302", 
-        "0401", 
-        "1"
+        "0401"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.225842683969, 
-      "lon": 2.923129444243, 
+      "lat": 51.225856191539, 
+      "lon": 2.92311656933, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijhavenstraat"
     }, 
     {
@@ -193,20 +197,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.225802219083, 
-      "lon": 2.923305228769, 
+      "lat": 51.225875325655, 
+      "lon": 2.923255142546, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijhavenstraat"
     }, 
     {
@@ -459,15 +462,19 @@
       "street": "Vrijhavenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.226211837184, 
-      "lon": 2.924698953698, 
+      "lat": 51.226250753503, 
+      "lon": 2.924675985966, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijhavenstraat"
     }, 
     {

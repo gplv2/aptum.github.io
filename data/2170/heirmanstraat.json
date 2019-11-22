@@ -525,8 +525,16 @@
       "street": "Heirmanstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "55-57"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 51.239618281136, 
@@ -543,18 +551,6 @@
       "housenumber": "56", 
       "lat": 51.239724292064, 
       "lon": 4.443903678652, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heirmanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "55-57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.239618281136, 
-      "lon": 4.442976921369, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -874,6 +870,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
+      "street": "Heirmanstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 51.240116158896, 
+      "lon": 4.444220913584, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Heirmanstraat"
     }
   ]

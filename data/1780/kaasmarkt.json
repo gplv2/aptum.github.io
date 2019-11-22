@@ -34,8 +34,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.90950876588, 
-      "lon": 4.299880285893, 
+      "lat": 50.909488560564, 
+      "lon": 4.299916003254, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -105,7 +105,7 @@
     }, 
     {
       "hnrlbls": [
-        "14-20"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 50.909394053727, 
@@ -164,9 +164,11 @@
       "street": "Kaasmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "A"
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B"
       ], 
       "hnrlbls": [
         "15"
@@ -217,14 +219,14 @@
     }, 
     {
       "hnrlbls": [
-        "14-20"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.909394053727, 
-      "lon": 4.300021498075, 
+      "lat": 50.909404074896, 
+      "lon": 4.299940581384, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kaasmarkt"
     }, 
     {
@@ -309,15 +311,14 @@
         "3B"
       ], 
       "hnrlbls": [
-        "18", 
-        "14-20"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.909394053727, 
-      "lon": 4.300021498075, 
+      "lat": 50.909342342078, 
+      "lon": 4.299982046184, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kaasmarkt"
     }, 
     {
@@ -334,14 +335,14 @@
     }, 
     {
       "hnrlbls": [
-        "14-20"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.909394053727, 
-      "lon": 4.300021498075, 
+      "lat": 50.90931017439, 
+      "lon": 4.300006548273, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kaasmarkt"
     }, 
     {
@@ -801,7 +802,10 @@
       "street": "Kaasmarkt"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
         "2A", 
         "2B", 
         "2C", 
@@ -809,14 +813,26 @@
         "3B"
       ], 
       "hnrlbls": [
-        "3-95"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.907038396321, 
-      "lon": 4.300965263595, 
+      "lat": 50.907065249037, 
+      "lon": 4.301078112948, 
       "municipality": "Wemmel", 
       "pcode": "1780", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kaasmarkt"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.907009357799, 
+      "lon": 4.301117717571, 
+      "municipality": "Wemmel", 
+      "pcode": "1780", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaasmarkt"
     }
   ]
