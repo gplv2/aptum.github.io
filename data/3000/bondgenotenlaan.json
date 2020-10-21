@@ -620,7 +620,6 @@
         "0101"
       ], 
       "busnrs": [
-        "0002", 
         "0102", 
         "0103", 
         "0104", 
@@ -630,8 +629,7 @@
         "0203", 
         "0301", 
         "0302", 
-        "0303", 
-        "7777"
+        "0303"
       ], 
       "hnrlbls": [
         "126"
@@ -731,7 +729,7 @@
         "0502"
       ], 
       "hnrlbls": [
-        "13"
+        "13-17A"
       ], 
       "housenumber": "13", 
       "lat": 50.879595312445, 
@@ -786,7 +784,7 @@
         "0407"
       ], 
       "hnrlbls": [
-        "131-131A"
+        "131-131C"
       ], 
       "housenumber": "131", 
       "lat": 50.880863197005, 
@@ -798,9 +796,9 @@
     }, 
     {
       "hnrlbls": [
-        "131-131A"
+        "131-131C"
       ], 
-      "housenumber": "131A", 
+      "housenumber": "131C", 
       "lat": 50.880863197005, 
       "lon": 4.710992691539, 
       "municipality": "Leuven", 
@@ -872,7 +870,7 @@
     }, 
     {
       "hnrlbls": [
-        "135"
+        "135-135A"
       ], 
       "housenumber": "135", 
       "lat": 50.880805242107, 
@@ -884,14 +882,14 @@
     }, 
     {
       "hnrlbls": [
-        "135A"
+        "135-135A"
       ], 
       "housenumber": "135A", 
-      "lat": 50.880895497736, 
-      "lon": 4.711259787824, 
+      "lat": 50.880805242107, 
+      "lon": 4.711290816242, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
@@ -973,26 +971,26 @@
     }, 
     {
       "hnrlbls": [
-        "13A-17A"
+        "13-17A"
       ], 
       "housenumber": "13A", 
-      "lat": 50.8795973804, 
-      "lon": 4.70409386789, 
+      "lat": 50.879595312445, 
+      "lon": 4.704093995191, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
       "hnrlbls": [
-        "13A-17A"
+        "13-17A"
       ], 
       "housenumber": "13B", 
-      "lat": 50.8795973804, 
-      "lon": 4.70409386789, 
+      "lat": 50.879595312445, 
+      "lon": 4.704093995191, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
@@ -1745,7 +1743,7 @@
         "0301"
       ], 
       "hnrlbls": [
-        "23"
+        "23-23A"
       ], 
       "housenumber": "23", 
       "lat": 50.879760958695, 
@@ -1757,14 +1755,14 @@
     }, 
     {
       "hnrlbls": [
-        "23A"
+        "23-23A"
       ], 
       "housenumber": "23A", 
-      "lat": 50.879772933689, 
-      "lon": 4.705101296813, 
+      "lat": 50.879760958695, 
+      "lon": 4.705107889346, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
@@ -1791,11 +1789,11 @@
         "0402"
       ], 
       "hnrlbls": [
-        "25"
+        "25-25A"
       ], 
       "housenumber": "25", 
-      "lat": 50.879756857808, 
-      "lon": 4.705189848582, 
+      "lat": 50.87975921381, 
+      "lon": 4.705183329132, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1803,14 +1801,14 @@
     }, 
     {
       "hnrlbls": [
-        "25A"
+        "25-25A"
       ], 
       "housenumber": "25A", 
       "lat": 50.87975921381, 
       "lon": 4.705183329132, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
@@ -1864,9 +1862,21 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29-29C"
       ], 
       "housenumber": "29", 
+      "lat": 50.879779973513, 
+      "lon": 4.705373174679, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bondgenotenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "29-29C"
+      ], 
+      "housenumber": "29C", 
       "lat": 50.879779973513, 
       "lon": 4.705373174679, 
       "municipality": "Leuven", 
@@ -2646,9 +2656,21 @@
         "0001"
       ], 
       "hnrlbls": [
-        "68"
+        "68-68C"
       ], 
       "housenumber": "68", 
+      "lat": 50.879976552219, 
+      "lon": 4.708432337418, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bondgenotenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "68-68C"
+      ], 
+      "housenumber": "68C", 
       "lat": 50.879976552219, 
       "lon": 4.708432337418, 
       "municipality": "Leuven", 
@@ -2921,11 +2943,8 @@
         "0301", 
         "0401"
       ], 
-      "busnrs": [
-        "7777"
-      ], 
       "hnrlbls": [
-        "84"
+        "84-84A"
       ], 
       "housenumber": "84", 
       "lat": 50.880145801523, 
@@ -2937,14 +2956,14 @@
     }, 
     {
       "hnrlbls": [
-        "84A"
+        "84-84A"
       ], 
       "housenumber": "84A", 
-      "lat": 50.880144181377, 
-      "lon": 4.709524280452, 
+      "lat": 50.880145801523, 
+      "lon": 4.70952358175, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bondgenotenlaan"
     }, 
     {
@@ -2988,9 +3007,21 @@
         "0001"
       ], 
       "hnrlbls": [
-        "86"
+        "86-86C"
       ], 
       "housenumber": "86", 
+      "lat": 50.880164681711, 
+      "lon": 4.709615513011, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bondgenotenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "86-86C"
+      ], 
+      "housenumber": "86C", 
       "lat": 50.880164681711, 
       "lon": 4.709615513011, 
       "municipality": "Leuven", 

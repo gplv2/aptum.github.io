@@ -1,21 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "2A"
-      ], 
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.219577716566, 
-      "lon": 4.415607696636, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kipdorpbrug"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -59,18 +44,20 @@
       "street": "Kipdorpbrug"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.219590334643, 
-      "lon": 4.415522261605, 
+      "lat": 51.219584657818, 
+      "lon": 4.415557465509, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kipdorpbrug"
     }
   ]

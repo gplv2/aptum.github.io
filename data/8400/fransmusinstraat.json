@@ -34,8 +34,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.223358038752, 
-      "lon": 2.904988062653, 
+      "lat": 51.223362558634, 
+      "lon": 2.904990068327, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -335,19 +335,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.22392699764, 
-      "lon": 2.904361305054, 
+      "lat": 51.223953162004, 
+      "lon": 2.904426914455, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Musinstraat"
     }, 
     {
@@ -469,7 +469,6 @@
     }, 
     {
       "busnrs": [
-        "0101", 
         "0201", 
         "0202", 
         "0301", 
@@ -483,11 +482,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.224455025015, 
-      "lon": 2.904415166798, 
+      "lat": 51.224339131156, 
+      "lon": 2.904290810367, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Musinstraat"
     }, 
     {
@@ -522,7 +521,6 @@
     }, 
     {
       "busnrs": [
-        "0101", 
         "0201", 
         "0202", 
         "0301", 
@@ -530,8 +528,7 @@
         "0401", 
         "0402", 
         "0501", 
-        "0502", 
-        "0601"
+        "0502"
       ], 
       "hnrlbls": [
         "41"
@@ -742,6 +739,11 @@
       "street": "Frans Musinstraat"
     }, 
     {
+      "busnrs": [
+        "-101", 
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "6"
       ], 

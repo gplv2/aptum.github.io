@@ -176,8 +176,9 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12"
+        "0011", 
+        "0012", 
+        "0021"
       ], 
       "hnrlbls": [
         "27"
@@ -204,6 +205,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.829285284489, 
+      "lon": 3.268208062157, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Groeningestraat"
+    }, 
+    {
+      "hnrlbls": [
         "2B"
       ], 
       "housenumber": "2B", 
@@ -219,11 +232,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.829922089268, 
-      "lon": 3.267988179321, 
+      "lat": 50.829769820238, 
+      "lon": 3.267972293424, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groeningestraat"
     }, 
     {
@@ -443,21 +456,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Groeningestraat"
-    }, 
-    {
-      "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.829911707778, 
-      "lon": 3.270429535716, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Groeningestraat"
     }, 
     {

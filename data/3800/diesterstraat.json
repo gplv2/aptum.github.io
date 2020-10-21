@@ -2,12 +2,12 @@
   "addresses": [
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0005", 
-        "0006"
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006"
       ], 
       "hnrlbls": [
         "1"
@@ -34,18 +34,6 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.817187740468, 
-      "lon": 5.18592232037, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Diesterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -57,8 +45,14 @@
       "street": "Diesterstraat"
     }, 
     {
+      "apptnrs": [
+        "102", 
+        "201", 
+        "303"
+      ], 
       "busnrs": [
         "001", 
+        "002", 
         "101", 
         "301", 
         "302"
@@ -67,11 +61,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.817261622867, 
-      "lon": 5.185898912152, 
+      "lat": 50.817176402871, 
+      "lon": 5.185833569633, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -322,6 +316,9 @@
       "street": "Diesterstraat"
     }, 
     {
+      "apptnrs": [
+        "008"
+      ], 
       "busnrs": [
         "1", 
         "101", 
@@ -768,14 +765,26 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52A"
       ], 
-      "housenumber": "52", 
-      "lat": 50.817816738331, 
-      "lon": 5.184135481556, 
+      "housenumber": "52A", 
+      "lat": 50.817887709238, 
+      "lon": 5.18415572951, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Diesterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.817915760057, 
+      "lon": 5.1840909353, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -976,6 +985,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diesterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.818211097095, 
+      "lon": 5.182978045769, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Diesterstraat"
     }, 
     {

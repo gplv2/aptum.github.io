@@ -103,8 +103,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.175871195274, 
-      "lon": 4.422679447028, 
+      "lat": 51.175875690338, 
+      "lon": 4.422677736351, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -228,8 +228,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.175881125423, 
-      "lon": 4.425985926951, 
+      "lat": 51.175881664525, 
+      "lon": 4.425986356605, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1006,6 +1006,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -1160,6 +1165,13 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "181"
       ], 
@@ -1489,6 +1501,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "207"
       ], 
@@ -1578,18 +1595,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "215"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
-      "housenumber": "215", 
-      "lat": 51.176435178745, 
-      "lon": 4.430909983529, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Oosterveldlaan"
-    }, 
-    {
       "hnrlbls": [
         "216"
       ], 
@@ -2257,10 +2267,9 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "56"
@@ -2537,10 +2546,10 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "79"
@@ -2620,11 +2629,13 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "85"
@@ -2650,8 +2661,10 @@
       "street": "Oosterveldlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "87"
@@ -2666,6 +2679,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -2713,6 +2727,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -2725,6 +2744,11 @@
       "street": "Oosterveldlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "94"
       ], 

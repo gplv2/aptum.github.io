@@ -11,11 +11,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.249597143034, 
-      "lon": 4.454140859716, 
+      "lat": 51.2496416175, 
+      "lon": 4.454165003031, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Du Chastellei"
     }, 
     {
@@ -487,8 +487,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.249997699139, 
-      "lon": 4.452968895738, 
+      "lat": 51.250001832923, 
+      "lon": 4.452970049049, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -686,8 +686,10 @@
       "street": "Du Chastellei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "50"
@@ -1240,6 +1242,11 @@
       "street": "Du Chastellei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "92"
       ], 

@@ -123,7 +123,7 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
       "lat": 51.10610088904, 
@@ -135,14 +135,14 @@
     }, 
     {
       "hnrlbls": [
-        "18A"
+        "18-18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.106131272909, 
-      "lon": 3.987668095432, 
+      "lat": 51.10610088904, 
+      "lon": 3.987639786055, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -444,8 +444,8 @@
         "36-40"
       ], 
       "housenumber": "36", 
-      "lat": 51.106666210314, 
-      "lon": 3.987113734853, 
+      "lat": 51.106634677918, 
+      "lon": 3.987008188299, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -481,8 +481,8 @@
         "36-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.106666210314, 
-      "lon": 3.987113734853, 
+      "lat": 51.106634677918, 
+      "lon": 3.987008188299, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -520,8 +520,8 @@
         "36-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.106666210314, 
-      "lon": 3.987113734853, 
+      "lat": 51.106634677918, 
+      "lon": 3.987008188299, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -540,12 +540,21 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.106749637945, 
-      "lon": 3.986922293994, 
+      "lat": 51.106758139415, 
+      "lon": 3.9869383594, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -611,8 +620,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.10689201399, 
-      "lon": 3.986780774867, 
+      "lat": 51.106771567648, 
+      "lon": 3.986726642228, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -656,18 +665,6 @@
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.106025849877, 
-      "lon": 3.988231089701, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {

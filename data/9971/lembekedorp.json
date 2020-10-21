@@ -238,6 +238,11 @@
       "street": "Lembeke-Dorp"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -341,6 +346,18 @@
       "street": "Lembeke-Dorp"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -349,19 +366,7 @@
       "lon": 3.630736103934, 
       "municipality": "Kaprijke", 
       "pcode": "9971", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Lembeke-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.194581078488, 
-      "lon": 3.630585365171, 
-      "municipality": "Kaprijke", 
-      "pcode": "9971", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lembeke-Dorp"
     }, 
     {
@@ -460,8 +465,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.19470777392, 
-      "lon": 3.632409087666, 
+      "lat": 51.194181980009, 
+      "lon": 3.631696796037, 
       "municipality": "Kaprijke", 
       "pcode": "9971", 
       "source": "manueleAanduidingVanGebouw", 

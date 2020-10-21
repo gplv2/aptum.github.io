@@ -289,6 +289,11 @@
       "street": "Beekstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -482,6 +487,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.887611386069, 
+      "lon": 3.991919119456, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Beekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -665,11 +682,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.886723110329, 
-      "lon": 3.992586505074, 
+      "lat": 50.886754556713, 
+      "lon": 3.992637415534, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -682,6 +699,21 @@
       "municipality": "Haaltert", 
       "pcode": "9451", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Beekstraat"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.88670297278, 
+      "lon": 3.992839206386, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -763,7 +795,7 @@
       "lon": 3.993320209568, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -785,18 +817,6 @@
       "housenumber": "65", 
       "lat": 50.885204491881, 
       "lon": 3.993734969271, 
-      "municipality": "Haaltert", 
-      "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Beekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.886131986868, 
-      "lon": 3.993411088551, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
       "source": "manueleAanduidingVanGebouw", 
@@ -833,6 +853,18 @@
       "housenumber": "67C", 
       "lat": 50.884337187656, 
       "lon": 3.993314133392, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "67D"
+      ], 
+      "housenumber": "67D", 
+      "lat": 50.884249198976, 
+      "lon": 3.993151126213, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
       "source": "manueleAanduidingVanGebouw", 

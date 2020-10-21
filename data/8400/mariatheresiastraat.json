@@ -56,18 +56,19 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "-101", 
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.223704043047, 
-      "lon": 2.905778092401, 
+      "lat": 51.223739445963, 
+      "lon": 2.905856584066, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -83,6 +84,11 @@
       "street": "Maria Theresiastraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -134,18 +140,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "0401"
+        "0301"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.223508989635, 
-      "lon": 2.906122374702, 
+      "lat": 51.223519499692, 
+      "lon": 2.906107155582, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -165,8 +170,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.224093795387, 
-      "lon": 2.905802375604, 
+      "lat": 51.22409572506, 
+      "lon": 2.905805751167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -284,6 +289,12 @@
       "street": "Maria Theresiastraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -338,46 +349,31 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "3", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.224333594528, 
-      "lon": 2.905194537417, 
+      "lat": 51.224330815317, 
+      "lon": 2.905158831843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
       "hnrlbls": [
-        "32A"
-      ], 
-      "housenumber": "32A", 
-      "lat": 51.224308794959, 
-      "lon": 2.905108410772, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maria Theresiastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.224457336184, 
-      "lon": 2.905415576929, 
+      "lat": 51.224417760182, 
+      "lon": 2.905334065547, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -399,14 +395,14 @@
     }, 
     {
       "hnrlbls": [
-        "33-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.224457336184, 
-      "lon": 2.905415576929, 
+      "lat": 51.224459052254, 
+      "lon": 2.90529268192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -544,8 +540,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.224567111412, 
-      "lon": 2.904820260261, 
+      "lat": 51.224564917426, 
+      "lon": 2.904817322516, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -606,20 +602,20 @@
     }, 
     {
       "busnrs": [
-        "-101", 
+        "0001", 
+        "0101", 
         "0201", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.223746108047, 
-      "lon": 2.906213582538, 
+      "lat": 51.223712062211, 
+      "lon": 2.906135763888, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -736,20 +732,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "5"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0501"
       ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.224958160177, 
-      "lon": 2.904753150794, 
+      "lat": 51.224954781518, 
+      "lon": 2.904741659829, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {

@@ -133,6 +133,40 @@
       "street": "Lendeleedsestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.911144245068, 
+      "lon": 3.229411846928, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lendeleedsestraat"
+    }, 
+    {
       "hnrlbls": [
         "107"
       ], 
@@ -194,18 +228,6 @@
     }, 
     {
       "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.910533285953, 
-      "lon": 3.230593017585, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lendeleedsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -221,11 +243,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.910512477662, 
-      "lon": 3.230653815922, 
+      "lat": 50.910491199953, 
+      "lon": 3.230629019371, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lendeleedsestraat"
     }, 
     {
@@ -1542,15 +1564,24 @@
       "street": "Lendeleedsestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "262"
       ], 
       "housenumber": "262", 
       "lat": 50.90004025975, 
       "lon": 3.23535008123, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lendeleedsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "262_1"
+      ], 
+      "housenumber": "262_1", 
+      "lat": 50.899905601786, 
+      "lon": 3.235202913219, 
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "manueleAanduidingVanPerceel", 

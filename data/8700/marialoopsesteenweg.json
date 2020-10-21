@@ -221,11 +221,11 @@
         "2D"
       ], 
       "housenumber": "2D", 
-      "lat": 50.982971527266, 
-      "lon": 3.33327999403, 
+      "lat": 50.982964218239, 
+      "lon": 3.332786527663, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Marialoopsesteenweg"
     }, 
     {
@@ -365,8 +365,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.979397630113, 
-      "lon": 3.334230440415, 
+      "lat": 50.979379772432, 
+      "lon": 3.334479622967, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -374,7 +374,7 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5-5A"
       ], 
       "housenumber": "5", 
       "lat": 50.972740612963, 
@@ -382,6 +382,18 @@
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marialoopsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "5-5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.972740612963, 
+      "lon": 3.328318175185, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Marialoopsesteenweg"
     }, 
     {

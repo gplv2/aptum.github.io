@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -53,9 +56,9 @@
     }, 
     {
       "busnrs": [
-        "0002", 
-        "0003", 
-        "0101"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "13"
@@ -82,24 +85,31 @@
     }, 
     {
       "busnrs": [
-        "0101", 
         "0201", 
+        "0202", 
+        "0301", 
         "0302", 
+        "0401", 
         "0402", 
-        "0501"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.231004577395, 
-      "lon": 2.917422351706, 
+      "lat": 51.231054744952, 
+      "lon": 2.917356640697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lijnbaanstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -112,18 +122,15 @@
       "street": "Lijnbaanstraat"
     }, 
     {
-      "busnrs": [
-        "0201"
-      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.230765408431, 
-      "lon": 2.917654174383, 
+      "lat": 51.230771488182, 
+      "lon": 2.917680761817, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lijnbaanstraat"
     }, 
     {
@@ -140,10 +147,15 @@
     }, 
     {
       "busnrs": [
-        "10", 
-        "3", 
-        "4", 
-        "6"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "19"
@@ -217,6 +229,11 @@
       "street": "Lijnbaanstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -262,6 +279,10 @@
       "street": "Lijnbaanstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -290,8 +311,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.230514577253, 
-      "lon": 2.917778106119, 
+      "lat": 51.230515800273, 
+      "lon": 2.917775204274, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -409,10 +430,12 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0201", 
+        "0202", 
         "0301", 
         "0302", 
-        "0501", 
-        "1"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "4"
@@ -558,12 +581,17 @@
       "street": "Lijnbaanstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.23128107354, 
-      "lon": 2.917448542323, 
+      "lat": 51.231282317306, 
+      "lon": 2.917454660873, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.104585617961, 
+      "lon": 3.159516208972, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -49,7 +61,7 @@
       "street": "Koning Albertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0201"
       ], 
       "hnrlbls": [
@@ -132,8 +144,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.104805100249, 
-      "lon": 3.159081288588, 
+      "lat": 51.104803734549, 
+      "lon": 3.159079610356, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
@@ -168,8 +180,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.108506789926, 
-      "lon": 3.151421299314, 
+      "lat": 51.108484997285, 
+      "lon": 3.151426436443, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -360,8 +372,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.10897789369, 
-      "lon": 3.150343964419, 
+      "lat": 51.108948438049, 
+      "lon": 3.150338305447, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -480,8 +492,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.109313784619, 
-      "lon": 3.149563037564, 
+      "lat": 51.109313787569, 
+      "lon": 3.149563323108, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -1374,11 +1386,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.112257501092, 
-      "lon": 3.143681105595, 
+      "lat": 51.112271404141, 
+      "lon": 3.143686739775, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1386,11 +1398,11 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.112291014353, 
-      "lon": 3.143609960339, 
+      "lat": 51.112303503115, 
+      "lon": 3.143617916671, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1398,11 +1410,11 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.112323452967, 
-      "lon": 3.143530559593, 
+      "lat": 51.112332197163, 
+      "lon": 3.143550182424, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1410,11 +1422,11 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.112355983989, 
-      "lon": 3.143468723153, 
+      "lat": 51.112369135983, 
+      "lon": 3.143479946937, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1422,11 +1434,11 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.1123937094, 
-      "lon": 3.143396324653, 
+      "lat": 51.112404789821, 
+      "lon": 3.143407174251, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1456,11 +1468,11 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 51.112501375825, 
-      "lon": 3.143237257888, 
+      "lat": 51.112500959068, 
+      "lon": 3.143240410856, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1548,7 +1560,7 @@
       "street": "Koning Albertstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
         "0101", 
         "0102", 
@@ -1564,7 +1576,7 @@
       "lon": 3.157836068604, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1712,20 +1724,32 @@
       "street": "Koning Albertstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "201", 
-        "A101"
-      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.106127771534, 
-      "lon": 3.15705501221, 
+      "lat": 51.106074325667, 
+      "lon": 3.157041831314, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.106171799276, 
+      "lon": 3.157017742969, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -2199,8 +2223,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.106793410574, 
-      "lon": 3.15423255469, 
+      "lat": 51.106806881155, 
+      "lon": 3.154248627154, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2238,8 +2262,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.107103620321, 
-      "lon": 3.154325317801, 
+      "lat": 51.107088288809, 
+      "lon": 3.154311863999, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2286,8 +2310,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.107170498884, 
-      "lon": 3.154246038724, 
+      "lat": 51.107153302501, 
+      "lon": 3.154217353376, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2298,8 +2322,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.107617923807, 
-      "lon": 3.154009644053, 
+      "lat": 51.107602064766, 
+      "lon": 3.153997346349, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2310,8 +2334,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.107222390148, 
-      "lon": 3.154116881721, 
+      "lat": 51.107191792202, 
+      "lon": 3.154078833815, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2322,8 +2346,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.107637492711, 
-      "lon": 3.153910743052, 
+      "lat": 51.107748643168, 
+      "lon": 3.153992682098, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2378,12 +2402,22 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.104757810102, 
-      "lon": 3.159177471158, 
+      "lat": 51.104758162289, 
+      "lon": 3.159176748069, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 

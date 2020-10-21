@@ -381,8 +381,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.099000970536, 
-      "lon": 4.233372711479, 
+      "lat": 51.099001064989, 
+      "lon": 4.233376708482, 
       "municipality": "Bornem", 
       "pcode": "2880", 
       "source": "afgeleidVanGebouw", 
@@ -421,14 +421,14 @@
         "101"
       ], 
       "hnrlbls": [
-        "6-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.098499298843, 
-      "lon": 4.234156614949, 
+      "lat": 51.098495792732, 
+      "lon": 4.234156196716, 
       "municipality": "Bornem", 
       "pcode": "2880", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Boomstraat"
     }, 
     {
@@ -892,7 +892,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "GVL"
       ], 
       "hnrlbls": [
         "57"
@@ -1211,7 +1212,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "GVL"
       ], 
       "hnrlbls": [
         "76"

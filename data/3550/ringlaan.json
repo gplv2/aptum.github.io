@@ -17,9 +17,6 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -29,18 +26,6 @@
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "100A"
-      ], 
-      "housenumber": "100A", 
-      "lat": 51.027124285648, 
-      "lon": 5.321063744475, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Ringlaan"
     }, 
     {
@@ -80,12 +65,22 @@
       "street": "Ringlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.023731278812, 
-      "lon": 5.311206919591, 
+      "lat": 51.023754144491, 
+      "lon": 5.311202961347, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -140,15 +135,6 @@
       "street": "Ringlaan"
     }, 
     {
-      "apptnrs": [
-        "13_1", 
-        "13_11", 
-        "13_12", 
-        "13_2", 
-        "13_21", 
-        "13_22", 
-        "13_31"
-      ], 
       "busnrs": [
         "1", 
         "11", 
@@ -162,8 +148,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.023792685746, 
-      "lon": 5.311374360156, 
+      "lat": 51.023819375621, 
+      "lon": 5.311364349725, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -463,14 +449,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "32-34"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.024242556876, 
-      "lon": 5.311348927467, 
+      "lat": 51.024208855487, 
+      "lon": 5.311302777325, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -483,14 +469,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "32-34"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.024242556876, 
-      "lon": 5.311348927467, 
+      "lat": 51.024246681633, 
+      "lon": 5.311451214023, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -726,11 +712,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.025705216917, 
-      "lon": 5.312948555524, 
+      "lat": 51.02577780312, 
+      "lon": 5.312988508208, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {

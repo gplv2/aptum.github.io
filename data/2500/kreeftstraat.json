@@ -2,26 +2,244 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1A-9B"
+        "10"
       ], 
-      "housenumber": "1A", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "housenumber": "10", 
+      "lat": 51.142655990356, 
+      "lon": 4.56128519961, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
       "hnrlbls": [
-        "1A-9B"
+        "11"
       ], 
-      "housenumber": "1B", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "housenumber": "11", 
+      "lat": 51.142313091342, 
+      "lon": 4.560723499774, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.142776221223, 
+      "lon": 4.56141801672, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3", 
+        "301", 
+        "302", 
+        "303", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.142445397126, 
+      "lon": 4.560618019019, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.142809231669, 
+      "lon": 4.561514321019, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.142572623513, 
+      "lon": 4.560540523814, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.142858191872, 
+      "lon": 4.561641127996, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "3", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402", 
+        "403", 
+        "404"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.142771148327, 
+      "lon": 4.560727389725, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.142901889686, 
+      "lon": 4.56174290692, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.142901488876, 
+      "lon": 4.56088968367, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.141421692832, 
+      "lon": 4.561432271128, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.141540906591, 
+      "lon": 4.561472631003, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.142955673465, 
+      "lon": 4.561888024891, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.143094208198, 
+      "lon": 4.56132816621, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.142998536968, 
+      "lon": 4.562005090513, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.143212029709, 
+      "lon": 4.56161472994, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
@@ -38,6 +256,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.143316037609, 
+      "lon": 4.561883232955, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -50,6 +280,18 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.143379927156, 
+      "lon": 4.56205954561, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -58,6 +300,18 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.143436302194, 
+      "lon": 4.562213821541, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
@@ -185,23 +439,35 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.141568326769, 
-      "lon": 4.561305134369, 
+      "lat": 51.141583944088, 
+      "lon": 4.561374072069, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
       "hnrlbls": [
-        "1A-9B"
+        "3B"
       ], 
       "housenumber": "3B", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "lat": 51.14166687351, 
+      "lon": 4.561341264701, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.142460418173, 
+      "lon": 4.561107203348, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
@@ -451,23 +717,35 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 51.14173101069, 
-      "lon": 4.561202211696, 
+      "lat": 51.141739278678, 
+      "lon": 4.561258116148, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
       "hnrlbls": [
-        "1A-9B"
+        "5B"
       ], 
       "housenumber": "5B", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "lat": 51.14182754254, 
+      "lon": 4.561261196158, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.142535646306, 
+      "lon": 4.561166529137, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
@@ -652,14 +930,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A-9B"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "lat": 51.141894654515, 
+      "lon": 4.561116867888, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kreeftstraat"
     }, 
     {
@@ -667,20 +945,20 @@
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 51.141967034522, 
-      "lon": 4.561049007858, 
+      "lat": 51.141965557149, 
+      "lon": 4.561017994322, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kreeftstraat"
     }, 
     {
       "hnrlbls": [
-        "9A"
+        "8"
       ], 
-      "housenumber": "9A", 
-      "lat": 51.142033947319, 
-      "lon": 4.560916395142, 
+      "housenumber": "8", 
+      "lat": 51.142590923172, 
+      "lon": 4.561223629206, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "afgeleidVanGebouw", 
@@ -688,14 +966,26 @@
     }, 
     {
       "hnrlbls": [
-        "1A-9B"
+        "9A"
       ], 
-      "housenumber": "9B", 
-      "lat": 51.143904336924, 
-      "lon": 4.56368732382, 
+      "housenumber": "9A", 
+      "lat": 51.142037361584, 
+      "lon": 4.560972279858, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kreeftstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.142122379745, 
+      "lon": 4.560926334031, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kreeftstraat"
     }
   ]

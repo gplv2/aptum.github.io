@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "AB 1", 
-        "AB 2"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -719,11 +715,11 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.122208785503, 
-      "lon": 4.566555668179, 
+      "lat": 51.122210628306, 
+      "lon": 4.566421986184, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waversesteenweg"
     }, 
     {
@@ -743,11 +739,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.122135094357, 
-      "lon": 4.566545785488, 
+      "lat": 51.122122224644, 
+      "lon": 4.566501738955, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waversesteenweg"
     }, 
     {
@@ -1039,10 +1035,14 @@
       "street": "Waversesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "1_1"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "1_1", 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
       "lat": 51.125111544695, 
       "lon": 4.570510094614, 
       "municipality": "Lier", 
@@ -1424,11 +1424,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.125423771677, 
-      "lon": 4.570115064069, 
+      "lat": 51.125424403575, 
+      "lon": 4.570113495552, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Waversesteenweg"
     }, 
     {
@@ -1515,8 +1515,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.12449149962, 
-      "lon": 4.568880340532, 
+      "lat": 51.124474751662, 
+      "lon": 4.568950116306, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1546,8 +1546,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.124394735087, 
-      "lon": 4.568801506762, 
+      "lat": 51.124364924713, 
+      "lon": 4.568835374043, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanPerceel", 

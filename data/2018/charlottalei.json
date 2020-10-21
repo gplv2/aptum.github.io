@@ -60,23 +60,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.209251719443, 
-      "lon": 4.418054718667, 
+      "lat": 51.209295848312, 
+      "lon": 4.418064925873, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Charlottalei"
-    }, 
-    {
-      "hnrlbls": [
-        "101"
-      ], 
-      "housenumber": "101", 
-      "lat": 51.208503114121, 
-      "lon": 4.418802158849, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Charlottalei"
     }, 
     {
@@ -231,8 +219,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.208863171652, 
-      "lon": 4.419470236012, 
+      "lat": 51.208862901937, 
+      "lon": 4.419470378811, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -263,8 +251,23 @@
       "street": "Charlottalei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "702", 
+        "801"
+      ], 
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 51.208616484098, 
@@ -281,27 +284,6 @@
       "housenumber": "22", 
       "lat": 51.208869148975, 
       "lon": 4.418108828114, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Charlottalei"
-    }, 
-    {
-      "apptnrs": [
-        "101", 
-        "102", 
-        "301", 
-        "401", 
-        "501", 
-        "601", 
-        "701"
-      ], 
-      "hnrlbls": [
-        "21-23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.208616484098, 
-      "lon": 4.419159447648, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -598,8 +580,7 @@
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8"
+        "7"
       ], 
       "hnrlbls": [
         "38"
@@ -1201,6 +1182,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
+      "street": "Charlottalei"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.209015075116, 
+      "lon": 4.418848792875, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Charlottalei"
     }
   ]

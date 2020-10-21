@@ -73,6 +73,35 @@
       "street": "Terweststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.171954172432, 
+      "lon": 3.92410250314, 
+      "municipality": "Moerbeke", 
+      "pcode": "9180", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Terweststraat"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -100,21 +129,29 @@
         "0301", 
         "0302", 
         "0303", 
-        "0304", 
-        "0401", 
-        "0402", 
-        "0403", 
-        "0404"
+        "0304"
       ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.171691105605, 
+      "lon": 3.923752691467, 
+      "municipality": "Moerbeke", 
+      "pcode": "9180", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Terweststraat"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.17127054583, 
-      "lon": 3.923280989517, 
+      "lat": 51.171272938253, 
+      "lon": 3.923606110502, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terweststraat"
     }, 
     {
@@ -130,28 +167,15 @@
       "street": "Terweststraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204"
-      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.171707993067, 
-      "lon": 3.923152710636, 
+      "lat": 51.171746979745, 
+      "lon": 3.923241704441, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terweststraat"
     }, 
     {
@@ -911,27 +935,37 @@
       "street": "Terweststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.171495014027, 
+      "lon": 3.921547172797, 
+      "municipality": "Moerbeke", 
+      "pcode": "9180", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Terweststraat"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.171637602971, 
-      "lon": 3.921364361694, 
+      "lat": 51.171450600052, 
+      "lon": 3.921449510793, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Terweststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "79"
-      ], 
-      "housenumber": "79", 
-      "lat": 51.171548152341, 
-      "lon": 3.921337192838, 
-      "municipality": "Moerbeke", 
-      "pcode": "9180", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Terweststraat"
     }, 
     {
@@ -939,11 +973,11 @@
         "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 51.171480569307, 
-      "lon": 3.921055303531, 
+      "lat": 51.1714548435, 
+      "lon": 3.921074280765, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terweststraat"
     }, 
     {
@@ -987,8 +1021,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.171181747767, 
-      "lon": 3.92076076061, 
+      "lat": 51.171164233392, 
+      "lon": 3.920764360033, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1035,8 +1069,8 @@
         "93B"
       ], 
       "housenumber": "93B", 
-      "lat": 51.171179249431, 
-      "lon": 3.920409761435, 
+      "lat": 51.171181680091, 
+      "lon": 3.920410739005, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1047,8 +1081,8 @@
         "93C"
       ], 
       "housenumber": "93C", 
-      "lat": 51.171190046562, 
-      "lon": 3.920317719836, 
+      "lat": 51.171191937919, 
+      "lon": 3.920318702575, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1059,8 +1093,8 @@
         "93D"
       ], 
       "housenumber": "93D", 
-      "lat": 51.171210030759, 
-      "lon": 3.920230594459, 
+      "lat": 51.171212461421, 
+      "lon": 3.92023157202, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1071,8 +1105,8 @@
         "93E"
       ], 
       "housenumber": "93E", 
-      "lat": 51.171224540104, 
-      "lon": 3.920145666288, 
+      "lat": 51.171226880883, 
+      "lon": 3.920146644709, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1083,8 +1117,8 @@
         "93F"
       ], 
       "housenumber": "93F", 
-      "lat": 51.17123507009, 
-      "lon": 3.920054342017, 
+      "lat": 51.171236960907, 
+      "lon": 3.920055181768, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1095,8 +1129,8 @@
         "93G"
       ], 
       "housenumber": "93G", 
-      "lat": 51.171276113515, 
-      "lon": 3.91997402046, 
+      "lat": 51.171277824564, 
+      "lon": 3.919974861934, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1167,8 +1201,8 @@
         "97A"
       ], 
       "housenumber": "97A", 
-      "lat": 51.171119752135, 
-      "lon": 3.918707550223, 
+      "lat": 51.171127378671, 
+      "lon": 3.918703902235, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
@@ -1179,8 +1213,8 @@
         "97B"
       ], 
       "housenumber": "97B", 
-      "lat": 51.17112285503, 
-      "lon": 3.918601713088, 
+      "lat": 51.171127873296, 
+      "lon": 3.91859766125, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 

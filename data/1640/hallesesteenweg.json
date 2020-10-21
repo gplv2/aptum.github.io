@@ -415,9 +415,21 @@
     }, 
     {
       "hnrlbls": [
-        "135"
+        "135-137"
       ], 
       "housenumber": "135", 
+      "lat": 50.737074227437, 
+      "lon": 4.331308709853, 
+      "municipality": "Sint-Genesius-Rode", 
+      "pcode": "1640", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hallesesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "135-137"
+      ], 
+      "housenumber": "137", 
       "lat": 50.737074227437, 
       "lon": 4.331308709853, 
       "municipality": "Sint-Genesius-Rode", 
@@ -649,18 +661,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Hallesesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "158"
-      ], 
-      "housenumber": "158", 
-      "lat": 50.737590064088, 
-      "lon": 4.329915886521, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hallesesteenweg"
     }, 
     {
@@ -2218,38 +2218,38 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
         "102", 
-        "2"
+        "103", 
+        "104", 
+        "105", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
-        "82-86"
+        "82A-82B"
       ], 
-      "housenumber": "82", 
-      "lat": 50.739443793161, 
-      "lon": 4.334754545617, 
+      "housenumber": "82A", 
+      "lat": 50.739240057654, 
+      "lon": 4.334974702408, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hallesesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "103", 
-        "104", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "82-86"
+        "82A-82B"
       ], 
-      "housenumber": "82A", 
-      "lat": 50.739443793161, 
-      "lon": 4.334754545617, 
+      "housenumber": "82B", 
+      "lat": 50.739240057654, 
+      "lon": 4.334974702408, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hallesesteenweg"
     }, 
     {
@@ -2266,39 +2266,40 @@
     }, 
     {
       "busnrs": [
-        "104", 
-        "203"
-      ], 
-      "hnrlbls": [
-        "82-86"
-      ], 
-      "housenumber": "84", 
-      "lat": 50.739443793161, 
-      "lon": 4.334754545617, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hallesesteenweg"
-    }, 
-    {
-      "busnrs": [
+        "101", 
         "102", 
         "103", 
+        "104", 
+        "105", 
+        "106", 
         "201", 
         "202", 
+        "203", 
         "204", 
         "205", 
         "206"
       ], 
       "hnrlbls": [
-        "82-86"
+        "84A-84B"
       ], 
       "housenumber": "84A", 
-      "lat": 50.739443793161, 
-      "lon": 4.334754545617, 
+      "lat": 50.738959071773, 
+      "lon": 4.334463759178, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hallesesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "84A-84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 50.738959071773, 
+      "lon": 4.334463759178, 
+      "municipality": "Sint-Genesius-Rode", 
+      "pcode": "1640", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hallesesteenweg"
     }, 
     {
@@ -2315,20 +2316,24 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "101", 
         "102", 
+        "103", 
         "104", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "82-86"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.739443793161, 
-      "lon": 4.334754545617, 
+      "lat": 50.738784267412, 
+      "lon": 4.33400303736, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hallesesteenweg"
     }, 
     {
@@ -2489,18 +2494,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hallesesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 50.737393326416, 
-      "lon": 4.33147477443, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanStraat", 
       "street": "Hallesesteenweg"
     }
   ]

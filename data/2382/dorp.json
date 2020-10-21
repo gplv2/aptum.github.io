@@ -98,6 +98,9 @@
       "street": "Dorp"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -330,7 +333,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -345,15 +347,18 @@
       "street": "Dorp"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.446886097029, 
-      "lon": 5.040519219081, 
+      "lat": 51.446897294674, 
+      "lon": 5.040541675933, 
       "municipality": "Ravels", 
       "pcode": "2382", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorp"
     }, 
     {
@@ -441,9 +446,6 @@
       "street": "Dorp"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "42-44"
       ], 
@@ -869,18 +871,6 @@
       "housenumber": "73", 
       "lat": 51.4473996855, 
       "lon": 5.043051872688, 
-      "municipality": "Ravels", 
-      "pcode": "2382", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "74"
-      ], 
-      "housenumber": "74", 
-      "lat": 51.447267011022, 
-      "lon": 5.043402199345, 
       "municipality": "Ravels", 
       "pcode": "2382", 
       "source": "afgeleidVanGebouw", 

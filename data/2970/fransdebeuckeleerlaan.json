@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -212,9 +212,11 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2", 
-        "3", 
+        "3"
+      ], 
+      "busnrs": [
+        "1", 
         "4"
       ], 
       "hnrlbls": [
@@ -245,15 +247,39 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.241199167096, 
-      "lon": 4.588187801406, 
+      "lat": 51.24119878259, 
+      "lon": 4.588104602852, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans De Beuckeleerlaan"
     }, 
     {
-      "apptnrs": [
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 51.241148643577, 
+      "lon": 4.588144317707, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans De Beuckeleerlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 51.241159652668, 
+      "lon": 4.588265942793, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans De Beuckeleerlaan"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "2"
       ], 

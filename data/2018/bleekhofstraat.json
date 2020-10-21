@@ -175,15 +175,39 @@
       "street": "Bleekhofstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.211469106026, 
-      "lon": 4.427500807798, 
+      "lat": 51.21167025375, 
+      "lon": 4.427526966089, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bleekhofstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.211673433439, 
+      "lon": 4.42745985412, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bleekhofstraat"
     }, 
     {
@@ -288,6 +312,7 @@
     {
       "apptnrs": [
         "101", 
+        "102", 
         "201", 
         "202", 
         "301", 

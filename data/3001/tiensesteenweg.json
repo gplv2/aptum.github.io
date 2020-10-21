@@ -77,6 +77,10 @@
       "street": "Tiensesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "110-112"
       ], 
@@ -794,8 +798,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 50.871205669893, 
-      "lon": 4.724323567959, 
+      "lat": 50.871198519008, 
+      "lon": 4.724250916467, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -806,8 +810,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.871198519008, 
-      "lon": 4.724250916467, 
+      "lat": 50.871205669893, 
+      "lon": 4.724323567959, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -1219,6 +1223,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
         "0202", 
         "0301", 

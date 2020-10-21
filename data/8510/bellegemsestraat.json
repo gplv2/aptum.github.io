@@ -4,10 +4,8 @@
       "busnrs": [
         "11", 
         "12", 
-        "2", 
         "21", 
-        "22", 
-        "3"
+        "22"
       ], 
       "hnrlbls": [
         "1"
@@ -345,18 +343,6 @@
       "housenumber": "12A", 
       "lat": 50.777633669128, 
       "lon": 3.281027321724, 
-      "municipality": "Kortrijk", 
-      "pcode": "8510", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bellegemsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.777902297718, 
-      "lon": 3.28119071266, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "afgeleidVanGebouw", 
@@ -957,19 +943,7 @@
     }, 
     {
       "hnrlbls": [
-        "187-189"
-      ], 
-      "housenumber": "187", 
-      "lat": 50.777550503024, 
-      "lon": 3.294044338195, 
-      "municipality": "Kortrijk", 
-      "pcode": "8510", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bellegemsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "187-189"
+        "189"
       ], 
       "housenumber": "189", 
       "lat": 50.777550503024, 
@@ -1251,8 +1225,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.777477966898, 
-      "lon": 3.281813793654, 
+      "lat": 50.77717108891, 
+      "lon": 3.281859302272, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "afgeleidVanGebouw", 
@@ -1323,11 +1297,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.777682853472, 
-      "lon": 3.296498712586, 
+      "lat": 50.777907989341, 
+      "lon": 3.296342711903, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bellegemsestraat"
     }, 
     {
@@ -1431,8 +1405,8 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 50.777997733281, 
-      "lon": 3.297386450415, 
+      "lat": 50.777942508977, 
+      "lon": 3.297462719034, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "afgeleidVanGebouw", 
@@ -1613,8 +1587,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11"
+        "0001", 
+        "0011"
       ], 
       "hnrlbls": [
         "32"
@@ -1797,18 +1771,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.777856933648, 
-      "lon": 3.280739698704, 
-      "municipality": "Kortrijk", 
-      "pcode": "8510", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bellegemsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -1940,13 +1902,14 @@
       "street": "Bellegemsestraat"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "busnrs": [
-        "0201", 
-        "0202", 
-        "11", 
-        "12", 
-        "21", 
-        "22"
+        "0001"
       ], 
       "hnrlbls": [
         "61-65"
@@ -1996,11 +1959,14 @@
       "street": "Bellegemsestraat"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22"
+        "0001"
       ], 
       "hnrlbls": [
         "61-65"

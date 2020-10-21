@@ -2,7 +2,9 @@
   "addresses": [
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "10"
@@ -54,6 +56,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -535,6 +538,18 @@
       "housenumber": "63", 
       "lat": 50.90465465799, 
       "lon": 3.917801986893, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.905300569022, 
+      "lon": 3.918227714418, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

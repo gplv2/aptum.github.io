@@ -85,12 +85,26 @@
       "street": "Staatsbaan"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "A006", 
+        "A007", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005"
+      ], 
       "hnrlbls": [
-        "104"
+        "104-106"
       ], 
       "housenumber": "104", 
-      "lat": 50.894773446184, 
-      "lon": 4.817125863541, 
+      "lat": 50.895039328341, 
+      "lon": 4.817274386102, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -109,12 +123,28 @@
       "street": "Staatsbaan"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "A006", 
+        "A007", 
+        "A008", 
+        "A009", 
+        "A010", 
+        "A011", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
-        "106-106A"
+        "104-106"
       ], 
       "housenumber": "106", 
-      "lat": 50.894814318441, 
-      "lon": 4.817298245526, 
+      "lat": 50.895039328341, 
+      "lon": 4.817274386102, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -122,14 +152,14 @@
     }, 
     {
       "hnrlbls": [
-        "106-106A"
+        "106A-108"
       ], 
       "housenumber": "106A", 
-      "lat": 50.894814318441, 
-      "lon": 4.817298245526, 
+      "lat": 50.895104993219, 
+      "lon": 4.817193140291, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Staatsbaan"
     }, 
     {
@@ -146,14 +176,14 @@
     }, 
     {
       "hnrlbls": [
-        "108"
+        "106A-108"
       ], 
       "housenumber": "108", 
-      "lat": 50.895021449842, 
-      "lon": 4.817506475196, 
+      "lat": 50.895104993219, 
+      "lon": 4.817193140291, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1379,6 +1409,35 @@
       "street": "Staatsbaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205"
+      ], 
+      "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 50.897181834669, 
+      "lon": 4.826592541356, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
       "hnrlbls": [
         "191"
       ], 
@@ -1388,18 +1447,6 @@
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
-      "street": "Staatsbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "192"
-      ], 
-      "housenumber": "192", 
-      "lat": 50.897246733012, 
-      "lon": 4.827031278009, 
-      "municipality": "Lubbeek", 
-      "pcode": "3210", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1609,11 +1656,11 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 50.898037558986, 
-      "lon": 4.829984525398, 
+      "lat": 50.897877861057, 
+      "lon": 4.829972719527, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1621,8 +1668,8 @@
         "208A"
       ], 
       "housenumber": "208A", 
-      "lat": 50.897941284235, 
-      "lon": 4.830189270867, 
+      "lat": 50.898013173627, 
+      "lon": 4.830150460334, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1633,8 +1680,8 @@
         "208B"
       ], 
       "housenumber": "208B", 
-      "lat": 50.897957027445, 
-      "lon": 4.830277701637, 
+      "lat": 50.89803686746, 
+      "lon": 4.830251620952, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -2149,8 +2196,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.898904949117, 
-      "lon": 4.833787859022, 
+      "lat": 50.898901911395, 
+      "lon": 4.833783137811, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -2194,14 +2241,14 @@
     }, 
     {
       "hnrlbls": [
-        "24a"
+        "24A"
       ], 
-      "housenumber": "24a", 
-      "lat": 50.892886169016, 
-      "lon": 4.804325711509, 
+      "housenumber": "24A", 
+      "lat": 50.892913466618, 
+      "lon": 4.804309761651, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -2612,8 +2659,8 @@
         "290a"
       ], 
       "housenumber": "290a", 
-      "lat": 50.899894783636, 
-      "lon": 4.837940843584, 
+      "lat": 50.899899380651, 
+      "lon": 4.837960222949, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -2738,8 +2785,8 @@
         "322"
       ], 
       "housenumber": "322", 
-      "lat": 50.900814807775, 
-      "lon": 4.842137085163, 
+      "lat": 50.900817615441, 
+      "lon": 4.842154172699, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3428,11 +3475,45 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.89419500938, 
-      "lon": 4.816291800661, 
+      "lat": 50.894231484598, 
+      "lon": 4.816132810267, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008"
+      ], 
+      "hnrlbls": [
+        "65A"
+      ], 
+      "housenumber": "65A", 
+      "lat": 50.894248121966, 
+      "lon": 4.816248812872, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "65B"
+      ], 
+      "housenumber": "65B", 
+      "lat": 50.894263883091, 
+      "lon": 4.816358837326, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Staatsbaan"
     }, 
     {
@@ -3767,8 +3848,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.894960684235, 
-      "lon": 4.819286647136, 
+      "lat": 50.894951505637, 
+      "lon": 4.819265664085, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 

@@ -128,11 +128,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.239761142456, 
-      "lon": 4.583192510147, 
+      "lat": 51.23976419478, 
+      "lon": 4.583145127906, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
@@ -160,7 +160,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -216,7 +216,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -285,7 +285,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -293,11 +293,11 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.240101826265, 
-      "lon": 4.582683888278, 
+      "lat": 51.240097695034, 
+      "lon": 4.582682007753, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
@@ -400,7 +400,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -416,7 +416,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -452,8 +452,10 @@
       "apptnrs": [
         "1", 
         "2", 
-        "3", 
         "4"
+      ], 
+      "busnrs": [
+        "3"
       ], 
       "hnrlbls": [
         "40"
@@ -479,7 +481,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -521,7 +523,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -537,7 +539,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -567,21 +569,15 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.237653331137, 
-      "lon": 4.583461848749, 
+      "lat": 51.237652334341, 
+      "lon": 4.583466282872, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
@@ -601,15 +597,15 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.240028442404, 
-      "lon": 4.582705315561, 
+      "lat": 51.240033866292, 
+      "lon": 4.582688300673, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -619,8 +615,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.237608582037, 
-      "lon": 4.58340537036, 
+      "lat": 51.237588719755, 
+      "lon": 4.583552329225, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -647,7 +643,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -708,7 +704,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -746,7 +742,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -780,7 +776,9 @@
     }, 
     {
       "apptnrs": [
-        "1", 
+        "1"
+      ], 
+      "busnrs": [
         "2", 
         "3", 
         "4", 
@@ -910,14 +908,17 @@
         "74A"
       ], 
       "housenumber": "74A", 
-      "lat": 51.236575758935, 
-      "lon": 4.583783466158, 
+      "lat": 51.23660165416, 
+      "lon": 4.58387722678, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1137,7 +1138,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -1173,11 +1174,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.2357740557, 
-      "lon": 4.584930629276, 
+      "lat": 51.2357411391, 
+      "lon": 4.584744916173, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkelei"
     }, 
     {
@@ -1205,7 +1206,7 @@
       "street": "Kerkelei"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3"

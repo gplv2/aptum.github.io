@@ -113,15 +113,19 @@
       "street": "Poortstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.08996520269, 
-      "lon": 5.520802974828, 
+      "lat": 51.089955178067, 
+      "lon": 5.520862825083, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Poortstraat"
     }, 
     {
@@ -129,11 +133,11 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.089924734237, 
-      "lon": 5.520694058841, 
+      "lat": 51.08989600532, 
+      "lon": 5.52070848203, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Poortstraat"
     }, 
     {
@@ -194,6 +198,18 @@
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
       "source": "afgeleidVanGebouw", 
+      "street": "Poortstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.088978941545, 
+      "lon": 5.520074208123, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3670", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Poortstraat"
     }, 
     {

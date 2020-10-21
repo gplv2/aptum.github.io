@@ -203,25 +203,20 @@
       "street": "Van Arteveldestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "5"
-      ], 
       "hnrlbls": [
-        "23-25"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.220122598382, 
-      "lon": 4.419461037534, 
+      "lat": 51.220090276247, 
+      "lon": 4.419584666522, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Arteveldestraat"
     }, 
     {
       "hnrlbls": [
-        "23-25"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.220122598382, 
@@ -425,21 +420,33 @@
       "street": "Van Arteveldestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.220337591811, 
-      "lon": 4.420097778565, 
+      "lat": 51.220326453198, 
+      "lon": 4.419877201152, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Van Arteveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 51.220347843361, 
+      "lon": 4.419882234513, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Arteveldestraat"
     }, 
     {
@@ -830,8 +837,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.220887685538, 
-      "lon": 4.419677868343, 
+      "lat": 51.220891214865, 
+      "lon": 4.419623195518, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -874,8 +881,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.221031742768, 
-      "lon": 4.420148506769, 
+      "lat": 51.221032194647, 
+      "lon": 4.420142925078, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -974,7 +981,6 @@
         "101", 
         "102", 
         "201", 
-        "202", 
         "301"
       ], 
       "hnrlbls": [
@@ -1021,7 +1027,8 @@
         "001", 
         "101", 
         "201", 
-        "301"
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "7"

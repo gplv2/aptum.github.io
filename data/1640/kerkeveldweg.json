@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "/ZN-8"
+        "1-8"
       ], 
       "housenumber": "1", 
       "lat": 50.735037649788, 
@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.733201356114, 
-      "lon": 4.325760838589, 
+      "lat": 50.733201266165, 
+      "lon": 4.325760697018, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -281,11 +281,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.735742047307, 
-      "lon": 4.330503992607, 
+      "lat": 50.735696063332, 
+      "lon": 4.330360245514, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkeveldweg"
     }, 
     {
@@ -707,7 +707,19 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-8"
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.734261953246, 
+      "lon": 4.326719596061, 
+      "municipality": "Sint-Genesius-Rode", 
+      "pcode": "1640", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkeveldweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1-8"
       ], 
       "housenumber": "8", 
       "lat": 50.735037649788, 
@@ -787,18 +799,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkeveldweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-8"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 50.735037649788, 
-      "lon": 4.32952485507, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanStraat", 
       "street": "Kerkeveldweg"
     }
   ]

@@ -290,9 +290,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "34"
@@ -330,15 +329,19 @@
       "street": "Spalaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.20740850986, 
-      "lon": 2.882780219616, 
+      "lat": 51.207424294134, 
+      "lon": 2.882820076777, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spalaan"
     }, 
     {
@@ -502,8 +505,8 @@
         "53A"
       ], 
       "housenumber": "53A", 
-      "lat": 51.208270202894, 
-      "lon": 2.881598633834, 
+      "lat": 51.208261620314, 
+      "lon": 2.881573860925, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -694,8 +697,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.206343899074, 
-      "lon": 2.885767338774, 
+      "lat": 51.206337018983, 
+      "lon": 2.885763550183, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -779,25 +782,25 @@
         "0204", 
         "0205", 
         "0206", 
-        "0207", 
         "0301", 
         "0302", 
         "0303", 
         "0304", 
         "0305", 
-        "0307", 
+        "0306", 
         "0401", 
         "0402", 
         "0403", 
         "0404", 
+        "0405", 
         "0501"
       ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.210946789364, 
-      "lon": 2.879235527305, 
+      "lat": 51.210914629261, 
+      "lon": 2.879166133655, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -101,8 +101,7 @@
         "0.0"
       ], 
       "busnrs": [
-        "1", 
-        "GVLO"
+        "1"
       ], 
       "hnrlbls": [
         "109"
@@ -191,8 +190,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.865635781493, 
-      "lon": 4.441719387481, 
+      "lat": 50.865629667144, 
+      "lon": 4.441721792757, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -323,8 +322,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.866173479097, 
-      "lon": 4.442088287762, 
+      "lat": 50.866180760469, 
+      "lon": 4.442088441285, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -488,11 +487,11 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.865794301729, 
-      "lon": 4.442658593865, 
+      "lat": 50.865843669392, 
+      "lon": 4.442634239418, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -941,7 +940,7 @@
     }, 
     {
       "hnrlbls": [
-        "17-17c"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 50.864390016521, 
@@ -994,26 +993,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102"
-      ], 
-      "hnrlbls": [
-        "173"
-      ], 
-      "housenumber": "173", 
-      "lat": 50.867006785189, 
-      "lon": 4.445866695335, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "173A"
@@ -1027,9 +1010,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "102"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "173B"
@@ -1043,10 +1027,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "173C"
@@ -1060,9 +1044,9 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "173D"
@@ -1077,11 +1061,35 @@
     }, 
     {
       "hnrlbls": [
+        "173E"
+      ], 
+      "housenumber": "173E", 
+      "lat": 50.867194999274, 
+      "lon": 4.446175409176, 
+      "municipality": "Zaventem", 
+      "pcode": "1932", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "173H"
       ], 
       "housenumber": "173H", 
       "lat": 50.867356560415, 
       "lon": 4.446009472413, 
+      "municipality": "Zaventem", 
+      "pcode": "1932", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "173I"
+      ], 
+      "housenumber": "173I", 
+      "lat": 50.867342512138, 
+      "lon": 4.445911288546, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1136,9 +1144,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "173O"
@@ -1152,10 +1161,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "173P"
@@ -1202,8 +1211,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.867076237737, 
-      "lon": 4.446461026412, 
+      "lat": 50.867077136018, 
+      "lon": 4.446462022296, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -1226,8 +1235,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.867088429691, 
-      "lon": 4.446511476294, 
+      "lat": 50.867085010944, 
+      "lon": 4.446515590182, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -1291,18 +1300,6 @@
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "183"
-      ], 
-      "housenumber": "183", 
-      "lat": 50.867286823331, 
-      "lon": 4.447319820009, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1408,15 +1405,18 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 50.866691591061, 
-      "lon": 4.447378620671, 
+      "lat": 50.866671162362, 
+      "lon": 4.448337165105, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1427,11 +1427,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.867464649477, 
-      "lon": 4.448093047637, 
+      "lat": 50.867400959571, 
+      "lon": 4.448026456956, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1439,11 +1439,11 @@
         "195A"
       ], 
       "housenumber": "195A", 
-      "lat": 50.867430121736, 
-      "lon": 4.448105063595, 
+      "lat": 50.867405704713, 
+      "lon": 4.448054734176, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1466,11 +1466,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.867484759397, 
-      "lon": 4.448131863243, 
+      "lat": 50.867418792213, 
+      "lon": 4.44810916392, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1519,14 +1519,6 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "200"
       ], 
@@ -1539,15 +1531,12 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "apptnrs": [
-        "2.0"
-      ], 
       "hnrlbls": [
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.867455022126, 
-      "lon": 4.44823736029, 
+      "lat": 50.8674518631, 
+      "lon": 4.448255964254, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1578,8 +1567,9 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "204"
@@ -1610,6 +1600,11 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "x001", 
+        "x011", 
+        "x021"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -1676,7 +1671,7 @@
       "lon": 4.448663257668, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1711,6 +1706,9 @@
       "apptnrs": [
         "011", 
         "021"
+      ], 
+      "busnrs": [
+        "001"
       ], 
       "hnrlbls": [
         "216"
@@ -1874,8 +1872,8 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 50.867794430202, 
-      "lon": 4.449591460233, 
+      "lat": 50.867883902112, 
+      "lon": 4.449423419456, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -1988,8 +1986,8 @@
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 50.867913879616, 
-      "lon": 4.450265162304, 
+      "lat": 50.867915772177, 
+      "lon": 4.450258346852, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -2145,8 +2143,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.868368536437, 
-      "lon": 4.451959015929, 
+      "lat": 50.868368986214, 
+      "lon": 4.451958590555, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -2286,6 +2284,10 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "268A"
       ], 
@@ -2302,8 +2304,8 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.868902920364, 
-      "lon": 4.454734554519, 
+      "lat": 50.868908588229, 
+      "lon": 4.45472845637, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -2653,18 +2655,6 @@
     }, 
     {
       "hnrlbls": [
-        "315"
-      ], 
-      "housenumber": "315", 
-      "lat": 50.869851448618, 
-      "lon": 4.45824654917, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "316"
       ], 
       "housenumber": "316", 
@@ -2753,54 +2743,51 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "19"
-      ], 
       "hnrlbls": [
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 50.867553257225, 
-      "lon": 4.456402080754, 
+      "lat": 50.86898895867, 
+      "lon": 4.457595817876, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "326A-326J"
+        "326A"
       ], 
       "housenumber": "326A", 
-      "lat": 50.867185100976, 
-      "lon": 4.455612697282, 
+      "lat": 50.867027576126, 
+      "lon": 4.45553157455, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "326A-326J"
+        "326B"
       ], 
       "housenumber": "326B", 
-      "lat": 50.867185100976, 
-      "lon": 4.455612697282, 
+      "lat": 50.867110512354, 
+      "lon": 4.455941415923, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "326A-326J"
+        "326E"
       ], 
       "housenumber": "326E", 
-      "lat": 50.867185100976, 
-      "lon": 4.455612697282, 
+      "lat": 50.867568160586, 
+      "lon": 4.45618845578, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2837,18 +2824,6 @@
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "342"
-      ], 
-      "housenumber": "342", 
-      "lat": 50.868010360942, 
-      "lon": 4.456773569077, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2925,18 +2900,6 @@
     }, 
     {
       "hnrlbls": [
-        "353"
-      ], 
-      "housenumber": "353", 
-      "lat": 50.870929323056, 
-      "lon": 4.462762360787, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "354"
       ], 
       "housenumber": "354", 
@@ -2960,18 +2923,6 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "366"
-      ], 
-      "housenumber": "366", 
-      "lat": 50.869354454691, 
-      "lon": 4.460627973627, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -2980,7 +2931,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "369-369F"
+        "369"
       ], 
       "housenumber": "369", 
       "lat": 50.871041737216, 
@@ -2988,21 +2939,6 @@
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "369-369F"
-      ], 
-      "housenumber": "369F", 
-      "lat": 50.871041737216, 
-      "lon": 4.463482441008, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3113,7 +3049,7 @@
     }, 
     {
       "hnrlbls": [
-        "392-392B"
+        "392"
       ], 
       "housenumber": "392", 
       "lat": 50.869997515635, 
@@ -3125,26 +3061,26 @@
     }, 
     {
       "hnrlbls": [
-        "392-392B"
+        "392A"
       ], 
       "housenumber": "392A", 
-      "lat": 50.869997515635, 
-      "lon": 4.462601371156, 
+      "lat": 50.869989749393, 
+      "lon": 4.462533591075, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "392-392B"
+        "392B"
       ], 
       "housenumber": "392B", 
-      "lat": 50.869997515635, 
-      "lon": 4.462601371156, 
+      "lat": 50.870020694784, 
+      "lon": 4.462618323405, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3249,86 +3185,74 @@
     }, 
     {
       "hnrlbls": [
-        "46-48"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.864113176657, 
-      "lon": 4.436315700496, 
+      "lat": 50.86419373466, 
+      "lon": 4.435829166984, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "46A-48C"
+        "46A"
       ], 
       "housenumber": "46A", 
-      "lat": 50.864107548225, 
-      "lon": 4.436100776708, 
+      "lat": 50.864164330356, 
+      "lon": 4.435688498861, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "46A-48C"
+        "46B"
       ], 
       "housenumber": "46B", 
-      "lat": 50.864107548225, 
-      "lon": 4.436100776708, 
+      "lat": 50.86422475879, 
+      "lon": 4.435966570558, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "46-48"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.864113176657, 
-      "lon": 4.436315700496, 
+      "lat": 50.864262622084, 
+      "lon": 4.43640071931, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "46A-48C"
+        "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 50.864107548225, 
-      "lon": 4.436100776708, 
+      "lat": 50.864241306918, 
+      "lon": 4.436263613522, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "46A-48C"
+        "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 50.864107548225, 
-      "lon": 4.436100776708, 
+      "lat": 50.864295811884, 
+      "lon": 4.436522927635, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46A-48C"
-      ], 
-      "housenumber": "48C", 
-      "lat": 50.864107548225, 
-      "lon": 4.436100776708, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3369,14 +3293,14 @@
     }, 
     {
       "hnrlbls": [
-        "50A-50D"
+        "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 50.864355240431, 
-      "lon": 4.437579273922, 
+      "lat": 50.864535636805, 
+      "lon": 4.437160501244, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3405,14 +3329,14 @@
     }, 
     {
       "hnrlbls": [
-        "50A-50D"
+        "50D"
       ], 
       "housenumber": "50D", 
-      "lat": 50.864355240431, 
-      "lon": 4.437579273922, 
+      "lat": 50.864587800257, 
+      "lon": 4.437423649851, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3456,8 +3380,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.865456397414, 
-      "lon": 4.437668831986, 
+      "lat": 50.865457206044, 
+      "lon": 4.437669543434, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -3470,6 +3394,18 @@
       "housenumber": "56", 
       "lat": 50.864871032438, 
       "lon": 4.438672956758, 
+      "municipality": "Zaventem", 
+      "pcode": "1932", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 50.864912461375, 
+      "lon": 4.438693758085, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3528,11 +3464,11 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.863247187156, 
-      "lon": 4.430060129585, 
+      "lat": 50.863230059697, 
+      "lon": 4.430149878383, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3573,11 +3509,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "63"
@@ -3732,9 +3666,6 @@
         "1.0", 
         "2.0"
       ], 
-      "busnrs": [
-        "GVLO"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -3807,9 +3738,11 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "78A"
@@ -3979,12 +3912,18 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "011"
+      ], 
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.865301891508, 
-      "lon": 4.440453343963, 
+      "lat": 50.865269876932, 
+      "lon": 4.440472897478, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 

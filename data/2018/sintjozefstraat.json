@@ -91,9 +91,6 @@
       "street": "Sint-Jozefstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -110,8 +107,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.206889425475, 
-      "lon": 4.4108370249, 
+      "lat": 51.20689239171, 
+      "lon": 4.410836884531, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -134,8 +131,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.206875463287, 
-      "lon": 4.410920147259, 
+      "lat": 51.206878069466, 
+      "lon": 4.410921437462, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +338,8 @@
         "35-37"
       ], 
       "housenumber": "35", 
-      "lat": 51.20759365568, 
-      "lon": 4.412578098647, 
+      "lat": 51.207595093021, 
+      "lon": 4.412580246398, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +362,8 @@
         "35-37"
       ], 
       "housenumber": "37", 
-      "lat": 51.20759365568, 
-      "lon": 4.412578098647, 
+      "lat": 51.207595093021, 
+      "lon": 4.412580246398, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -451,15 +448,14 @@
     {
       "apptnrs": [
         "001", 
-        "201", 
         "401"
       ], 
       "hnrlbls": [
-        "42-44"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.206832732386, 
-      "lon": 4.412238106791, 
+      "lat": 51.206888567504, 
+      "lon": 4.412192800203, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -472,23 +468,6 @@
       "housenumber": "43", 
       "lat": 51.207459750375, 
       "lon": 4.413229896068, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Jozefstraat"
-    }, 
-    {
-      "apptnrs": [
-        "201", 
-        "301", 
-        "401"
-      ], 
-      "hnrlbls": [
-        "42-44"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.206832732386, 
-      "lon": 4.412238106791, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -558,6 +537,23 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Sint-Jozefstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "49-118"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.207515108256, 
+      "lon": 4.413492809223, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jozefstraat"
     }, 
     {
@@ -753,8 +749,10 @@
       "street": "Sint-Jozefstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "72"

@@ -81,11 +81,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.999473047248, 
-      "lon": 3.098364425958, 
+      "lat": 50.999478142774, 
+      "lon": 3.098395062933, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Torhoutstraat"
     }, 
     {
@@ -137,19 +137,31 @@
     }, 
     {
       "hnrlbls": [
-        "18-18C"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.005837873259, 
-      "lon": 3.096638832346, 
+      "lat": 51.005818219253, 
+      "lon": 3.096600464253, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutstraat"
     }, 
     {
       "hnrlbls": [
-        "18-18C"
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 51.007234927898, 
+      "lon": 3.096143056212, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Torhoutstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18C"
       ], 
       "housenumber": "18C", 
       "lat": 51.005837873259, 
@@ -272,6 +284,10 @@
       "street": "Torhoutstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -357,9 +373,9 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30A"
       ], 
-      "housenumber": "30", 
+      "housenumber": "30A", 
       "lat": 51.017370347021, 
       "lon": 3.095870629169, 
       "municipality": "Hooglede", 
@@ -540,8 +556,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.003600846613, 
-      "lon": 3.096627305912, 
+      "lat": 51.003594425556, 
+      "lon": 3.096598839745, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -552,8 +568,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.997278065462, 
-      "lon": 3.09661881001, 
+      "lat": 50.997277679785, 
+      "lon": 3.096616398477, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -672,8 +688,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.017924919209, 
-      "lon": 3.096415719785, 
+      "lat": 51.017923183114, 
+      "lon": 3.096379848518, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1023,8 +1039,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.997479420912, 
-      "lon": 3.095609778514, 
+      "lat": 50.997470863495, 
+      "lon": 3.095616564606, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1071,8 +1087,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.997365723416, 
-      "lon": 3.095970183407, 
+      "lat": 50.997371232706, 
+      "lon": 3.095964192513, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 

@@ -2,30 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.860827360048, 
-      "lon": 4.51457414692, 
-      "municipality": "Zaventem", 
-      "pcode": "1933", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Schapenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "102"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.858320744568, 
-      "lon": 4.518678774791, 
-      "municipality": "Zaventem", 
-      "pcode": "1933", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Schapenweg"
-    }, 
-    {
-      "hnrlbls": [
         "106"
       ], 
       "housenumber": "106", 
@@ -41,8 +17,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.858143246605, 
-      "lon": 4.519133406369, 
+      "lat": 50.858157818575, 
+      "lon": 4.519196229701, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
@@ -50,29 +26,26 @@
     }, 
     {
       "hnrlbls": [
-        "14-14A"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.860804941984, 
-      "lon": 4.514673502397, 
+      "lat": 50.860792585209, 
+      "lon": 4.514562533571, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "14-14A"
+        "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.860804941984, 
-      "lon": 4.514673502397, 
+      "lat": 50.860760427027, 
+      "lon": 4.514615128717, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -147,11 +120,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.861149053685, 
-      "lon": 4.513957287685, 
+      "lat": 50.860997060129, 
+      "lon": 4.514231088916, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -308,15 +281,10 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "001", 
+        "002", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "4"
@@ -764,8 +732,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.858623762566, 
-      "lon": 4.517920739392, 
+      "lat": 50.858612458519, 
+      "lon": 4.517902949643, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
@@ -812,8 +780,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.858478151893, 
-      "lon": 4.5182571684, 
+      "lat": 50.858478513653, 
+      "lon": 4.518255465205, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 

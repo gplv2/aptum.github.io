@@ -80,8 +80,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "103"
@@ -191,6 +191,21 @@
       "street": "Karel Soetelaan"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.202292221934, 
+      "lon": 4.479911800198, 
+      "municipality": "Borsbeek", 
+      "pcode": "2150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Karel Soetelaan"
+    }, 
+    {
       "hnrlbls": [
         "112"
       ], 
@@ -221,23 +236,6 @@
       "housenumber": "116", 
       "lat": 51.202464270573, 
       "lon": 4.47990176817, 
-      "municipality": "Borsbeek", 
-      "pcode": "2150", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Karel Soetelaan"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "gel0"
-      ], 
-      "hnrlbls": [
-        "118"
-      ], 
-      "housenumber": "118", 
-      "lat": 51.202654049252, 
-      "lon": 4.479772595458, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -461,10 +459,6 @@
       "street": "Karel Soetelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1302,8 +1296,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.201382961912, 
-      "lon": 4.479898174123, 
+      "lat": 51.201381957071, 
+      "lon": 4.479915197409, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
       "source": "afgeleidVanGebouw", 
@@ -1377,9 +1371,6 @@
       "street": "Karel Soetelaan"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -1416,12 +1407,10 @@
       "street": "Karel Soetelaan"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "gel0"
       ], 
       "hnrlbls": [
         "89"

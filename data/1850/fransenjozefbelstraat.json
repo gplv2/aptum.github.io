@@ -109,8 +109,11 @@
       "street": "Frans en Jozef Belstraat"
     }, 
     {
+      "busnrs": [
+        "B002"
+      ], 
       "hnrlbls": [
-        "20-20B"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 50.927856483063, 
@@ -118,21 +121,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frans en Jozef Belstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "20-20B"
-      ], 
-      "housenumber": "20B", 
-      "lat": 50.927856483063, 
-      "lon": 4.411557133488, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Frans en Jozef Belstraat"
     }, 
     {

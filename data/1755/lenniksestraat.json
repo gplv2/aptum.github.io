@@ -245,6 +245,9 @@
       "street": "Lenniksestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -485,15 +488,15 @@
       "street": "Lenniksestraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 50.777961250753, 
-      "lon": 4.077974893047, 
+      "lat": 50.777932933494, 
+      "lon": 4.078011365014, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "manueleAanduidingVanBrievenbus", 
@@ -602,6 +605,18 @@
       "housenumber": "63", 
       "lat": 50.778248723375, 
       "lon": 4.07887574387, 
+      "municipality": "Gooik", 
+      "pcode": "1755", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lenniksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.77829022961, 
+      "lon": 4.078937875664, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
@@ -996,8 +1011,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.778202726277, 
-      "lon": 4.084958865111, 
+      "lat": 50.778207022438, 
+      "lon": 4.084951040947, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 

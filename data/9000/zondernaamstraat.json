@@ -55,12 +55,29 @@
       "street": "Zonder-Naamstraat"
     }, 
     {
+      "busnrs": [
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.057509847374, 
-      "lon": 3.736138938279, 
+      "lat": 51.057233932443, 
+      "lon": 3.735462426837, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Zonder-Naamstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 51.057238944694, 
+      "lon": 3.735542093368, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -83,11 +100,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.057339706878, 
-      "lon": 3.735825436139, 
+      "lat": 51.057355461848, 
+      "lon": 3.735846618929, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -95,11 +112,11 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 51.057355983364, 
-      "lon": 3.735927059558, 
+      "lat": 51.057365662738, 
+      "lon": 3.735921651202, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -107,11 +124,11 @@
         "14B"
       ], 
       "housenumber": "14B", 
-      "lat": 51.05737241318, 
-      "lon": 3.736074039786, 
+      "lat": 51.05739319668, 
+      "lon": 3.736010427888, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -119,11 +136,11 @@
         "14C"
       ], 
       "housenumber": "14C", 
-      "lat": 51.057382852601, 
-      "lon": 3.736160052023, 
+      "lat": 51.057376171953, 
+      "lon": 3.736087682247, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -131,11 +148,11 @@
         "14D"
       ], 
       "housenumber": "14D", 
-      "lat": 51.057391930667, 
-      "lon": 3.736243657837, 
+      "lat": 51.057387645242, 
+      "lon": 3.736182096164, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -143,11 +160,11 @@
         "14E"
       ], 
       "housenumber": "14E", 
-      "lat": 51.057403771432, 
-      "lon": 3.73632280461, 
+      "lat": 51.057399517407, 
+      "lon": 3.736267090643, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -155,11 +172,11 @@
         "14F"
       ], 
       "housenumber": "14F", 
-      "lat": 51.057415538733, 
-      "lon": 3.736388259176, 
+      "lat": 51.057399973987, 
+      "lon": 3.736352239275, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -167,11 +184,11 @@
         "14G"
       ], 
       "housenumber": "14G", 
-      "lat": 51.057431633862, 
-      "lon": 3.736472911482, 
+      "lat": 51.057404711731, 
+      "lon": 3.736447885321, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -904,35 +921,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.058523966548, 
-      "lon": 3.735008076184, 
+      "lat": 51.058528166665, 
+      "lon": 3.735003454839, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Zonder-Naamstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64A-64B"
-      ], 
-      "housenumber": "64A", 
-      "lat": 51.058493903032, 
-      "lon": 3.73501746931, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Zonder-Naamstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64A-64B"
-      ], 
-      "housenumber": "64B", 
-      "lat": 51.058493903032, 
-      "lon": 3.73501746931, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonder-Naamstraat"
     }, 
     {
@@ -1141,21 +1134,9 @@
     }, 
     {
       "hnrlbls": [
-        "87-87A"
+        "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.058974789874, 
-      "lon": 3.734525407748, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Zonder-Naamstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "87-87A"
-      ], 
-      "housenumber": "87A", 
       "lat": 51.058974789874, 
       "lon": 3.734525407748, 
       "municipality": "Gent", 

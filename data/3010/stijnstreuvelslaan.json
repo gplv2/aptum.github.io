@@ -165,11 +165,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.875923814126, 
-      "lon": 4.721893492443, 
+      "lat": 50.876000552271, 
+      "lon": 4.721874462894, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stijn Streuvelslaan"
     }, 
     {
@@ -189,11 +189,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.875807959171, 
-      "lon": 4.72203583945, 
+      "lat": 50.876008891145, 
+      "lon": 4.721971000424, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stijn Streuvelslaan"
     }, 
     {
@@ -544,7 +544,7 @@
         "0302"
       ], 
       "hnrlbls": [
-        "5"
+        "5-221"
       ], 
       "housenumber": "5", 
       "lat": 50.876110349431, 
@@ -579,6 +579,11 @@
       "street": "Stijn Streuvelslaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "53"
       ], 

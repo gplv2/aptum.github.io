@@ -113,7 +113,6 @@
     }, 
     {
       "apptnrs": [
-        "101", 
         "201", 
         "301"
       ], 
@@ -252,6 +251,18 @@
       "street": "Geulincxstraat"
     }, 
     {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.226961434834, 
+      "lon": 4.414846360798, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Geulincxstraat"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "101", 
@@ -319,8 +330,10 @@
       "street": "Geulincxstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "7"

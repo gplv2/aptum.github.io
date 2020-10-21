@@ -411,10 +411,6 @@
       "street": "Grimbergsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -1493,9 +1489,11 @@
     }, 
     {
       "apptnrs": [
-        "0", 
         "1", 
         "2"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "237-239"
@@ -1941,9 +1939,6 @@
       "street": "Grimbergsesteenweg"
     }, 
     {
-      "busnrs": [
-        "O/01"
-      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -2251,8 +2246,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.925172126502, 
-      "lon": 4.414074406535, 
+      "lat": 50.925171139238, 
+      "lon": 4.414070423105, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

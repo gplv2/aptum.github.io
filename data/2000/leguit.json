@@ -120,12 +120,20 @@
       "street": "Leguit"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.225689898231, 
-      "lon": 4.403606715758, 
+      "lat": 51.225722778001, 
+      "lon": 4.403665431352, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -136,8 +144,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.22564987798, 
-      "lon": 4.403679833564, 
+      "lat": 51.225634156353, 
+      "lon": 4.403653196146, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -223,11 +231,11 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.225914562734, 
-      "lon": 4.403154681864, 
+      "lat": 51.225928232145, 
+      "lon": 4.403130786396, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -249,34 +257,76 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "A1", 
-        "A2", 
-        "A3", 
-        "A4", 
-        "A5", 
-        "B1", 
-        "B2", 
-        "B3", 
-        "B4", 
-        "B5", 
-        "B6", 
-        "B7", 
-        "B8", 
-        "C1", 
-        "C2", 
-        "C3", 
-        "C4", 
-        "C5", 
-        "C6", 
-        "C7"
+        "9"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.225586378788, 
-      "lon": 4.402913518083, 
+      "lat": 51.225852966022, 
+      "lon": 4.402940056615, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Leguit"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.225748953744, 
+      "lon": 4.40299709473, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leguit"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "6B-6C"
+      ], 
+      "housenumber": "6B", 
+      "lat": 51.225648683836, 
+      "lon": 4.403164502039, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leguit"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "6B-6C"
+      ], 
+      "housenumber": "6C", 
+      "lat": 51.225648683836, 
+      "lon": 4.403164502039, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -284,47 +334,11 @@
     }, 
     {
       "hnrlbls": [
-        "6A-6C"
-      ], 
-      "housenumber": "6A", 
-      "lat": 51.225484675668, 
-      "lon": 4.402759702293, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leguit"
-    }, 
-    {
-      "hnrlbls": [
-        "6A-6C"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.225484675668, 
-      "lon": 4.402759702293, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leguit"
-    }, 
-    {
-      "hnrlbls": [
-        "6A-6C"
-      ], 
-      "housenumber": "6C", 
-      "lat": 51.225484675668, 
-      "lon": 4.402759702293, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leguit"
-    }, 
-    {
-      "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.225914562734, 
-      "lon": 4.403154681864, 
+      "lat": 51.225912314665, 
+      "lon": 4.40315797258, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

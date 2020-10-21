@@ -286,13 +286,13 @@
       "street": "Rietschoorvelden"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "125"
@@ -1682,16 +1682,18 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.254516582427, 
-      "lon": 4.432572140377, 
+      "lat": 51.254517665236, 
+      "lon": 4.432564407126, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
       "street": "Rietschoorvelden"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "293"
@@ -1951,9 +1953,6 @@
       "street": "Rietschoorvelden"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "325"
       ], 
@@ -2529,6 +2528,11 @@
       "street": "Rietschoorvelden"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -2716,15 +2720,18 @@
       "street": "Rietschoorvelden"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "91-93"
+        "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.249418944653, 
-      "lon": 4.430269832095, 
+      "lat": 51.249388840913, 
+      "lon": 4.430256472413, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2751,11 +2758,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "91-93"
+        "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.249418944653, 
-      "lon": 4.430269832095, 
+      "lat": 51.249449048391, 
+      "lon": 4.430283191795, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

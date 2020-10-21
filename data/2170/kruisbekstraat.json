@@ -117,23 +117,10 @@
       "street": "Kruisbekstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "17L"
-      ], 
-      "housenumber": "17L", 
-      "lat": 51.255970323494, 
-      "lon": 4.435982992853, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisbekstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "18"
@@ -330,7 +317,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-5"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.255537696187, 
@@ -533,6 +520,11 @@
       "street": "Kruisbekstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -604,18 +596,6 @@
       "housenumber": "4A", 
       "lat": 51.255990241652, 
       "lon": 4.435416648345, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisbekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.255537696187, 
-      "lon": 4.436021466473, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -740,12 +720,14 @@
       "street": "Kruisbekstraat"
     }, 
     {
-      "busnrs": [
-        "6", 
-        "60"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
       "lat": 51.257682900617, 
@@ -774,18 +756,6 @@
       "housenumber": "6", 
       "lat": 51.256108719515, 
       "lon": 4.435394617271, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisbekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.257682900617, 
-      "lon": 4.434640984008, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -902,18 +872,6 @@
       "street": "Kruisbekstraat"
     }, 
     {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.25568294957, 
-      "lon": 4.43601623524, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisbekstraat"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "201"
@@ -959,7 +917,7 @@
     }, 
     {
       "hnrlbls": [
-        "73-75"
+        "73"
       ], 
       "housenumber": "73", 
       "lat": 51.257702417123, 
@@ -983,18 +941,6 @@
     }, 
     {
       "hnrlbls": [
-        "73-75"
-      ], 
-      "housenumber": "75", 
-      "lat": 51.257702417123, 
-      "lon": 4.435255823373, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisbekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
@@ -1006,6 +952,11 @@
       "street": "Kruisbekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1147,7 +1098,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.25568294957, 

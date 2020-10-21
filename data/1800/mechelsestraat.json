@@ -13,9 +13,10 @@
       "street": "Mechelsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "10"
@@ -73,11 +74,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.930093126121, 
-      "lon": 4.422129060023, 
+      "lat": 50.930091155283, 
+      "lon": 4.422114264196, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsestraat"
     }, 
     {
@@ -85,11 +86,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.930269324124, 
-      "lon": 4.421719878281, 
+      "lat": 50.930241317971, 
+      "lon": 4.421631226884, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsestraat"
     }, 
     {
@@ -164,11 +165,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.930232707651, 
-      "lon": 4.421981853833, 
+      "lat": 50.930254286454, 
+      "lon": 4.42197206364, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsestraat"
     }, 
     {
@@ -253,21 +254,18 @@
       "street": "Mechelsestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "O000"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.929666757004, 
-      "lon": 4.421948060556, 
+      "lat": 50.92965032753, 
+      "lon": 4.421902381239, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsestraat"
     }, 
     {
@@ -407,6 +405,9 @@
       "street": "Mechelsestraat"
     }, 
     {
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -488,6 +489,10 @@
       "street": "Mechelsestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "00/2"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -583,9 +588,6 @@
       "street": "Mechelsestraat"
     }, 
     {
-      "busnrs": [
-        "01/1"
-      ], 
       "hnrlbls": [
         "57"
       ], 

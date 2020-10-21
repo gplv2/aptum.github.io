@@ -210,6 +210,10 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -434,8 +438,10 @@
       "street": "Waterbaan"
     }, 
     {
-      "busnrs": [
-        "140"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "138"
@@ -466,7 +472,9 @@
     }, 
     {
       "apptnrs": [
-        "3.0"
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "14"
@@ -480,10 +488,10 @@
       "street": "Waterbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "140"
@@ -538,11 +546,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.204750328821, 
-      "lon": 4.463247765578, 
+      "lat": 51.204700667354, 
+      "lon": 4.463192291032, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Waterbaan"
     }, 
     {
@@ -597,6 +605,11 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -949,6 +962,11 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -978,6 +996,11 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -1002,8 +1025,10 @@
       "street": "Waterbaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "175"
@@ -1053,8 +1078,12 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.208035282811, 
@@ -1153,23 +1182,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.207311049466, 
-      "lon": 4.463579096475, 
+      "lat": 51.207312853857, 
+      "lon": 4.46357080088, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Waterbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.208035282811, 
-      "lon": 4.463424750937, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Waterbaan"
     }, 
     {
@@ -1225,8 +1242,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.207345011338, 
-      "lon": 4.463039282486, 
+      "lat": 51.207346363051, 
+      "lon": 4.463034992499, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1346,6 +1363,11 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1637,6 +1659,10 @@
       "street": "Waterbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "71"
       ], 

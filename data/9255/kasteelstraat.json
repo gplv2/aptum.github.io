@@ -548,7 +548,7 @@
       "lon": 4.207493374674, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1078,11 +1078,11 @@
         "187A"
       ], 
       "housenumber": "187A", 
-      "lat": 50.997725061487, 
-      "lon": 4.211033031548, 
+      "lat": 51.00300862953, 
+      "lon": 4.21605738587, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1533,6 +1533,10 @@
       "street": "Kasteelstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "22B"
       ], 
@@ -2226,30 +2230,6 @@
       "housenumber": "63", 
       "lat": 51.010598436434, 
       "lon": 4.20533243339, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.010680841293, 
-      "lon": 4.203825877238, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.010632201182, 
-      "lon": 4.203690539198, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 

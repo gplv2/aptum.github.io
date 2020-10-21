@@ -3,6 +3,7 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "11", 
         "12", 
         "13", 
@@ -27,7 +28,7 @@
       "lon": 4.443676262831, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijf-aprilwarande"
     }, 
     {
@@ -249,7 +250,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "19-21"
@@ -1103,7 +1105,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "5"
+        "GLVL"
       ], 
       "hnrlbls": [
         "69-71"
@@ -1142,7 +1144,7 @@
       "lon": 4.442255454996, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijf-aprilwarande"
     }, 
     {
@@ -1347,10 +1349,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3", 
-        "4", 
-        "5"
+        "3"
       ], 
       "hnrlbls": [
         "95-97"
@@ -1360,7 +1361,7 @@
       "lon": 4.443413263988, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vijf-aprilwarande"
     }, 
     {

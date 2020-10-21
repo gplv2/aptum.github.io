@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -92,6 +89,11 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -104,8 +106,17 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
-        "17-19"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.201922320132, 
@@ -127,18 +138,6 @@
       "housenumber": "18", 
       "lat": 51.201674969825, 
       "lon": 4.403763823608, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Durletstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.201922320132, 
-      "lon": 4.404684125581, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -177,11 +176,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.201804820389, 
-      "lon": 4.404750705915, 
+      "lat": 51.201857902954, 
+      "lon": 4.404587070571, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Durletstraat"
     }, 
     {
@@ -225,15 +224,20 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.201799165034, 
-      "lon": 4.404436081288, 
+      "lat": 51.201820208311, 
+      "lon": 4.404402618318, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Durletstraat"
     }, 
     {
@@ -345,8 +349,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.201663475633, 
-      "lon": 4.404318082671, 
+      "lat": 51.201674357979, 
+      "lon": 4.404297488499, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -404,11 +408,23 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.201490340304, 
-      "lon": 4.404667046845, 
+      "lat": 51.201492409421, 
+      "lon": 4.404661325539, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Durletstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.201464758433, 
+      "lon": 4.404553140518, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Durletstraat"
     }, 
     {
@@ -424,6 +440,11 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -502,6 +523,10 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -624,13 +649,14 @@
       "street": "Durletstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "54"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "52-54"
+        "52"
       ], 
       "housenumber": "52", 
       "lat": 51.201084211491, 
@@ -647,18 +673,6 @@
       "housenumber": "53", 
       "lat": 51.201208694591, 
       "lon": 4.40361180998, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Durletstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52-54"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.201084211491, 
-      "lon": 4.402985345836, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -746,30 +760,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Durletstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8A-8B"
-      ], 
-      "housenumber": "8A", 
-      "lat": 51.202104751464, 
-      "lon": 4.404211548544, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Durletstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8A-8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 51.202104751464, 
-      "lon": 4.404211548544, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Durletstraat"
     }, 
     {

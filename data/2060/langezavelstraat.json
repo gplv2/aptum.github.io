@@ -25,9 +25,10 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "101"
@@ -101,20 +102,20 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.221578724795, 
-      "lon": 4.428386675728, 
+      "lat": 51.221620848934, 
+      "lon": 4.428095164117, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Zavelstraat"
     }, 
     {
@@ -434,8 +435,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.224192599531, 
-      "lon": 4.427928278663, 
+      "lat": 51.224190976479, 
+      "lon": 4.427938439728, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -915,15 +916,21 @@
       "street": "Lange Zavelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.222275188056, 
-      "lon": 4.427413385978, 
+      "lat": 51.222326302096, 
+      "lon": 4.427472852992, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Zavelstraat"
     }, 
     {
@@ -1042,20 +1049,15 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "6", 
-        "9"
-      ], 
       "hnrlbls": [
-        "75-77"
+        "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.222381796615, 
-      "lon": 4.427757910254, 
+      "lat": 51.222344275595, 
+      "lon": 4.427657952394, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Zavelstraat"
     }, 
     {
@@ -1071,26 +1073,26 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
       ], 
       "hnrlbls": [
-        "75-77"
+        "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.222381796615, 
-      "lon": 4.427757910254, 
+      "lat": 51.222319105106, 
+      "lon": 4.427663931983, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Zavelstraat"
     }, 
     {
@@ -1106,9 +1108,10 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "8"
@@ -1126,11 +1129,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.222230183033, 
-      "lon": 4.428072617374, 
+      "lat": 51.222286200064, 
+      "lon": 4.427678919314, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Zavelstraat"
     }, 
     {
@@ -1225,8 +1228,8 @@
         "95-97"
       ], 
       "housenumber": "95", 
-      "lat": 51.221968916997, 
-      "lon": 4.428020752092, 
+      "lat": 51.221977727786, 
+      "lon": 4.428016469338, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1237,8 +1240,8 @@
         "95-97"
       ], 
       "housenumber": "97", 
-      "lat": 51.221968916997, 
-      "lon": 4.428020752092, 
+      "lat": 51.221977727786, 
+      "lon": 4.428016469338, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

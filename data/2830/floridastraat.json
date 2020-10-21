@@ -301,8 +301,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.05880652331, 
-      "lon": 4.361224875616, 
+      "lat": 51.05880661291, 
+      "lon": 4.36121988331, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -313,8 +313,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.058565786094, 
-      "lon": 4.360989418367, 
+      "lat": 51.058557066951, 
+      "lon": 4.360991273955, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -481,9 +481,11 @@
       "street": "Floridastraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0001", 
-        "0101"
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "43"
@@ -713,6 +715,10 @@
       "street": "Floridastraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "63"
       ], 

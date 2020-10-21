@@ -1,15 +1,27 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "4-1", 
+        "4-2"
+      ], 
+      "busnrs": [
+        "3-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.051451484621, 
-      "lon": 5.442499431011, 
+      "lat": 51.032957466418, 
+      "lon": 5.371289768119, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lakerweg"
     }, 
     {
@@ -241,6 +253,40 @@
       "street": "Lakerweg"
     }, 
     {
+      "apptnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "3", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "4", 
+        "5"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.033157912475, 
+      "lon": 5.371535580165, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lakerweg"
+    }, 
+    {
       "hnrlbls": [
         "30"
       ], 
@@ -337,6 +383,9 @@
       "street": "Lakerweg"
     }, 
     {
+      "apptnrs": [
+        "18"
+      ], 
       "busnrs": [
         "11", 
         "12", 
@@ -361,8 +410,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.03604309076, 
-      "lon": 5.374560251871, 
+      "lat": 51.036046868226, 
+      "lon": 5.374560047926, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -634,8 +683,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.03834071491, 
-      "lon": 5.376744762422, 
+      "lat": 51.038371662503, 
+      "lon": 5.376763110175, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -646,11 +695,11 @@
         "73A"
       ], 
       "housenumber": "73A", 
-      "lat": 51.038398662633, 
-      "lon": 5.376780517361, 
+      "lat": 51.038377918478, 
+      "lon": 5.376693947281, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lakerweg"
     }, 
     {

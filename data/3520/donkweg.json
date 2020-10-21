@@ -25,15 +25,27 @@
       "street": "Donkweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.98727074297, 
-      "lon": 5.365414893444, 
+      "lat": 50.987197938629, 
+      "lon": 5.365434423911, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Donkweg"
     }, 
     {
@@ -292,11 +304,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.986563775854, 
-      "lon": 5.362483880632, 
+      "lat": 50.986562708493, 
+      "lon": 5.362471893876, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Donkweg"
     }, 
     {
@@ -715,26 +727,26 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "67-67A"
       ], 
       "housenumber": "67", 
-      "lat": 50.985014621432, 
-      "lon": 5.357388652503, 
+      "lat": 50.98498860278, 
+      "lon": 5.357318315032, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Donkweg"
     }, 
     {
       "hnrlbls": [
-        "67A"
+        "67-67A"
       ], 
       "housenumber": "67A", 
-      "lat": 50.984985560712, 
-      "lon": 5.357252450504, 
+      "lat": 50.98498860278, 
+      "lon": 5.357318315032, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Donkweg"
     }, 
     {
@@ -1048,8 +1060,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.984282962539, 
-      "lon": 5.355116233913, 
+      "lat": 50.984283694751, 
+      "lon": 5.355114682684, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 

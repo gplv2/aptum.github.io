@@ -54,6 +54,12 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "1001"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -156,18 +162,6 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.914081275053, 
-      "lon": 2.914528669167, 
-      "municipality": "Langemark-Poelkapelle", 
-      "pcode": "8920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -215,12 +209,41 @@
       "street": "Statiestraat"
     }, 
     {
-      "hnrlbls": [
-        "27"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "301"
       ], 
-      "housenumber": "27", 
-      "lat": 50.91366960997, 
-      "lon": 2.915861533742, 
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.913658959702, 
+      "lon": 2.916003659719, 
+      "municipality": "Langemark-Poelkapelle", 
+      "pcode": "8920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 50.913674329155, 
+      "lon": 2.915748746977, 
       "municipality": "Langemark-Poelkapelle", 
       "pcode": "8920", 
       "source": "manueleAanduidingVanGebouw", 

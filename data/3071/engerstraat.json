@@ -197,11 +197,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.897154881039, 
-      "lon": 4.550048365913, 
+      "lat": 50.89715386004, 
+      "lon": 4.550069115321, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Engerstraat"
     }, 
     {
@@ -485,8 +485,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.895570430373, 
-      "lon": 4.547933413539, 
+      "lat": 50.895567553778, 
+      "lon": 4.547933402521, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
@@ -545,8 +545,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.89497537724, 
-      "lon": 4.547079859405, 
+      "lat": 50.894973205922, 
+      "lon": 4.54708894807, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
@@ -1152,32 +1152,32 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.893176943184, 
-      "lon": 4.542609987371, 
+      "lat": 50.893160136447, 
+      "lon": 4.542607650755, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engerstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "218"
@@ -1284,8 +1284,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.900813902712, 
-      "lon": 4.556896197998, 
+      "lat": 50.900820297491, 
+      "lon": 4.556888547212, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
@@ -1428,8 +1428,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.900413407709, 
-      "lon": 4.556571181883, 
+      "lat": 50.900411521316, 
+      "lon": 4.556570321372, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
@@ -1461,7 +1461,12 @@
     }, 
     {
       "apptnrs": [
-        "E006"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104"
       ], 
       "hnrlbls": [
         "5"
@@ -1571,72 +1576,6 @@
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 50.901692303649, 
-      "lon": 4.559311335007, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 50.90167393784, 
-      "lon": 4.559328177247, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "5C"
-      ], 
-      "housenumber": "5C", 
-      "lat": 50.901658758292, 
-      "lon": 4.559265280681, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "7"
-      ], 
-      "hnrlbls": [
-        "5D"
-      ], 
-      "housenumber": "5D", 
-      "lat": 50.901618950628, 
-      "lon": 4.559311036223, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5F"
-      ], 
-      "housenumber": "5F", 
-      "lat": 50.901652570763, 
-      "lon": 4.559311173165, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Engerstraat"
     }, 
     {
@@ -1760,12 +1699,32 @@
       "street": "Engerstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.901538263532, 
+      "lon": 4.55912220386, 
+      "municipality": "Kortenberg", 
+      "pcode": "3071", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Engerstraat"
+    }, 
+    {
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.899434705302, 
-      "lon": 4.555238830363, 
+      "lat": 50.89944505121, 
+      "lon": 4.555233754086, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
@@ -1781,6 +1740,18 @@
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
+      "street": "Engerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "76A"
+      ], 
+      "housenumber": "76A", 
+      "lat": 50.900091937647, 
+      "lon": 4.554266976048, 
+      "municipality": "Kortenberg", 
+      "pcode": "3071", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engerstraat"
     }, 
     {
@@ -1805,99 +1776,6 @@
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 50.901582655688, 
-      "lon": 4.559076466888, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 50.901558149637, 
-      "lon": 4.559110201205, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "9"
-      ], 
-      "hnrlbls": [
-        "7C"
-      ], 
-      "housenumber": "7C", 
-      "lat": 50.901590210127, 
-      "lon": 4.559129665392, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "10"
-      ], 
-      "hnrlbls": [
-        "7D"
-      ], 
-      "housenumber": "7D", 
-      "lat": 50.90161007657, 
-      "lon": 4.559129746236, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "apptnrs": [
-        "E11"
-      ], 
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "7E"
-      ], 
-      "housenumber": "7E", 
-      "lat": 50.901538263532, 
-      "lon": 4.55912220386, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engerstraat"
-    }, 
-    {
-      "busnrs": [
-        "12"
-      ], 
-      "hnrlbls": [
-        "7F"
-      ], 
-      "housenumber": "7F", 
-      "lat": 50.901555018544, 
-      "lon": 4.55915610605, 
-      "municipality": "Kortenberg", 
-      "pcode": "3071", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Engerstraat"
     }, 
     {
@@ -1929,8 +1807,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.899036404614, 
-      "lon": 4.554887690702, 
+      "lat": 50.899030091939, 
+      "lon": 4.554900317117, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 

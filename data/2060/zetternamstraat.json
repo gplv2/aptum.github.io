@@ -314,17 +314,32 @@
       "street": "Zetternamstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.223010424825, 
+      "lon": 4.430577987275, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zetternamstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "38"
+        "38B"
       ], 
-      "housenumber": "38", 
-      "lat": 51.22298812071, 
-      "lon": 4.430602434181, 
+      "housenumber": "38B", 
+      "lat": 51.222965816589, 
+      "lon": 4.430626881064, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -372,7 +387,8 @@
     {
       "apptnrs": [
         "001", 
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "6"

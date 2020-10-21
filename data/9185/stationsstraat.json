@@ -197,8 +197,8 @@
         "113C"
       ], 
       "housenumber": "113C", 
-      "lat": 51.176216262395, 
-      "lon": 3.864889677629, 
+      "lat": 51.176207930306, 
+      "lon": 3.864917223269, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -209,11 +209,11 @@
         "113D"
       ], 
       "housenumber": "113D", 
-      "lat": 51.176315596807, 
-      "lon": 3.864933937524, 
+      "lat": 51.176276224144, 
+      "lon": 3.864975688735, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -549,11 +549,11 @@
         "134B"
       ], 
       "housenumber": "134B", 
-      "lat": 51.177805034629, 
-      "lon": 3.866117826986, 
+      "lat": 51.177845106738, 
+      "lon": 3.866092513316, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -561,11 +561,11 @@
         "134C"
       ], 
       "housenumber": "134C", 
-      "lat": 51.177824411959, 
-      "lon": 3.866235739864, 
+      "lat": 51.177854428069, 
+      "lon": 3.866191943887, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -629,15 +629,24 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "14-16"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.171703303749, 
-      "lon": 3.86046317331, 
+      "lat": 51.171628601993, 
+      "lon": 3.86083860651, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -918,18 +927,6 @@
     }, 
     {
       "hnrlbls": [
-        "14-16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.171703303749, 
-      "lon": 3.86046317331, 
-      "municipality": "Wachtebeke", 
-      "pcode": "9185", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
@@ -981,8 +978,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.17772412188, 
-      "lon": 3.868723222563, 
+      "lat": 51.177740338961, 
+      "lon": 3.868732058289, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -993,8 +990,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.178125479136, 
-      "lon": 3.869278792419, 
+      "lat": 51.178061114224, 
+      "lon": 3.869277478231, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -2037,12 +2034,19 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.17207038571, 
-      "lon": 3.861275061885, 
+      "lat": 51.172092141503, 
+      "lon": 3.861212912536, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2070,18 +2074,6 @@
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.172105705913, 
-      "lon": 3.861294696517, 
-      "municipality": "Wachtebeke", 
-      "pcode": "9185", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2226,8 +2218,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.172504970395, 
-      "lon": 3.861605220728, 
+      "lat": 51.172573414238, 
+      "lon": 3.861635363488, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2238,8 +2230,8 @@
         "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 51.172552304879, 
-      "lon": 3.861617719033, 
+      "lat": 51.172552390471, 
+      "lon": 3.861616717189, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2250,8 +2242,8 @@
         "40B"
       ], 
       "housenumber": "40B", 
-      "lat": 51.172612903955, 
-      "lon": 3.861663103687, 
+      "lat": 51.172612730318, 
+      "lon": 3.861664535452, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2262,8 +2254,8 @@
         "40C"
       ], 
       "housenumber": "40C", 
-      "lat": 51.172576119324, 
-      "lon": 3.861637335971, 
+      "lat": 51.17257440786, 
+      "lon": 3.861636496612, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2274,11 +2266,11 @@
         "40D"
       ], 
       "housenumber": "40D", 
-      "lat": 51.172582617293, 
-      "lon": 3.861643413953, 
+      "lat": 51.172591888162, 
+      "lon": 3.861646316117, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2708,8 +2700,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.174235817261, 
-      "lon": 3.862731814033, 
+      "lat": 51.174240708851, 
+      "lon": 3.862719606666, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -2744,8 +2736,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.174509065934, 
-      "lon": 3.863633863756, 
+      "lat": 51.174518602358, 
+      "lon": 3.863593722408, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -2768,11 +2760,11 @@
         "74A"
       ], 
       "housenumber": "74A", 
-      "lat": 51.174368338007, 
-      "lon": 3.862969178306, 
+      "lat": 51.174364374565, 
+      "lon": 3.86300925935, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -3123,8 +3115,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.175062523196, 
-      "lon": 3.863512198934, 
+      "lat": 51.175063333368, 
+      "lon": 3.863512476167, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -3147,8 +3139,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.175179059257, 
-      "lon": 3.863606174443, 
+      "lat": 51.175182993974, 
+      "lon": 3.863601413052, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -3159,8 +3151,8 @@
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.175233544218, 
-      "lon": 3.863651344308, 
+      "lat": 51.175234688278, 
+      "lon": 3.863645612102, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -3171,8 +3163,8 @@
         "94B"
       ], 
       "housenumber": "94B", 
-      "lat": 51.175289201919, 
-      "lon": 3.86369750258, 
+      "lat": 51.175290607083, 
+      "lon": 3.863689765599, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 

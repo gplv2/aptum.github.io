@@ -41,7 +41,7 @@
         "0302"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.045928022108, 
@@ -58,18 +58,6 @@
       "housenumber": "12", 
       "lat": 51.045910571104, 
       "lon": 3.722386478237, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Sint-Kwintensberg"
-    }, 
-    {
-      "hnrlbls": [
-        "11-13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.045928022108, 
-      "lon": 3.722634652131, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -100,39 +88,43 @@
       "street": "Sint-Kwintensberg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "17-19"
+        "17-17A"
       ], 
       "housenumber": "17", 
-      "lat": 51.045826823279, 
-      "lon": 3.722736867814, 
+      "lat": 51.045865900471, 
+      "lon": 3.72268285294, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Kwintensberg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "17-19"
+        "17-17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.045826823279, 
-      "lon": 3.722736867814, 
+      "lat": 51.045865900471, 
+      "lon": 3.72268285294, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Sint-Kwintensberg"
-    }, 
-    {
-      "hnrlbls": [
-        "17-19"
-      ], 
-      "housenumber": "17B", 
-      "lat": 51.045826823279, 
-      "lon": 3.722736867814, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Kwintensberg"
     }, 
     {
@@ -148,8 +140,12 @@
       "street": "Sint-Kwintensberg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
-        "17-19"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.045826823279, 
@@ -157,6 +153,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Kwintensberg"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.045782012872, 
+      "lon": 3.722794526704, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Kwintensberg"
     }, 
     {
@@ -1047,8 +1055,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.044190559298, 
-      "lon": 3.724094427677, 
+      "lat": 51.044179334427, 
+      "lon": 3.724096578478, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

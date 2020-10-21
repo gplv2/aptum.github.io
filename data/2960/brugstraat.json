@@ -458,11 +458,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.298045995902, 
-      "lon": 4.573420202752, 
+      "lat": 51.298041323086, 
+      "lon": 4.573523265554, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -644,15 +644,19 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "1V", 
+        "GV"
+      ], 
       "hnrlbls": [
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.29957413343, 
-      "lon": 4.571560342239, 
+      "lat": 51.299585033524, 
+      "lon": 4.571650716321, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -668,15 +672,23 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "2V1", 
+        "2V2", 
+        "GV1", 
+        "GV2"
+      ], 
       "hnrlbls": [
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.29964782592, 
-      "lon": 4.571618588108, 
+      "lat": 51.299668203995, 
+      "lon": 4.571580826082, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -684,30 +696,18 @@
         "1L", 
         "1R", 
         "2V", 
-        "GV.L", 
-        "GV.R"
+        "GVL", 
+        "GVR"
       ], 
       "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.299475171974, 
-      "lon": 4.572344744046, 
+      "lat": 51.299482876981, 
+      "lon": 4.572359115358, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Brugstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "153"
-      ], 
-      "housenumber": "153", 
-      "lat": 51.299696978125, 
-      "lon": 4.571573783111, 
-      "municipality": "Brecht", 
-      "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -794,6 +794,28 @@
       "housenumber": "161", 
       "lat": 51.299952737533, 
       "lon": 4.571337039877, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "1V3", 
+        "2V1", 
+        "2V2", 
+        "GV1", 
+        "GV2", 
+        "GV3"
+      ], 
+      "hnrlbls": [
+        "162"
+      ], 
+      "housenumber": "162", 
+      "lat": 51.299995595369, 
+      "lon": 4.571921343097, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1218,11 +1240,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.301206339295, 
-      "lon": 4.57021826996, 
+      "lat": 51.301176732355, 
+      "lon": 4.570239361637, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1234,8 +1256,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.30152876535, 
-      "lon": 4.570626299601, 
+      "lat": 51.301520789271, 
+      "lon": 4.570612643671, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1393,26 +1415,26 @@
         "3V"
       ], 
       "hnrlbls": [
-        "206"
+        "206-208"
       ], 
       "housenumber": "206", 
-      "lat": 51.301818942609, 
-      "lon": 4.570181643956, 
+      "lat": 51.301878984063, 
+      "lon": 4.570181187774, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
       "hnrlbls": [
-        "208"
+        "206-208"
       ], 
       "housenumber": "208", 
-      "lat": 51.301881772463, 
-      "lon": 4.570127288119, 
+      "lat": 51.301878984063, 
+      "lon": 4.570181187774, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -1634,7 +1656,9 @@
     }, 
     {
       "apptnrs": [
-        "1V"
+        "1V1", 
+        "1V2", 
+        "2V"
       ], 
       "hnrlbls": [
         "39"
@@ -1688,6 +1712,9 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "1V"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1924,21 +1951,32 @@
     }, 
     {
       "apptnrs": [
-        "1L", 
-        "1R", 
+        "1V1", 
+        "1V2", 
         "2V", 
-        "GVL", 
-        "GVR"
+        "GV"
       ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.295264490289, 
-      "lon": 4.574885994422, 
+      "lat": 51.295330901254, 
+      "lon": 4.575098322173, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 51.295324592447, 
+      "lon": 4.575159509765, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {

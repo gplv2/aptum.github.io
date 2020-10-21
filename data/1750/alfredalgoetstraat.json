@@ -797,6 +797,12 @@
       "street": "Alfred Algoetstraat"
     }, 
     {
+      "apptnrs": [
+        "bus 2"
+      ], 
+      "busnrs": [
+        "bus 1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -963,21 +969,24 @@
       "street": "Alfred Algoetstraat"
     }, 
     {
+      "apptnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4"
+      ], 
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "bus 5"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.807246512443, 
-      "lon": 4.161921850897, 
+      "lat": 50.807110434096, 
+      "lon": 4.162038216649, 
       "municipality": "Lennik", 
       "pcode": "1750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Alfred Algoetstraat"
     }, 
     {
@@ -1180,8 +1189,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.807967010573, 
-      "lon": 4.162677452155, 
+      "lat": 50.807978507528, 
+      "lon": 4.16267186876, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanGebouw", 

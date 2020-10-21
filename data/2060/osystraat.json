@@ -50,8 +50,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.220585413864, 
-      "lon": 4.417557464533, 
+      "lat": 51.220583062798, 
+      "lon": 4.417591098024, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -74,8 +74,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.220650863684, 
-      "lon": 4.417523182317, 
+      "lat": 51.220649578288, 
+      "lon": 4.417587733512, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -145,9 +145,12 @@
       "street": "Osystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "19"
@@ -377,14 +380,15 @@
         "401", 
         "402", 
         "501", 
-        "502"
+        "502", 
+        "601"
       ], 
       "hnrlbls": [
-        "31"
+        "31-221"
       ], 
       "housenumber": "31", 
-      "lat": 51.221158145755, 
-      "lon": 4.417791237198, 
+      "lat": 51.22111818684, 
+      "lon": 4.417482885021, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -410,11 +414,11 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "31-221"
       ], 
       "housenumber": "33", 
-      "lat": 51.221129656101, 
-      "lon": 4.417568634165, 
+      "lat": 51.22111818684, 
+      "lon": 4.417482885021, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -634,19 +638,19 @@
       "street": "Osystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.221486709428, 
-      "lon": 4.417914110885, 
+      "lat": 51.221489773926, 
+      "lon": 4.417894075312, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -753,14 +757,6 @@
       "street": "Osystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1141,12 +1137,11 @@
       "street": "Osystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "7"

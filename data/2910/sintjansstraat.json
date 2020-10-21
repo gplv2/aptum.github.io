@@ -44,8 +44,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.427787670084, 
-      "lon": 4.469276977921, 
+      "lat": 51.427787590622, 
+      "lon": 4.469264757224, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -399,8 +399,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.425595322091, 
-      "lon": 4.471982869024, 
+      "lat": 51.425614488064, 
+      "lon": 4.471957321918, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -423,11 +423,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.425546940238, 
-      "lon": 4.472118042563, 
+      "lat": 51.425385244462, 
+      "lon": 4.472332750172, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -1034,8 +1034,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.424267841022, 
-      "lon": 4.473927413407, 
+      "lat": 51.424267662551, 
+      "lon": 4.4739259754, 
       "municipality": "Essen", 
       "pcode": "2910", 
       "source": "afgeleidVanGebouw", 
@@ -1573,18 +1573,27 @@
       "street": "Sint-Jansstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "28"
+        "28A"
       ], 
-      "housenumber": "28", 
-      "lat": 51.427842967546, 
-      "lon": 4.464052028022, 
+      "housenumber": "28A", 
+      "lat": 51.427545296446, 
+      "lon": 4.46405400027, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 51.427545208551, 
+      "lon": 4.464162690284, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {
@@ -1629,14 +1638,38 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30A"
       ], 
-      "housenumber": "30", 
-      "lat": 51.42785210883, 
-      "lon": 4.464195386665, 
+      "housenumber": "30A", 
+      "lat": 51.427706275954, 
+      "lon": 4.464150947042, 
       "municipality": "Essen", 
       "pcode": "2910", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 51.427816999813, 
+      "lon": 4.464155201854, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 51.427912644055, 
+      "lon": 4.464135271897, 
+      "municipality": "Essen", 
+      "pcode": "2910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {

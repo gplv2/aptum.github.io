@@ -253,11 +253,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.002669167957, 
-      "lon": 3.757927477542, 
+      "lat": 51.002589023572, 
+      "lon": 3.758004743079, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Fraterstraat"
     }, 
     {
@@ -1077,12 +1077,12 @@
       "street": "Fraterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103"
       ], 
       "hnrlbls": [
         "26"
@@ -1156,22 +1156,22 @@
       "street": "Fraterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.016897838635, 
-      "lon": 3.763944756387, 
+      "lat": 51.016890059377, 
+      "lon": 3.763952837517, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -1206,8 +1206,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.013055658331, 
-      "lon": 3.761751324837, 
+      "lat": 51.013055933132, 
+      "lon": 3.761752318797, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -1621,6 +1621,18 @@
     }, 
     {
       "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 51.015180428916, 
+      "lon": 3.76200470403, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Fraterstraat"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -1661,6 +1673,18 @@
     }, 
     {
       "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.015137488367, 
+      "lon": 3.761975332842, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Fraterstraat"
+    }, 
+    {
+      "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
@@ -1696,13 +1720,13 @@
       "street": "Fraterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103"
       ], 
       "hnrlbls": [
         "63A"
@@ -1732,11 +1756,11 @@
         "63C"
       ], 
       "housenumber": "63C", 
-      "lat": 51.009084506573, 
-      "lon": 3.762692435338, 
+      "lat": 51.009057149253, 
+      "lon": 3.763088769211, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Fraterstraat"
     }, 
     {
@@ -1752,23 +1776,11 @@
       "street": "Fraterstraat"
     }, 
     {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.015180428916, 
-      "lon": 3.76200470403, 
-      "municipality": "Merelbeke", 
-      "pcode": "9820", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Fraterstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "65"
@@ -1791,21 +1803,6 @@
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fraterstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.015137488367, 
-      "lon": 3.761975332842, 
-      "municipality": "Merelbeke", 
-      "pcode": "9820", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fraterstraat"
     }, 
     {
@@ -1857,19 +1854,19 @@
       "street": "Fraterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206"
       ], 
       "hnrlbls": [
         "73"

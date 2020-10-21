@@ -467,84 +467,21 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "137_1"
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
       ], 
-      "housenumber": "137_1", 
-      "lat": 50.909058176522, 
-      "lon": 4.883153007949, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
       "hnrlbls": [
-        "137_2"
+        "137"
       ], 
-      "housenumber": "137_2", 
-      "lat": 50.909068251478, 
-      "lon": 4.883212978551, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "137_3"
-      ], 
-      "housenumber": "137_3", 
-      "lat": 50.90903983981, 
-      "lon": 4.883275512682, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "137_4"
-      ], 
-      "housenumber": "137_4", 
-      "lat": 50.909033371847, 
-      "lon": 4.883233497033, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "137_5"
-      ], 
-      "housenumber": "137_5", 
-      "lat": 50.909018782911, 
-      "lon": 4.883157410006, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "137_6"
-      ], 
-      "housenumber": "137_6", 
-      "lat": 50.909033601354, 
-      "lon": 4.883181175361, 
-      "municipality": "Tielt-Winge", 
-      "pcode": "3390", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "137_7"
-      ], 
-      "housenumber": "137_7", 
-      "lat": 50.909045576472, 
-      "lon": 4.883094858079, 
+      "housenumber": "137", 
+      "lat": 50.908983149146, 
+      "lon": 4.88316540794, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "manueleAanduidingVanGebouw", 
@@ -647,15 +584,22 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.90875316841, 
-      "lon": 4.882166455874, 
+      "lat": 50.908498187856, 
+      "lon": 4.882215844928, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -786,8 +730,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.921767056321, 
-      "lon": 4.91214776618, 
+      "lat": 50.921771228183, 
+      "lon": 4.912139849985, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1070,8 +1014,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.910573764648, 
-      "lon": 4.886291419242, 
+      "lat": 50.910570429888, 
+      "lon": 4.886293373088, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1094,8 +1038,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.907333235726, 
-      "lon": 4.878835976866, 
+      "lat": 50.907348965096, 
+      "lon": 4.878857190663, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1524,11 +1468,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.919274884335, 
-      "lon": 4.908681213415, 
+      "lat": 50.919481131046, 
+      "lon": 4.908499702164, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1668,11 +1612,11 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.906109478843, 
-      "lon": 4.868628904908, 
+      "lat": 50.906107402706, 
+      "lon": 4.868441067949, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1776,8 +1720,8 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 50.921463432895, 
-      "lon": 4.911497414439, 
+      "lat": 50.921448971666, 
+      "lon": 4.911494829192, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1812,11 +1756,164 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.907994541715, 
-      "lon": 4.877545191706, 
+      "lat": 50.907983869925, 
+      "lon": 4.877539246425, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01", 
+        "2.02", 
+        "3.01"
+      ], 
+      "hnrlbls": [
+        "230A"
+      ], 
+      "housenumber": "230A", 
+      "lat": 50.907955846902, 
+      "lon": 4.877409272356, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "1.05", 
+        "2", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04", 
+        "2.05", 
+        "3", 
+        "3.01", 
+        "3.02"
+      ], 
+      "hnrlbls": [
+        "230B"
+      ], 
+      "housenumber": "230B", 
+      "lat": 50.907953887589, 
+      "lon": 4.877736553961, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01", 
+        "2.02", 
+        "3.01"
+      ], 
+      "hnrlbls": [
+        "230C"
+      ], 
+      "housenumber": "230C", 
+      "lat": 50.90796920282, 
+      "lon": 4.878039567909, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01"
+      ], 
+      "hnrlbls": [
+        "230D"
+      ], 
+      "housenumber": "230D", 
+      "lat": 50.908196513382, 
+      "lon": 4.878006349383, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01"
+      ], 
+      "hnrlbls": [
+        "230E"
+      ], 
+      "housenumber": "230E", 
+      "lat": 50.908366734853, 
+      "lon": 4.877974358823, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "3", 
+        "3.01"
+      ], 
+      "hnrlbls": [
+        "230F"
+      ], 
+      "housenumber": "230F", 
+      "lat": 50.908400114324, 
+      "lon": 4.87740854745, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1.01", 
+        "1.02", 
+        "2", 
+        "2.01", 
+        "2.02", 
+        "3.01"
+      ], 
+      "hnrlbls": [
+        "230G"
+      ], 
+      "housenumber": "230G", 
+      "lat": 50.908116972884, 
+      "lon": 4.877422395137, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2569,11 +2666,35 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 50.903432332603, 
-      "lon": 4.857078350515, 
+      "lat": 50.903727489958, 
+      "lon": 4.857006359617, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "295A"
+      ], 
+      "housenumber": "295A", 
+      "lat": 50.903709095604, 
+      "lon": 4.856911767947, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuvensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "295B"
+      ], 
+      "housenumber": "295B", 
+      "lat": 50.903645332388, 
+      "lon": 4.856853525734, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -2629,8 +2750,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.920477887097, 
-      "lon": 4.913906024639, 
+      "lat": 50.920477525551, 
+      "lon": 4.913906447095, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2730,8 +2851,8 @@
         "304A"
       ], 
       "housenumber": "304A", 
-      "lat": 50.904144936467, 
-      "lon": 4.857229080387, 
+      "lat": 50.904329543832, 
+      "lon": 4.857410849785, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2865,8 +2986,8 @@
         "321-327"
       ], 
       "housenumber": "321", 
-      "lat": 50.900125111103, 
-      "lon": 4.852928575282, 
+      "lat": 50.900116261201, 
+      "lon": 4.852938292789, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2901,8 +3022,8 @@
         "321-327"
       ], 
       "housenumber": "327", 
-      "lat": 50.900125111103, 
-      "lon": 4.852928575282, 
+      "lat": 50.900116261201, 
+      "lon": 4.852938292789, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2917,8 +3038,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.900157352591, 
-      "lon": 4.851977302398, 
+      "lat": 50.900163407821, 
+      "lon": 4.851991296293, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3166,11 +3287,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.921077847444, 
-      "lon": 4.912065678384, 
+      "lat": 50.92083685636, 
+      "lon": 4.911576060975, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -3709,11 +3830,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.910917052616, 
-      "lon": 4.889201878806, 
+      "lat": 50.910936131497, 
+      "lon": 4.889318687352, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {

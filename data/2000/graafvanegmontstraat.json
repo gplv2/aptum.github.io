@@ -3,7 +3,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "1-4"
@@ -793,8 +794,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.210208997834, 
-      "lon": 4.39393251809, 
+      "lat": 51.210208365637, 
+      "lon": 4.393946255339, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -843,10 +844,27 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "56"
+        "56-56A"
       ], 
       "housenumber": "56", 
+      "lat": 51.210102394569, 
+      "lon": 4.393935034744, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Graaf van Egmontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56-56A"
+      ], 
+      "housenumber": "56A", 
       "lat": 51.210102394569, 
       "lon": 4.393935034744, 
       "municipality": "Antwerpen", 
@@ -889,12 +907,28 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
+      "apptnrs": [
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
       "lat": 51.210118746148, 
       "lon": 4.394375504754, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Graaf van Egmontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59A"
+      ], 
+      "housenumber": "59A", 
+      "lat": 51.210077216508, 
+      "lon": 4.39438950508, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

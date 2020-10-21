@@ -319,10 +319,10 @@
     }, 
     {
       "busnrs": [
+        "00/1", 
+        "00/2", 
         "01/1", 
-        "01/2", 
-        "O/01", 
-        "O/02"
+        "01/2"
       ], 
       "hnrlbls": [
         "122"
@@ -387,10 +387,6 @@
       "street": "Vlierkensstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "126A"
       ], 
@@ -486,7 +482,7 @@
       "lon": 4.408251055801, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vlierkensstraat"
     }, 
     {
@@ -758,11 +754,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.921298759003, 
-      "lon": 4.407277942085, 
+      "lat": 50.921304156249, 
+      "lon": 4.407266995725, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vlierkensstraat"
     }, 
     {
@@ -790,6 +786,11 @@
       "street": "Vlierkensstraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -1326,11 +1327,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.923889099778, 
-      "lon": 4.411671362625, 
+      "lat": 50.923889999237, 
+      "lon": 4.411669941192, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vlierkensstraat"
     }, 
     {
@@ -1611,7 +1612,8 @@
     }, 
     {
       "busnrs": [
-        "00/1"
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "74-111"

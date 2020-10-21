@@ -196,8 +196,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.219083328363, 
-      "lon": 4.433529302111, 
+      "lat": 51.21908431764, 
+      "lon": 4.433528301609, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -280,8 +280,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.219393266325, 
-      "lon": 4.433658838942, 
+      "lat": 51.219397222169, 
+      "lon": 4.433657126968, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -316,8 +316,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.217810762674, 
-      "lon": 4.428440767854, 
+      "lat": 51.21781067301, 
+      "lon": 4.428440338368, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -491,6 +491,12 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -563,11 +569,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.219654453174, 
-      "lon": 4.434332055962, 
+      "lat": 51.219539448274, 
+      "lon": 4.434409325123, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -672,8 +678,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.219397007727, 
-      "lon": 4.434683642408, 
+      "lat": 51.219370484401, 
+      "lon": 4.434697058558, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -756,8 +762,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.21942121206, 
-      "lon": 4.434956765818, 
+      "lat": 51.219416357035, 
+      "lon": 4.434959048905, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1036,8 +1042,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.217918937512, 
-      "lon": 4.428529787742, 
+      "lat": 51.217943495511, 
+      "lon": 4.428491319295, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1216,8 +1222,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.217939937541, 
-      "lon": 4.428593934419, 
+      "lat": 51.217939848316, 
+      "lon": 4.428592646189, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1233,8 +1239,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.217959040948, 
-      "lon": 4.428675682918, 
+      "lat": 51.21796030035, 
+      "lon": 4.428673680822, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1270,10 +1276,10 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "29"
@@ -1308,6 +1314,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -1350,17 +1357,12 @@
       "apptnrs": [
         "001", 
         "002", 
-        "003", 
         "101", 
-        "102", 
-        "103", 
         "201", 
-        "202", 
-        "301", 
-        "302"
+        "301"
       ], 
       "hnrlbls": [
-        "34-36"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.218064955244, 
@@ -1386,18 +1388,6 @@
       "housenumber": "35", 
       "lat": 51.218277271699, 
       "lon": 4.429119210962, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34-36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.218064955244, 
-      "lon": 4.429486475749, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1482,11 +1472,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.218319598301, 
-      "lon": 4.429309908787, 
+      "lat": 51.218243405834, 
+      "lon": 4.429427027828, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1510,14 +1500,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "43-47"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.218367517622, 
-      "lon": 4.429461684308, 
+      "lat": 51.218256604727, 
+      "lon": 4.429454095773, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1575,7 +1565,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "43-47"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 51.218367517622, 
@@ -1608,11 +1598,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.218392328457, 
-      "lon": 4.429629030278, 
+      "lat": 51.218340196529, 
+      "lon": 4.429627530194, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1637,11 +1627,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.218660935419, 
-      "lon": 4.42939136645, 
+      "lat": 51.218368583074, 
+      "lon": 4.429659770817, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1685,6 +1675,10 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1701,11 +1695,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.218345274103, 
-      "lon": 4.430230379421, 
+      "lat": 51.218406212916, 
+      "lon": 4.430235183801, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1835,11 +1829,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.218676855411, 
-      "lon": 4.430231680269, 
+      "lat": 51.218682902611, 
+      "lon": 4.430184170486, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1881,8 +1875,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.218721063389, 
-      "lon": 4.430260078192, 
+      "lat": 51.218742010706, 
+      "lon": 4.430251804813, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1965,8 +1959,8 @@
         "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.21782066408, 
-      "lon": 4.428236686717, 
+      "lat": 51.217820392243, 
+      "lon": 4.428240980068, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1982,8 +1976,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.218549619205, 
-      "lon": 4.431006392805, 
+      "lat": 51.218542154878, 
+      "lon": 4.43101382526, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2077,6 +2071,13 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -2105,11 +2106,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.218959167027, 
-      "lon": 4.430768639394, 
+      "lat": 51.218909874192, 
+      "lon": 4.430837273938, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2238,8 +2239,8 @@
         "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.21782066408, 
-      "lon": 4.428236686717, 
+      "lat": 51.217820392243, 
+      "lon": 4.428240980068, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2324,10 +2325,6 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "98"
       ], 

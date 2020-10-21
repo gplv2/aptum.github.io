@@ -197,6 +197,12 @@
       "street": "Generaal Eisenhowerlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -514,12 +520,6 @@
       "street": "Generaal Eisenhowerlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -635,15 +635,15 @@
       "street": "Generaal Eisenhowerlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "48"
@@ -802,9 +802,10 @@
       "street": "Generaal Eisenhowerlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "57"
@@ -832,8 +833,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.21775629866, 
-      "lon": 4.437285711243, 
+      "lat": 51.217756570155, 
+      "lon": 4.437282562935, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -862,8 +863,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.217845292048, 
-      "lon": 4.437271674134, 
+      "lat": 51.217841418073, 
+      "lon": 4.437286982595, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

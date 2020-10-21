@@ -169,6 +169,9 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "busnrs": [
+        "24/A000"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -338,14 +341,38 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "38A"
       ], 
-      "housenumber": "38", 
-      "lat": 51.012124116144, 
-      "lon": 2.607245534407, 
+      "housenumber": "38A", 
+      "lat": 51.012123039891, 
+      "lon": 2.607245717408, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38B"
+      ], 
+      "housenumber": "38B", 
+      "lat": 51.012168435205, 
+      "lon": 2.607347063432, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38C"
+      ], 
+      "housenumber": "38C", 
+      "lat": 51.012209969058, 
+      "lon": 2.6074367244, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {

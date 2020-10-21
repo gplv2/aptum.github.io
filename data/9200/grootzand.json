@@ -117,8 +117,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.044933332348, 
-      "lon": 4.105585874235, 
+      "lat": 51.044923283201, 
+      "lon": 4.105594201129, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -177,8 +177,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.048400409376, 
-      "lon": 4.107535821557, 
+      "lat": 51.048434674346, 
+      "lon": 4.1076654025, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -213,7 +213,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "113-113B"
+        "113"
       ], 
       "housenumber": "113", 
       "lat": 51.043782263383, 
@@ -224,25 +224,38 @@
       "street": "Grootzand"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "113A"
+      ], 
+      "housenumber": "113A", 
+      "lat": 51.043900746457, 
+      "lon": 4.103809401495, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grootzand"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "113-113B"
+        "113B"
       ], 
       "housenumber": "113B", 
-      "lat": 51.043782263383, 
-      "lon": 4.104287183505, 
+      "lat": 51.043430857935, 
+      "lon": 4.104236119878, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grootzand"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -250,11 +263,11 @@
         "113C"
       ], 
       "housenumber": "113C", 
-      "lat": 51.04341741423, 
-      "lon": 4.104133530149, 
+      "lat": 51.043316117821, 
+      "lon": 4.10413795125, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grootzand"
     }, 
     {
@@ -378,7 +391,7 @@
       "street": "Grootzand"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -469,7 +482,7 @@
       "street": "Grootzand"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -563,8 +576,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.041977341042, 
-      "lon": 4.103038884981, 
+      "lat": 51.042069314096, 
+      "lon": 4.102965787539, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -584,26 +597,14 @@
     }, 
     {
       "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.043270114616, 
-      "lon": 4.105071465605, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Grootzand"
-    }, 
-    {
-      "hnrlbls": [
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.043323694048, 
-      "lon": 4.104751761442, 
+      "lat": 51.043339337274, 
+      "lon": 4.104672392997, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grootzand"
     }, 
     {
@@ -939,8 +940,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.048174872497, 
-      "lon": 4.107412725023, 
+      "lat": 51.048068469649, 
+      "lon": 4.106775730064, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -951,11 +952,11 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.041704867218, 
-      "lon": 4.103351407179, 
+      "lat": 51.041671956784, 
+      "lon": 4.103506726487, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grootzand"
     }, 
     {
@@ -1074,8 +1075,8 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.048211724044, 
-      "lon": 4.10822494365, 
+      "lat": 51.048254357631, 
+      "lon": 4.10803290232, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1116,8 +1117,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.047745532598, 
-      "lon": 4.107726706022, 
+      "lat": 51.047742673483, 
+      "lon": 4.107734565152, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1260,8 +1261,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.047379879616, 
-      "lon": 4.108102074554, 
+      "lat": 51.047387072501, 
+      "lon": 4.108062105752, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1274,18 +1275,6 @@
       "housenumber": "43", 
       "lat": 51.046784801747, 
       "lon": 4.107123998135, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Grootzand"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.047297630334, 
-      "lon": 4.108142887961, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1332,11 +1321,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.046474988914, 
-      "lon": 4.106654859227, 
+      "lat": 51.046472072891, 
+      "lon": 4.106677548954, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grootzand"
     }, 
     {
@@ -1395,8 +1384,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.046646575534, 
-      "lon": 4.10807021197, 
+      "lat": 51.046648572475, 
+      "lon": 4.1080382583, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1431,8 +1420,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.045992732494, 
-      "lon": 4.108119047664, 
+      "lat": 51.046070877122, 
+      "lon": 4.108091947659, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1455,8 +1444,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.04618247925, 
-      "lon": 4.107381753311, 
+      "lat": 51.046176060204, 
+      "lon": 4.107365104937, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

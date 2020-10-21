@@ -113,11 +113,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.918965417391, 
-      "lon": 5.250645021415, 
+      "lat": 50.918963236599, 
+      "lon": 5.250648109288, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltse dreef"
     }, 
     {
@@ -137,11 +137,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.919132435573, 
-      "lon": 5.249126239316, 
+      "lat": 50.918591831803, 
+      "lon": 5.249191183308, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltse dreef"
     }, 
     {
@@ -266,6 +266,43 @@
     }, 
     {
       "apptnrs": [
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "1.05", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04"
+      ], 
+      "busnrs": [
+        "1.01"
+      ], 
+      "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.917738881362, 
+      "lon": 5.251606391784, 
+      "municipality": "Hasselt", 
+      "pcode": "3512", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hasseltse dreef"
+    }, 
+    {
+      "hnrlbls": [
+        "144"
+      ], 
+      "housenumber": "144", 
+      "lat": 50.917700326835, 
+      "lon": 5.25146131452, 
+      "municipality": "Hasselt", 
+      "pcode": "3512", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hasseltse dreef"
+    }, 
+    {
+      "apptnrs": [
         "2"
       ], 
       "busnrs": [
@@ -294,11 +331,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.916690068878, 
-      "lon": 5.249014972345, 
+      "lat": 50.916697221299, 
+      "lon": 5.248972299849, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltse dreef"
     }, 
     {
@@ -306,11 +343,11 @@
         "152A"
       ], 
       "housenumber": "152A", 
-      "lat": 50.916697791922, 
-      "lon": 5.249111965786, 
+      "lat": 50.916726915668, 
+      "lon": 5.249040551602, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltse dreef"
     }, 
     {
@@ -486,8 +523,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.918360380992, 
-      "lon": 5.262259442634, 
+      "lat": 50.918365788269, 
+      "lon": 5.26225769679, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
       "source": "afgeleidVanGebouw", 

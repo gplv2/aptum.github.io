@@ -13,6 +13,24 @@
       "street": "Guido Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.800294221996, 
+      "lon": 3.108997840036, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Guido Gezellelaan"
+    }, 
+    {
       "hnrlbls": [
         "100"
       ], 
@@ -105,7 +123,7 @@
       "lon": 3.111530971013, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -134,7 +152,7 @@
       "lon": 3.111549475507, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -560,15 +578,31 @@
       "street": "Guido Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.804565172042, 
-      "lon": 3.111484888348, 
+      "lat": 50.804567722753, 
+      "lon": 3.111454456501, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1258,6 +1292,9 @@
       "street": "Guido Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "79"
       ], 

@@ -97,23 +97,25 @@
       "street": "Bruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
-        "2", 
+        "102", 
         "201", 
         "202", 
+        "301", 
         "302"
       ], 
       "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.856208002409, 
-      "lon": 2.737479638426, 
+      "lat": 50.856230354077, 
+      "lon": 2.737593360298, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -133,8 +135,20 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.856198403139, 
-      "lon": 2.737545885653, 
+      "lat": 50.85627640911, 
+      "lon": 2.737736944097, 
+      "municipality": "Poperinge", 
+      "pcode": "8970", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "109A"
+      ], 
+      "housenumber": "109A", 
+      "lat": 50.856175804178, 
+      "lon": 2.737925391746, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -142,26 +156,14 @@
     }, 
     {
       "hnrlbls": [
-        "109A-109B"
-      ], 
-      "housenumber": "109A", 
-      "lat": 50.856231657035, 
-      "lon": 2.737661218055, 
-      "municipality": "Poperinge", 
-      "pcode": "8970", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bruggestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "109A-109B"
+        "109B"
       ], 
       "housenumber": "109B", 
-      "lat": 50.856231657035, 
-      "lon": 2.737661218055, 
+      "lat": 50.856107154336, 
+      "lon": 2.737967548918, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -177,11 +179,11 @@
       "street": "Bruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202"
       ], 
@@ -189,11 +191,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.856074602464, 
-      "lon": 2.73796739962, 
+      "lat": 50.855991432728, 
+      "lon": 2.737928804465, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -209,8 +211,8 @@
       "street": "Bruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -218,8 +220,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.856277557896, 
-      "lon": 2.737806654006, 
+      "lat": 50.855894116867, 
+      "lon": 2.737674633941, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -232,6 +234,18 @@
       "housenumber": "114", 
       "lat": 50.856533114534, 
       "lon": 2.737827051746, 
+      "municipality": "Poperinge", 
+      "pcode": "8970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "115"
+      ], 
+      "housenumber": "115", 
+      "lat": 50.856288029645, 
+      "lon": 2.737803165465, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1087,11 +1101,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.856213074415, 
-      "lon": 2.734258048666, 
+      "lat": 50.856022931094, 
+      "lon": 2.734408704338, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1379,8 +1393,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.855804792093, 
-      "lon": 2.735667936606, 
+      "lat": 50.855846074388, 
+      "lon": 2.735649313839, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 

@@ -73,6 +73,9 @@
       "street": "Zandvoordedorpstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "10A"
       ], 
@@ -145,9 +148,6 @@
       "street": "Zandvoordedorpstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -248,8 +248,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.196148659993, 
-      "lon": 2.980823811684, 
+      "lat": 51.196158868059, 
+      "lon": 2.980835670072, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -356,8 +356,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.195946678283, 
-      "lon": 2.981423319178, 
+      "lat": 51.195933703705, 
+      "lon": 2.981405533544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -452,8 +452,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.195659005439, 
-      "lon": 2.981837789192, 
+      "lat": 51.195642580467, 
+      "lon": 2.981832410991, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -500,8 +500,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.195541471536, 
-      "lon": 2.982264083099, 
+      "lat": 51.195557429405, 
+      "lon": 2.982275627756, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -524,8 +524,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.19627701592, 
-      "lon": 2.979926302767, 
+      "lat": 51.196280420861, 
+      "lon": 2.97992534295, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1008,8 +1008,8 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "34"
@@ -1161,19 +1161,17 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.200499640379, 
-      "lon": 2.9760747201, 
+      "lat": 51.200532965932, 
+      "lon": 2.976125812313, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zandvoordedorpstraat"
     }, 
     {
@@ -1433,8 +1431,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.198698714248, 
-      "lon": 2.978821413089, 
+      "lat": 51.198705496846, 
+      "lon": 2.978855409537, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1478,14 +1476,14 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0101"
       ], 
       "hnrlbls": [
-        "72-72B"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.199451690449, 
-      "lon": 2.977664695947, 
+      "lat": 51.199472239802, 
+      "lon": 2.977684402493, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1493,7 +1491,7 @@
     }, 
     {
       "hnrlbls": [
-        "72-72B"
+        "72B"
       ], 
       "housenumber": "72B", 
       "lat": 51.199451690449, 

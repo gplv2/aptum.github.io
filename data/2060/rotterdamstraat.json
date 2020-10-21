@@ -1,20 +1,27 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.224487876558, 
-      "lon": 4.41825241976, 
+      "lat": 51.224516853417, 
+      "lon": 4.418171574633, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rotterdamstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "10"
@@ -116,8 +123,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.22423337153, 
-      "lon": 4.41835621078, 
+      "lat": 51.224231306397, 
+      "lon": 4.418351055403, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -172,9 +179,11 @@
       "street": "Rotterdamstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "18"
@@ -224,13 +233,6 @@
       "street": "Rotterdamstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -276,17 +278,14 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.224080757531, 
-      "lon": 4.418546855224, 
+      "lat": 51.224091443119, 
+      "lon": 4.41857163047, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Rotterdamstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -365,18 +364,6 @@
       "housenumber": "29", 
       "lat": 51.223984769845, 
       "lon": 4.418737846255, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rotterdamstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.224451110412, 
-      "lon": 4.418261111947, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -522,6 +509,30 @@
       "housenumber": "39", 
       "lat": 51.223855198856, 
       "lon": 4.419059631558, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rotterdamstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.224469451308, 
+      "lon": 4.418250252767, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rotterdamstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.224451110412, 
+      "lon": 4.418261111947, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -759,8 +770,8 @@
         "53-55"
       ], 
       "housenumber": "53", 
-      "lat": 51.223544449112, 
-      "lon": 4.419317231637, 
+      "lat": 51.223550384293, 
+      "lon": 4.419310653678, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -789,8 +800,8 @@
         "53-55"
       ], 
       "housenumber": "55", 
-      "lat": 51.223544449112, 
-      "lon": 4.419317231637, 
+      "lat": 51.223550384293, 
+      "lon": 4.419310653678, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1223,9 +1234,10 @@
       "street": "Rotterdamstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "82"
@@ -1390,12 +1402,17 @@
       "street": "Rotterdamstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "95-97"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.222326132572, 
-      "lon": 4.420617152674, 
+      "lat": 51.222345367576, 
+      "lon": 4.420617460631, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1403,11 +1420,11 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.222326132572, 
-      "lon": 4.420617152674, 
+      "lat": 51.222306269145, 
+      "lon": 4.420615126364, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

@@ -90,31 +90,29 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.231125692717, 
-      "lon": 2.916259160303, 
+      "lat": 51.231163201574, 
+      "lon": 2.916224198787, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.231515678309, 
-      "lon": 2.916625042406, 
+      "lat": 51.23146745863, 
+      "lon": 2.916680957114, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
@@ -134,18 +132,19 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.231451964993, 
-      "lon": 2.916524643681, 
+      "lat": 51.231405773959, 
+      "lon": 2.916518779307, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
       "busnrs": [
         "0201", 
         "0301", 
-        "0401"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "2"
@@ -201,7 +200,8 @@
     {
       "busnrs": [
         "0001", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "23"
@@ -241,6 +241,7 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
@@ -261,14 +262,12 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "0401"
+        "0302"
       ], 
       "hnrlbls": [
         "26A"
@@ -307,19 +306,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.231233194708, 
-      "lon": 2.915957400008, 
+      "lat": 51.231179345852, 
+      "lon": 2.916001462329, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
@@ -347,6 +347,7 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
         "0301", 
         "0302", 
@@ -359,8 +360,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.231619053517, 
-      "lon": 2.917151637784, 
+      "lat": 51.231622088759, 
+      "lon": 2.917171876721, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -384,22 +385,25 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.231206791827, 
-      "lon": 2.915893786209, 
+      "lat": 51.231158098548, 
+      "lon": 2.915947711384, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201"
       ], 
@@ -464,6 +468,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -495,8 +500,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.230630065511, 
-      "lon": 2.914948657026, 
+      "lat": 51.230645347896, 
+      "lon": 2.914875440005, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -522,15 +527,18 @@
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.231025180677, 
-      "lon": 2.915534163191, 
+      "lat": 51.231002910816, 
+      "lon": 2.915558197338, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
@@ -553,8 +561,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.230959915261, 
-      "lon": 2.915453862109, 
+      "lat": 51.230960861398, 
+      "lon": 2.915457698784, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -565,8 +573,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.230985292611, 
-      "lon": 2.915324199186, 
+      "lat": 51.230926280975, 
+      "lon": 2.915372432261, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -577,11 +585,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.230957453464, 
-      "lon": 2.915253471283, 
+      "lat": 51.230957612095, 
+      "lon": 2.915251748046, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
@@ -592,11 +600,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.230937902903, 
-      "lon": 2.915191506148, 
+      "lat": 51.230937087072, 
+      "lon": 2.915190958813, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {
@@ -615,34 +623,31 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "0103", 
-        "0104", 
+        "0201", 
         "0202", 
-        "0204", 
-        "0305", 
-        "0404", 
-        "0504", 
-        "0604", 
-        "0902", 
-        "13", 
-        "15", 
-        "23", 
-        "25", 
-        "3", 
-        "34", 
-        "4", 
-        "5", 
-        "82"
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801", 
+        "0901"
       ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.230783190031, 
-      "lon": 2.914972521564, 
+      "lat": 51.230782899325, 
+      "lon": 2.914970812339, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Sebastiaansstraat"
     }, 
     {

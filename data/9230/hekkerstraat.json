@@ -98,11 +98,11 @@
         "22"
       ], 
       "hnrlbls": [
-        "112"
+        "112-114"
       ], 
       "housenumber": "112", 
-      "lat": 51.003519456437, 
-      "lon": 3.891858339724, 
+      "lat": 51.003492609189, 
+      "lon": 3.891710442267, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "manueleAanduidingVanGebouw", 
@@ -130,11 +130,11 @@
         "22"
       ], 
       "hnrlbls": [
-        "114"
+        "112-114"
       ], 
       "housenumber": "114", 
-      "lat": 51.003484120999, 
-      "lon": 3.891967547099, 
+      "lat": 51.003492609189, 
+      "lon": 3.891710442267, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "manueleAanduidingVanGebouw", 
@@ -202,6 +202,18 @@
     }, 
     {
       "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
+      "lat": 51.004051037134, 
+      "lon": 3.890915177712, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hekkerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
@@ -231,6 +243,30 @@
       "housenumber": "13", 
       "lat": 51.005720028601, 
       "lon": 3.88530519231, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hekkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 51.003924987647, 
+      "lon": 3.89128731826, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hekkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 51.003871672186, 
+      "lon": 3.891418223327, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "manueleAanduidingVanGebouw", 
@@ -633,6 +669,9 @@
       "street": "Hekkerstraat"
     }, 
     {
+      "apptnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -1018,6 +1057,14 @@
       "street": "Hekkerstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1026,7 +1073,7 @@
       "lon": 3.889373755704, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hekkerstraat"
     }, 
     {
@@ -1099,7 +1146,9 @@
     }, 
     {
       "busnrs": [
-        "01"
+        "01", 
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "83"

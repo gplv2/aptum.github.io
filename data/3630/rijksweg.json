@@ -9,7 +9,7 @@
       "lon": 5.714618291857, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -21,7 +21,7 @@
       "lon": 5.714532511523, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -29,11 +29,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.986456216937, 
-      "lon": 5.713534221448, 
+      "lat": 50.986206668077, 
+      "lon": 5.713963775635, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -45,7 +45,7 @@
       "lon": 5.713962644393, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -57,11 +57,11 @@
       "lon": 5.713906659837, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -74,7 +74,7 @@
       "lon": 5.713225886041, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -90,7 +90,7 @@
       "lon": 5.71320955588, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -102,7 +102,7 @@
       "lon": 5.713079301246, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -126,7 +126,7 @@
       "lon": 5.713051010069, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -138,7 +138,7 @@
       "lon": 5.713013699573, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -150,7 +150,7 @@
       "lon": 5.712984808545, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -162,7 +162,7 @@
       "lon": 5.713008611934, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -174,7 +174,7 @@
       "lon": 5.715838194673, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -210,7 +210,7 @@
       "lon": 5.712814368224, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -222,7 +222,7 @@
       "lon": 5.715282938404, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -234,7 +234,7 @@
       "lon": 5.715177064668, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -246,7 +246,7 @@
       "lon": 5.715076891063, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -262,18 +262,31 @@
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "hnrlbls": [
+        "140"
+      ], 
+      "housenumber": "140", 
+      "lat": 50.983241072058, 
+      "lon": 5.712355741622, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.983196230221, 
-      "lon": 5.712322408562, 
+      "lat": 50.983152431847, 
+      "lon": 5.712307906262, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -281,11 +294,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 50.985885013039, 
-      "lon": 5.714707467014, 
+      "lat": 50.985891257408, 
+      "lon": 5.714782426644, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -297,7 +310,7 @@
       "lon": 5.712256929122, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -309,11 +322,11 @@
       "lon": 5.714563680375, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -324,7 +337,7 @@
       "lon": 5.712191450011, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -336,7 +349,7 @@
       "lon": 5.714476103205, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -348,7 +361,7 @@
       "lon": 5.714443694348, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -360,7 +373,7 @@
       "lon": 5.714343344192, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -372,7 +385,19 @@
       "lon": 5.71436532333, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "153A"
+      ], 
+      "housenumber": "153A", 
+      "lat": 50.984554626232, 
+      "lon": 5.714766377777, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -384,7 +409,7 @@
       "lon": 5.701240425425, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -396,7 +421,7 @@
       "lon": 5.714044181835, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -410,15 +435,18 @@
         "8", 
         "9"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.979481803372, 
-      "lon": 5.701085994163, 
+      "lat": 50.979470529412, 
+      "lon": 5.701176394079, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -430,7 +458,7 @@
       "lon": 5.713742575453, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -442,11 +470,11 @@
       "lon": 5.701248941649, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -457,7 +485,7 @@
       "lon": 5.713724161471, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -465,11 +493,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.979323703423, 
-      "lon": 5.70112963483, 
+      "lat": 50.979308562601, 
+      "lon": 5.701228042265, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -481,7 +509,7 @@
       "lon": 5.713594872402, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -493,7 +521,7 @@
       "lon": 5.701203732193, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -505,19 +533,19 @@
       "lon": 5.713495901162, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "K1", 
+        "K2", 
+        "K3", 
+        "K4", 
+        "K5", 
+        "K6", 
+        "K7", 
+        "K8"
       ], 
       "hnrlbls": [
         "164"
@@ -527,11 +555,11 @@
       "lon": 5.701111616204, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -545,7 +573,7 @@
       "lon": 5.713438716796, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -553,19 +581,19 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.979185574152, 
-      "lon": 5.701116733777, 
+      "lat": 50.979171060131, 
+      "lon": 5.70117570909, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "168"
@@ -580,10 +608,10 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "170"
@@ -598,10 +626,10 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "172"
@@ -623,15 +651,15 @@
       "lon": 5.713573314984, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "174"
@@ -645,25 +673,25 @@
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "176-178"
+        "176"
       ], 
       "housenumber": "176", 
       "lat": 50.978770044389, 
       "lon": 5.701012202248, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -675,31 +703,19 @@
       "lon": 5.713046764922, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "177A"
-      ], 
-      "housenumber": "177A", 
-      "lat": 50.982902875899, 
-      "lon": 5.713045083682, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "176-178"
+        "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.978770044389, 
-      "lon": 5.701012202248, 
+      "lat": 50.978724953363, 
+      "lon": 5.70098471529, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -711,14 +727,12 @@
       "lon": 5.712925619731, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -733,11 +747,11 @@
       "lon": 5.700867127072, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "2", 
@@ -757,14 +771,11 @@
       "lon": 5.700871661182, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "5"
-      ], 
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -782,11 +793,11 @@
       "lon": 5.700829125832, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -797,23 +808,22 @@
       "lon": 5.700709105614, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
-        "187-187A"
+        "187"
       ], 
       "housenumber": "187", 
       "lat": 50.979771304068, 
       "lon": 5.702425564752, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -825,7 +835,7 @@
       "lon": 5.700664234622, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -840,14 +850,12 @@
       "lon": 5.702404361982, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -865,11 +873,11 @@
       "lon": 5.702197137115, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -880,7 +888,7 @@
       "lon": 5.700599071649, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -892,7 +900,7 @@
       "lon": 5.701934561703, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -904,7 +912,7 @@
       "lon": 5.70060591192, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -912,11 +920,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.979282042524, 
-      "lon": 5.701933538353, 
+      "lat": 50.979298836669, 
+      "lon": 5.701887588049, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -928,7 +936,7 @@
       "lon": 5.700581786497, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -940,7 +948,7 @@
       "lon": 5.701904728763, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -960,11 +968,11 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.977765128696, 
-      "lon": 5.700515510869, 
+      "lat": 50.977753314967, 
+      "lon": 5.700566301374, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -976,7 +984,7 @@
       "lon": 5.702064271603, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -984,11 +992,11 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.9776937358, 
-      "lon": 5.700484429015, 
+      "lat": 50.977689484667, 
+      "lon": 5.700534295141, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1000,11 +1008,11 @@
       "lon": 5.701904821187, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1020,7 +1028,7 @@
       "lon": 5.700453653848, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1032,11 +1040,11 @@
       "lon": 5.701800902944, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1049,11 +1057,11 @@
       "lon": 5.700496781761, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1067,15 +1075,11 @@
       "lon": 5.70045441265, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "2R", 
-        "7"
-      ], 
-      "busnrs": [
         "1", 
         "10", 
         "2", 
@@ -1083,6 +1087,7 @@
         "4", 
         "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -1094,19 +1099,7 @@
       "lon": 5.700432943869, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "211-217"
-      ], 
-      "housenumber": "211", 
-      "lat": 50.978600591424, 
-      "lon": 5.701676595082, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1118,23 +1111,11 @@
       "lon": 5.700358079143, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "hnrlbls": [
-        "211-217"
-      ], 
-      "housenumber": "213", 
-      "lat": 50.978600591424, 
-      "lon": 5.701676595082, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1148,29 +1129,26 @@
       "lon": 5.700336280177, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "211-217"
+        "215"
       ], 
       "housenumber": "215", 
       "lat": 50.978600591424, 
       "lon": 5.701676595082, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "0.01", 
-        "2", 
-        "3"
-      ], 
-      "busnrs": [
         "1", 
+        "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
@@ -1189,35 +1167,10 @@
       "street": "Rijksweg"
     }, 
     {
-      "hnrlbls": [
-        "211-217"
-      ], 
-      "housenumber": "217", 
-      "lat": 50.978600591424, 
-      "lon": 5.701676595082, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "218"
-      ], 
-      "housenumber": "218", 
-      "lat": 50.976939925284, 
-      "lon": 5.700313184051, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
       "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0", 
-        "3.0"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "218A"
@@ -1227,14 +1180,13 @@
       "lon": 5.700331367048, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "218B"
@@ -1244,7 +1196,7 @@
       "lon": 5.700294998532, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1256,7 +1208,7 @@
       "lon": 5.699767903853, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1273,11 +1225,11 @@
       "lon": 5.699671351414, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1291,15 +1243,14 @@
       "lon": 5.699383608643, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
-        "12", 
         "2", 
         "3", 
         "4", 
@@ -1317,7 +1268,7 @@
       "lon": 5.699297206951, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1329,7 +1280,7 @@
       "lon": 5.699445984079, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1341,13 +1292,16 @@
       "lon": 5.701586554233, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "3"
+      ], 
       "busnrs": [
-        "003", 
-        "1"
+        "2"
       ], 
       "hnrlbls": [
         "229"
@@ -1357,7 +1311,7 @@
       "lon": 5.701371385937, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1369,11 +1323,11 @@
       "lon": 5.699384691515, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1386,7 +1340,7 @@
       "lon": 5.701355019452, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1394,11 +1348,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.974734016158, 
-      "lon": 5.699302503242, 
+      "lat": 50.97472617849, 
+      "lon": 5.699351552429, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1410,11 +1364,11 @@
       "lon": 5.701314416623, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1425,7 +1379,7 @@
       "lon": 5.699326863586, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1437,7 +1391,7 @@
       "lon": 5.70115842868, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1449,11 +1403,11 @@
       "lon": 5.701104175375, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1465,7 +1419,7 @@
       "lon": 5.699231121506, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1477,34 +1431,37 @@
       "lon": 5.699230189188, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "244"
+      ], 
+      "housenumber": "244", 
+      "lat": 50.974057030182, 
+      "lon": 5.699071524878, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
         "1"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
-        "245-245A"
+        "245"
       ], 
       "housenumber": "245", 
-      "lat": 50.976594663438, 
-      "lon": 5.70081504861, 
+      "lat": 50.976602062208, 
+      "lon": 5.700788913185, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "245-245A"
-      ], 
-      "housenumber": "245A", 
-      "lat": 50.976594663438, 
-      "lon": 5.70081504861, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1512,11 +1469,11 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.973678941831, 
-      "lon": 5.698732839937, 
+      "lat": 50.973650100431, 
+      "lon": 5.698818600819, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1528,31 +1485,19 @@
       "lon": 5.6988616708, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "249-249B"
+        "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.976308131214, 
-      "lon": 5.700735839328, 
+      "lat": 50.97631396495, 
+      "lon": 5.700712934958, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "249-249B"
-      ], 
-      "housenumber": "249B", 
-      "lat": 50.976308131214, 
-      "lon": 5.700735839328, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1576,11 +1521,11 @@
       "lon": 5.700684576511, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3", 
         "4"
@@ -1593,7 +1538,7 @@
       "lon": 5.700631206952, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1601,11 +1546,11 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 50.972998964716, 
-      "lon": 5.698495951792, 
+      "lat": 50.9729629742, 
+      "lon": 5.698641458466, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1617,7 +1562,7 @@
       "lon": 5.700945787519, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1625,15 +1570,15 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 50.975735700978, 
-      "lon": 5.700680117229, 
+      "lat": 50.975756190647, 
+      "lon": 5.700553957386, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1646,7 +1591,7 @@
       "lon": 5.700530166043, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1699,7 +1644,7 @@
       "lon": 5.698500315158, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1711,7 +1656,7 @@
       "lon": 5.700468084079, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1723,11 +1668,11 @@
       "lon": 5.698433308143, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1743,7 +1688,7 @@
       "lon": 5.70044599317, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1758,7 +1703,7 @@
       "lon": 5.700421847875, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1766,11 +1711,11 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 50.972401338739, 
-      "lon": 5.6983864319, 
+      "lat": 50.972386485873, 
+      "lon": 5.698443681106, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1782,7 +1727,7 @@
       "lon": 5.700287723842, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1794,7 +1739,7 @@
       "lon": 5.698495371587, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1806,7 +1751,7 @@
       "lon": 5.700248781041, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1818,14 +1763,10 @@
       "lon": 5.698441739611, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1847,14 +1788,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "270-272"
+        "270"
       ], 
       "housenumber": "270", 
       "lat": 50.972157382981, 
       "lon": 5.698374097466, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1866,7 +1807,19 @@
       "lon": 5.700222721968, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "272"
+      ], 
+      "housenumber": "272", 
+      "lat": 50.972099404733, 
+      "lon": 5.698396944191, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1878,7 +1831,7 @@
       "lon": 5.700209728582, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1890,7 +1843,7 @@
       "lon": 5.700181497648, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1902,7 +1855,19 @@
       "lon": 5.700140519662, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "276"
+      ], 
+      "housenumber": "276", 
+      "lat": 50.97197328825, 
+      "lon": 5.698291694576, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1914,11 +1879,11 @@
       "lon": 5.70003116954, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1928,11 +1893,11 @@
         "278"
       ], 
       "housenumber": "278", 
-      "lat": 50.971936267347, 
-      "lon": 5.698146824576, 
+      "lat": 50.971887939192, 
+      "lon": 5.698270334006, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1944,13 +1909,15 @@
       "lon": 5.699982743712, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
+        "L", 
         "L1", 
         "L2", 
+        "R", 
         "R1", 
         "R2"
       ], 
@@ -1974,7 +1941,7 @@
       "lon": 5.698284846053, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1986,7 +1953,7 @@
       "lon": 5.699915496449, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1994,23 +1961,11 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 50.971706911622, 
-      "lon": 5.698139320013, 
+      "lat": 50.971683819983, 
+      "lon": 5.698257279608, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "283"
-      ], 
-      "housenumber": "283", 
-      "lat": 50.974172994907, 
-      "lon": 5.699898615189, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2018,26 +1973,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 50.971648979953, 
-      "lon": 5.69811831059, 
+      "lat": 50.971632700704, 
+      "lon": 5.698253977889, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "285"
-      ], 
-      "housenumber": "285", 
-      "lat": 50.974124733668, 
-      "lon": 5.699873177966, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2049,11 +1989,11 @@
       "lon": 5.69820567696, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2062,11 +2002,11 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 50.973884496237, 
-      "lon": 5.699810388462, 
+      "lat": 50.973891033094, 
+      "lon": 5.699812710203, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2074,8 +2014,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.995297090033, 
-      "lon": 5.720499875709, 
+      "lat": 50.995260088282, 
+      "lon": 5.720668485979, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2090,7 +2030,7 @@
       "lon": 5.698176233306, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2108,7 +2048,7 @@
       "lon": 5.699655205466, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2120,7 +2060,7 @@
       "lon": 5.698124553288, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2132,7 +2072,7 @@
       "lon": 5.699645621703, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2140,15 +2080,15 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 50.971315601827, 
-      "lon": 5.698079091253, 
+      "lat": 50.971313374671, 
+      "lon": 5.69810907311, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2159,7 +2099,7 @@
       "lon": 5.699578061318, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2167,11 +2107,11 @@
         "296"
       ], 
       "housenumber": "296", 
-      "lat": 50.971334316212, 
-      "lon": 5.697879131972, 
+      "lat": 50.971244907269, 
+      "lon": 5.698065693999, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2179,11 +2119,11 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 50.971236052095, 
-      "lon": 5.697759581848, 
+      "lat": 50.971166386179, 
+      "lon": 5.69802886465, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2195,7 +2135,19 @@
       "lon": 5.699435488498, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.995306116944, 
+      "lon": 5.720496717065, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2203,11 +2155,11 @@
         "300"
       ], 
       "housenumber": "300", 
-      "lat": 50.97099191552, 
-      "lon": 5.697961973905, 
+      "lat": 50.970978415277, 
+      "lon": 5.698034780685, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2219,7 +2171,7 @@
       "lon": 5.699201628938, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2227,11 +2179,11 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 50.970938901859, 
-      "lon": 5.697927434868, 
+      "lat": 50.970933563613, 
+      "lon": 5.697978117524, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2243,7 +2195,7 @@
       "lon": 5.699198625565, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2255,7 +2207,7 @@
       "lon": 5.697912574928, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2267,7 +2219,7 @@
       "lon": 5.699147608047, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2275,11 +2227,11 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 50.970779866407, 
-      "lon": 5.697894871973, 
+      "lat": 50.970774867864, 
+      "lon": 5.697915519397, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2291,7 +2243,7 @@
       "lon": 5.699094097303, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2299,11 +2251,11 @@
         "308"
       ], 
       "housenumber": "308", 
-      "lat": 50.970723058009, 
-      "lon": 5.697877882104, 
+      "lat": 50.970719271341, 
+      "lon": 5.697894719305, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2317,15 +2269,15 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 50.971439013932, 
-      "lon": 5.699201951926, 
+      "lat": 50.971568131954, 
+      "lon": 5.698962551216, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2337,7 +2289,7 @@
       "lon": 5.720233580865, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2345,11 +2297,11 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 50.970677695436, 
-      "lon": 5.697834589727, 
+      "lat": 50.970671401322, 
+      "lon": 5.697866449298, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2361,7 +2313,7 @@
       "lon": 5.698732436699, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2369,11 +2321,11 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 50.970651697243, 
-      "lon": 5.697724637905, 
+      "lat": 50.970618078546, 
+      "lon": 5.697859241, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2385,7 +2337,7 @@
       "lon": 5.697832248795, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2397,7 +2349,7 @@
       "lon": 5.697792062295, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2409,7 +2361,7 @@
       "lon": 5.698705898954, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2417,11 +2369,11 @@
         "318"
       ], 
       "housenumber": "318", 
-      "lat": 50.970463556755, 
-      "lon": 5.697713748147, 
+      "lat": 50.970453348857, 
+      "lon": 5.697773689985, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2433,7 +2385,7 @@
       "lon": 5.697695213209, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2445,7 +2397,7 @@
       "lon": 5.698394741544, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2457,7 +2409,7 @@
       "lon": 5.698368989019, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2465,15 +2417,15 @@
         "324"
       ], 
       "housenumber": "324", 
-      "lat": 50.970272287108, 
-      "lon": 5.697637697304, 
+      "lat": 50.970244027591, 
+      "lon": 5.697719766963, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2484,7 +2436,7 @@
       "lon": 5.697393707728, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2496,7 +2448,7 @@
       "lon": 5.698473640645, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2504,11 +2456,11 @@
         "330"
       ], 
       "housenumber": "330", 
-      "lat": 50.969883379215, 
-      "lon": 5.697325229003, 
+      "lat": 50.969848953047, 
+      "lon": 5.697427912105, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2520,7 +2472,7 @@
       "lon": 5.698316165845, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2532,14 +2484,12 @@
       "lon": 5.697404126341, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -2551,7 +2501,7 @@
       "lon": 5.697370099194, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2563,26 +2513,23 @@
       "lon": 5.698105473887, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "336"
       ], 
       "housenumber": "336", 
-      "lat": 50.969687116119, 
-      "lon": 5.697309127108, 
+      "lat": 50.969626592978, 
+      "lon": 5.697477565155, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2593,7 +2540,7 @@
       "lon": 5.698021274473, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2601,11 +2548,11 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.969615727021, 
-      "lon": 5.697277628463, 
+      "lat": 50.969582789533, 
+      "lon": 5.697352017954, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2613,21 +2560,21 @@
         "339"
       ], 
       "housenumber": "339", 
-      "lat": 50.969152643069, 
-      "lon": 5.697967320391, 
+      "lat": 50.969173426326, 
+      "lon": 5.697854712258, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004", 
-        "005", 
-        "006"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "340"
@@ -2637,11 +2584,11 @@
       "lon": 5.69729016785, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2651,11 +2598,11 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 50.968889274393, 
-      "lon": 5.697835118635, 
+      "lat": 50.96902625593, 
+      "lon": 5.697782619142, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2667,11 +2614,11 @@
       "lon": 5.697267237966, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2682,7 +2629,7 @@
       "lon": 5.697880350826, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2694,22 +2641,7 @@
       "lon": 5.697210517457, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "345"
-      ], 
-      "housenumber": "345", 
-      "lat": 50.968630721538, 
-      "lon": 5.697618905174, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2724,7 +2656,50 @@
       "lon": 5.697200446916, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
+        "4"
+      ], 
+      "hnrlbls": [
+        "346A"
+      ], 
+      "housenumber": "346A", 
+      "lat": 50.969134654231, 
+      "lon": 5.697172860417, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "348"
+      ], 
+      "housenumber": "348", 
+      "lat": 50.968935139484, 
+      "lon": 5.697038771349, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2736,17 +2711,23 @@
       "lon": 5.697599852823, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
         "1", 
         "10", 
+        "11", 
         "12", 
+        "13", 
+        "14", 
         "2", 
+        "3", 
         "4", 
+        "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -2762,6 +2743,12 @@
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "350A"
       ], 
@@ -2778,11 +2765,11 @@
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 50.968490596915, 
-      "lon": 5.697591579957, 
+      "lat": 50.968494847161, 
+      "lon": 5.697581448775, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2790,11 +2777,11 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 50.968471155834, 
-      "lon": 5.696814034061, 
+      "lat": 50.968450218776, 
+      "lon": 5.696892606601, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2806,7 +2793,7 @@
       "lon": 5.697559725485, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2818,7 +2805,7 @@
       "lon": 5.696799650168, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2830,7 +2817,7 @@
       "lon": 5.697565199348, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2842,7 +2829,7 @@
       "lon": 5.696760195045, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2850,11 +2837,11 @@
         "357"
       ], 
       "housenumber": "357", 
-      "lat": 50.967336785015, 
-      "lon": 5.697714765895, 
+      "lat": 50.967331079101, 
+      "lon": 5.697312945924, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2862,11 +2849,11 @@
         "358"
       ], 
       "housenumber": "358", 
-      "lat": 50.968140752707, 
-      "lon": 5.69670243759, 
+      "lat": 50.968136256444, 
+      "lon": 5.696734346536, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2878,30 +2865,15 @@
         "2.2", 
         "2.3"
       ], 
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "359-359A"
+        "359"
       ], 
       "housenumber": "359", 
       "lat": 50.966544886736, 
       "lon": 5.696888006759, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "359-359A"
-      ], 
-      "housenumber": "359A", 
-      "lat": 50.966544886736, 
-      "lon": 5.696888006759, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2921,11 +2893,11 @@
         "360"
       ], 
       "housenumber": "360", 
-      "lat": 50.968072668483, 
-      "lon": 5.696513700593, 
+      "lat": 50.968044973672, 
+      "lon": 5.696704991292, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2937,11 +2909,11 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 50.966378784539, 
-      "lon": 5.696963600245, 
+      "lat": 50.966430593905, 
+      "lon": 5.696850169196, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2953,7 +2925,7 @@
       "lon": 5.696682959784, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2965,22 +2937,22 @@
       "lon": 5.69685881017, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "364"
       ], 
       "housenumber": "364", 
-      "lat": 50.967871644873, 
-      "lon": 5.696497183061, 
+      "lat": 50.967842224641, 
+      "lon": 5.696626345062, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2992,11 +2964,11 @@
         "365"
       ], 
       "housenumber": "365", 
-      "lat": 50.965979557063, 
-      "lon": 5.696808340444, 
+      "lat": 50.966015550667, 
+      "lon": 5.696710123497, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3004,11 +2976,11 @@
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 50.965810137277, 
-      "lon": 5.696763815599, 
+      "lat": 50.965868004396, 
+      "lon": 5.696615532636, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3016,11 +2988,11 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 50.967775251613, 
-      "lon": 5.696331280927, 
+      "lat": 50.967740963692, 
+      "lon": 5.696533204766, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3032,7 +3004,7 @@
       "lon": 5.696589164674, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3056,17 +3028,19 @@
       "lon": 5.696481553358, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
-        "1", 
         "1L", 
         "1R", 
-        "2", 
         "2L", 
         "2R"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "371"
@@ -3076,19 +3050,7 @@
       "lon": 5.696548632454, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "372"
-      ], 
-      "housenumber": "372", 
-      "lat": 50.967505339709, 
-      "lon": 5.696404079337, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3100,7 +3062,7 @@
       "lon": 5.696388301174, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3118,7 +3080,7 @@
       "lon": 5.696423118008, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3130,7 +3092,7 @@
       "lon": 5.695899561624, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3148,11 +3110,11 @@
       "lon": 5.696372981256, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3164,7 +3126,7 @@
       "lon": 5.696175217653, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3192,7 +3154,7 @@
       "lon": 5.696127114196, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3232,7 +3194,7 @@
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3244,11 +3206,11 @@
       "lon": 5.6960095377, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3260,22 +3222,34 @@
       "lon": 5.695981547149, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "390B"
       ], 
       "housenumber": "390B", 
-      "lat": 50.965909951665, 
-      "lon": 5.695815138188, 
+      "lat": 50.965877211516, 
+      "lon": 5.695943774029, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "390C"
+      ], 
+      "housenumber": "390C", 
+      "lat": 50.965814612427, 
+      "lon": 5.695906122038, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3283,11 +3257,11 @@
         "392"
       ], 
       "housenumber": "392", 
-      "lat": 50.96580582788, 
-      "lon": 5.695752533437, 
+      "lat": 50.965753215074, 
+      "lon": 5.695889433547, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3299,11 +3273,11 @@
       "lon": 5.695843412634, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3315,7 +3289,7 @@
       "lon": 5.695803155903, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3323,15 +3297,15 @@
         "397"
       ], 
       "housenumber": "397", 
-      "lat": 50.962800568185, 
-      "lon": 5.695629561524, 
+      "lat": 50.962929450132, 
+      "lon": 5.695593632521, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -3342,7 +3316,7 @@
       "lon": 5.695789715758, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3350,11 +3324,11 @@
         "399"
       ], 
       "housenumber": "399", 
-      "lat": 50.962474113704, 
-      "lon": 5.695478663175, 
+      "lat": 50.962431523156, 
+      "lon": 5.69546051575, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3386,14 +3360,17 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.9655804985, 
-      "lon": 5.695738748684, 
+      "lat": 50.965526930285, 
+      "lon": 5.695808989152, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "402"
       ], 
@@ -3402,7 +3379,7 @@
       "lon": 5.69577466893, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3446,8 +3423,8 @@
         "403A"
       ], 
       "housenumber": "403A", 
-      "lat": 50.961613936662, 
-      "lon": 5.695530190614, 
+      "lat": 50.961615519107, 
+      "lon": 5.695533367426, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3514,7 +3491,7 @@
       "lon": 5.695706180662, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3526,7 +3503,7 @@
       "lon": 5.695506670234, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3538,7 +3515,7 @@
       "lon": 5.695670947026, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3550,7 +3527,7 @@
       "lon": 5.695489975342, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3558,15 +3535,15 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 50.965360315545, 
-      "lon": 5.695444345468, 
+      "lat": 50.96527422761, 
+      "lon": 5.695639667188, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3578,7 +3555,7 @@
       "lon": 5.695473231991, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3590,7 +3567,7 @@
       "lon": 5.695577097878, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3608,7 +3585,7 @@
       "lon": 5.69545635385, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3619,15 +3596,15 @@
         "412"
       ], 
       "housenumber": "412", 
-      "lat": 50.965148798596, 
-      "lon": 5.695529049611, 
+      "lat": 50.965154177243, 
+      "lon": 5.695498591324, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3639,11 +3616,11 @@
       "lon": 5.695407925093, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -3654,11 +3631,11 @@
       "lon": 5.695605029867, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3670,14 +3647,10 @@
       "lon": 5.695444113153, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002"
-      ], 
       "hnrlbls": [
         "416"
       ], 
@@ -3686,11 +3659,11 @@
       "lon": 5.695423663004, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3698,23 +3671,11 @@
         "417"
       ], 
       "housenumber": "417", 
-      "lat": 50.960772606951, 
-      "lon": 5.695544808718, 
+      "lat": 50.96077898512, 
+      "lon": 5.695425832713, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "418"
-      ], 
-      "housenumber": "418", 
-      "lat": 50.96493465988, 
-      "lon": 5.695559291837, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3722,11 +3683,11 @@
         "419"
       ], 
       "housenumber": "419", 
-      "lat": 50.960713629375, 
-      "lon": 5.695552677153, 
+      "lat": 50.960716808586, 
+      "lon": 5.695454253128, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3738,7 +3699,7 @@
       "lon": 5.719530959423, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3750,15 +3711,15 @@
         "420"
       ], 
       "housenumber": "420", 
-      "lat": 50.964925734918, 
-      "lon": 5.695306609851, 
+      "lat": 50.964870896946, 
+      "lon": 5.695529153985, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3770,11 +3731,11 @@
       "lon": 5.695489567701, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3782,11 +3743,11 @@
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 50.964790897353, 
-      "lon": 5.695448013838, 
+      "lat": 50.964797515493, 
+      "lon": 5.695498886255, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3802,7 +3763,7 @@
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -3867,7 +3828,7 @@
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -3878,11 +3839,11 @@
       "lon": 5.695206272747, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -3890,11 +3851,11 @@
         "434"
       ], 
       "housenumber": "434", 
-      "lat": 50.96382317338, 
-      "lon": 5.695047319695, 
+      "lat": 50.963790279909, 
+      "lon": 5.69518164081, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3911,7 +3872,7 @@
       "lon": 5.695026580655, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3923,7 +3884,7 @@
       "lon": 5.69499224142, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3939,7 +3900,7 @@
       "lon": 5.695010202587, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3951,7 +3912,7 @@
       "lon": 5.695103389821, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3970,7 +3931,7 @@
       "lon": 5.69499578553, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3982,11 +3943,12 @@
       "lon": 5.695071820032, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "apptnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -3997,11 +3959,11 @@
       "lon": 5.69502087, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4017,7 +3979,7 @@
       "lon": 5.695035546842, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4034,7 +3996,7 @@
       "lon": 5.695009456982, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4046,7 +4008,7 @@
       "lon": 5.694923253724, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4062,7 +4024,7 @@
       "lon": 5.694964618234, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4080,7 +4042,7 @@
       "lon": 5.69496703866, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4089,6 +4051,7 @@
         "2", 
         "3", 
         "4", 
+        "5", 
         "6"
       ], 
       "hnrlbls": [
@@ -4099,7 +4062,7 @@
       "lon": 5.694892886505, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4111,7 +4074,7 @@
       "lon": 5.694904942464, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4123,7 +4086,7 @@
       "lon": 5.719477231726, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4138,21 +4101,6 @@
       "lon": 5.694834495667, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "463"
-      ], 
-      "housenumber": "463", 
-      "lat": 50.956569351601, 
-      "lon": 5.694727738634, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
@@ -4165,22 +4113,7 @@
       "lon": 5.694911106137, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
-        "001"
-      ], 
-      "hnrlbls": [
-        "465"
-      ], 
-      "housenumber": "465", 
-      "lat": 50.956423905434, 
-      "lon": 5.69468590139, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4192,7 +4125,7 @@
       "lon": 5.694927222289, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4204,19 +4137,7 @@
       "lon": 5.694918857208, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "469"
-      ], 
-      "housenumber": "469", 
-      "lat": 50.95582609176, 
-      "lon": 5.694759805864, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4228,7 +4149,7 @@
       "lon": 5.719315746953, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4245,7 +4166,7 @@
       "lon": 5.694863265616, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4257,7 +4178,7 @@
       "lon": 5.694950715658, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4265,23 +4186,11 @@
         "472"
       ], 
       "housenumber": "472", 
-      "lat": 50.961733004151, 
-      "lon": 5.694778745667, 
+      "lat": 50.961710763609, 
+      "lon": 5.694853427066, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "474"
-      ], 
-      "housenumber": "474", 
-      "lat": 50.9612542122, 
-      "lon": 5.694830115269, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4293,7 +4202,23 @@
       "lon": 5.694820113532, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "477"
+      ], 
+      "housenumber": "477", 
+      "lat": 50.95445767606, 
+      "lon": 5.696013132644, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4305,7 +4230,7 @@
       "lon": 5.694761261757, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4317,7 +4242,7 @@
       "lon": 5.719198348245, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4329,7 +4254,7 @@
       "lon": 5.694739984431, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4341,10 +4266,28 @@
       "lon": 5.694727324804, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "484"
       ], 
@@ -4353,7 +4296,7 @@
       "lon": 5.694717468308, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4365,7 +4308,7 @@
       "lon": 5.694706641496, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4377,7 +4320,7 @@
       "lon": 5.694743159234, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4389,7 +4332,19 @@
       "lon": 5.69467263719, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "499"
+      ], 
+      "housenumber": "499", 
+      "lat": 50.950363777805, 
+      "lon": 5.693878546541, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4413,7 +4368,7 @@
       "lon": 5.719041685313, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4425,11 +4380,11 @@
       "lon": 5.693804421548, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -4440,10 +4395,17 @@
       "lon": 5.694549098837, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "503"
       ], 
@@ -4452,7 +4414,7 @@
       "lon": 5.693894080281, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4464,7 +4426,7 @@
       "lon": 5.694561493301, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4476,7 +4438,7 @@
       "lon": 5.694557690557, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4488,7 +4450,7 @@
       "lon": 5.69418276354, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4500,7 +4462,7 @@
       "lon": 5.694222527791, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4512,7 +4474,7 @@
       "lon": 5.693687377933, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4524,7 +4486,7 @@
       "lon": 5.694175558916, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4536,11 +4498,11 @@
       "lon": 5.694053035242, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -4551,7 +4513,7 @@
       "lon": 5.693687181012, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4563,7 +4525,7 @@
       "lon": 5.693961597361, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4579,19 +4541,7 @@
       "lon": 5.693626730239, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "519A"
-      ], 
-      "housenumber": "519A", 
-      "lat": 50.948807633463, 
-      "lon": 5.693571111833, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4603,7 +4553,7 @@
       "lon": 5.718504902381, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4627,7 +4577,7 @@
       "lon": 5.693898542516, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4639,7 +4589,7 @@
       "lon": 5.693435587682, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4651,7 +4601,7 @@
       "lon": 5.693792203787, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4663,7 +4613,7 @@
       "lon": 5.693415740145, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4673,35 +4623,6 @@
       "housenumber": "531", 
       "lat": 50.947239368924, 
       "lon": 5.693365683437, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "535"
-      ], 
-      "housenumber": "535", 
-      "lat": 50.947065178757, 
-      "lon": 5.693385240325, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "537"
-      ], 
-      "housenumber": "537", 
-      "lat": 50.946982218223, 
-      "lon": 5.693438969974, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4716,7 +4637,7 @@
       "lon": 5.693739882756, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4724,11 +4645,11 @@
         "539"
       ], 
       "housenumber": "539", 
-      "lat": 50.946258126816, 
-      "lon": 5.693764197328, 
+      "lat": 50.946366226184, 
+      "lon": 5.693801266715, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4740,7 +4661,7 @@
       "lon": 5.718777722922, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4752,7 +4673,7 @@
       "lon": 5.693441109, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4764,7 +4685,7 @@
       "lon": 5.692835013457, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4776,7 +4697,7 @@
       "lon": 5.692945996076, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4788,7 +4709,7 @@
       "lon": 5.693032449365, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4800,7 +4721,7 @@
       "lon": 5.69335288706, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4812,7 +4733,7 @@
       "lon": 5.692998838823, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4824,7 +4745,7 @@
       "lon": 5.693243492668, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4836,7 +4757,7 @@
       "lon": 5.718698726537, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4848,19 +4769,7 @@
       "lon": 5.718550406022, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "550"
-      ], 
-      "housenumber": "550", 
-      "lat": 50.949188162983, 
-      "lon": 5.692761782822, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4875,7 +4784,7 @@
       "lon": 5.693297489692, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4887,7 +4796,7 @@
       "lon": 5.693245574931, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4899,7 +4808,7 @@
       "lon": 5.692872971161, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4911,7 +4820,7 @@
       "lon": 5.692920618502, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4926,35 +4835,26 @@
         "558"
       ], 
       "housenumber": "558", 
-      "lat": 50.948055668607, 
-      "lon": 5.692333568977, 
+      "lat": 50.948053950984, 
+      "lon": 5.692438127724, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "558A"
       ], 
       "housenumber": "558A", 
-      "lat": 50.947973006468, 
-      "lon": 5.692336927854, 
+      "lat": 50.947805646046, 
+      "lon": 5.692388704164, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "558B"
-      ], 
-      "housenumber": "558B", 
-      "lat": 50.947661080559, 
-      "lon": 5.692547864979, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4966,7 +4866,7 @@
       "lon": 5.718368370147, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4978,7 +4878,7 @@
       "lon": 5.692630158027, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -4990,7 +4890,7 @@
       "lon": 5.693046576653, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5002,19 +4902,7 @@
       "lon": 5.692645368014, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "563"
-      ], 
-      "housenumber": "563", 
-      "lat": 50.943197135837, 
-      "lon": 5.69304868186, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5026,7 +4914,19 @@
       "lon": 5.692770642832, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "570"
+      ], 
+      "housenumber": "570", 
+      "lat": 50.946662030569, 
+      "lon": 5.692412771082, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5038,7 +4938,7 @@
       "lon": 5.692943637608, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5046,11 +4946,11 @@
         "572"
       ], 
       "housenumber": "572", 
-      "lat": 50.946260781261, 
-      "lon": 5.692452248555, 
+      "lat": 50.946278662116, 
+      "lon": 5.692445210638, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5062,7 +4962,7 @@
       "lon": 5.692487290805, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5074,7 +4974,7 @@
       "lon": 5.692459730602, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5086,7 +4986,7 @@
       "lon": 5.692366449734, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5098,7 +4998,7 @@
       "lon": 5.692702654216, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5110,7 +5010,7 @@
       "lon": 5.692312602087, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5122,7 +5022,7 @@
       "lon": 5.693035844291, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5134,7 +5034,7 @@
       "lon": 5.692265831887, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5146,7 +5046,7 @@
       "lon": 5.692961057236, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5158,7 +5058,7 @@
       "lon": 5.692182532286, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5170,7 +5070,7 @@
       "lon": 5.692111708765, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5178,15 +5078,15 @@
         "588"
       ], 
       "housenumber": "588", 
-      "lat": 50.944087437983, 
-      "lon": 5.692175281519, 
+      "lat": 50.944062174, 
+      "lon": 5.692279024347, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -5198,19 +5098,19 @@
       "lon": 5.692494948886, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "590-592"
+        "590"
       ], 
       "housenumber": "590", 
-      "lat": 50.943803829239, 
-      "lon": 5.692091281829, 
+      "lat": 50.943895637091, 
+      "lon": 5.692122050797, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5218,23 +5118,23 @@
         "591"
       ], 
       "housenumber": "591", 
-      "lat": 50.940526533787, 
-      "lon": 5.692467085955, 
+      "lat": 50.940540661851, 
+      "lon": 5.692426075549, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "590-592"
+        "592"
       ], 
       "housenumber": "592", 
       "lat": 50.943803829239, 
       "lon": 5.692091281829, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5249,7 +5149,7 @@
       "lon": 5.691929787094, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5273,7 +5173,7 @@
       "lon": 5.692788735589, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5285,7 +5185,7 @@
       "lon": 5.718062919072, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5297,7 +5197,7 @@
       "lon": 5.692641977568, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5312,7 +5212,7 @@
       "lon": 5.691855305854, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5324,7 +5224,7 @@
       "lon": 5.692717423212, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5336,7 +5236,7 @@
       "lon": 5.691835860514, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5348,19 +5248,7 @@
       "lon": 5.691893704627, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "608"
-      ], 
-      "housenumber": "608", 
-      "lat": 50.941924616321, 
-      "lon": 5.691091630284, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5372,7 +5260,7 @@
       "lon": 5.691810059341, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5384,7 +5272,7 @@
       "lon": 5.718081031113, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5396,7 +5284,7 @@
       "lon": 5.691622305815, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5408,7 +5296,7 @@
       "lon": 5.691838700606, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5420,7 +5308,7 @@
       "lon": 5.69159227757, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5432,19 +5320,7 @@
       "lon": 5.691811984825, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "617"
-      ], 
-      "housenumber": "617", 
-      "lat": 50.93708899401, 
-      "lon": 5.691776121174, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5456,19 +5332,19 @@
       "lon": 5.691624694844, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
       "hnrlbls": [
-        "619-621"
+        "619"
       ], 
       "housenumber": "619", 
-      "lat": 50.936915390068, 
-      "lon": 5.691743618518, 
+      "lat": 50.936941580837, 
+      "lon": 5.691701243945, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5480,7 +5356,7 @@
       "lon": 5.717952826618, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5492,19 +5368,7 @@
       "lon": 5.691562785185, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "619-621"
-      ], 
-      "housenumber": "621", 
-      "lat": 50.936915390068, 
-      "lon": 5.691743618518, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5516,7 +5380,7 @@
       "lon": 5.691635400546, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5528,7 +5392,7 @@
       "lon": 5.691033225007, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5540,7 +5404,7 @@
       "lon": 5.6907396956, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5552,7 +5416,7 @@
       "lon": 5.691384816551, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5564,7 +5428,7 @@
       "lon": 5.69143300136, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5576,7 +5440,7 @@
       "lon": 5.691443242543, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5588,7 +5452,7 @@
       "lon": 5.69141688738, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5603,7 +5467,7 @@
       "lon": 5.691334399198, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5615,7 +5479,7 @@
       "lon": 5.691470828049, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5631,7 +5495,7 @@
       "lon": 5.691226298255, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5643,7 +5507,7 @@
       "lon": 5.691215494093, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5655,11 +5519,11 @@
       "lon": 5.690940681144, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -5683,7 +5547,7 @@
       "lon": 5.690806282526, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5695,7 +5559,7 @@
       "lon": 5.690705001697, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5719,7 +5583,7 @@
       "lon": 5.717199974031, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5731,7 +5595,7 @@
       "lon": 5.717158073443, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5739,11 +5603,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.990960513765, 
-      "lon": 5.716823472231, 
+      "lat": 50.99071796116, 
+      "lon": 5.716916350139, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5755,7 +5619,7 @@
       "lon": 5.717947968911, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5767,7 +5631,7 @@
       "lon": 5.716725572201, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5779,7 +5643,7 @@
       "lon": 5.717839558363, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5791,7 +5655,7 @@
       "lon": 5.717765690822, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5803,7 +5667,7 @@
       "lon": 5.716585537581, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5815,7 +5679,7 @@
       "lon": 5.716508839279, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5827,7 +5691,7 @@
       "lon": 5.717587711205, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5839,7 +5703,7 @@
       "lon": 5.716261880475, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5851,7 +5715,7 @@
       "lon": 5.717252536382, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5863,7 +5727,7 @@
       "lon": 5.71619753271, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5875,7 +5739,7 @@
       "lon": 5.716163397613, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5887,7 +5751,7 @@
       "lon": 5.715777169601, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -5924,7 +5788,7 @@
       "lon": 5.715507158747, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }
   ]

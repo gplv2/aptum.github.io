@@ -289,8 +289,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.130120423449, 
-      "lon": 2.750232769564, 
+      "lat": 51.130119083516, 
+      "lon": 2.750239960401, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -405,12 +405,24 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.131568314116, 
-      "lon": 2.750226776825, 
+      "lat": 51.131328271611, 
+      "lon": 2.750240806214, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
@@ -469,8 +481,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.130821195158, 
-      "lon": 2.749808547936, 
+      "lat": 51.130821097457, 
+      "lon": 2.749807979758, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -500,8 +512,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.130784537347, 
-      "lon": 2.749797243487, 
+      "lat": 51.130784527553, 
+      "lon": 2.749796529373, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -633,15 +645,48 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.131136929363, 
-      "lon": 2.750528072472, 
+      "lat": 51.131118910459, 
+      "lon": 2.750256487797, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {

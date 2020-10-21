@@ -61,15 +61,49 @@
       "street": "Pastoor Huyghestraat"
     }, 
     {
-      "hnrlbls": [
-        "2"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
-      "housenumber": "2", 
-      "lat": 51.098127875099, 
-      "lon": 4.337229823312, 
+      "hnrlbls": [
+        "6-8"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.098125801291, 
+      "lon": 4.337205413244, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Pastoor Huyghestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "6-8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.098125801291, 
+      "lon": 4.337205413244, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Pastoor Huyghestraat"
     }
   ]

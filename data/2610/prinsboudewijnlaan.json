@@ -241,9 +241,9 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "101", 
-        "201"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "120"
@@ -309,6 +309,10 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -321,15 +325,31 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.177407804049, 
-      "lon": 4.425114381063, 
+      "lat": 51.177427895752, 
+      "lon": 4.425016450953, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "133A"
+      ], 
+      "housenumber": "133A", 
+      "lat": 51.177371977828, 
+      "lon": 4.425035544625, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Prins Boudewijnlaan"
     }, 
     {
@@ -625,12 +645,29 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "153"
       ], 
       "housenumber": "153", 
       "lat": 51.176456198915, 
       "lon": 4.425461271375, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "153A"
+      ], 
+      "housenumber": "153A", 
+      "lat": 51.176456198845, 
+      "lon": 4.425461414372, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1106,15 +1143,19 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.172833353537, 
-      "lon": 4.426218213612, 
+      "lat": 51.17275156597, 
+      "lon": 4.426201382438, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Prins Boudewijnlaan"
     }, 
     {
@@ -1515,6 +1556,11 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "341"
       ], 
@@ -1705,11 +1751,6 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1746,12 +1787,17 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.17908644714, 
-      "lon": 4.423724569427, 
+      "lat": 51.179084293532, 
+      "lon": 4.42371684461, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1836,11 +1882,10 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "70-72"

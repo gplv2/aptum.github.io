@@ -113,7 +113,7 @@
     }, 
     {
       "busnrs": [
-        "1D", 
+        "0016", 
         "A001", 
         "B001", 
         "C001", 
@@ -196,6 +196,18 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leuvensestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.982848835898, 
+      "lon": 5.050481229184, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -803,18 +815,6 @@
     }, 
     {
       "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.981923040867, 
-      "lon": 5.049761828336, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "hnrlbls": [
         "65-67"
       ], 
       "housenumber": "67", 
@@ -986,11 +986,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.98188155828, 
-      "lon": 5.049412038481, 
+      "lat": 50.981897017269, 
+      "lon": 5.049443593167, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1054,14 +1054,15 @@
     {
       "busnrs": [
         "001", 
-        "002"
+        "002", 
+        "80"
       ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.981651009373, 
-      "lon": 5.049484020903, 
+      "lat": 50.981621468488, 
+      "lon": 5.049478037507, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1104,6 +1105,10 @@
       "street": "Leuvensestraat"
     }, 
     {
+      "apptnrs": [
+        "A001", 
+        "C001"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1113,36 +1118,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "84A"
-      ], 
-      "housenumber": "84A", 
-      "lat": 50.98145129613, 
-      "lon": 5.049509171663, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "84C"
-      ], 
-      "housenumber": "84C", 
-      "lat": 50.981524487949, 
-      "lon": 5.049444158597, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {

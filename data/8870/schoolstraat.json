@@ -435,20 +435,21 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.911740992019, 
-      "lon": 3.213624332885, 
+      "lat": 50.911795782743, 
+      "lon": 3.21364659176, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -624,18 +625,6 @@
     }, 
     {
       "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.911345014368, 
-      "lon": 3.214498684705, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Schoolstraat"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -760,6 +749,10 @@
       "street": "Schoolstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "64"
       ], 

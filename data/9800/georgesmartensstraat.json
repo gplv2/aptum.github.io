@@ -13,10 +13,10 @@
       "street": "Georges Martensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101"
       ], 
       "hnrlbls": [
         "10"
@@ -413,6 +413,18 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.979854378732, 
+      "lon": 3.534077501048, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Georges Martensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -428,11 +440,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.978799370898, 
-      "lon": 3.535108754143, 
+      "lat": 50.978932885344, 
+      "lon": 3.535733381345, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Georges Martensstraat"
     }, 
     {

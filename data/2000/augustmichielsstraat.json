@@ -13,11 +13,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.231512334358, 
-      "lon": 4.410299127372, 
+      "lat": 51.231517098079, 
+      "lon": 4.410299418019, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Michielsstraat"
     }, 
     {
@@ -172,11 +172,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.231567811299, 
-      "lon": 4.409739400243, 
+      "lat": 51.231542558937, 
+      "lon": 4.409725490612, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Michielsstraat"
     }, 
     {
@@ -204,19 +204,25 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.231758632469, 
-      "lon": 4.412220210943, 
+      "lat": 51.231759081031, 
+      "lon": 4.412222502027, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "August Michielsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
         "22"
@@ -242,11 +248,6 @@
       "street": "August Michielsstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -308,18 +309,6 @@
     }, 
     {
       "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.231517270233, 
-      "lon": 4.412526928961, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "August Michielsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "29A"
       ], 
       "housenumber": "29A", 
@@ -340,30 +329,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "August Michielsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.23151715627, 
-      "lon": 4.412590923795, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "August Michielsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30A-38"
-      ], 
-      "housenumber": "30A", 
-      "lat": 51.231525860783, 
-      "lon": 4.412628584624, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
       "street": "August Michielsstraat"
     }, 
     {
@@ -437,18 +402,19 @@
       "street": "August Michielsstraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "51"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
-        "30A-38"
+        "38"
       ], 
       "housenumber": "38", 
       "lat": 51.231525860783, 
@@ -564,6 +530,18 @@
       "street": "August Michielsstraat"
     }, 
     {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.23155711014, 
+      "lon": 4.410007826066, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "August Michielsstraat"
+    }, 
+    {
       "apptnrs": [
         "301", 
         "302", 
@@ -624,15 +602,25 @@
       "street": "August Michielsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.231520396495, 
-      "lon": 4.410123757026, 
+      "lat": 51.231557048875, 
+      "lon": 4.410180197323, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "August Michielsstraat"
     }
   ]

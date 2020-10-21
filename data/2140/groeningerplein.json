@@ -109,8 +109,11 @@
       "street": "Groeningerplein"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "18"
@@ -124,12 +127,17 @@
       "street": "Groeningerplein"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.219775185364, 
-      "lon": 4.438498581413, 
+      "lat": 51.219793697261, 
+      "lon": 4.438505622722, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -272,6 +280,11 @@
       "street": "Groeningerplein"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

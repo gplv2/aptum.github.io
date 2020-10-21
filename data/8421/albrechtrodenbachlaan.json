@@ -41,6 +41,9 @@
       "street": "Albrecht Rodenbachlaan"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "busnrs": [
         "0002", 
         "0101", 
@@ -116,8 +119,10 @@
       "street": "Albrecht Rodenbachlaan"
     }, 
     {
-      "busnrs": [
-        "0001"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "18"
@@ -141,18 +146,6 @@
       "housenumber": "19", 
       "lat": 51.272798244221, 
       "lon": 3.038059006616, 
-      "municipality": "De Haan", 
-      "pcode": "8421", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Albrecht Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.27249093248, 
-      "lon": 3.037063292646, 
       "municipality": "De Haan", 
       "pcode": "8421", 
       "source": "manueleAanduidingVanGebouw", 
@@ -315,9 +308,10 @@
       "street": "Albrecht Rodenbachlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "7"
@@ -331,6 +325,9 @@
       "street": "Albrecht Rodenbachlaan"
     }, 
     {
+      "apptnrs": [
+        "0201"
+      ], 
       "busnrs": [
         "0101"
       ], 

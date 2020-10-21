@@ -55,8 +55,10 @@
       "street": "Belegstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "12"
@@ -149,6 +151,10 @@
       "street": "Belegstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -255,8 +261,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.205270559708, 
-      "lon": 4.394399812437, 
+      "lat": 51.205267773738, 
+      "lon": 4.394397807676, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -283,8 +289,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.205234594488, 
-      "lon": 4.394451159547, 
+      "lat": 51.205228304336, 
+      "lon": 4.394443286329, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -478,11 +484,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.204778181019, 
-      "lon": 4.395548064322, 
+      "lat": 51.204774588836, 
+      "lon": 4.395534326206, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belegstraat"
     }, 
     {
@@ -601,19 +607,18 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.204582073149, 
-      "lon": 4.396601466929, 
+      "lat": 51.204564011146, 
+      "lon": 4.396581710467, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Belegstraat"
     }, 
     {
       "apptnrs": [
         "01", 
         "11", 
-        "21", 
-        "31"
+        "21"
       ], 
       "hnrlbls": [
         "5"
@@ -628,14 +633,14 @@
     }, 
     {
       "hnrlbls": [
-        "51-61"
+        "51-147"
       ], 
       "housenumber": "51", 
-      "lat": 51.204493479637, 
-      "lon": 4.39683792803, 
+      "lat": 51.204641544327, 
+      "lon": 4.396734999683, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Belegstraat"
     }, 
     {
@@ -748,8 +753,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.205556173736, 
-      "lon": 4.393758663525, 
+      "lat": 51.205552938458, 
+      "lon": 4.393756086199, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -757,14 +762,14 @@
     }, 
     {
       "hnrlbls": [
-        "51-61"
+        "51-147"
       ], 
       "housenumber": "61", 
-      "lat": 51.204493479637, 
-      "lon": 4.39683792803, 
+      "lat": 51.204641544327, 
+      "lon": 4.396734999683, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Belegstraat"
     }, 
     {
@@ -808,8 +813,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.204265392307, 
-      "lon": 4.397044540455, 
+      "lat": 51.204279960354, 
+      "lon": 4.397016934719, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -820,11 +825,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.204229700321, 
-      "lon": 4.397076568566, 
+      "lat": 51.204250914102, 
+      "lon": 4.397072289312, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belegstraat"
     }, 
     {

@@ -2,10 +2,8 @@
   "addresses": [
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "5"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "102"
@@ -52,6 +50,18 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sterrebeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.878137711726, 
+      "lon": 4.485067028384, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sterrebeekstraat"
     }, 
     {
@@ -203,8 +213,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.872356324296, 
-      "lon": 4.485877637136, 
+      "lat": 50.872357311993, 
+      "lon": 4.485878776182, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -239,8 +249,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.870172667209, 
-      "lon": 4.48337097467, 
+      "lat": 50.870196364142, 
+      "lon": 4.48304044867, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -263,11 +273,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.870393064001, 
-      "lon": 4.485030978296, 
+      "lat": 50.870188776855, 
+      "lon": 4.48453551697, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sterrebeekstraat"
     }, 
     {
@@ -323,7 +333,7 @@
       "lon": 4.488185412119, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sterrebeekstraat"
     }, 
     {
@@ -353,7 +363,7 @@
       "lon": 4.487836707563, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sterrebeekstraat"
     }, 
     {
@@ -541,8 +551,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.879157423941, 
-      "lon": 4.48375735202, 
+      "lat": 50.879176207203, 
+      "lon": 4.483762087307, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 

@@ -107,8 +107,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.206674318476, 
-      "lon": 3.445963127842, 
+      "lat": 51.206655355936, 
+      "lon": 3.445998276071, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -143,11 +143,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.206625175186, 
-      "lon": 3.445885966801, 
+      "lat": 51.206570059648, 
+      "lon": 3.445895928737, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -220,11 +220,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.206486541719, 
-      "lon": 3.445906309109, 
+      "lat": 51.206407268973, 
+      "lon": 3.446207383431, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -248,11 +248,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.20636684885, 
-      "lon": 3.446165252562, 
+      "lat": 51.206356992279, 
+      "lon": 3.446215389012, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -409,8 +409,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.207257678491, 
-      "lon": 3.446535021194, 
+      "lat": 51.207258918768, 
+      "lon": 3.446555746474, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -898,13 +898,9 @@
     {
       "apptnrs": [
         "0-01", 
+        "1-01", 
         "2-01", 
         "3-01"
-      ], 
-      "busnrs": [
-        "A", 
-        "B", 
-        "C"
       ], 
       "hnrlbls": [
         "80"

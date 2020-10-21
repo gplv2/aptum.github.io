@@ -280,6 +280,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -944,8 +945,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.065465153517, 
-      "lon": 3.719202723586, 
+      "lat": 51.065447735575, 
+      "lon": 3.719157598425, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1037,7 +1038,7 @@
     }, 
     {
       "hnrlbls": [
-        "65-66B"
+        "65-65C"
       ], 
       "housenumber": "65", 
       "lat": 51.066772914239, 
@@ -1049,7 +1050,7 @@
     }, 
     {
       "hnrlbls": [
-        "65-66B"
+        "65-65C"
       ], 
       "housenumber": "65A", 
       "lat": 51.066772914239, 
@@ -1061,7 +1062,7 @@
     }, 
     {
       "hnrlbls": [
-        "65-66B"
+        "65-65C"
       ], 
       "housenumber": "65B", 
       "lat": 51.066772914239, 
@@ -1073,7 +1074,7 @@
     }, 
     {
       "hnrlbls": [
-        "65-66B"
+        "65-65C"
       ], 
       "housenumber": "65C", 
       "lat": 51.066772914239, 
@@ -1085,38 +1086,26 @@
     }, 
     {
       "hnrlbls": [
-        "65-66B"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.066772914239, 
-      "lon": 3.72392268863, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Blaisantvest"
-    }, 
-    {
-      "hnrlbls": [
-        "65-66B"
+        "66A-66B"
       ], 
       "housenumber": "66A", 
-      "lat": 51.066772914239, 
-      "lon": 3.72392268863, 
+      "lat": 51.066788296069, 
+      "lon": 3.724006792852, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blaisantvest"
     }, 
     {
       "hnrlbls": [
-        "65-66B"
+        "66A-66B"
       ], 
       "housenumber": "66B", 
-      "lat": 51.066772914239, 
-      "lon": 3.72392268863, 
+      "lat": 51.066788296069, 
+      "lon": 3.724006792852, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blaisantvest"
     }, 
     {
@@ -1296,8 +1285,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.06560456887, 
-      "lon": 3.718760674223, 
+      "lat": 51.065579681062, 
+      "lon": 3.718746610655, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1305,7 +1294,7 @@
     }, 
     {
       "hnrlbls": [
-        "80"
+        "80-80A"
       ], 
       "housenumber": "80", 
       "lat": 51.067038303046, 
@@ -1317,7 +1306,19 @@
     }, 
     {
       "hnrlbls": [
-        "81"
+        "80-80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 51.067038303046, 
+      "lon": 3.725013864488, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Blaisantvest"
+    }, 
+    {
+      "hnrlbls": [
+        "81-81A"
       ], 
       "housenumber": "81", 
       "lat": 51.067054614459, 
@@ -1325,6 +1326,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Blaisantvest"
+    }, 
+    {
+      "hnrlbls": [
+        "81-81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 51.067054614459, 
+      "lon": 3.725087256699, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blaisantvest"
     }, 
     {

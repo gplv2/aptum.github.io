@@ -13,8 +13,11 @@
       "street": "Jozef Van Den Berghestraat"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
-        "10-10B"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.927684301597, 
@@ -22,21 +25,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Van Den Berghestraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "10-10B"
-      ], 
-      "housenumber": "10B", 
-      "lat": 50.927684301597, 
-      "lon": 4.410426462938, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Van Den Berghestraat"
     }, 
     {
@@ -326,8 +314,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.928231598587, 
-      "lon": 4.410097386774, 
+      "lat": 50.928231418648, 
+      "lon": 4.410097813333, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 

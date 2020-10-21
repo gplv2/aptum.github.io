@@ -1061,8 +1061,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.942895568778, 
-      "lon": 4.731182956976, 
+      "lat": 50.94288163668, 
+      "lon": 4.731211590938, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -1382,14 +1382,14 @@
     }, 
     {
       "hnrlbls": [
-        "231"
+        "231-233"
       ], 
       "housenumber": "231", 
-      "lat": 50.940817087423, 
-      "lon": 4.734932591564, 
+      "lat": 50.940631412696, 
+      "lon": 4.734773920816, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1406,14 +1406,14 @@
     }, 
     {
       "hnrlbls": [
-        "233"
+        "231-233"
       ], 
       "housenumber": "233", 
-      "lat": 50.940750477089, 
-      "lon": 4.735047459523, 
+      "lat": 50.940631412696, 
+      "lon": 4.734773920816, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1824,11 +1824,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.949354274392, 
-      "lon": 4.714737732489, 
+      "lat": 50.949271190495, 
+      "lon": 4.714531914007, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1869,9 +1869,21 @@
     }, 
     {
       "hnrlbls": [
-        "31A"
+        "31A-31B"
       ], 
       "housenumber": "31A", 
+      "lat": 50.949173440819, 
+      "lon": 4.714879270246, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31A-31B"
+      ], 
+      "housenumber": "31B", 
       "lat": 50.949173440819, 
       "lon": 4.714879270246, 
       "municipality": "Rotselaar", 

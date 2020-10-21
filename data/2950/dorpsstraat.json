@@ -168,11 +168,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.315434125289, 
-      "lon": 4.429288868344, 
+      "lat": 51.315451191144, 
+      "lon": 4.429310978048, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -232,7 +232,7 @@
       "lon": 4.428678030228, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -520,9 +520,9 @@
     }, 
     {
       "apptnrs": [
-        "0001-1ste v", 
-        "0002 - 2de", 
-        "0003 - 2de"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "36"
@@ -694,8 +694,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.316889784418, 
-      "lon": 4.427432672684, 
+      "lat": 51.316889784634, 
+      "lon": 4.4274322424, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -784,9 +784,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "2", 
-        "3", 
-        "5"
+        "3"
       ], 
       "hnrlbls": [
         "55"

@@ -38,10 +38,27 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "101"
+        "101-101A"
       ], 
       "housenumber": "101", 
+      "lat": 51.21418529175, 
+      "lon": 4.398472382689, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "101-101A"
+      ], 
+      "housenumber": "101A", 
       "lat": 51.21418529175, 
       "lon": 4.398472382689, 
       "municipality": "Antwerpen", 
@@ -54,14 +71,21 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.214507072894, 
-      "lon": 4.398136419664, 
+      "lat": 51.214496347907, 
+      "lon": 4.398249329027, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -247,11 +271,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.213633791182, 
-      "lon": 4.398710588243, 
+      "lat": 51.213992452984, 
+      "lon": 4.398617228987, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -285,6 +309,9 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -294,18 +321,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nationalestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "117-121"
-      ], 
-      "housenumber": "117", 
-      "lat": 51.213751286154, 
-      "lon": 4.398297790611, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Nationalestraat"
     }, 
     {
@@ -345,24 +360,6 @@
       "street": "Nationalestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "14", 
-        "15", 
-        "16", 
-        "18", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -376,14 +373,14 @@
     }, 
     {
       "hnrlbls": [
-        "117-121"
+        "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.213751286154, 
-      "lon": 4.398297790611, 
+      "lat": 51.213741705328, 
+      "lon": 4.398153671783, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Nationalestraat"
     }, 
     {
@@ -428,14 +425,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "123-129"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.213592470189, 
-      "lon": 4.398261480707, 
+      "lat": 51.213678782371, 
+      "lon": 4.39816965957, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -472,14 +469,14 @@
     }, 
     {
       "hnrlbls": [
-        "123-129"
+        "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.213592470189, 
-      "lon": 4.398261480707, 
+      "lat": 51.213618383311, 
+      "lon": 4.398157599294, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -503,14 +500,14 @@
     }, 
     {
       "hnrlbls": [
-        "123-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.213592470189, 
-      "lon": 4.398261480707, 
+      "lat": 51.21358568994, 
+      "lon": 4.398061408031, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -518,23 +515,29 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.213465805618, 
-      "lon": 4.397620838348, 
+      "lat": 51.213467080546, 
+      "lon": 4.397554579228, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
-        "123-129"
+        "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.213592470189, 
-      "lon": 4.398261480707, 
+      "lat": 51.213550460451, 
+      "lon": 4.398041349931, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -554,8 +557,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.213384300558, 
-      "lon": 4.397541360776, 
+      "lat": 51.21339823752, 
+      "lon": 4.397521620436, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -643,6 +646,15 @@
       "street": "Nationalestraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -681,11 +693,11 @@
       "street": "Nationalestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "137"
@@ -696,6 +708,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137A"
+      ], 
+      "housenumber": "137A", 
+      "lat": 51.213328567644, 
+      "lon": 4.397918419262, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -860,6 +884,13 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -869,6 +900,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "147A"
+      ], 
+      "housenumber": "147A", 
+      "lat": 51.213043840858, 
+      "lon": 4.397814626264, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -1301,11 +1344,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.217013102316, 
-      "lon": 4.399957102431, 
+      "lat": 51.217027138186, 
+      "lon": 4.399905302257, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -1512,16 +1555,27 @@
       "street": "Nationalestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "45"
+        "45-45A"
       ], 
       "housenumber": "45", 
+      "lat": 51.216116570641, 
+      "lon": 4.399391172568, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45-45A"
+      ], 
+      "housenumber": "45A", 
       "lat": 51.216116570641, 
       "lon": 4.399391172568, 
       "municipality": "Antwerpen", 
@@ -1638,8 +1692,9 @@
       "street": "Nationalestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "51"
@@ -1694,12 +1749,32 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "busnrs": [
+        "401"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
       "lat": 51.21565939571, 
       "lon": 4.399144132164, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 51.215659395597, 
+      "lon": 4.399144561515, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1730,6 +1805,13 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1823,8 +1905,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.215493194283, 
-      "lon": 4.39916620439, 
+      "lat": 51.215511013323, 
+      "lon": 4.399082493259, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1866,8 +1948,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.215442966969, 
-      "lon": 4.399098190757, 
+      "lat": 51.215451145365, 
+      "lon": 4.399102203451, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1890,8 +1972,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.215393450059, 
-      "lon": 4.399063094401, 
+      "lat": 51.215369165362, 
+      "lon": 4.399124045601, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1922,23 +2004,21 @@
       "street": "Nationalestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "66-68"
@@ -1956,8 +2036,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.215297025016, 
-      "lon": 4.398984602937, 
+      "lat": 51.215300358995, 
+      "lon": 4.398952976595, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -2006,6 +2086,11 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -2088,6 +2173,12 @@
       "street": "Nationalestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -2097,6 +2188,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.214929292309, 
+      "lon": 4.398704570255, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -2210,6 +2313,18 @@
       "street": "Nationalestraat"
     }, 
     {
+      "hnrlbls": [
+        "86A"
+      ], 
+      "housenumber": "86A", 
+      "lat": 51.214996767877, 
+      "lon": 4.398462464539, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Nationalestraat"
+    }, 
+    {
       "apptnrs": [
         "101", 
         "201", 
@@ -2276,18 +2391,6 @@
     }, 
     {
       "hnrlbls": [
-        "91-95"
-      ], 
-      "housenumber": "91", 
-      "lat": 51.2143379055, 
-      "lon": 4.398509119061, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nationalestraat"
-    }, 
-    {
-      "hnrlbls": [
         "90-92"
       ], 
       "housenumber": "92", 
@@ -2296,18 +2399,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nationalestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "91-95"
-      ], 
-      "housenumber": "93", 
-      "lat": 51.2143379055, 
-      "lon": 4.398509119061, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Nationalestraat"
     }, 
     {
@@ -2328,7 +2419,7 @@
     }, 
     {
       "hnrlbls": [
-        "91-95"
+        "95"
       ], 
       "housenumber": "95", 
       "lat": 51.2143379055, 

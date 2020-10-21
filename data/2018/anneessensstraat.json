@@ -1,11 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "9"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -22,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.218790865065, 
-      "lon": 4.417810324507, 
+      "lat": 51.218781050908, 
+      "lon": 4.41785024628, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -39,18 +34,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Anneessensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.218720023947, 
-      "lon": 4.417840162287, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Anneessensstraat"
     }, 
     {
@@ -114,11 +97,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.218534957901, 
-      "lon": 4.418253454489, 
+      "lat": 51.218482466478, 
+      "lon": 4.418251537355, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Anneessensstraat"
     }, 
     {
@@ -170,9 +153,6 @@
       "street": "Anneessensstraat"
     }, 
     {
-      "busnrs": [
-        "7"
-      ], 
       "hnrlbls": [
         "3-5"
       ], 
@@ -197,6 +177,15 @@
       "street": "Anneessensstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -210,9 +199,33 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 51.218023722793, 
+      "lon": 4.417982256698, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Anneessensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35-35A"
       ], 
       "housenumber": "35", 
+      "lat": 51.217957700545, 
+      "lon": 4.418094395072, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Anneessensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35-35A"
+      ], 
+      "housenumber": "35A", 
       "lat": 51.217957700545, 
       "lon": 4.418094395072, 
       "municipality": "Antwerpen", 
@@ -230,18 +243,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Anneessensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.219044127398, 
-      "lon": 4.418518930906, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Anneessensstraat"
     }, 
     {
@@ -268,18 +269,6 @@
       "housenumber": "7", 
       "lat": 51.218910021644, 
       "lon": 4.418516352632, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Anneessensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.218849090078, 
-      "lon": 4.417857332132, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

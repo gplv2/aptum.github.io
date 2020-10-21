@@ -149,11 +149,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.945627051175, 
-      "lon": 4.97939608753, 
+      "lat": 50.94562182804, 
+      "lon": 4.979518822288, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -293,11 +293,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.950442311893, 
-      "lon": 4.990578992996, 
+      "lat": 50.950194562046, 
+      "lon": 4.991324975579, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -449,11 +449,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.944856334947, 
-      "lon": 4.977239945858, 
+      "lat": 50.945020487725, 
+      "lon": 4.977117853492, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1919,11 +1919,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.944948113204, 
-      "lon": 4.97508649919, 
+      "lat": 50.945013387425, 
+      "lon": 4.975119360426, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1931,11 +1931,35 @@
         "195A"
       ], 
       "housenumber": "195A", 
-      "lat": 50.945183104524, 
-      "lon": 4.975050835628, 
+      "lat": 50.945088693096, 
+      "lon": 4.975037518778, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "195B"
+      ], 
+      "housenumber": "195B", 
+      "lat": 50.945116110871, 
+      "lon": 4.975037588968, 
+      "municipality": "Bekkevoort", 
+      "pcode": "3460", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "195C"
+      ], 
+      "housenumber": "195C", 
+      "lat": 50.945175844522, 
+      "lon": 4.975081477657, 
+      "municipality": "Bekkevoort", 
+      "pcode": "3460", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -2095,15 +2119,20 @@
       "street": "Staatsbaan"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
       "hnrlbls": [
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.944660114535, 
-      "lon": 4.973512835894, 
+      "lat": 50.944597630221, 
+      "lon": 4.973566528152, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -2319,8 +2348,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.941406632389, 
-      "lon": 4.963817116596, 
+      "lat": 50.941407903106, 
+      "lon": 4.963814713896, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -3440,8 +3469,8 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 50.938817266182, 
-      "lon": 4.953823873438, 
+      "lat": 50.938817893284, 
+      "lon": 4.953824308097, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -3836,8 +3865,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.938811397717, 
-      "lon": 4.952040790604, 
+      "lat": 50.938813689505, 
+      "lon": 4.95203185571, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -3848,8 +3877,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.962416248801, 
-      "lon": 5.024936033311, 
+      "lat": 50.962416333123, 
+      "lon": 5.024937030937, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -3872,8 +3901,8 @@
         "333"
       ], 
       "housenumber": "333", 
-      "lat": 50.938558367605, 
-      "lon": 4.951384026131, 
+      "lat": 50.938560255293, 
+      "lon": 4.951384049602, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -4199,8 +4228,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.953398021649, 
-      "lon": 5.002260406526, 
+      "lat": 50.953394064229, 
+      "lon": 5.002260779976, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -4271,8 +4300,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.96113352155, 
-      "lon": 5.023874529984, 
+      "lat": 50.961129917274, 
+      "lon": 5.023876045374, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanGebouw", 
@@ -4775,11 +4804,11 @@
         "99A"
       ], 
       "housenumber": "99A", 
-      "lat": 50.951919475452, 
-      "lon": 4.995465411526, 
+      "lat": 50.951650876619, 
+      "lon": 4.995766801922, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }
   ]

@@ -105,8 +105,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.920696202315, 
-      "lon": 4.070060409324, 
+      "lat": 50.920702524428, 
+      "lon": 4.070036618711, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -147,18 +147,6 @@
       "housenumber": "104C", 
       "lat": 50.918754146726, 
       "lon": 4.070526682178, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "105"
-      ], 
-      "housenumber": "105", 
-      "lat": 50.920622460837, 
-      "lon": 4.070084627977, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -466,11 +454,35 @@
     }, 
     {
       "hnrlbls": [
+        "140"
+      ], 
+      "housenumber": "140", 
+      "lat": 50.917380762084, 
+      "lon": 4.072277013442, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselbaan"
+    }, 
+    {
+      "hnrlbls": [
         "141"
       ], 
       "housenumber": "141", 
       "lat": 50.919293499919, 
       "lon": 4.070664481619, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.917071172921, 
+      "lon": 4.072029532688, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1447,8 +1459,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 50.915798538555, 
-      "lon": 4.077863351683, 
+      "lat": 50.915156988943, 
+      "lon": 4.077400470467, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1627,11 +1639,11 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.916207808233, 
-      "lon": 4.077601582119, 
+      "lat": 50.916168970394, 
+      "lon": 4.077600116002, 
       "municipality": "Aalst", 
       "pcode": "9320", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselbaan"
     }, 
     {
@@ -1707,7 +1719,7 @@
       "lon": 4.080352174578, 
       "municipality": "Aalst", 
       "pcode": "9320", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselbaan"
     }, 
     {
@@ -1936,8 +1948,8 @@
         "237A"
       ], 
       "housenumber": "237A", 
-      "lat": 50.916235140697, 
-      "lon": 4.079683006633, 
+      "lat": 50.915894855282, 
+      "lon": 4.079411923898, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1948,11 +1960,27 @@
         "237B"
       ], 
       "housenumber": "237B", 
-      "lat": 50.915898560359, 
-      "lon": 4.07945641089, 
+      "lat": 50.915885752878, 
+      "lon": 4.079475687142, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselbaan"
+    }, 
+    {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "237C"
+      ], 
+      "housenumber": "237C", 
+      "lat": 50.915909832006, 
+      "lon": 4.079543796918, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brusselbaan"
     }, 
     {
@@ -2092,8 +2120,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.91582006017, 
-      "lon": 4.080730468265, 
+      "lat": 50.915868074188, 
+      "lon": 4.0808450749, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2225,11 +2253,11 @@
         "257A"
       ], 
       "housenumber": "257A", 
-      "lat": 50.915758195307, 
-      "lon": 4.081311747547, 
+      "lat": 50.915803326979, 
+      "lon": 4.081313747086, 
       "municipality": "Aalst", 
       "pcode": "9320", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselbaan"
     }, 
     {
@@ -2994,6 +3022,10 @@
       "street": "Brusselbaan"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "33"
       ], 

@@ -14,10 +14,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "10"
@@ -51,7 +51,7 @@
       "lon": 3.988040371057, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -183,7 +183,7 @@
       "lon": 3.987109848261, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -195,7 +195,7 @@
       "lon": 3.987140744237, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -320,9 +320,9 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "38"
       ], 
-      "housenumber": "36", 
+      "housenumber": "38", 
       "lat": 50.896944683865, 
       "lon": 3.98682727289, 
       "municipality": "Haaltert", 
@@ -455,11 +455,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.897985363404, 
-      "lon": 3.986042114265, 
+      "lat": 50.897616699952, 
+      "lon": 3.98634490626, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Pontweg"
     }, 
     {
@@ -500,7 +500,7 @@
       "lon": 3.985766115883, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -556,8 +556,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.898570428682, 
-      "lon": 3.985829954363, 
+      "lat": 50.89857014327, 
+      "lon": 3.985825123515, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -652,8 +652,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.898171872641, 
-      "lon": 3.985538093482, 
+      "lat": 50.898169514593, 
+      "lon": 3.985531715902, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -692,7 +692,7 @@
       "lon": 3.985184878219, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -704,7 +704,7 @@
       "lon": 3.983978431932, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -772,11 +772,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.899124055524, 
-      "lon": 3.983643529214, 
+      "lat": 50.898956637449, 
+      "lon": 3.983605807712, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -796,11 +796,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.898983041663, 
-      "lon": 3.983598199545, 
+      "lat": 50.89903954048, 
+      "lon": 3.983502067604, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {
@@ -817,14 +817,26 @@
     }, 
     {
       "hnrlbls": [
-        "89"
+        "87"
       ], 
-      "housenumber": "89", 
-      "lat": 50.898701408463, 
-      "lon": 3.983682953991, 
+      "housenumber": "87", 
+      "lat": 50.898630904985, 
+      "lon": 3.983867334059, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pontweg"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.898777117972, 
+      "lon": 3.983496256285, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pontweg"
     }, 
     {

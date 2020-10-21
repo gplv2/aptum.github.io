@@ -21,9 +21,6 @@
       "street": "Eliaertsstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -200,8 +197,9 @@
       "street": "Eliaertsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -224,18 +222,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Eliaertsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.214461691831, 
-      "lon": 4.433653332924, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Eliaertsstraat"
     }, 
     {
@@ -281,6 +267,11 @@
       "street": "Eliaertsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -347,19 +338,23 @@
     }, 
     {
       "hnrlbls": [
-        "34-36"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.214187967429, 
-      "lon": 4.433540318573, 
+      "lat": 51.214187198621, 
+      "lon": 4.433630048875, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eliaertsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "34-36"
+        "36"
       ], 
       "housenumber": "36", 
       "lat": 51.214187967429, 
@@ -374,8 +369,8 @@
         "4-8"
       ], 
       "housenumber": "4", 
-      "lat": 51.214813872693, 
-      "lon": 4.433788355614, 
+      "lat": 51.214807205039, 
+      "lon": 4.433817541503, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -398,8 +393,8 @@
         "4-8"
       ], 
       "housenumber": "6", 
-      "lat": 51.214813872693, 
-      "lon": 4.433788355614, 
+      "lat": 51.214807205039, 
+      "lon": 4.433817541503, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -422,8 +417,8 @@
         "4-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.214813872693, 
-      "lon": 4.433788355614, 
+      "lat": 51.214807205039, 
+      "lon": 4.433817541503, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

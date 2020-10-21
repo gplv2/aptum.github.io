@@ -25,6 +25,37 @@
       "street": "Bergstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "100-100A"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.882681107639, 
+      "lon": 3.987023045727, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "100-100A"
+      ], 
+      "housenumber": "100A", 
+      "lat": 50.882681107639, 
+      "lon": 3.987023045727, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bergstraat"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -185,11 +216,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.883692746511, 
-      "lon": 3.988674649273, 
+      "lat": 50.88367258501, 
+      "lon": 3.988722560066, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergstraat"
     }, 
     {
@@ -338,7 +369,7 @@
       "lon": 3.989159147351, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergstraat"
     }, 
     {
@@ -354,6 +385,10 @@
       "street": "Bergstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -1798,11 +1833,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.882244093229, 
-      "lon": 3.985713704176, 
+      "lat": 50.882285649819, 
+      "lon": 3.985693755718, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergstraat"
     }, 
     {
@@ -1990,11 +2025,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.882449677433, 
-      "lon": 3.987066275179, 
+      "lat": 50.882660994541, 
+      "lon": 3.986836484317, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergstraat"
     }, 
     {

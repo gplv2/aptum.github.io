@@ -87,11 +87,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.178299640998, 
-      "lon": 4.356443688381, 
+      "lat": 51.178122133451, 
+      "lon": 4.356607612402, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -111,9 +111,10 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "106-108"
@@ -139,12 +140,13 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "106-108"
@@ -186,8 +188,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.178709825516, 
-      "lon": 4.356834128603, 
+      "lat": 51.178712701657, 
+      "lon": 4.356832125863, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -750,11 +752,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.178239357674, 
-      "lon": 4.358816821024, 
+      "lat": 51.178224704896, 
+      "lon": 4.358798090674, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -762,8 +764,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.178354869416, 
-      "lon": 4.358933631045, 
+      "lat": 51.178356307648, 
+      "lon": 4.358934488777, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -885,11 +887,11 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.178624975435, 
-      "lon": 4.360191576922, 
+      "lat": 51.179013364572, 
+      "lon": 4.360111858032, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -1541,7 +1543,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "224"
+        "224-230"
       ], 
       "housenumber": "224", 
       "lat": 51.178551713852, 
@@ -1605,14 +1607,14 @@
     }, 
     {
       "hnrlbls": [
-        "230"
+        "224-230"
       ], 
       "housenumber": "230", 
-      "lat": 51.178544343646, 
-      "lon": 4.361596880018, 
+      "lat": 51.178551713852, 
+      "lon": 4.361589728852, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -1756,8 +1758,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.178782914705, 
-      "lon": 4.361884856298, 
+      "lat": 51.178780667751, 
+      "lon": 4.361888288682, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -1780,11 +1782,11 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.178860129586, 
-      "lon": 4.361950055846, 
+      "lat": 51.178677938768, 
+      "lon": 4.36208164274, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -1812,10 +1814,13 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "247"
@@ -1823,23 +1828,6 @@
       "housenumber": "247", 
       "lat": 51.179826391823, 
       "lon": 4.363910409973, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "249"
-      ], 
-      "housenumber": "249", 
-      "lat": 51.179826391828, 
-      "lon": 4.363910552979, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -2800,6 +2788,11 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "326"
       ], 
@@ -2809,6 +2802,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
+      "street": "Antwerpsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "328"
+      ], 
+      "housenumber": "328", 
+      "lat": 51.179782379434, 
+      "lon": 4.364929765596, 
+      "municipality": "Antwerpen", 
+      "pcode": "2660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -2892,11 +2897,11 @@
         "339"
       ], 
       "housenumber": "339", 
-      "lat": 51.180847734294, 
-      "lon": 4.366790968759, 
+      "lat": 51.180816725344, 
+      "lon": 4.366935409563, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -2924,15 +2929,23 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 51.180991821793, 
-      "lon": 4.366933546211, 
+      "lat": 51.180964588501, 
+      "lon": 4.367159646177, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3074,8 +3087,8 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 51.180070031135, 
-      "lon": 4.365745604522, 
+      "lat": 51.180078570127, 
+      "lon": 4.365740026802, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3179,8 +3192,8 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 51.181168357001, 
-      "lon": 4.366997181821, 
+      "lat": 51.181164312973, 
+      "lon": 4.367091283104, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3203,11 +3216,11 @@
         "363"
       ], 
       "housenumber": "363", 
-      "lat": 51.181208985706, 
-      "lon": 4.36706339502, 
+      "lat": 51.18114759648, 
+      "lon": 4.367406336412, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3227,11 +3240,11 @@
         "365"
       ], 
       "housenumber": "365", 
-      "lat": 51.181249254874, 
-      "lon": 4.367134899755, 
+      "lat": 51.181211504595, 
+      "lon": 4.367355709598, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3251,8 +3264,8 @@
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 51.181294377902, 
-      "lon": 4.367220562645, 
+      "lat": 51.181269390318, 
+      "lon": 4.367296073034, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3294,8 +3307,8 @@
         "370"
       ], 
       "housenumber": "370", 
-      "lat": 51.18028306885, 
-      "lon": 4.366303898081, 
+      "lat": 51.180279833001, 
+      "lon": 4.366305328285, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3323,14 +3336,14 @@
     }, 
     {
       "hnrlbls": [
-        "372"
+        "2-374"
       ], 
       "housenumber": "372", 
-      "lat": 51.180328013973, 
-      "lon": 4.366480225705, 
+      "lat": 51.180346170786, 
+      "lon": 4.36647936704, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3369,8 +3382,8 @@
         "383"
       ], 
       "housenumber": "383", 
-      "lat": 51.181362783103, 
-      "lon": 4.368381672078, 
+      "lat": 51.181363771846, 
+      "lon": 4.368379526911, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3462,7 +3475,7 @@
     }, 
     {
       "hnrlbls": [
-        "391"
+        "391-395"
       ], 
       "housenumber": "391", 
       "lat": 51.181597113049, 
@@ -3519,14 +3532,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "395"
+        "391-395"
       ], 
       "housenumber": "395", 
-      "lat": 51.181605652177, 
-      "lon": 4.368604200864, 
+      "lat": 51.181597113049, 
+      "lon": 4.36861092234, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3589,8 +3602,8 @@
         "40-42"
       ], 
       "housenumber": "40", 
-      "lat": 51.177795733266, 
-      "lon": 4.353148221769, 
+      "lat": 51.177795554308, 
+      "lon": 4.353154656854, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3672,8 +3685,8 @@
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 51.180677856884, 
-      "lon": 4.367552498628, 
+      "lat": 51.180674710907, 
+      "lon": 4.367554071766, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3891,8 +3904,8 @@
         "40-42"
       ], 
       "housenumber": "42", 
-      "lat": 51.177795733266, 
-      "lon": 4.353148221769, 
+      "lat": 51.177795554308, 
+      "lon": 4.353154656854, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3961,8 +3974,8 @@
         "424"
       ], 
       "housenumber": "424", 
-      "lat": 51.180852774666, 
-      "lon": 4.368011987773, 
+      "lat": 51.180865987795, 
+      "lon": 4.368005123279, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4218,8 +4231,8 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 51.181065351313, 
-      "lon": 4.368742056797, 
+      "lat": 51.18105825034, 
+      "lon": 4.368748778191, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4266,11 +4279,11 @@
         "446"
       ], 
       "housenumber": "446", 
-      "lat": 51.181114607481, 
-      "lon": 4.368889787648, 
+      "lat": 51.181141124064, 
+      "lon": 4.368825147213, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -4308,8 +4321,8 @@
         "448"
       ], 
       "housenumber": "448", 
-      "lat": 51.181127371326, 
-      "lon": 4.36886948034, 
+      "lat": 51.181114067997, 
+      "lon": 4.36891395646, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4349,14 +4362,19 @@
         "450-452"
       ], 
       "housenumber": "450", 
-      "lat": 51.181125302911, 
-      "lon": 4.369010917993, 
+      "lat": 51.181137437519, 
+      "lon": 4.368998333286, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "451"
       ], 
@@ -4373,11 +4391,11 @@
         "450-452"
       ], 
       "housenumber": "452", 
-      "lat": 51.181125302911, 
-      "lon": 4.369010917993, 
+      "lat": 51.181137437519, 
+      "lon": 4.368998333286, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -4385,8 +4403,8 @@
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 51.181227052343, 
-      "lon": 4.369089576184, 
+      "lat": 51.18123244547, 
+      "lon": 4.369088146192, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4417,11 +4435,11 @@
         "456"
       ], 
       "housenumber": "456", 
-      "lat": 51.181258690005, 
-      "lon": 4.369292223778, 
+      "lat": 51.181315587773, 
+      "lon": 4.36925203908, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -4529,8 +4547,8 @@
         "466"
       ], 
       "housenumber": "466", 
-      "lat": 51.181358729077, 
-      "lon": 4.369567666615, 
+      "lat": 51.181356931349, 
+      "lon": 4.369569525707, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4818,15 +4836,19 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.177762798295, 
-      "lon": 4.350282645096, 
+      "lat": 51.177673641946, 
+      "lon": 4.350348745163, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -4893,8 +4915,8 @@
         "508"
       ], 
       "housenumber": "508", 
-      "lat": 51.181758246925, 
-      "lon": 4.370792440703, 
+      "lat": 51.181753033483, 
+      "lon": 4.370796730779, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -4917,14 +4939,19 @@
         "510"
       ], 
       "housenumber": "510", 
-      "lat": 51.181779997649, 
-      "lon": 4.370856511717, 
+      "lat": 51.18177631228, 
+      "lon": 4.370859657778, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "512"
       ], 
@@ -4987,11 +5014,11 @@
         "52-54"
       ], 
       "housenumber": "52", 
-      "lat": 51.17778899103, 
-      "lon": 4.353871234898, 
+      "lat": 51.17782224746, 
+      "lon": 4.353861643742, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -5071,11 +5098,11 @@
         "52-54"
       ], 
       "housenumber": "54", 
-      "lat": 51.17778899103, 
-      "lon": 4.353871234898, 
+      "lat": 51.17782224746, 
+      "lon": 4.353861643742, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -5249,8 +5276,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.177938820343, 
-      "lon": 4.354556450368, 
+      "lat": 51.177951044211, 
+      "lon": 4.354551727796, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -5282,11 +5309,11 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.177762798295, 
-      "lon": 4.350282645096, 
+      "lat": 51.177752381861, 
+      "lon": 4.350351003291, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 

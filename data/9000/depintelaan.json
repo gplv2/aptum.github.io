@@ -355,7 +355,7 @@
     }, 
     {
       "hnrlbls": [
-        "121-125"
+        "121-127"
       ], 
       "housenumber": "121", 
       "lat": 51.02840781538, 
@@ -379,7 +379,7 @@
     }, 
     {
       "hnrlbls": [
-        "121-125"
+        "121-127"
       ], 
       "housenumber": "123", 
       "lat": 51.02840781538, 
@@ -403,7 +403,7 @@
     }, 
     {
       "hnrlbls": [
-        "121-125"
+        "121-127"
       ], 
       "housenumber": "125", 
       "lat": 51.02840781538, 
@@ -423,6 +423,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "De Pintelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "121-127"
+      ], 
+      "housenumber": "127", 
+      "lat": 51.02840781538, 
+      "lon": 3.725460015936, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Pintelaan"
     }, 
     {
@@ -588,47 +600,11 @@
     }, 
     {
       "hnrlbls": [
-        "137"
-      ], 
-      "housenumber": "137", 
-      "lat": 51.028200665681, 
-      "lon": 3.724959660606, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "De Pintelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.027916535387, 
-      "lon": 3.723467946957, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "De Pintelaan"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 51.030180483019, 
       "lon": 3.728839759434, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "De Pintelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "144-146"
-      ], 
-      "housenumber": "144", 
-      "lat": 51.027813021461, 
-      "lon": 3.723213213342, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -647,7 +623,7 @@
         "0203"
       ], 
       "hnrlbls": [
-        "144-146"
+        "146"
       ], 
       "housenumber": "146", 
       "lat": 51.027813021461, 
@@ -869,11 +845,11 @@
         "170A"
       ], 
       "housenumber": "170A", 
-      "lat": 51.027454150096, 
-      "lon": 3.722357315221, 
+      "lat": 51.027464160296, 
+      "lon": 3.722281199687, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Pintelaan"
     }, 
     {
@@ -1889,14 +1865,14 @@
     }, 
     {
       "hnrlbls": [
-        "91A-254"
+        "254"
       ], 
       "housenumber": "254", 
-      "lat": 51.026693228588, 
-      "lon": 3.720480090659, 
+      "lat": 51.026655055726, 
+      "lon": 3.720534928026, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Pintelaan"
     }, 
     {
@@ -2948,6 +2924,11 @@
       "street": "De Pintelaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -3496,7 +3477,7 @@
       "lon": 3.727167073802, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Pintelaan"
     }, 
     {

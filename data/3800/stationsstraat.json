@@ -2,22 +2,6 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "102"
-      ], 
-      "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.815919210734, 
-      "lon": 5.179977693197, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
         "001", 
         "002", 
         "003", 
@@ -368,21 +352,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.815956008571, 
-      "lon": 5.179921706667, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
       "hnrlbls": [
         "30"
       ], 
@@ -570,7 +539,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "45-45A"
+        "45"
       ], 
       "housenumber": "45", 
       "lat": 50.81680267963, 
@@ -581,15 +550,21 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "45-45A"
+        "45A"
       ], 
       "housenumber": "45A", 
-      "lat": 50.81680267963, 
-      "lon": 5.178144403148, 
+      "lat": 50.816853104964, 
+      "lon": 5.178080701775, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -710,6 +685,19 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
+      ], 
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "59"
       ], 

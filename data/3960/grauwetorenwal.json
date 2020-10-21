@@ -13,7 +13,7 @@
         "0/01"
       ], 
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.13939799153, 
@@ -76,11 +76,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.13900549769, 
-      "lon": 5.599887069497, 
+      "lat": 51.139121389955, 
+      "lon": 5.599877264808, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Grauwe Torenwal"
     }, 
     {
@@ -165,6 +165,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grauwe Torenwal"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.139799294788, 
+      "lon": 5.600387590582, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grauwe Torenwal"
     }, 
     {
@@ -270,6 +282,12 @@
       "street": "Grauwe Torenwal"
     }, 
     {
+      "apptnrs": [
+        "1/1", 
+        "2/1", 
+        "3/1", 
+        "4/1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -291,6 +309,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Grauwe Torenwal"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.139537328503, 
+      "lon": 5.597836574824, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grauwe Torenwal"
     }, 
     {
@@ -404,14 +434,14 @@
         "03"
       ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.13939799153, 
-      "lon": 5.598379365835, 
+      "lat": 51.139441825381, 
+      "lon": 5.598391523993, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grauwe Torenwal"
     }, 
     {
@@ -424,6 +454,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grauwe Torenwal"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.14000104435, 
+      "lon": 5.599205948542, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grauwe Torenwal"
     }
   ]

@@ -133,11 +133,11 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "109-109B"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 50.908697563469, 
@@ -145,21 +145,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "109-109B"
-      ], 
-      "housenumber": "109B", 
-      "lat": 50.908697563469, 
-      "lon": 4.349563450343, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Villegas de Clercampstraat"
     }, 
     {
@@ -201,11 +186,11 @@
         "B003"
       ], 
       "hnrlbls": [
-        "111-113"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.908694039267, 
-      "lon": 4.349447289966, 
+      "lat": 50.908578533207, 
+      "lon": 4.34949226481, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -218,18 +203,6 @@
       "housenumber": "112", 
       "lat": 50.908935171694, 
       "lon": 4.349688618695, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "111-113"
-      ], 
-      "housenumber": "113", 
-      "lat": 50.908694039267, 
-      "lon": 4.349447289966, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -500,31 +473,19 @@
       "street": "de Villegas de Clercampstraat"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "133-133B"
+        "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.908599520921, 
-      "lon": 4.348643580644, 
+      "lat": 50.908543059456, 
+      "lon": 4.348593272136, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "133-133B"
-      ], 
-      "housenumber": "133B", 
-      "lat": 50.908599520921, 
-      "lon": 4.348643580644, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "de Villegas de Clercampstraat"
     }, 
     {
@@ -534,18 +495,6 @@
       "housenumber": "134", 
       "lat": 50.90892441587, 
       "lon": 4.348763447488, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "afgeleidVanGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "135"
-      ], 
-      "housenumber": "135", 
-      "lat": 50.908543059456, 
-      "lon": 4.348593272136, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -588,8 +537,12 @@
       "street": "de Villegas de Clercampstraat"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
-        "14-14B"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 50.909743714797, 
@@ -685,7 +638,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0102"
       ], 
       "hnrlbls": [
         "148"
@@ -718,22 +672,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "14-14B"
-      ], 
-      "housenumber": "14B", 
-      "lat": 50.909743714797, 
-      "lon": 4.353874342586, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Villegas de Clercampstraat"
     }, 
     {
@@ -1065,12 +1003,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "B003"
       ], 
       "hnrlbls": [
-        "180-180B"
+        "180"
       ], 
       "housenumber": "180", 
       "lat": 50.908920130872, 
@@ -1078,21 +1016,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "de Villegas de Clercampstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "180-180B"
-      ], 
-      "housenumber": "180B", 
-      "lat": 50.908920130872, 
-      "lon": 4.346359870168, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Villegas de Clercampstraat"
     }, 
     {
@@ -1132,6 +1055,18 @@
       "housenumber": "185", 
       "lat": 50.908545959219, 
       "lon": 4.346660043824, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "afgeleidVanGebouw", 
+      "street": "de Villegas de Clercampstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "187"
+      ], 
+      "housenumber": "187", 
+      "lat": 50.908647343584, 
+      "lon": 4.34657497353, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -1389,6 +1324,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -1398,11 +1335,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.909343327535, 
-      "lon": 4.353136108171, 
+      "lat": 50.909408058016, 
+      "lon": 4.35319253425, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "de Villegas de Clercampstraat"
     }, 
     {
@@ -1419,13 +1356,15 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
         "0202"
       ], 
       "hnrlbls": [
-        "41-43"
+        "41"
       ], 
       "housenumber": "41", 
       "lat": 50.909326382544, 
@@ -1680,8 +1619,7 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0101"
+        "0201"
       ], 
       "hnrlbls": [
         "65"
@@ -1982,8 +1920,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.908648019385, 
-      "lon": 4.350656128724, 
+      "lat": 50.908648109257, 
+      "lon": 4.35065598651, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

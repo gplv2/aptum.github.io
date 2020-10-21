@@ -194,7 +194,7 @@
     }, 
     {
       "hnrlbls": [
-        "113"
+        "1A-113"
       ], 
       "housenumber": "113", 
       "lat": 51.210046030981, 
@@ -575,12 +575,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106"
       ], 
       "hnrlbls": [
         "143-149"
@@ -618,6 +618,18 @@
         "143-149"
       ], 
       "housenumber": "147", 
+      "lat": 51.209807379439, 
+      "lon": 3.249531036705, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Maalse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "143-149"
+      ], 
+      "housenumber": "147B", 
       "lat": 51.209807379439, 
       "lon": 3.249531036705, 
       "municipality": "Brugge", 
@@ -1331,8 +1343,8 @@
         "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 51.210582433094, 
-      "lon": 3.242190985588, 
+      "lat": 51.210610273486, 
+      "lon": 3.24217872093, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1475,8 +1487,8 @@
         "21-23"
       ], 
       "housenumber": "23", 
-      "lat": 51.210582433094, 
-      "lon": 3.242190985588, 
+      "lat": 51.210610273486, 
+      "lon": 3.24217872093, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1544,11 +1556,11 @@
     }, 
     {
       "hnrlbls": [
-        "236"
+        "236-242"
       ], 
       "housenumber": "236", 
-      "lat": 51.209804898428, 
-      "lon": 3.25576503867, 
+      "lat": 51.209712924471, 
+      "lon": 3.256327525687, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1556,11 +1568,11 @@
     }, 
     {
       "hnrlbls": [
-        "238"
+        "236-242"
       ], 
       "housenumber": "238", 
-      "lat": 51.209765833289, 
-      "lon": 3.256103577965, 
+      "lat": 51.209712924471, 
+      "lon": 3.256327525687, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1580,11 +1592,11 @@
     }, 
     {
       "hnrlbls": [
-        "240"
+        "236-242"
       ], 
       "housenumber": "240", 
-      "lat": 51.209693774213, 
-      "lon": 3.25645148998, 
+      "lat": 51.209712924471, 
+      "lon": 3.256327525687, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1592,11 +1604,11 @@
     }, 
     {
       "hnrlbls": [
-        "242"
+        "236-242"
       ], 
       "housenumber": "242", 
-      "lat": 51.209594948141, 
-      "lon": 3.256868733498, 
+      "lat": 51.209712924471, 
+      "lon": 3.256327525687, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1727,11 +1739,11 @@
         "267"
       ], 
       "housenumber": "267", 
-      "lat": 51.208374388304, 
-      "lon": 3.26013697447, 
+      "lat": 51.208339908698, 
+      "lon": 3.260169993364, 
       "municipality": "Brugge", 
       "pcode": "8310", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Maalse Steenweg"
     }, 
     {
@@ -3690,11 +3702,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.210285940144, 
-      "lon": 3.244711558204, 
+      "lat": 51.210422624059, 
+      "lon": 3.244763508947, 
       "municipality": "Brugge", 
       "pcode": "8310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Maalse Steenweg"
     }, 
     {
@@ -3903,11 +3915,11 @@
         "497"
       ], 
       "housenumber": "497", 
-      "lat": 51.206896394908, 
-      "lon": 3.287780403234, 
+      "lat": 51.206917944421, 
+      "lon": 3.288131799405, 
       "municipality": "Brugge", 
       "pcode": "8310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Maalse Steenweg"
     }, 
     {
@@ -3948,15 +3960,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "302", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "50-52"
@@ -4174,13 +4185,22 @@
       "street": "Maalse Steenweg"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
-        "576"
+        "576-576A"
       ], 
       "housenumber": "576", 
+      "lat": 51.206216804146, 
+      "lon": 3.301211164769, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Maalse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "576-576A"
+      ], 
+      "housenumber": "576A", 
       "lat": 51.206216804146, 
       "lon": 3.301211164769, 
       "municipality": "Brugge", 

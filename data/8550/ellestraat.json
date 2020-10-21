@@ -41,11 +41,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.805857607651, 
-      "lon": 3.356086492519, 
+      "lat": 50.805839478175, 
+      "lon": 3.356069288965, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -65,11 +65,23 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.805948679013, 
-      "lon": 3.356190378695, 
+      "lat": 50.80594180344, 
+      "lon": 3.356185418767, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "103A"
+      ], 
+      "housenumber": "103A", 
+      "lat": 50.805781156065, 
+      "lon": 3.356176388251, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -101,8 +113,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.805262051918, 
-      "lon": 3.355895844748, 
+      "lat": 50.805264166337, 
+      "lon": 3.355890833406, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -121,6 +133,11 @@
       "street": "Ellestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "107A"
       ], 
@@ -225,7 +242,7 @@
       "lon": 3.356748148, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -237,7 +254,7 @@
       "lon": 3.356809820029, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -261,7 +278,7 @@
       "lon": 3.35687235692, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -273,7 +290,7 @@
       "lon": 3.356943709672, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -521,8 +538,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.801437719945, 
-      "lon": 3.362707143855, 
+      "lat": 50.80143743878, 
+      "lon": 3.362674377943, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -929,8 +946,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.803823665092, 
-      "lon": 3.361237957614, 
+      "lat": 50.803829827133, 
+      "lon": 3.361233143807, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1109,8 +1126,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.803610521018, 
-      "lon": 3.361439017566, 
+      "lat": 50.803604322408, 
+      "lon": 3.361439575816, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1253,8 +1270,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.803221431947, 
-      "lon": 3.361692218732, 
+      "lat": 50.803141903952, 
+      "lon": 3.361591911721, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1277,8 +1294,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.803171551315, 
-      "lon": 3.361735990047, 
+      "lat": 50.803089479966, 
+      "lon": 3.361643114963, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1301,8 +1318,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.803084518832, 
-      "lon": 3.361871497592, 
+      "lat": 50.803011967531, 
+      "lon": 3.361840276137, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1548,8 +1565,8 @@
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 50.80231753816, 
-      "lon": 3.362593431505, 
+      "lat": 50.802317908668, 
+      "lon": 3.36259470044, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1620,8 +1637,8 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 50.802041673687, 
-      "lon": 3.362767160833, 
+      "lat": 50.80204273061, 
+      "lon": 3.36277508306, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1836,8 +1853,8 @@
         "245D"
       ], 
       "housenumber": "245D", 
-      "lat": 50.799608737893, 
-      "lon": 3.364735301243, 
+      "lat": 50.799586440782, 
+      "lon": 3.364777201022, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1856,15 +1873,19 @@
       "street": "Ellestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.809621237212, 
-      "lon": 3.340595041485, 
+      "lat": 50.809609018832, 
+      "lon": 3.340514002512, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -1953,18 +1974,6 @@
     }, 
     {
       "hnrlbls": [
-        "27E"
-      ], 
-      "housenumber": "27E", 
-      "lat": 50.807498879962, 
-      "lon": 3.343133241766, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ellestraat"
-    }, 
-    {
-      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -1985,6 +1994,18 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.807498879962, 
+      "lon": 3.343133241766, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ellestraat"
     }, 
     {
@@ -2040,8 +2061,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.808780718483, 
-      "lon": 3.340574520511, 
+      "lat": 50.808780717239, 
+      "lon": 3.340574378646, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2136,8 +2157,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.809783829053, 
-      "lon": 3.339882580171, 
+      "lat": 50.80978399887, 
+      "lon": 3.339881441295, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2625,6 +2646,18 @@
     }, 
     {
       "hnrlbls": [
+        "70B"
+      ], 
+      "housenumber": "70B", 
+      "lat": 50.806006805285, 
+      "lon": 3.354864218106, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ellestraat"
+    }, 
+    {
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
@@ -2808,8 +2841,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.807809263434, 
-      "lon": 3.352222440666, 
+      "lat": 50.807866209807, 
+      "lon": 3.35215409731, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 

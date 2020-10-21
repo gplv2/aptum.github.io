@@ -41,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.772165882187, 
-      "lon": 5.459820384701, 
+      "lat": 50.772155442057, 
+      "lon": 5.45982156044, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.771997839406, 
-      "lon": 5.459792242975, 
+      "lat": 50.772033913287, 
+      "lon": 5.459838166624, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -97,8 +97,12 @@
       "street": "Wijkmolenweg"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "19-19B"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 50.772341700547, 
@@ -106,22 +110,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wijkmolenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 50.772341700547, 
-      "lon": 5.45943880823, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wijkmolenweg"
     }, 
     {

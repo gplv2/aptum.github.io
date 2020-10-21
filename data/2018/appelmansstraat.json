@@ -135,15 +135,26 @@
       "street": "Appelmansstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
+      "lat": 51.21662661481, 
+      "lon": 4.41700511391, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Appelmansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18-18A"
+      ], 
+      "housenumber": "18A", 
       "lat": 51.21662661481, 
       "lon": 4.41700511391, 
       "municipality": "Antwerpen", 
@@ -164,6 +175,11 @@
       "street": "Appelmansstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 

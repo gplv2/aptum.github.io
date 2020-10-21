@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.02922704929, 
-      "lon": 4.064801588532, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Heidestraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -309,11 +297,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.028289586384, 
-      "lon": 4.060886526451, 
+      "lat": 51.028201704326, 
+      "lon": 4.060898506573, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heidestraat"
     }, 
     {
@@ -345,11 +333,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.028805842838, 
-      "lon": 4.062480661551, 
+      "lat": 51.02898711859, 
+      "lon": 4.062432865516, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heidestraat"
     }, 
     {
@@ -561,8 +549,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.029227257405, 
-      "lon": 4.064673008843, 
+      "lat": 51.029228069347, 
+      "lon": 4.064674143966, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -609,8 +597,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.026920056576, 
-      "lon": 4.055880915506, 
+      "lat": 51.026912935717, 
+      "lon": 4.055907475621, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -618,7 +606,7 @@
     }, 
     {
       "hnrlbls": [
-        "55-55B"
+        "55"
       ], 
       "housenumber": "55", 
       "lat": 51.028467376759, 
@@ -630,18 +618,18 @@
     }, 
     {
       "hnrlbls": [
-        "55-55B"
+        "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 51.028467376759, 
-      "lon": 4.060192872747, 
+      "lat": 51.028452116929, 
+      "lon": 4.060132391148, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -651,14 +639,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "55-55B"
+        "55B"
       ], 
       "housenumber": "55B", 
-      "lat": 51.028467376759, 
-      "lon": 4.060192872747, 
+      "lat": 51.028519963681, 
+      "lon": 4.060090036458, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
@@ -666,8 +654,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.02687621688, 
-      "lon": 4.055823336151, 
+      "lat": 51.026871887825, 
+      "lon": 4.055817948461, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -675,7 +663,7 @@
     }, 
     {
       "hnrlbls": [
-        "57-57B"
+        "57"
       ], 
       "housenumber": "57", 
       "lat": 51.028470515273, 
@@ -687,26 +675,26 @@
     }, 
     {
       "hnrlbls": [
-        "57-57B"
+        "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 51.028470515273, 
-      "lon": 4.059949383913, 
+      "lat": 51.028525994911, 
+      "lon": 4.059990214622, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
       "hnrlbls": [
-        "57-57B"
+        "57B"
       ], 
       "housenumber": "57B", 
-      "lat": 51.028470515273, 
-      "lon": 4.059949383913, 
+      "lat": 51.028590128919, 
+      "lon": 4.059971831843, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
@@ -726,11 +714,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.028358710242, 
-      "lon": 4.05975069854, 
+      "lat": 51.028305644597, 
+      "lon": 4.059773570105, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
@@ -813,6 +801,18 @@
     }, 
     {
       "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 51.027946915979, 
+      "lon": 4.058310720142, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heidestraat"
+    }, 
+    {
+      "hnrlbls": [
         "69-69B"
       ], 
       "housenumber": "69B", 
@@ -824,7 +824,7 @@
       "street": "Heidestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -841,7 +841,7 @@
       "street": "Heidestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -859,15 +859,21 @@
       "street": "Heidestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "69E"
       ], 
       "housenumber": "69E", 
-      "lat": 51.027975833629, 
-      "lon": 4.057958872074, 
+      "lat": 51.027963609802, 
+      "lon": 4.057959380662, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heidestraat"
     }, 
     {
@@ -911,8 +917,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.027612971872, 
-      "lon": 4.056777168862, 
+      "lat": 51.027564686755, 
+      "lon": 4.056805998467, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

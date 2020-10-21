@@ -411,11 +411,11 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.23203358419, 
-      "lon": 4.467781886435, 
+      "lat": 51.232004446881, 
+      "lon": 4.467799719982, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -521,14 +521,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.23203358419, 
-      "lon": 4.467781886435, 
+      "lat": 51.23193709983, 
+      "lon": 4.467828495583, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Bosuilbaan"
     }, 
     {
@@ -752,11 +752,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.233490358409, 
-      "lon": 4.469330969678, 
+      "lat": 51.233419109118, 
+      "lon": 4.469297885473, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Oude Bosuilbaan"
     }, 
     {
@@ -879,11 +879,11 @@
       "street": "Oude Bosuilbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "7"
@@ -1008,6 +1008,9 @@
       "street": "Oude Bosuilbaan"
     }, 
     {
+      "apptnrs": [
+        "102"
+      ], 
       "busnrs": [
         "001", 
         "003", 
@@ -1057,11 +1060,11 @@
       "street": "Oude Bosuilbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "9"

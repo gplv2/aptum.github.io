@@ -41,11 +41,23 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.220829208747, 
-      "lon": 4.399645107584, 
+      "lat": 51.220848073299, 
+      "lon": 4.3996864857, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Grote Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 51.220875777603, 
+      "lon": 4.399611359805, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -102,6 +114,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "201", 
         "301"
       ], 
@@ -109,11 +122,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.221606950057, 
-      "lon": 4.400724872202, 
+      "lat": 51.221505863273, 
+      "lon": 4.400606858413, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Markt"
     }, 
     {
@@ -277,9 +290,26 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29-29A"
       ], 
       "housenumber": "29", 
+      "lat": 51.221350465115, 
+      "lon": 4.401214211461, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Markt"
+    }, 
+    {
+      "apptnrs": [
+        "21", 
+        "31", 
+        "41"
+      ], 
+      "hnrlbls": [
+        "29-29A"
+      ], 
+      "housenumber": "29A", 
       "lat": 51.221350465115, 
       "lon": 4.401214211461, 
       "municipality": "Antwerpen", 
@@ -312,12 +342,29 @@
       "street": "Grote Markt"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.221332959371, 
-      "lon": 4.401456811382, 
+      "lat": 51.221318078111, 
+      "lon": 4.401316815578, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Grote Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.221336494107, 
+      "lon": 4.401353041654, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -361,7 +408,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-37"
+        "12-35"
       ], 
       "housenumber": "35", 
       "lat": 51.221222747137, 
@@ -388,18 +435,6 @@
       "street": "Grote Markt"
     }, 
     {
-      "hnrlbls": [
-        "35-37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.221222747137, 
-      "lon": 4.401508546877, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Markt"
-    }, 
-    {
       "apptnrs": [
         "201", 
         "301", 
@@ -409,8 +444,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.220981165153, 
-      "lon": 4.400447185058, 
+      "lat": 51.221039210809, 
+      "lon": 4.400517646931, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -433,8 +468,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.220977104133, 
-      "lon": 4.400506439319, 
+      "lat": 51.221030998824, 
+      "lon": 4.400636012382, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -450,8 +485,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.220974842019, 
-      "lon": 4.400561114567, 
+      "lat": 51.221026564296, 
+      "lon": 4.400745506182, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -517,8 +552,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.221750316287, 
-      "lon": 4.399728177566, 
+      "lat": 51.22170536728, 
+      "lon": 4.399754627064, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

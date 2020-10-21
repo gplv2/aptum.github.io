@@ -147,9 +147,6 @@
       "street": "Riddersstraat"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -171,8 +168,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.928429840776, 
-      "lon": 4.428572069626, 
+      "lat": 50.92842408814, 
+      "lon": 4.428571066523, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +338,10 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "1"
+        "0"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "43-55"
@@ -388,12 +387,12 @@
       "street": "Riddersstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1/1", 
-        "1/2", 
-        "2/1", 
-        "2/2"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2"
       ], 
       "hnrlbls": [
         "5"

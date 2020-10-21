@@ -307,9 +307,6 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -559,58 +556,31 @@
       "street": "Groenstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "43-43C"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.888640893436, 
-      "lon": 4.472055646153, 
+      "lat": 50.888522503045, 
+      "lon": 4.47215685764, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
-        "43-43C"
+        "43A"
       ], 
       "housenumber": "43A", 
-      "lat": 50.888640893436, 
-      "lon": 4.472055646153, 
+      "lat": 50.888543867684, 
+      "lon": 4.472190871671, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43-43C"
-      ], 
-      "housenumber": "43B", 
-      "lat": 50.888640893436, 
-      "lon": 4.472055646153, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43-43C"
-      ], 
-      "housenumber": "43C", 
-      "lat": 50.888640893436, 
-      "lon": 4.472055646153, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -686,9 +656,9 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "5"
@@ -939,8 +909,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.886787208261, 
-      "lon": 4.464555561475, 
+      "lat": 50.886789292761, 
+      "lon": 4.464534959131, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1056,9 +1026,10 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "80"
@@ -1093,18 +1064,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "82A"
-      ], 
-      "housenumber": "82A", 
-      "lat": 50.888011482568, 
-      "lon": 4.471515339603, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -1173,8 +1132,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.88927688851, 
-      "lon": 4.475358553521, 
+      "lat": 50.889276926563, 
+      "lon": 4.475316911797, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 

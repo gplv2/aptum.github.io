@@ -77,6 +77,12 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -286,6 +292,11 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -387,6 +398,11 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -416,9 +432,6 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -443,11 +456,9 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "129"
@@ -458,21 +469,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "12_2"
-      ], 
-      "housenumber": "12_2", 
-      "lat": 51.197430331571, 
-      "lon": 4.423407117068, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -488,10 +484,11 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "130"
@@ -712,6 +709,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "145A"
+      ], 
+      "housenumber": "145A", 
+      "lat": 51.199164392041, 
+      "lon": 4.429231108423, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -961,8 +970,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 51.199363816507, 
-      "lon": 4.429806498336, 
+      "lat": 51.199368131565, 
+      "lon": 4.429805359513, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1322,14 +1331,14 @@
     }, 
     {
       "hnrlbls": [
-        "30-54"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.197716121827, 
-      "lon": 4.424260246966, 
+      "lat": 51.197647309953, 
+      "lon": 4.424365457331, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1680,8 +1689,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.197886606932, 
-      "lon": 4.425621832542, 
+      "lat": 51.197881749817, 
+      "lon": 4.425628693536, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2095,6 +2104,10 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "79-81"
       ], 
@@ -2175,8 +2188,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.198304644839, 
-      "lon": 4.426931093396, 
+      "lat": 51.198339626131, 
+      "lon": 4.426898662098, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 

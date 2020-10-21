@@ -30,6 +30,10 @@
       "street": "Rodestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "401"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -191,6 +195,11 @@
       "street": "Rodestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -219,8 +228,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.223088024678, 
-      "lon": 4.413594010861, 
+      "lat": 51.223079129657, 
+      "lon": 4.413584984385, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -243,8 +252,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.223509830038, 
-      "lon": 4.414108012126, 
+      "lat": 51.223507954238, 
+      "lon": 4.414077807558, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -297,6 +306,24 @@
       "street": "Rodestraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.224421403836, 
+      "lon": 4.413947303288, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodestraat"
+    }, 
+    {
       "hnrlbls": [
         "1-3"
       ], 
@@ -313,23 +340,29 @@
         "30-32"
       ], 
       "housenumber": "30", 
-      "lat": 51.222845893663, 
-      "lon": 4.413552550421, 
+      "lat": 51.222846507092, 
+      "lon": 4.413593488717, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Rodestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.223291943672, 
-      "lon": 4.414128695398, 
+      "lat": 51.223280883654, 
+      "lon": 4.413908534943, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodestraat"
     }, 
     {
@@ -337,8 +370,32 @@
         "30-32"
       ], 
       "housenumber": "32", 
-      "lat": 51.222845893663, 
-      "lon": 4.413552550421, 
+      "lat": 51.222846507092, 
+      "lon": 4.413593488717, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rodestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.223206644328, 
+      "lon": 4.413896438187, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.222730388712, 
+      "lon": 4.41356360252, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -352,40 +409,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.22318764553, 
-      "lon": 4.413982303418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.222703307318, 
-      "lon": 4.413398251284, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.223277707463, 
-      "lon": 4.414447024968, 
+      "lat": 51.22320004222, 
+      "lon": 4.414461404827, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -396,8 +424,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.222724691087, 
-      "lon": 4.413185711516, 
+      "lat": 51.222746262211, 
+      "lon": 4.413188308886, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -408,8 +436,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.223048826706, 
-      "lon": 4.414080646613, 
+      "lat": 51.223060646494, 
+      "lon": 4.413964858458, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -469,8 +497,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.222671119084, 
-      "lon": 4.413890043051, 
+      "lat": 51.222439003079, 
+      "lon": 4.414443327798, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -490,7 +518,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-44"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.222401356695, 
@@ -532,26 +560,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.222401356695, 
-      "lon": 4.413478687181, 
+      "lat": 51.222408849217, 
+      "lon": 4.413628702534, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44A"
-      ], 
-      "housenumber": "44A", 
-      "lat": 51.222394426129, 
-      "lon": 4.413503443202, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodestraat"
     }, 
     {
@@ -591,6 +607,10 @@
       "street": "Rodestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -182,27 +182,12 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "118-118B"
-      ], 
-      "housenumber": "118", 
-      "lat": 50.76733434904, 
-      "lon": 5.446105749629, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "118-118B"
+        "118"
       ], 
-      "housenumber": "118B", 
+      "housenumber": "118", 
       "lat": 50.76733434904, 
       "lon": 5.446105749629, 
       "municipality": "Tongeren", 
@@ -335,11 +320,11 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.76718961584, 
-      "lon": 5.444902365572, 
+      "lat": 50.767126140396, 
+      "lon": 5.444970947433, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koninksemstraat"
     }, 
     {
@@ -359,11 +344,11 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.767054759999, 
-      "lon": 5.444862847049, 
+      "lat": 50.767061919386, 
+      "lon": 5.444915323204, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koninksemstraat"
     }, 
     {
@@ -656,14 +641,14 @@
     }, 
     {
       "hnrlbls": [
-        "166-170"
+        "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.765645291766, 
-      "lon": 5.441093438228, 
+      "lat": 50.765681443121, 
+      "lon": 5.441180737993, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koninksemstraat"
     }, 
     {
@@ -680,14 +665,14 @@
     }, 
     {
       "hnrlbls": [
-        "166-170"
+        "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.765645291766, 
-      "lon": 5.441093438228, 
+      "lat": 50.765629729032, 
+      "lon": 5.441025745834, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koninksemstraat"
     }, 
     {
@@ -697,26 +682,9 @@
         "3"
       ], 
       "hnrlbls": [
-        "166-170"
+        "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.765645291766, 
-      "lon": 5.441093438228, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "170B"
-      ], 
-      "housenumber": "170B", 
       "lat": 50.765576615006, 
       "lon": 5.44089595603, 
       "municipality": "Tongeren", 
@@ -837,8 +805,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.765214844989, 
-      "lon": 5.440335123629, 
+      "lat": 50.765214922522, 
+      "lon": 5.440356106232, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -873,8 +841,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.765044632653, 
-      "lon": 5.440013275661, 
+      "lat": 50.765048614687, 
+      "lon": 5.440039875788, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -905,18 +873,6 @@
       "street": "Koninksemstraat"
     }, 
     {
-      "hnrlbls": [
-        "191"
-      ], 
-      "housenumber": "191", 
-      "lat": 50.765954442453, 
-      "lon": 5.441244657925, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -924,11 +880,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "191B-193B"
+        "191"
       ], 
-      "housenumber": "191B", 
-      "lat": 50.765882443238, 
-      "lon": 5.441017327962, 
+      "housenumber": "191", 
+      "lat": 50.765935289813, 
+      "lon": 5.441137047367, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -947,18 +903,6 @@
       "street": "Koninksemstraat"
     }, 
     {
-      "hnrlbls": [
-        "191B-193B"
-      ], 
-      "housenumber": "193", 
-      "lat": 50.765882443238, 
-      "lon": 5.441017327962, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -966,9 +910,9 @@
         "4"
       ], 
       "hnrlbls": [
-        "191B-193B"
+        "193"
       ], 
-      "housenumber": "193B", 
+      "housenumber": "193", 
       "lat": 50.765882443238, 
       "lon": 5.441017327962, 
       "municipality": "Tongeren", 
@@ -1097,18 +1041,6 @@
       "street": "Koninksemstraat"
     }, 
     {
-      "hnrlbls": [
-        "206-206B"
-      ], 
-      "housenumber": "206", 
-      "lat": 50.764262381594, 
-      "lon": 5.438821840994, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -1116,9 +1048,9 @@
         "4"
       ], 
       "hnrlbls": [
-        "206-206B"
+        "206"
       ], 
-      "housenumber": "206B", 
+      "housenumber": "206", 
       "lat": 50.764262381594, 
       "lon": 5.438821840994, 
       "municipality": "Tongeren", 
@@ -1140,22 +1072,6 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "209"
-      ], 
-      "housenumber": "209", 
-      "lat": 50.765425694242, 
-      "lon": 5.439812708355, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
@@ -1163,9 +1079,9 @@
         "5"
       ], 
       "hnrlbls": [
-        "209B"
+        "209"
       ], 
-      "housenumber": "209B", 
+      "housenumber": "209", 
       "lat": 50.765331630637, 
       "lon": 5.439756130492, 
       "municipality": "Tongeren", 
@@ -1211,25 +1127,9 @@
     }, 
     {
       "hnrlbls": [
-        "215-215B"
+        "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.765212754759, 
-      "lon": 5.439512712397, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "215-215B"
-      ], 
-      "housenumber": "215B", 
       "lat": 50.765212754759, 
       "lon": 5.439512712397, 
       "municipality": "Tongeren", 
@@ -1314,11 +1214,11 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 50.765109139897, 
-      "lon": 5.438967122489, 
+      "lat": 50.765001851481, 
+      "lon": 5.439078517127, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninksemstraat"
     }, 
     {
@@ -1446,8 +1346,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.763291504388, 
-      "lon": 5.437028941537, 
+      "lat": 50.763221380696, 
+      "lon": 5.437166412629, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1470,8 +1370,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 50.763241229486, 
-      "lon": 5.437286789168, 
+      "lat": 50.763242793823, 
+      "lon": 5.437282855509, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1719,27 +1619,13 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "265-265B"
-      ], 
-      "housenumber": "265", 
-      "lat": 50.763220009194, 
-      "lon": 5.436203714432, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
-        "265-265B"
+        "265"
       ], 
-      "housenumber": "265B", 
+      "housenumber": "265", 
       "lat": 50.763220009194, 
       "lon": 5.436203714432, 
       "municipality": "Tongeren", 
@@ -1784,26 +1670,14 @@
       "street": "Koninksemstraat"
     }, 
     {
-      "hnrlbls": [
-        "272-272B"
-      ], 
-      "housenumber": "272", 
-      "lat": 50.761584580846, 
-      "lon": 5.435339641615, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "272-272B"
+        "272"
       ], 
-      "housenumber": "272B", 
+      "housenumber": "272", 
       "lat": 50.761584580846, 
       "lon": 5.435339641615, 
       "municipality": "Tongeren", 
@@ -2273,25 +2147,9 @@
         "2"
       ], 
       "hnrlbls": [
-        "54-54B"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.770574301069, 
-      "lon": 5.448749391266, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koninksemstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "54-54B"
-      ], 
-      "housenumber": "54B", 
       "lat": 50.770574301069, 
       "lon": 5.448749391266, 
       "municipality": "Tongeren", 
@@ -2572,8 +2430,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.768839390913, 
-      "lon": 5.446583251588, 
+      "lat": 50.768869952988, 
+      "lon": 5.44650583441, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

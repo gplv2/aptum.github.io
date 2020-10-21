@@ -890,8 +890,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0102", 
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
         "14-16"
@@ -930,8 +929,8 @@
         "162-164"
       ], 
       "housenumber": "162", 
-      "lat": 50.883965773094, 
-      "lon": 4.72701026297, 
+      "lat": 50.883980098691, 
+      "lon": 4.726999714369, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -954,8 +953,8 @@
         "162-164"
       ], 
       "housenumber": "164", 
-      "lat": 50.883965773094, 
-      "lon": 4.72701026297, 
+      "lat": 50.883980098691, 
+      "lon": 4.726999714369, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1254,9 +1253,21 @@
     }, 
     {
       "hnrlbls": [
-        "182"
+        "182-182C"
       ], 
       "housenumber": "182", 
+      "lat": 50.884281455302, 
+      "lon": 4.72778347259, 
+      "municipality": "Leuven", 
+      "pcode": "3010", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "182-182C"
+      ], 
+      "housenumber": "182C", 
       "lat": 50.884281455302, 
       "lon": 4.72778347259, 
       "municipality": "Leuven", 
@@ -3531,12 +3542,8 @@
       "street": "Diestsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "380"
+        "2-380"
       ], 
       "housenumber": "380", 
       "lat": 50.884917813973, 
@@ -4250,11 +4257,11 @@
         "458-460"
       ], 
       "housenumber": "458", 
-      "lat": 50.885302698173, 
-      "lon": 4.73971873469, 
+      "lat": 50.885661429885, 
+      "lon": 4.739419014916, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4282,11 +4289,11 @@
         "458-460"
       ], 
       "housenumber": "460", 
-      "lat": 50.885302698173, 
-      "lon": 4.73971873469, 
+      "lat": 50.885661429885, 
+      "lon": 4.739419014916, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4294,11 +4301,11 @@
         "461"
       ], 
       "housenumber": "461", 
-      "lat": 50.885532543599, 
-      "lon": 4.736931169151, 
+      "lat": 50.885570481132, 
+      "lon": 4.736930614419, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4372,11 +4379,11 @@
         "465"
       ], 
       "housenumber": "465", 
-      "lat": 50.885786361149, 
-      "lon": 4.736917387952, 
+      "lat": 50.885599105888, 
+      "lon": 4.737004311487, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4417,14 +4424,14 @@
     }, 
     {
       "hnrlbls": [
-        "469"
+        "469-471"
       ], 
       "housenumber": "469", 
-      "lat": 50.885736636279, 
-      "lon": 4.737293170858, 
+      "lat": 50.885772272801, 
+      "lon": 4.737281087156, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4459,7 +4466,7 @@
         "0001"
       ], 
       "hnrlbls": [
-        "471"
+        "469-471"
       ], 
       "housenumber": "471", 
       "lat": 50.885772272801, 
@@ -7234,7 +7241,7 @@
         "0201"
       ], 
       "hnrlbls": [
-        "743"
+        "1-743"
       ], 
       "housenumber": "743", 
       "lat": 50.888177331962, 
@@ -7626,6 +7633,10 @@
       "street": "Diestsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "800"
       ], 

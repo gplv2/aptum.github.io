@@ -2,26 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
-      "lat": 51.017248493455, 
-      "lon": 4.112919462677, 
+      "lat": 51.017240190213, 
+      "lon": 4.112945587464, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.017094523516, 
-      "lon": 4.112552623648, 
+      "lat": 51.017160599952, 
+      "lon": 4.112638482311, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -115,14 +115,26 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.017094523516, 
-      "lon": 4.112552623648, 
+      "lat": 51.017090113251, 
+      "lon": 4.112632881269, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heirbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 51.017041971351, 
+      "lon": 4.112485502823, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -198,25 +210,15 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
-        "117-121"
+        "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.013993062051, 
-      "lon": 4.115533000165, 
+      "lat": 51.014086630237, 
+      "lon": 4.11544528471, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -232,7 +234,7 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -242,14 +244,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "117-121"
+        "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.013993062051, 
-      "lon": 4.115533000165, 
+      "lat": 51.013965179017, 
+      "lon": 4.115525170427, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -268,21 +270,33 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
+      "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 51.013843633615, 
+      "lon": 4.114849801632, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heirbaan"
+    }, 
+    {
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "117-121"
+        "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.013993062051, 
-      "lon": 4.115533000165, 
+      "lat": 51.013850830274, 
+      "lon": 4.115605587451, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -370,10 +384,6 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -431,11 +441,11 @@
         "6"
       ], 
       "hnrlbls": [
-        "1-155"
+        "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.013105786028, 
-      "lon": 4.116264526768, 
+      "lat": 51.013166054211, 
+      "lon": 4.116115719029, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -514,7 +524,7 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -524,18 +534,17 @@
         "5", 
         "6", 
         "7", 
-        "8", 
-        "9"
+        "8"
       ], 
       "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.012424514821, 
-      "lon": 4.116060856592, 
+      "lat": 51.012607453118, 
+      "lon": 4.115981498968, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -631,11 +640,11 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.012080852821, 
-      "lon": 4.116267044037, 
+      "lat": 51.011959246596, 
+      "lon": 4.116022748612, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heirbaan"
     }, 
     {
@@ -667,8 +676,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.011624602563, 
-      "lon": 4.117084135445, 
+      "lat": 51.011610100216, 
+      "lon": 4.11711228448, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -717,6 +726,18 @@
       "housenumber": "199", 
       "lat": 51.011334248905, 
       "lon": 4.117376947322, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heirbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1-1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.017240190213, 
+      "lon": 4.112945587464, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1042,11 +1063,11 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 51.010576651556, 
-      "lon": 4.117252902436, 
+      "lat": 51.0105661271, 
+      "lon": 4.117291716309, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -1102,23 +1123,19 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.010421821522, 
-      "lon": 4.117277527355, 
+      "lat": 51.010495129502, 
+      "lon": 4.117426037625, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1126,11 +1143,23 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 51.010194152427, 
-      "lon": 4.117373786914, 
+      "lat": 51.010423503344, 
+      "lon": 4.117476292529, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heirbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "256"
+      ], 
+      "housenumber": "256", 
+      "lat": 51.01038432214, 
+      "lon": 4.117144072188, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -1398,7 +1427,7 @@
       "street": "Heirbaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -1406,11 +1435,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.016394058938, 
-      "lon": 4.113657609242, 
+      "lat": 51.01637896401, 
+      "lon": 4.113535988896, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }, 
     {
@@ -1430,8 +1459,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.016348048517, 
-      "lon": 4.113663987027, 
+      "lat": 51.016394058938, 
+      "lon": 4.113657609242, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1569,8 +1598,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.016205203897, 
-      "lon": 4.113244791639, 
+      "lat": 51.016200954573, 
+      "lon": 4.113275026466, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1835,8 +1864,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.015204882925, 
-      "lon": 4.114570827877, 
+      "lat": 51.015210314377, 
+      "lon": 4.114588469104, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2103,27 +2132,29 @@
       "street": "Heirbaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.014845045622, 
-      "lon": 4.114193857435, 
+      "lat": 51.014884237574, 
+      "lon": 4.114360374736, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Heirbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.014569720839, 
-      "lon": 4.115076018779, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heirbaan"
     }
   ]

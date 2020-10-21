@@ -13,6 +13,18 @@
       "street": "Kieleberg"
     }, 
     {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.906529500128, 
+      "lon": 5.5108653166, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kieleberg"
+    }, 
+    {
       "apptnrs": [
         "1"
       ], 
@@ -35,23 +47,11 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 50.907261863033, 
-      "lon": 5.510938885327, 
+      "lat": 50.907350412806, 
+      "lon": 5.510957962201, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kieleberg"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.906553944047, 
-      "lon": 5.510201025656, 
-      "municipality": "Bilzen", 
-      "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Kieleberg"
     }, 
     {
@@ -62,8 +62,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.907215937339, 
-      "lon": 5.510336716571, 
+      "lat": 50.907416728757, 
+      "lon": 5.510453224605, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -74,8 +74,8 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 50.907227304022, 
-      "lon": 5.510194088969, 
+      "lat": 50.907441157593, 
+      "lon": 5.510197016966, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -89,11 +89,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.907272687434, 
-      "lon": 5.509622722728, 
+      "lat": 50.907481224459, 
+      "lon": 5.509691639034, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -101,11 +101,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.907308885981, 
-      "lon": 5.509320873156, 
+      "lat": 50.907488707478, 
+      "lon": 5.509365770193, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -113,11 +113,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.907113866442, 
-      "lon": 5.508702712034, 
+      "lat": 50.907150885873, 
+      "lon": 5.508612323673, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -137,11 +137,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.90553251838, 
-      "lon": 5.505962290738, 
+      "lat": 50.905871894656, 
+      "lon": 5.506009903302, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -149,11 +149,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.906812187112, 
-      "lon": 5.507939489621, 
+      "lat": 50.907006794374, 
+      "lon": 5.508137596846, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -161,11 +161,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.90665114929, 
-      "lon": 5.506894453959, 
+      "lat": 50.907048232782, 
+      "lon": 5.506850480477, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -204,7 +204,7 @@
       "lon": 5.505243442039, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -216,7 +216,7 @@
       "lon": 5.505215310352, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -224,8 +224,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.908121247924, 
-      "lon": 5.504845244072, 
+      "lat": 50.908188825268, 
+      "lon": 5.505229103364, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanPerceel", 
@@ -314,14 +314,14 @@
     }, 
     {
       "hnrlbls": [
-        "4C-4M"
+        "4C"
       ], 
       "housenumber": "4C", 
-      "lat": 50.906887512231, 
-      "lon": 5.514930635417, 
+      "lat": 50.907392620792, 
+      "lon": 5.515498527214, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -449,14 +449,14 @@
     }, 
     {
       "hnrlbls": [
-        "4C-4M"
+        "4M"
       ], 
       "housenumber": "4M", 
-      "lat": 50.906887512231, 
-      "lon": 5.514930635417, 
+      "lat": 50.906631076539, 
+      "lon": 5.513708632885, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kieleberg"
     }, 
     {
@@ -476,8 +476,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.906585435681, 
-      "lon": 5.512147111088, 
+      "lat": 50.906555251648, 
+      "lon": 5.512144669168, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -488,8 +488,8 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.906601927165, 
-      "lon": 5.511958540663, 
+      "lat": 50.906569163476, 
+      "lon": 5.511907122204, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 

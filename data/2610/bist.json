@@ -282,6 +282,16 @@
       "street": "Bist"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -1019,8 +1029,7 @@
         "101", 
         "102", 
         "201", 
-        "202", 
-        "301"
+        "202"
       ], 
       "hnrlbls": [
         "22"
@@ -1055,6 +1064,7 @@
         "202", 
         "203", 
         "301", 
+        "302", 
         "401", 
         "402", 
         "403", 
@@ -1221,11 +1231,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.170291842853, 
-      "lon": 4.392552534298, 
+      "lat": 51.170177481308, 
+      "lon": 4.392682583612, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bist"
     }, 
     {
@@ -1250,8 +1260,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.170324575219, 
-      "lon": 4.392484923008, 
+      "lat": 51.170292651764, 
+      "lon": 4.392552820677, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1427,11 +1437,11 @@
         "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.170502003893, 
-      "lon": 4.393365047099, 
+      "lat": 51.170492395959, 
+      "lon": 4.393319145875, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bist"
     }, 
     {

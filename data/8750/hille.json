@@ -189,7 +189,7 @@
       "lon": 3.226051604093, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -262,7 +262,7 @@
       "lon": 3.225999614924, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -332,7 +332,7 @@
       "lon": 3.226385139325, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -517,7 +517,7 @@
       "lon": 3.225941906945, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hille"
     }, 
     {
@@ -703,10 +703,8 @@
     {
       "apptnrs": [
         "101", 
+        "102", 
         "201"
-      ], 
-      "busnrs": [
-        "102"
       ], 
       "hnrlbls": [
         "160B"
@@ -828,7 +826,7 @@
       "lon": 3.226525415003, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hille"
     }, 
     {
@@ -862,8 +860,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.044183269894, 
-      "lon": 3.226215710063, 
+      "lat": 51.044184577962, 
+      "lon": 3.226220812086, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanLot", 
@@ -1425,7 +1423,7 @@
       "lon": 3.228750679287, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -1483,30 +1481,6 @@
       "housenumber": "194B", 
       "lat": 51.038611090745, 
       "lon": 3.228817481886, 
-      "municipality": "Wingene", 
-      "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hille"
-    }, 
-    {
-      "hnrlbls": [
-        "196"
-      ], 
-      "housenumber": "196", 
-      "lat": 51.038448368677, 
-      "lon": 3.229049588919, 
-      "municipality": "Wingene", 
-      "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hille"
-    }, 
-    {
-      "hnrlbls": [
-        "198"
-      ], 
-      "housenumber": "198", 
-      "lat": 51.038092247869, 
-      "lon": 3.229149227036, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1957,7 +1931,7 @@
       "lon": 3.226078385466, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -1969,7 +1943,7 @@
       "lon": 3.226006429009, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -2296,7 +2270,7 @@
       "lon": 3.225832461918, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -2308,7 +2282,7 @@
       "lon": 3.226358331889, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -2320,7 +2294,7 @@
       "lon": 3.225786964392, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hille"
     }, 
     {
@@ -2516,9 +2490,7 @@
         "0101", 
         "0102", 
         "0201", 
-        "0301"
-      ], 
-      "busnrs": [
+        "0301", 
         "202"
       ], 
       "hnrlbls": [
@@ -2557,15 +2529,20 @@
       "street": "Hille"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.049028673603, 
-      "lon": 3.226230271229, 
+      "lat": 51.048985121226, 
+      "lon": 3.226179703982, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hille"
     }, 
     {
@@ -2627,18 +2604,6 @@
       "housenumber": "9", 
       "lat": 51.053072118928, 
       "lon": 3.226138455329, 
-      "municipality": "Wingene", 
-      "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hille"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.048716750448, 
-      "lon": 3.226363247322, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 

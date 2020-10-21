@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.174283852015, 
-      "lon": 4.58237823493, 
+      "lat": 51.17737142449, 
+      "lon": 4.582875609686, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Van den Nestlaan"
     }, 
     {
@@ -452,8 +452,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.176414563905, 
-      "lon": 4.578445592855, 
+      "lat": 51.176511519379, 
+      "lon": 4.578614480648, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -783,8 +783,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.174614878436, 
-      "lon": 4.572451288233, 
+      "lat": 51.174530117861, 
+      "lon": 4.572606062452, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -843,8 +843,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.174092377246, 
-      "lon": 4.558965208471, 
+      "lat": 51.174097135614, 
+      "lon": 4.558968659687, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1239,11 +1239,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.180284486936, 
-      "lon": 4.588894960753, 
+      "lat": 51.180270433082, 
+      "lon": 4.5889119123, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Van den Nestlaan"
     }, 
     {
@@ -1263,11 +1263,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.18023307973, 
-      "lon": 4.588746703491, 
+      "lat": 51.180218795362, 
+      "lon": 4.588790825619, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Van den Nestlaan"
     }, 
     {
@@ -1275,11 +1275,11 @@
         "47A"
       ], 
       "housenumber": "47A", 
-      "lat": 51.180251833876, 
-      "lon": 4.588763810216, 
+      "lat": 51.180220314319, 
+      "lon": 4.588795695098, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Van den Nestlaan"
     }, 
     {
@@ -1371,8 +1371,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.179951483561, 
-      "lon": 4.588063653541, 
+      "lat": 51.179902796709, 
+      "lon": 4.588095171735, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1407,7 +1407,7 @@
         "1A"
       ], 
       "hnrlbls": [
-        "56"
+        "56-56B"
       ], 
       "housenumber": "56", 
       "lat": 51.179406831388, 
@@ -1422,26 +1422,26 @@
         "1"
       ], 
       "hnrlbls": [
-        "56A-56B"
+        "56-56B"
       ], 
       "housenumber": "56A", 
-      "lat": 51.17922445053, 
-      "lon": 4.587697421084, 
+      "lat": 51.179406831388, 
+      "lon": 4.587550840043, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Van den Nestlaan"
     }, 
     {
       "hnrlbls": [
-        "56A-56B"
+        "56-56B"
       ], 
       "housenumber": "56B", 
-      "lat": 51.17922445053, 
-      "lon": 4.587697421084, 
+      "lat": 51.179406831388, 
+      "lon": 4.587550840043, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Van den Nestlaan"
     }, 
     {
@@ -1557,8 +1557,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.179084553474, 
-      "lon": 4.587183803143, 
+      "lat": 51.179092837476, 
+      "lon": 4.587175976752, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1729,8 +1729,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.179435332586, 
-      "lon": 4.586139359418, 
+      "lat": 51.179399696711, 
+      "lon": 4.586161644862, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1753,8 +1753,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.179415902903, 
-      "lon": 4.586049746756, 
+      "lat": 51.179389515162, 
+      "lon": 4.586077509693, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -2033,8 +2033,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.177592004751, 
-      "lon": 4.582924673138, 
+      "lat": 51.177513523329, 
+      "lon": 4.582980224964, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 

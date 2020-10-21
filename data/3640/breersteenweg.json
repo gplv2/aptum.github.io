@@ -41,8 +41,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.143133963763, 
-      "lon": 5.782335855662, 
+      "lat": 51.143126792145, 
+      "lon": 5.782311627861, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanPerceelGrb", 
@@ -53,8 +53,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.143547016631, 
-      "lon": 5.782099966519, 
+      "lat": 51.143538300096, 
+      "lon": 5.78212214129, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanPerceelGrb", 
@@ -274,8 +274,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.144592001919, 
-      "lon": 5.77405893524, 
+      "lat": 51.144701282465, 
+      "lon": 5.774507579297, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -1593,11 +1593,11 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 51.145722957303, 
-      "lon": 5.735982559242, 
+      "lat": 51.145827160138, 
+      "lon": 5.73605178675, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bree\u00ebrsteenweg"
     }, 
     {
@@ -1621,11 +1621,11 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 51.145817974411, 
-      "lon": 5.735735077453, 
+      "lat": 51.145813121122, 
+      "lon": 5.735758232401, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bree\u00ebrsteenweg"
     }, 
     {
@@ -1645,11 +1645,11 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 51.146038873791, 
-      "lon": 5.73589705216, 
+      "lat": 51.146033530734, 
+      "lon": 5.735884889742, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bree\u00ebrsteenweg"
     }, 
     {
@@ -1676,6 +1676,18 @@
       "housenumber": "321", 
       "lat": 51.145392350376, 
       "lon": 5.734837331205, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bree\u00ebrsteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "322"
+      ], 
+      "housenumber": "322", 
+      "lat": 51.145951095008, 
+      "lon": 5.734860116107, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2252,11 +2264,11 @@
         "375"
       ], 
       "housenumber": "375", 
-      "lat": 51.14549627482, 
-      "lon": 5.725747008254, 
+      "lat": 51.145516558506, 
+      "lon": 5.726054745178, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bree\u00ebrsteenweg"
     }, 
     {
@@ -2329,8 +2341,8 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 51.145576343855, 
-      "lon": 5.724334513559, 
+      "lat": 51.14557498265, 
+      "lon": 5.724335617432, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -3000,15 +3012,18 @@
       "street": "Bree\u00ebrsteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.14287177474, 
-      "lon": 5.785119279175, 
+      "lat": 51.142931355215, 
+      "lon": 5.785121372847, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bree\u00ebrsteenweg"
     }, 
     {

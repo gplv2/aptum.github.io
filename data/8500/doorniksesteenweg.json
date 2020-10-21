@@ -624,11 +624,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.805788354142, 
-      "lon": 3.284750965443, 
+      "lat": 50.806709988834, 
+      "lon": 3.286075548371, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -1296,11 +1296,11 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.8035765093, 
-      "lon": 3.283062039913, 
+      "lat": 50.80365577297, 
+      "lon": 3.283398308707, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -2083,8 +2083,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.811391028892, 
-      "lon": 3.276750067937, 
+      "lat": 50.811391545659, 
+      "lon": 3.276766942301, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -2259,15 +2259,18 @@
       "street": "Doorniksesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0013"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "3"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
       ], 
       "hnrlbls": [
         "81"
@@ -2305,6 +2308,7 @@
     {
       "busnrs": [
         "0007", 
+        "0009", 
         "0010", 
         "0012"
       ], 

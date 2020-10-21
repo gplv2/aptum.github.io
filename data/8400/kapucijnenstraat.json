@@ -5,10 +5,11 @@
         "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "1", 
-        "2", 
-        "8"
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "10"
@@ -35,8 +36,14 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "0302"
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "12"
@@ -54,8 +61,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.233836198444, 
-      "lon": 2.918311131238, 
+      "lat": 51.23383639748, 
+      "lon": 2.918312700245, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -94,9 +101,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
         "0201", 
-        "1", 
-        "A001"
+        "0202"
       ], 
       "hnrlbls": [
         "16"
@@ -110,15 +119,20 @@
       "street": "Kapucijnenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.233948882208, 
-      "lon": 2.918196932526, 
+      "lat": 51.233925682041, 
+      "lon": 2.918137796564, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapucijnenstraat"
     }, 
     {
@@ -168,8 +182,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.232625096556, 
-      "lon": 2.919282582598, 
+      "lat": 51.232622936257, 
+      "lon": 2.919282363354, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -353,9 +367,19 @@
         "0703", 
         "0704", 
         "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
         "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
         "1001", 
-        "1101"
+        "1002", 
+        "1003", 
+        "1004", 
+        "1101", 
+        "1102"
       ], 
       "hnrlbls": [
         "33"
@@ -397,9 +421,11 @@
         "0304", 
         "0401", 
         "0402", 
+        "0403", 
         "0404", 
         "0501", 
         "0502", 
+        "0503", 
         "0504", 
         "0601", 
         "0602", 
@@ -412,16 +438,17 @@
         "0804", 
         "0901", 
         "0902", 
+        "0903", 
         "0904", 
         "1001", 
-        "1004"
+        "1003"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.234915233519, 
-      "lon": 2.917105592937, 
+      "lat": 51.234909129936, 
+      "lon": 2.917099052398, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -643,11 +670,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-11"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.2328029181, 
-      "lon": 2.918988943777, 
+      "lat": 51.232833546616, 
+      "lon": 2.919082071812, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -669,29 +696,30 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.23338893631, 
-      "lon": 2.918845998891, 
+      "lat": 51.233388177033, 
+      "lon": 2.918842728935, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapucijnenstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0401"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.232909770533, 
-      "lon": 2.918802329699, 
+      "lat": 51.232952871183, 
+      "lon": 2.918864139481, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapucijnenstraat"
     }
   ]

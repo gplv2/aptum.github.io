@@ -82,30 +82,6 @@
       "street": "Kouter"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0301", 
-        "0302", 
-        "0303"
-      ], 
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.049841819011, 
-      "lon": 3.724103378148, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
       "hnrlbls": [
         "106-113"
       ], 
@@ -167,18 +143,6 @@
       "housenumber": "114", 
       "lat": 51.050084658828, 
       "lon": 3.722386223067, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "12-17"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.049822888664, 
-      "lon": 3.723896419083, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -281,27 +245,28 @@
       "street": "Kouter"
     }, 
     {
-      "hnrlbls": [
-        "12A"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401"
       ], 
-      "housenumber": "12A", 
-      "lat": 51.049441881622, 
-      "lon": 3.723971116106, 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.049841819011, 
+      "lon": 3.724103378148, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "12-17"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.049822888664, 
-      "lon": 3.723896419083, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Kouter"
     }, 
     {
@@ -402,14 +367,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-17"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.049822888664, 
-      "lon": 3.723896419083, 
+      "lat": 51.049704472067, 
+      "lon": 3.724170870681, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -426,14 +391,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-17"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.049822888664, 
-      "lon": 3.723896419083, 
+      "lat": 51.049706281261, 
+      "lon": 3.72423873034, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -539,7 +504,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-17"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.049822888664, 
@@ -682,15 +647,23 @@
       "street": "Kouter"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
+      ], 
       "hnrlbls": [
-        "12-17"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.049822888664, 
-      "lon": 3.723896419083, 
+      "lat": 51.049772523793, 
+      "lon": 3.723875434849, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -830,15 +803,29 @@
       "street": "Kouter"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "18-24A"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
+      "lat": 51.04945274059, 
+      "lon": 3.723852739795, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kouter"
     }, 
     {
@@ -927,14 +914,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-24A"
+        "19-20"
       ], 
       "housenumber": "19", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
+      "lat": 51.049448020688, 
+      "lon": 3.723762244987, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kouter"
     }, 
     {
@@ -951,23 +938,32 @@
     }, 
     {
       "hnrlbls": [
-        "18-24A"
+        "19-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
+      "lat": 51.049448020688, 
+      "lon": 3.723762244987, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "18-24A"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
+      "lat": 51.049765002429, 
+      "lon": 3.723798669006, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -975,11 +971,11 @@
     }, 
     {
       "hnrlbls": [
-        "18-24A"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
+      "lat": 51.049804280835, 
+      "lon": 3.723682752839, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -987,55 +983,7 @@
     }, 
     {
       "hnrlbls": [
-        "18-24A"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "18-24A"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "18-24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 51.049808842644, 
-      "lon": 3.723727898961, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "25-28"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.049795223501, 
-      "lon": 3.723522435802, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "25-28"
+        "26-28"
       ], 
       "housenumber": "26", 
       "lat": 51.049795223501, 
@@ -1047,7 +995,7 @@
     }, 
     {
       "hnrlbls": [
-        "25-28"
+        "26-28"
       ], 
       "housenumber": "27", 
       "lat": 51.049795223501, 
@@ -1059,7 +1007,7 @@
     }, 
     {
       "hnrlbls": [
-        "25-28"
+        "26-28"
       ], 
       "housenumber": "28", 
       "lat": 51.049795223501, 
@@ -1074,56 +1022,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.049779334458, 
-      "lon": 3.723280066786, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "31-79"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "31-79"
-      ], 
-      "housenumber": "31A", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "31-79"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kouter"
-    }, 
-    {
-      "hnrlbls": [
-        "31-79"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049752416856, 
+      "lon": 3.723075785452, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1131,182 +1031,230 @@
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.049728889355, 
+      "lon": 3.722686343741, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kouter"
+    }, 
+    {
+      "hnrlbls": [
+        "31A-97"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kouter"
+    }, 
+    {
+      "hnrlbls": [
+        "31A-97"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kouter"
+    }, 
+    {
+      "hnrlbls": [
+        "31A-97"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kouter"
+    }, 
+    {
+      "hnrlbls": [
+        "31A-97"
       ], 
       "housenumber": "34", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "35", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "36", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "37", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "38", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "39", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "40", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "41", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "42", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "43", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "44", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "45", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "46", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "47", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "48", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -1323,122 +1271,122 @@
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "50", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "51", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "52", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "53", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "54", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "55", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "56", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "57", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "58", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "59", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -1455,122 +1403,122 @@
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "60", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "61", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "62", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "63", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "64", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "65", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "66", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "67", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "68", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "69", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -1587,122 +1535,122 @@
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "70", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "71", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "72", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "73", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "74", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "75", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "76", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "77", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "78", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "31-79"
+        "31A-97"
       ], 
       "housenumber": "79", 
-      "lat": 51.049751145176, 
-      "lon": 3.723073378527, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -1786,122 +1734,122 @@
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "80", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "81", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "82", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "83", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "84", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "85", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "86", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "87", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "88", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "89", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
@@ -1928,98 +1876,98 @@
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "90", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "91", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "92", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "93", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "94", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "95", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "96", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {
       "hnrlbls": [
-        "80-97"
+        "31A-97"
       ], 
       "housenumber": "97", 
-      "lat": 51.049737408879, 
-      "lon": 3.722731862969, 
+      "lat": 51.049738301123, 
+      "lon": 3.7228455146, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kouter"
     }, 
     {

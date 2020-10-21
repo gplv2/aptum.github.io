@@ -62,8 +62,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.998119660817, 
-      "lon": 3.337272690712, 
+      "lat": 50.998119568439, 
+      "lon": 3.337272407812, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -86,8 +86,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.998107962725, 
-      "lon": 3.337476674351, 
+      "lat": 50.998107171251, 
+      "lon": 3.337478686283, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -110,8 +110,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.998083120175, 
-      "lon": 3.337688782579, 
+      "lat": 50.998082971594, 
+      "lon": 3.337692347493, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -242,11 +242,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.998657888842, 
-      "lon": 3.332961317617, 
+      "lat": 50.998653318629, 
+      "lon": 3.332962985733, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Felix D'Hoopstraat"
     }, 
     {
@@ -398,11 +398,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.998651555581, 
-      "lon": 3.333028274888, 
+      "lat": 50.998658882074, 
+      "lon": 3.333023126661, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Felix D'Hoopstraat"
     }, 
     {
@@ -653,8 +653,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.99852837129, 
-      "lon": 3.344153550524, 
+      "lat": 50.998533518174, 
+      "lon": 3.344135487196, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -677,11 +677,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.998013432536, 
-      "lon": 3.345260220855, 
+      "lat": 50.997951335367, 
+      "lon": 3.345273258618, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Felix D'Hoopstraat"
     }, 
     {
@@ -737,11 +737,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.99785964924, 
-      "lon": 3.345646951206, 
+      "lat": 50.997891263165, 
+      "lon": 3.345726184208, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Felix D'Hoopstraat"
     }, 
     {
@@ -913,6 +913,10 @@
       "street": "Felix D'Hoopstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "213"
       ], 
@@ -989,8 +993,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.998320801094, 
-      "lon": 3.333752616632, 
+      "lat": 50.99831736428, 
+      "lon": 3.333750270571, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1013,8 +1017,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.998366655465, 
-      "lon": 3.333824832271, 
+      "lat": 50.998373447707, 
+      "lon": 3.333820265862, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1093,15 +1097,19 @@
       "street": "Felix D'Hoopstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.998351165518, 
-      "lon": 3.333964934095, 
+      "lat": 50.998373969588, 
+      "lon": 3.333971696575, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Felix D'Hoopstraat"
     }, 
     {
@@ -1536,8 +1544,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.998166190279, 
-      "lon": 3.335494544563, 
+      "lat": 50.99816547372, 
+      "lon": 3.335494845288, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 

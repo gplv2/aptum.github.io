@@ -18,6 +18,7 @@
         "102", 
         "201", 
         "202", 
+        "301", 
         "302", 
         "401", 
         "402", 
@@ -25,7 +26,7 @@
         "502"
       ], 
       "hnrlbls": [
-        "98-102"
+        "98-100"
       ], 
       "housenumber": "100", 
       "lat": 51.231391112774, 
@@ -49,26 +50,37 @@
     }, 
     {
       "hnrlbls": [
-        "98-102"
+        "102-104"
       ], 
       "housenumber": "102", 
-      "lat": 51.231391112774, 
-      "lon": 4.412662099577, 
+      "lat": 51.231259336901, 
+      "lon": 4.412679725909, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Kempischdok-Westkaai"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601"
+      ], 
       "hnrlbls": [
-        "104"
+        "102-104"
       ], 
       "housenumber": "104", 
-      "lat": 51.231236777444, 
-      "lon": 4.412676268366, 
+      "lat": 51.231259336901, 
+      "lon": 4.412679725909, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kempischdok-Westkaai"
     }, 
     {
@@ -364,8 +376,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.231972948458, 
-      "lon": 4.412609541392, 
+      "lat": 51.231971956719, 
+      "lon": 4.412617557787, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -457,43 +469,7 @@
     }, 
     {
       "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.231539128917, 
-      "lon": 4.412720366388, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kempischdok-Westkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "94"
-      ], 
-      "housenumber": "94", 
-      "lat": 51.231523219975, 
-      "lon": 4.412719205823, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kempischdok-Westkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "96"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.231444232989, 
-      "lon": 4.412664584211, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kempischdok-Westkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "98-102"
+        "98-100"
       ], 
       "housenumber": "98", 
       "lat": 51.231391112774, 

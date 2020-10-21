@@ -746,13 +746,6 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -1108,8 +1101,10 @@
       "street": "Boekenberglei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "200"
@@ -1697,6 +1692,10 @@
       "street": "Boekenberglei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "247"
       ], 
@@ -2116,11 +2115,11 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 51.194021715237, 
-      "lon": 4.458056748537, 
+      "lat": 51.19398766163, 
+      "lon": 4.458157962488, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boekenberglei"
     }, 
     {
@@ -2197,14 +2196,14 @@
         "0502"
       ], 
       "hnrlbls": [
-        "29"
+        "29-31"
       ], 
       "housenumber": "29", 
-      "lat": 51.202288805778, 
-      "lon": 4.462955732482, 
+      "lat": 51.202255090497, 
+      "lon": 4.46296639457, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boekenberglei"
     }, 
     {
@@ -2221,11 +2220,11 @@
     }, 
     {
       "hnrlbls": [
-        "31"
+        "29-31"
       ], 
       "housenumber": "31", 
-      "lat": 51.202264533418, 
-      "lon": 4.462960118451, 
+      "lat": 51.202255090497, 
+      "lon": 4.46296639457, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2316,7 +2315,7 @@
         "501"
       ], 
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.202536151516, 
@@ -2344,18 +2343,6 @@
       "housenumber": "41", 
       "lat": 51.202104694588, 
       "lon": 4.462428841048, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boekenberglei"
-    }, 
-    {
-      "hnrlbls": [
-        "40-42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.202536151516, 
-      "lon": 4.461963713549, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

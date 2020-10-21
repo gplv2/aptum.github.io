@@ -142,6 +142,13 @@
       "street": "Venusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "18A"
       ], 
@@ -307,8 +314,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.223644713809, 
-      "lon": 4.408806766083, 
+      "lat": 51.223641391908, 
+      "lon": 4.408795741304, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -394,7 +401,6 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
         "101", 
         "102", 
         "201", 
@@ -403,9 +409,21 @@
         "302"
       ], 
       "hnrlbls": [
-        "33"
+        "33-33A"
       ], 
       "housenumber": "33", 
+      "lat": 51.222896182721, 
+      "lon": 4.409005790749, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Venusstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33-33A"
+      ], 
+      "housenumber": "33A", 
       "lat": 51.222896182721, 
       "lon": 4.409005790749, 
       "municipality": "Antwerpen", 
@@ -464,11 +482,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.223184885847, 
-      "lon": 4.408755979, 
+      "lat": 51.22318237048, 
+      "lon": 4.40875196889, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Venusstraat"
     }, 
     {
@@ -488,8 +506,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.222881234285, 
-      "lon": 4.408301104811, 
+      "lat": 51.222879626311, 
+      "lon": 4.408271903088, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +545,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.223002704787, 
-      "lon": 4.408717029241, 
+      "lat": 51.223002707002, 
+      "lon": 4.408710587976, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -585,11 +603,11 @@
         "302"
       ], 
       "hnrlbls": [
-        "44"
+        "44-46"
       ], 
       "housenumber": "44", 
-      "lat": 51.222855054161, 
-      "lon": 4.408634166251, 
+      "lat": 51.222855774901, 
+      "lon": 4.408629300158, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -621,7 +639,7 @@
     }, 
     {
       "hnrlbls": [
-        "46"
+        "44-46"
       ], 
       "housenumber": "46", 
       "lat": 51.222855774901, 
@@ -648,11 +666,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.224571093989, 
-      "lon": 4.409473195722, 
+      "lat": 51.224619121242, 
+      "lon": 4.40938935586, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Venusstraat"
     }, 
     {

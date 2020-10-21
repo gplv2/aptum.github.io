@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.834031200039, 
+      "lon": 4.192314510073, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -13,26 +25,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004", 
-        "005", 
-        "101", 
-        "102", 
-        "103", 
-        "104"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.83400509184, 
-      "lon": 4.192109056217, 
+      "lat": 50.834023609809, 
+      "lon": 4.19216860822, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -56,7 +57,7 @@
       "lon": 4.192030372367, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -73,7 +74,11 @@
     }, 
     {
       "apptnrs": [
-        "001"
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "7"

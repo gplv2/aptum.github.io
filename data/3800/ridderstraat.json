@@ -198,13 +198,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
-        "102", 
         "201"
       ], 
       "hnrlbls": [
-        "24-26"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 50.815733362569, 
@@ -236,18 +235,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Ridderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.815733362569, 
-      "lon": 5.188732364467, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
       "street": "Ridderstraat"
     }, 
     {
@@ -404,11 +391,10 @@
     }, 
     {
       "busnrs": [
+        "001", 
         "101", 
-        "2", 
         "201", 
-        "301", 
-        "401"
+        "301"
       ], 
       "hnrlbls": [
         "5"

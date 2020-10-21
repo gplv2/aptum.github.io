@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.211536464691, 
-      "lon": 4.398592579994, 
+      "lat": 51.211538346823, 
+      "lon": 4.398613617526, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -167,8 +167,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.211640579531, 
-      "lon": 4.398827625571, 
+      "lat": 51.211648134085, 
+      "lon": 4.398811173547, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -187,6 +187,9 @@
       "street": "Lambermontstraat"
     }, 
     {
+      "apptnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -221,8 +224,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.211193435421, 
-      "lon": 4.398011643359, 
+      "lat": 51.211125002301, 
+      "lon": 4.398134667825, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -257,22 +260,20 @@
         "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.211149212505, 
-      "lon": 4.398011185649, 
+      "lat": 51.211114951019, 
+      "lon": 4.39807269784, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lambermontstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "27"
@@ -290,8 +291,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.211048739536, 
-      "lon": 4.397941716373, 
+      "lat": 51.211017984438, 
+      "lon": 4.397999796274, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -382,7 +383,9 @@
     {
       "apptnrs": [
         "001", 
-        "201"
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "34"
@@ -424,19 +427,19 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.211627122006, 
-      "lon": 4.398731021255, 
+      "lat": 51.211618669811, 
+      "lon": 4.398742893356, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lambermontstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "5"
@@ -447,18 +450,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lambermontstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.21139908329, 
-      "lon": 4.399085052819, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lambermontstraat"
     }, 
     {
@@ -495,8 +486,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.211561719817, 
-      "lon": 4.39860161209, 
+      "lat": 51.211538334682, 
+      "lon": 4.398660555656, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

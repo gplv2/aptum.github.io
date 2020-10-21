@@ -9,7 +9,7 @@
       "lon": 5.691493286361, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -21,7 +21,7 @@
       "lon": 5.6923692363, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -33,7 +33,7 @@
       "lon": 5.6918900637, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -45,7 +45,7 @@
       "lon": 5.692505835881, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -57,7 +57,7 @@
       "lon": 5.691977923728, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -69,7 +69,7 @@
       "lon": 5.692542109332, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -81,7 +81,7 @@
       "lon": 5.692592248015, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -93,7 +93,7 @@
       "lon": 5.692099440443, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -105,15 +105,13 @@
       "lon": 5.692165930137, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
       "apptnrs": [
         "1", 
-        "2"
-      ], 
-      "busnrs": [
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -124,7 +122,7 @@
       "lon": 5.691821510169, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -160,7 +158,7 @@
       "lon": 5.692202866632, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -172,7 +170,19 @@
       "lon": 5.69277902014, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Talderstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.967132420915, 
+      "lon": 5.692809077049, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -184,11 +194,11 @@
       "lon": 5.692232519731, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -200,7 +210,7 @@
       "lon": 5.692826399913, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -212,16 +222,14 @@
       "lon": 5.692211341145, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
       "apptnrs": [
-        "3"
-      ], 
-      "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5"
       ], 
@@ -241,11 +249,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.967180277988, 
-      "lon": 5.692271945016, 
+      "lat": 50.96715264642, 
+      "lon": 5.69234648395, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -257,7 +265,7 @@
       "lon": 5.692948958227, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -265,11 +273,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.967310805455, 
-      "lon": 5.692361203045, 
+      "lat": 50.967286872661, 
+      "lon": 5.692386725123, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -281,7 +289,7 @@
       "lon": 5.692023765488, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -289,11 +297,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.966255519065, 
-      "lon": 5.691479973328, 
+      "lat": 50.966209020093, 
+      "lon": 5.691553409102, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -305,22 +313,19 @@
       "lon": 5.692918319391, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.967386652431, 
-      "lon": 5.69235622651, 
+      "lat": 50.967355579715, 
+      "lon": 5.692424973258, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -332,7 +337,7 @@
       "lon": 5.692474856506, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -344,7 +349,7 @@
       "lon": 5.692968366176, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -356,7 +361,7 @@
       "lon": 5.692402838352, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -380,7 +385,7 @@
       "lon": 5.69302284188, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -392,11 +397,11 @@
       "lon": 5.692571861342, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -411,7 +416,7 @@
       "lon": 5.69302781889, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -419,26 +424,26 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.967886610222, 
-      "lon": 5.692580649175, 
+      "lat": 50.967841813451, 
+      "lon": 5.692654561675, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.966268365597, 
-      "lon": 5.692159621654, 
+      "lat": 50.966301674125, 
+      "lon": 5.692107882473, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -450,7 +455,7 @@
       "lon": 5.693010298278, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -458,11 +463,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.968013356936, 
-      "lon": 5.692590495048, 
+      "lat": 50.967977520578, 
+      "lon": 5.692659107967, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -490,9 +495,6 @@
       "street": "Talderstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -501,7 +503,7 @@
       "lon": 5.692994334857, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -513,7 +515,7 @@
       "lon": 5.69302421722, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -537,7 +539,7 @@
       "lon": 5.693021891946, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -549,7 +551,7 @@
       "lon": 5.692999593993, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -561,7 +563,7 @@
       "lon": 5.692969608825, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -569,11 +571,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.966304623811, 
-      "lon": 5.691534466542, 
+      "lat": 50.966262686285, 
+      "lon": 5.691617997578, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -585,7 +587,7 @@
       "lon": 5.692928219016, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -597,7 +599,7 @@
       "lon": 5.692900899543, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -605,11 +607,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.969403390296, 
-      "lon": 5.692982036389, 
+      "lat": 50.96942371317, 
+      "lon": 5.692893903248, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -617,11 +619,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.966328998298, 
-      "lon": 5.692204332348, 
+      "lat": 50.966351707925, 
+      "lon": 5.692167670644, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -629,11 +631,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.966318287647, 
-      "lon": 5.691662423134, 
+      "lat": 50.966307112816, 
+      "lon": 5.691688732356, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -641,11 +643,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.966439188714, 
-      "lon": 5.692239337396, 
+      "lat": 50.966446814315, 
+      "lon": 5.692272726996, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }, 
     {
@@ -653,11 +655,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.966424973418, 
-      "lon": 5.691633399991, 
+      "lat": 50.966357575385, 
+      "lon": 5.691750383105, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Talderstraat"
     }
   ]

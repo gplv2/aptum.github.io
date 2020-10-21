@@ -104,11 +104,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.795481363797, 
-      "lon": 4.117705709934, 
+      "lat": 50.795482076599, 
+      "lon": 4.11770272751, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -164,7 +164,7 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "20-20B"
       ], 
       "housenumber": "20", 
       "lat": 50.79535330451, 
@@ -179,11 +179,11 @@
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 50.795292004755, 
-      "lon": 4.117730829956, 
+      "lat": 50.795291456591, 
+      "lon": 4.11772671954, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -230,18 +230,6 @@
     }, 
     {
       "hnrlbls": [
-        "24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 50.79501627919, 
-      "lon": 4.117178985764, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -257,7 +245,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "26"
+        "26-26B"
       ], 
       "housenumber": "26", 
       "lat": 50.795054080962, 
@@ -284,14 +272,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "26B"
+        "26-26B"
       ], 
       "housenumber": "26B", 
-      "lat": 50.795020589475, 
-      "lon": 4.116883088231, 
+      "lat": 50.795054080962, 
+      "lon": 4.116822486342, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -314,8 +302,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.794972302323, 
-      "lon": 4.116583925751, 
+      "lat": 50.794973469142, 
+      "lon": 4.116583068488, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
@@ -461,14 +449,26 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "33-33A"
       ], 
       "housenumber": "33", 
-      "lat": 50.795507242274, 
-      "lon": 4.116399512303, 
+      "lat": 50.795374384719, 
+      "lon": 4.116446036885, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33-33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.795374384719, 
+      "lon": 4.116446036885, 
+      "municipality": "Gooik", 
+      "pcode": "1755", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -640,8 +640,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.795375691268, 
-      "lon": 4.113555060942, 
+      "lat": 50.795392413348, 
+      "lon": 4.113514262605, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 

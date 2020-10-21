@@ -53,11 +53,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.026659287059, 
-      "lon": 4.059085819449, 
+      "lat": 51.026734201165, 
+      "lon": 4.058996379855, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -441,7 +441,7 @@
       "lon": 4.056411091501, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -449,8 +449,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.025411724702, 
-      "lon": 4.055522941867, 
+      "lat": 51.025413350658, 
+      "lon": 4.055525924281, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +473,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.025305217674, 
-      "lon": 4.055054423604, 
+      "lat": 51.025308435126, 
+      "lon": 4.055047417824, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -857,16 +857,12 @@
       "street": "Bevrijdingslaan"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
-        "165-165B"
+        "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.024108805711, 
-      "lon": 4.052006665092, 
+      "lat": 51.024015319115, 
+      "lon": 4.051772402845, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -874,7 +870,7 @@
     }, 
     {
       "hnrlbls": [
-        "165-165B"
+        "165A-165B"
       ], 
       "housenumber": "165A", 
       "lat": 51.024108805711, 
@@ -886,7 +882,7 @@
     }, 
     {
       "hnrlbls": [
-        "165-165B"
+        "165A-165B"
       ], 
       "housenumber": "165B", 
       "lat": 51.024108805711, 
@@ -913,11 +909,11 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.023901994838, 
-      "lon": 4.051749507961, 
+      "lat": 51.023808333088, 
+      "lon": 4.051550596295, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -933,19 +929,15 @@
       "street": "Bevrijdingslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.023806195666, 
-      "lon": 4.051558022388, 
+      "lat": 51.023753254665, 
+      "lon": 4.051359263707, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -1133,8 +1125,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.023520031448, 
-      "lon": 4.050874811012, 
+      "lat": 51.023540029566, 
+      "lon": 4.050857144263, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1685,8 +1677,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.028111331544, 
-      "lon": 4.063828962608, 
+      "lat": 51.028115901907, 
+      "lon": 4.063823516215, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2165,8 +2157,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.026674855197, 
-      "lon": 4.060327955616, 
+      "lat": 51.026674765308, 
+      "lon": 4.060327956207, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2357,8 +2349,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.026438018142, 
-      "lon": 4.059719300069, 
+      "lat": 51.026542990614, 
+      "lon": 4.059677272259, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 

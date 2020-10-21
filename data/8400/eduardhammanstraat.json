@@ -2,12 +2,10 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "0103", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -109,13 +107,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "0202", 
-        "1", 
-        "1L", 
-        "3", 
-        "5"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "18"
@@ -276,8 +272,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.229248012184, 
-      "lon": 2.943495930807, 
+      "lat": 51.229254522271, 
+      "lon": 2.943499025104, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -288,8 +284,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.229001617463, 
-      "lon": 2.943236565738, 
+      "lat": 51.228996565937, 
+      "lon": 2.94323514512, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -393,18 +389,17 @@
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "3"
+        "0302"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.22894221597, 
-      "lon": 2.943671226236, 
+      "lat": 51.228965460502, 
+      "lon": 2.943667938644, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eduard Hammanstraat"
     }, 
     {
@@ -432,12 +427,6 @@
       "street": "Eduard Hammanstraat"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "47"
       ], 

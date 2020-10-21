@@ -771,15 +771,21 @@
       "street": "Visspaanstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "70"
+        "70-137"
       ], 
       "housenumber": "70", 
-      "lat": 51.200156666115, 
-      "lon": 3.229024900089, 
+      "lat": 51.200145286956, 
+      "lon": 3.228963507902, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Visspaanstraat"
     }, 
     {

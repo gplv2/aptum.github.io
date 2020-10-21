@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-21"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.926980652526, 
-      "lon": 5.338447586649, 
+      "lat": 50.926987010964, 
+      "lon": 5.338515855132, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Toekomststraat"
     }, 
     {
@@ -478,6 +478,10 @@
       "street": "Toekomststraat"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "2.01"
+      ], 
       "hnrlbls": [
         "5"
       ], 

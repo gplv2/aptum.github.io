@@ -1,15 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "21", 
+        "22", 
+        "23"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.874296639612, 
-      "lon": 4.700138005366, 
+      "lat": 50.874289848309, 
+      "lon": 4.700123607469, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Parkstraat"
     }, 
     {
@@ -124,11 +134,11 @@
         "0402"
       ], 
       "hnrlbls": [
-        "106-108"
+        "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.871662752811, 
-      "lon": 4.704131736257, 
+      "lat": 50.871789858681, 
+      "lon": 4.704071128872, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -192,11 +202,11 @@
         "34"
       ], 
       "hnrlbls": [
-        "106-108"
+        "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.871662752811, 
-      "lon": 4.704131736257, 
+      "lat": 50.871599829728, 
+      "lon": 4.704161831227, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -500,12 +510,6 @@
       "street": "Parkstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -571,6 +575,7 @@
         "0101", 
         "0102", 
         "0103", 
+        "0104", 
         "0105", 
         "0106", 
         "0107", 
@@ -890,8 +895,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.871393088958, 
-      "lon": 4.705095595347, 
+      "lat": 50.871394251045, 
+      "lon": 4.705097876794, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3322,6 +3327,18 @@
       "street": "Parkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -3623,8 +3640,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.871949140979, 
-      "lon": 4.703855609588, 
+      "lat": 50.871950037882, 
+      "lon": 4.703856326353, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

@@ -1,18 +1,6 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.226208109874, 
-      "lon": 2.92384888894, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
       "busnrs": [
         "0101", 
         "0102", 
@@ -21,7 +9,6 @@
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
         "0501", 
         "0502", 
         "0601", 
@@ -43,11 +30,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.22604435639, 
-      "lon": 2.923985111005, 
+      "lat": 51.22602883021, 
+      "lon": 2.923935766841, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
@@ -142,9 +129,16 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
         "0201", 
         "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
         "0302", 
+        "0303", 
         "0304", 
         "0401", 
         "0402", 
@@ -192,30 +186,6 @@
     }, 
     {
       "hnrlbls": [
-        "19C"
-      ], 
-      "housenumber": "19C", 
-      "lat": 51.225650296965, 
-      "lon": 2.923718127583, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.226466800175, 
-      "lon": 2.92368337987, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -229,6 +199,7 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0103", 
         "0104", 
         "0105", 
@@ -236,61 +207,29 @@
         "0202", 
         "0203", 
         "0204", 
+        "0205", 
         "0301", 
         "0302", 
         "0303", 
+        "0304", 
         "0305", 
         "0401", 
+        "0402", 
         "0403", 
         "0404", 
+        "0405", 
         "0501", 
         "0502", 
         "0503", 
         "0504", 
-        "0505", 
-        "1", 
-        "2A", 
-        "304C", 
-        "3C", 
-        "3D", 
-        "4B"
+        "0505"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.225604604445, 
-      "lon": 2.923753046063, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "busnrs": [
-        "0502"
-      ], 
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 51.225577819258, 
-      "lon": 2.923768193349, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "busnrs": [
-        "0503"
-      ], 
-      "hnrlbls": [
-        "21B-23"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.225514707678, 
-      "lon": 2.923738650355, 
+      "lat": 51.225614789774, 
+      "lon": 2.923784658387, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -329,23 +268,20 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.22580720567, 
-      "lon": 2.924147658927, 
+      "lat": 51.225813228044, 
+      "lon": 2.924081325554, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "21B-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.225514707678, 
-      "lon": 2.923738650355, 
+      "lat": 51.225518872941, 
+      "lon": 2.923814689918, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -356,11 +292,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.225805615015, 
-      "lon": 2.924142553898, 
+      "lat": 51.225769584875, 
+      "lon": 2.924114748571, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
@@ -413,19 +349,28 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
         "0402", 
+        "0403", 
         "0501", 
         "0502", 
+        "0503", 
         "0601", 
         "0602", 
-        "0701"
+        "0603", 
+        "0701", 
+        "0702"
       ], 
       "hnrlbls": [
         "3"
@@ -481,15 +426,12 @@
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "36-38"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.225230760487, 
-      "lon": 2.924795475317, 
+      "lat": 51.225232812709, 
+      "lon": 2.924683736709, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -497,11 +439,11 @@
     }, 
     {
       "hnrlbls": [
-        "36-38"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.225230760487, 
-      "lon": 2.924795475317, 
+      "lat": 51.225176815466, 
+      "lon": 2.924699358265, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -512,8 +454,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.22639543133, 
-      "lon": 2.923728544201, 
+      "lat": 51.226304742172, 
+      "lon": 2.923781752156, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -566,17 +508,17 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.224891887128, 
-      "lon": 2.92502072474, 
+      "lat": 51.224865489261, 
+      "lon": 2.924905572523, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -672,18 +614,6 @@
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.226342035803, 
-      "lon": 2.923773151543, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0201"
@@ -766,18 +696,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.226273359002, 
-      "lon": 2.923302797143, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
@@ -873,18 +791,6 @@
     }, 
     {
       "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.226270666921, 
-      "lon": 2.923818315616, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf de Smet de Naeyerlaan"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -947,23 +853,22 @@
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.224955675109, 
-      "lon": 2.926565010826, 
+      "lat": 51.224906976, 
+      "lon": 2.926596725976, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Graaf de Smet de Naeyerlaan"
     }, 
     {
-      "busnrs": [
-        "0301", 
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1009,7 +914,8 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "94"

@@ -40,14 +40,11 @@
         "0002", 
         "0003", 
         "0004", 
-        "0005", 
         "0101", 
         "0102", 
         "0103", 
         "0104", 
         "0105", 
-        "0106", 
-        "0107", 
         "0201", 
         "0202", 
         "0203", 
@@ -59,8 +56,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.876090017526, 
-      "lon": 4.709238209549, 
+      "lat": 50.876090652563, 
+      "lon": 4.709236224989, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -283,6 +280,11 @@
       "street": "Maria-Theresiastraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "113-113A"
       ], 
@@ -365,13 +367,13 @@
       "street": "Maria-Theresiastraat"
     }, 
     {
-      "apptnrs": [
-        "bus 1", 
-        "bus 2", 
-        "bus 3", 
-        "bus 4", 
-        "bus 5", 
-        "bus 6"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "117"
@@ -868,8 +870,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.877796073824, 
-      "lon": 4.710834464449, 
+      "lat": 50.877810546657, 
+      "lon": 4.710834570053, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -919,8 +921,8 @@
         "2C-123"
       ], 
       "housenumber": "2C", 
-      "lat": 50.875728149608, 
-      "lon": 4.708601751145, 
+      "lat": 50.875753558951, 
+      "lon": 4.708643423468, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -977,11 +979,11 @@
         "0201"
       ], 
       "hnrlbls": [
-        "31"
+        "31-31A"
       ], 
       "housenumber": "31", 
-      "lat": 50.877850106515, 
-      "lon": 4.710955634371, 
+      "lat": 50.877850731202, 
+      "lon": 4.71095720191, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -989,7 +991,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A"
+        "31-31A"
       ], 
       "housenumber": "31A", 
       "lat": 50.877850731202, 
@@ -1034,14 +1036,20 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.877875617567, 
-      "lon": 4.711023739169, 
+      "lat": 50.877875970082, 
+      "lon": 4.711026157257, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
       "street": "Maria-Theresiastraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -1070,8 +1078,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.87793586107, 
-      "lon": 4.711019063777, 
+      "lat": 50.877913984382, 
+      "lon": 4.71106082038, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1094,8 +1102,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.877942710169, 
-      "lon": 4.711105504071, 
+      "lat": 50.877944607482, 
+      "lon": 4.711102249872, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1321,8 +1329,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.878203088214, 
-      "lon": 4.711429523707, 
+      "lat": 50.878211765366, 
+      "lon": 4.711413388859, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1364,6 +1372,13 @@
       "street": "Maria-Theresiastraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1432,8 +1447,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.87787159753, 
-      "lon": 4.711506954789, 
+      "lat": 50.877871952946, 
+      "lon": 4.711508378279, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1478,8 +1493,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.877905677305, 
-      "lon": 4.7115958676, 
+      "lat": 50.877906845502, 
+      "lon": 4.711596018232, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1502,8 +1517,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.878388653672, 
-      "lon": 4.71172927045, 
+      "lat": 50.878389822701, 
+      "lon": 4.711729136912, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1519,8 +1534,8 @@
         "6-6C"
       ], 
       "housenumber": "6", 
-      "lat": 50.876013253502, 
-      "lon": 4.709143166567, 
+      "lat": 50.87601343907, 
+      "lon": 4.709141178746, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1546,8 +1561,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.877989651069, 
-      "lon": 4.711622626151, 
+      "lat": 50.87799028365, 
+      "lon": 4.711621494061, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1653,8 +1668,8 @@
         "6-6C"
       ], 
       "housenumber": "6C", 
-      "lat": 50.876013253502, 
-      "lon": 4.709143166567, 
+      "lat": 50.87601343907, 
+      "lon": 4.709141178746, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1856,8 +1871,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.876054327646, 
-      "lon": 4.70917685442, 
+      "lat": 50.876051985048, 
+      "lon": 4.709178684496, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

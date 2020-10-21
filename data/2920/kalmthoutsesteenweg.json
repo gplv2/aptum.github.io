@@ -205,6 +205,9 @@
       "street": "Kalmthoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "318"
       ], 
@@ -713,54 +716,6 @@
     }, 
     {
       "hnrlbls": [
-        "371"
-      ], 
-      "housenumber": "371", 
-      "lat": 51.396937295554, 
-      "lon": 4.501726082263, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kalmthoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "371B"
-      ], 
-      "housenumber": "371B", 
-      "lat": 51.396978817206, 
-      "lon": 4.501647754876, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kalmthoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "373"
-      ], 
-      "housenumber": "373", 
-      "lat": 51.396930644548, 
-      "lon": 4.501566439697, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kalmthoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "375"
-      ], 
-      "housenumber": "375", 
-      "lat": 51.396807743266, 
-      "lon": 4.501521116139, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kalmthoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "376"
       ], 
       "housenumber": "376", 
@@ -776,11 +731,11 @@
         "378"
       ], 
       "housenumber": "378", 
-      "lat": 51.397258179327, 
-      "lon": 4.503293941259, 
+      "lat": 51.39726340562, 
+      "lon": 4.503282175004, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kalmthoutsesteenweg"
     }, 
     {
@@ -788,8 +743,8 @@
         "378A-378B"
       ], 
       "housenumber": "378A", 
-      "lat": 51.397286469063, 
-      "lon": 4.503155088396, 
+      "lat": 51.397268936166, 
+      "lon": 4.503161071813, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -800,8 +755,8 @@
         "378A-378B"
       ], 
       "housenumber": "378B", 
-      "lat": 51.397286469063, 
-      "lon": 4.503155088396, 
+      "lat": 51.397268936166, 
+      "lon": 4.503161071813, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -864,11 +819,11 @@
         "384"
       ], 
       "housenumber": "384", 
-      "lat": 51.397346086005, 
-      "lon": 4.502496934973, 
+      "lat": 51.397280709248, 
+      "lon": 4.502607951385, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kalmthoutsesteenweg"
     }, 
     {
@@ -888,11 +843,11 @@
         "386"
       ], 
       "housenumber": "386", 
-      "lat": 51.397281917119, 
-      "lon": 4.502414422584, 
+      "lat": 51.397274798007, 
+      "lon": 4.502351615352, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kalmthoutsesteenweg"
     }, 
     {

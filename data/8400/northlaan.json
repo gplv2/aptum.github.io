@@ -1,41 +1,41 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.219815722539, 
-      "lon": 2.88684319013, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Northlaan"
-    }, 
-    {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
+        "0104", 
+        "0201", 
         "0202", 
+        "0203", 
         "0204", 
         "0301", 
         "0302", 
         "0303", 
+        "0304", 
+        "0401", 
         "0402", 
+        "0403", 
         "0404", 
         "0501", 
+        "0502", 
         "0503", 
+        "0504", 
         "0601", 
+        "0602", 
         "0603", 
-        "0604"
+        "0604", 
+        "0701"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.217900204135, 
-      "lon": 2.888862363748, 
+      "lat": 51.217888146379, 
+      "lon": 2.888890231465, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -43,8 +43,9 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "13"
@@ -71,39 +72,66 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
         "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
         "0108", 
+        "0201", 
         "0202", 
+        "0203", 
+        "0204", 
         "0205", 
+        "0206", 
         "0207", 
+        "0208", 
+        "0301", 
         "0302", 
+        "0303", 
         "0304", 
         "0305", 
+        "0306", 
         "0307", 
+        "0308", 
         "0401", 
         "0402", 
+        "0403", 
         "0404", 
         "0405", 
+        "0406", 
         "0407", 
+        "0408", 
+        "0501", 
         "0502", 
+        "0503", 
+        "0504", 
         "0505", 
+        "0506", 
+        "0507", 
+        "0508", 
         "0601", 
         "0602", 
+        "0603", 
         "0604", 
+        "0605", 
+        "0606", 
         "0607", 
         "0608", 
         "0701", 
-        "6"
+        "0702", 
+        "0703"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.21747475424, 
-      "lon": 2.88934825849, 
+      "lat": 51.217513580747, 
+      "lon": 2.88933299834, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -116,30 +144,6 @@
       "housenumber": "16", 
       "lat": 51.216745632683, 
       "lon": 2.89114470457, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Northlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.217094235377, 
-      "lon": 2.889832719808, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Northlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.219701911359, 
-      "lon": 2.887001416135, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -170,8 +174,7 @@
         "0703", 
         "0801", 
         "0802", 
-        "0803", 
-        "115"
+        "0803"
       ], 
       "hnrlbls": [
         "2"
@@ -199,37 +202,36 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.21692887771, 
-      "lon": 2.889938309733, 
+      "lat": 51.216952122955, 
+      "lon": 2.88999268521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Northlaan"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0301", 
-        "0302", 
-        "1"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.216860160933, 
-      "lon": 2.890029240406, 
+      "lat": 51.216907065866, 
+      "lon": 2.890056097023, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Northlaan"
     }, 
     {
@@ -252,21 +254,24 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0201", 
         "0301", 
+        "0401", 
         "0501", 
-        "0701", 
-        "4"
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.219609622978, 
-      "lon": 2.886990318392, 
+      "lat": 51.219641239183, 
+      "lon": 2.887059747506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Northlaan"
     }, 
     {
@@ -283,21 +288,20 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.219558904192, 
-      "lon": 2.887053773461, 
+      "lat": 51.219592125636, 
+      "lon": 2.887114991588, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Northlaan"
     }, 
     {
@@ -338,41 +342,38 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
         "0104", 
         "0105", 
         "0106", 
-        "0107", 
         "0201", 
         "0202", 
         "0203", 
         "0204", 
         "0205", 
         "0206", 
-        "0207", 
         "0301", 
         "0302", 
         "0303", 
         "0304", 
         "0305", 
         "0306", 
-        "0307", 
         "0401", 
         "0402", 
         "0403", 
         "0404", 
         "0405", 
         "0406", 
-        "0407", 
         "0501", 
         "0502", 
         "0503", 
         "0504", 
         "0505", 
         "0506", 
-        "0507", 
         "0601", 
         "0602", 
         "0603", 
@@ -384,8 +385,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.21814878522, 
-      "lon": 2.888611117646, 
+      "lat": 51.218116357547, 
+      "lon": 2.888620449462, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

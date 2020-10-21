@@ -361,6 +361,16 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -412,6 +422,13 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -539,6 +556,38 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.076685319383, 
+      "lon": 4.714882221802, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 51.076621007151, 
+      "lon": 4.714804548117, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1025,14 +1074,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "63-65"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.0754216453, 
-      "lon": 4.710858863376, 
+      "lat": 51.0754061871, 
+      "lon": 4.710857893955, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1493,6 +1542,15 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "95"
       ], 

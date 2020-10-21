@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.98656162892, 
-      "lon": 5.540165232125, 
+      "lat": 50.986548420387, 
+      "lon": 5.540209626279, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -34,11 +34,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.992253415171, 
-      "lon": 5.547669683628, 
+      "lat": 50.992242398163, 
+      "lon": 5.547701458046, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maaseikerbaan"
     }, 
     {
@@ -74,11 +74,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.992789771738, 
-      "lon": 5.548584065473, 
+      "lat": 50.992789413024, 
+      "lon": 5.548619812389, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maaseikerbaan"
     }, 
     {
@@ -90,11 +90,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.992823969408, 
-      "lon": 5.54871498767, 
+      "lat": 50.992816827289, 
+      "lon": 5.548727913483, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maaseikerbaan"
     }, 
     {
@@ -222,11 +222,29 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.986204265302, 
-      "lon": 5.540616354942, 
+      "lat": 50.98620061093, 
+      "lon": 5.540631219048, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Maaseikerbaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "141"
+      ], 
+      "housenumber": "141", 
+      "lat": 50.993462586868, 
+      "lon": 5.550313481492, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maaseikerbaan"
     }, 
     {
@@ -270,8 +288,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.986293828493, 
-      "lon": 5.540785671007, 
+      "lat": 50.986283975209, 
+      "lon": 5.540800095133, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -318,8 +336,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.995278178075, 
-      "lon": 5.553573514287, 
+      "lat": 50.995440204697, 
+      "lon": 5.553589153417, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -498,8 +516,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.989197449534, 
-      "lon": 5.543673009095, 
+      "lat": 50.989179176303, 
+      "lon": 5.543711295122, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -587,6 +605,24 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Maaseikerbaan"
+    }, 
+    {
+      "apptnrs": [
+        "BUS 1", 
+        "BUS 11", 
+        "BUS 12", 
+        "BUS 2"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.990121156402, 
+      "lon": 5.544792161017, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maaseikerbaan"
     }, 
     {

@@ -96,7 +96,8 @@
         "102", 
         "201", 
         "202", 
-        "301"
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "17"
@@ -107,21 +108,6 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Pastoor Verwilghenplein"
-    }, 
-    {
-      "busnrs": [
-        "302"
-      ], 
-      "hnrlbls": [
-        "17b-20B"
-      ], 
-      "housenumber": "17b", 
-      "lat": 51.18175683025, 
-      "lon": 4.238684495387, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pastoor Verwilghenplein"
     }, 
     {
@@ -213,14 +199,14 @@
     }, 
     {
       "hnrlbls": [
-        "17b-20B"
+        "20B"
       ], 
       "housenumber": "20B", 
       "lat": 51.18175683025, 
       "lon": 4.238684495387, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Verwilghenplein"
     }, 
     {
@@ -293,6 +279,126 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.182570681577, 
+      "lon": 4.2409473179, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 51.182567202226, 
+      "lon": 4.240888118986, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 51.182553838568, 
+      "lon": 4.240831807336, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "28C"
+      ], 
+      "housenumber": "28C", 
+      "lat": 51.182542365705, 
+      "lon": 4.240778493884, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "28D"
+      ], 
+      "housenumber": "28D", 
+      "lat": 51.182527744683, 
+      "lon": 4.240723186833, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "28E"
+      ], 
+      "housenumber": "28E", 
+      "lat": 51.182515376314, 
+      "lon": 4.240673022218, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.182483376615, 
+      "lon": 4.240505924818, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.182468725339, 
+      "lon": 4.240422730053, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.18244751595, 
+      "lon": 4.240342842635, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "29C"
+      ], 
+      "housenumber": "29C", 
+      "lat": 51.182429270085, 
+      "lon": 4.240260515919, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -308,23 +414,89 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.182309306244, 
-      "lon": 4.239959083527, 
+      "lat": 51.182372213863, 
+      "lon": 4.240113795924, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoor Verwilghenplein"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.182359171252, 
+      "lon": 4.240022302208, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.182108941267, 
-      "lon": 4.239700921124, 
+      "lat": 51.182306538341, 
+      "lon": 4.239893304389, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.182215380731, 
+      "lon": 4.2397149298, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Pastoor Verwilghenplein"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "31B"
+      ], 
+      "housenumber": "31B", 
+      "lat": 51.182124371974, 
+      "lon": 4.239673706006, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Verwilghenplein"
     }, 
     {

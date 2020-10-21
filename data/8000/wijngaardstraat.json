@@ -187,9 +187,6 @@
       "street": "Wijngaardstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "24-26"
       ], 
@@ -221,7 +218,9 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "24-26"
@@ -268,8 +267,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.201695950945, 
-      "lon": 3.2249293996, 
+      "lat": 51.201709022648, 
+      "lon": 3.224914627066, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -336,11 +335,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.201698867843, 
-      "lon": 3.224859213595, 
+      "lat": 51.201681095736, 
+      "lon": 3.224964248548, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wijngaardstraat"
     }, 
     {
@@ -360,8 +359,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.201648144296, 
-      "lon": 3.224847578615, 
+      "lat": 51.201648554917, 
+      "lon": 3.224843562011, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

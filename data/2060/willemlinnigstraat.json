@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,10 +29,6 @@
       "street": "Willem Linnigstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -242,8 +242,8 @@
         "24-26"
       ], 
       "housenumber": "24", 
-      "lat": 51.219135465405, 
-      "lon": 4.424451231852, 
+      "lat": 51.219085553068, 
+      "lon": 4.42450727738, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -275,8 +275,8 @@
         "24-26"
       ], 
       "housenumber": "26", 
-      "lat": 51.219135465405, 
-      "lon": 4.424451231852, 
+      "lat": 51.219085553068, 
+      "lon": 4.42450727738, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -336,8 +336,10 @@
       "street": "Willem Linnigstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "32"

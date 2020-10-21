@@ -441,7 +441,7 @@
       "lon": 4.043824364187, 
       "municipality": "Denderleeuw", 
       "pcode": "9473", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {
@@ -575,7 +575,7 @@
       "lon": 4.043270234638, 
       "municipality": "Denderleeuw", 
       "pcode": "9473", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {
@@ -591,12 +591,35 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
       "lat": 50.895304630786, 
       "lon": 4.043173426019, 
+      "municipality": "Denderleeuw", 
+      "pcode": "9473", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "011"
+      ], 
+      "hnrlbls": [
+        "168A"
+      ], 
+      "housenumber": "168A", 
+      "lat": 50.895261151883, 
+      "lon": 4.043151837034, 
       "municipality": "Denderleeuw", 
       "pcode": "9473", 
       "source": "manueleAanduidingVanGebouw", 
@@ -930,6 +953,10 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 

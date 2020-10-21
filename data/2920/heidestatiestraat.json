@@ -78,15 +78,23 @@
       "street": "Heidestatiestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.366498348115, 
-      "lon": 4.465317924788, 
+      "lat": 51.366119335694, 
+      "lon": 4.46563975618, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heidestatiestraat"
     }, 
     {
@@ -486,8 +494,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.366093896037, 
-      "lon": 4.46242336677, 
+      "lat": 51.366038871732, 
+      "lon": 4.462446802151, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -703,8 +711,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.365741092194, 
-      "lon": 4.462122426963, 
+      "lat": 51.365741179795, 
+      "lon": 4.462125298719, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 

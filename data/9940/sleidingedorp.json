@@ -716,10 +716,11 @@
       "street": "Sleidinge-Dorp"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "15"
@@ -906,8 +907,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.131599767096, 
-      "lon": 3.678494147198, 
+      "lat": 51.131592320724, 
+      "lon": 3.678481256361, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
@@ -955,6 +956,18 @@
     }, 
     {
       "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.132551662146, 
+      "lon": 3.678885985478, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sleidinge-Dorp"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -974,7 +987,7 @@
       "lon": 3.679774116449, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sleidinge-Dorp"
     }, 
     {
@@ -1304,11 +1317,11 @@
     }, 
     {
       "hnrlbls": [
-        "56-56A"
+        "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.132424698157, 
-      "lon": 3.681253893275, 
+      "lat": 51.133142000604, 
+      "lon": 3.680385127326, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1316,11 +1329,11 @@
     }, 
     {
       "hnrlbls": [
-        "56-56A"
+        "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 51.132424698157, 
-      "lon": 3.681253893275, 
+      "lat": 51.133155780124, 
+      "lon": 3.680358779259, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1488,6 +1501,18 @@
         "60-62F"
       ], 
       "housenumber": "62D", 
+      "lat": 51.133394435313, 
+      "lon": 3.680080382549, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sleidinge-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "60-62F"
+      ], 
+      "housenumber": "62E", 
       "lat": 51.133394435313, 
       "lon": 3.680080382549, 
       "municipality": "Evergem", 
@@ -1997,11 +2022,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.135457636015, 
-      "lon": 3.679438196708, 
+      "lat": 51.135481946612, 
+      "lon": 3.679830322085, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sleidinge-Dorp"
     }, 
     {

@@ -378,8 +378,12 @@
       "street": "Wolvertemsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
-        "14-14B"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 50.93421429793, 
@@ -391,18 +395,18 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.936611445955, 
-      "lon": 4.362856541243, 
+      "lat": 50.936600568811, 
+      "lon": 4.362853839406, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -471,21 +475,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "14-14B"
-      ], 
-      "housenumber": "14B", 
-      "lat": 50.93421429793, 
-      "lon": 4.372713450586, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -812,10 +801,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
         "18"
@@ -920,7 +907,7 @@
     }, 
     {
       "hnrlbls": [
-        "192-192A"
+        "192"
       ], 
       "housenumber": "192", 
       "lat": 50.93719247416, 
@@ -928,18 +915,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "192-192A"
-      ], 
-      "housenumber": "192A", 
-      "lat": 50.93719247416, 
-      "lon": 4.360492849127, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -996,18 +971,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.933790704157, 
-      "lon": 4.373164505251, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "202"
       ], 
       "housenumber": "202", 
@@ -1049,6 +1012,7 @@
     }, 
     {
       "busnrs": [
+        "B001", 
         "B002", 
         "B003", 
         "B004"
@@ -1057,8 +1021,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.937349175032, 
-      "lon": 4.359446160385, 
+      "lat": 50.93735169255, 
+      "lon": 4.359453273308, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -1113,6 +1077,9 @@
       "street": "Wolvertemsesteenweg"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1628,18 +1595,6 @@
     }, 
     {
       "hnrlbls": [
-        "310"
-      ], 
-      "housenumber": "310", 
-      "lat": 50.939375584294, 
-      "lon": 4.351499224875, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "314"
       ], 
       "housenumber": "314", 
@@ -1861,11 +1816,11 @@
         "335"
       ], 
       "housenumber": "335", 
-      "lat": 50.939058462512, 
-      "lon": 4.349811269048, 
+      "lat": 50.939059900707, 
+      "lon": 4.349810699397, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -2094,26 +2049,14 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.933852733681, 
-      "lon": 4.373084136737, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.934707134243, 
-      "lon": 4.371428183172, 
+      "lat": 50.934927089796, 
+      "lon": 4.371829088628, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -2138,18 +2081,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wolvertemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 50.935186930412, 
-      "lon": 4.369593475652, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wolvertemsesteenweg"
     }, 
     {
@@ -2376,9 +2307,9 @@
     }, 
     {
       "busnrs": [
-        "201", 
+        "0201", 
         "B001", 
-        "B002"
+        "B003"
       ], 
       "hnrlbls": [
         "98"

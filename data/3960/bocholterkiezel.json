@@ -357,6 +357,21 @@
       "street": "Bocholterkiezel"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "0/4", 
+        "0/5", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "1/4", 
+        "1/5", 
+        "2/1", 
+        "2/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -1160,11 +1175,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.149843728939, 
-      "lon": 5.595180271857, 
+      "lat": 51.149814124739, 
+      "lon": 5.595182924321, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bocholterkiezel"
     }, 
     {
@@ -1355,6 +1370,18 @@
     }, 
     {
       "hnrlbls": [
+        "72A"
+      ], 
+      "housenumber": "72A", 
+      "lat": 51.151067986378, 
+      "lon": 5.595403267305, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bocholterkiezel"
+    }, 
+    {
+      "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
@@ -1436,15 +1463,23 @@
       "street": "Bocholterkiezel"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.144908036577, 
-      "lon": 5.594452463964, 
+      "lat": 51.144857621611, 
+      "lon": 5.594450711291, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bocholterkiezel"
     }, 
     {

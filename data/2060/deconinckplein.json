@@ -148,11 +148,11 @@
       "street": "De Coninckplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -178,9 +178,11 @@
       "street": "De Coninckplein"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "22"
@@ -254,8 +256,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.221636697629, 
-      "lon": 4.421077699955, 
+      "lat": 51.221600366462, 
+      "lon": 4.421118022709, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -266,11 +268,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.221584683219, 
-      "lon": 4.421214764079, 
+      "lat": 51.221551282704, 
+      "lon": 4.421133997956, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Coninckplein"
     }, 
     {
@@ -358,8 +360,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.221192222417, 
-      "lon": 4.420471738876, 
+      "lat": 51.221192402311, 
+      "lon": 4.420471452811, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -370,11 +372,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.221198550675, 
-      "lon": 4.420389587217, 
+      "lat": 51.22120304626, 
+      "lon": 4.42038644332, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Coninckplein"
     }, 
     {
@@ -394,9 +396,6 @@
       "street": "De Coninckplein"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "8"
       ], 

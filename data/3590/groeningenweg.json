@@ -181,6 +181,18 @@
       "street": "Groeningenweg"
     }, 
     {
+      "apptnrs": [
+        "0011"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -194,26 +206,14 @@
     }, 
     {
       "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.903979547344, 
-      "lon": 5.427506083464, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Groeningenweg"
-    }, 
-    {
-      "hnrlbls": [
         "18_1-18_10"
       ], 
       "housenumber": "18_1", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -221,11 +221,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_10", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -233,11 +233,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_2", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -245,11 +245,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_3", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -257,11 +257,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_4", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -269,11 +269,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_5", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -281,11 +281,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_6", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -293,11 +293,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_7", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -305,11 +305,11 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_8", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
       "street": "Groeningenweg"
     }, 
     {
@@ -317,11 +317,23 @@
         "18_1-18_10"
       ], 
       "housenumber": "18_9", 
-      "lat": 50.905071032835, 
-      "lon": 5.427867407915, 
+      "lat": 50.912714396691, 
+      "lon": 5.422301488925, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGemeente", 
+      "street": "Groeningenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.903844310807, 
+      "lon": 5.427369097467, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groeningenweg"
     }, 
     {

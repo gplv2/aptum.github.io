@@ -110,12 +110,44 @@
       "street": "Graethempoort"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.803431559751, 
+      "lon": 5.335985342768, 
+      "municipality": "Borgloon", 
+      "pcode": "3840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Graethempoort"
+    }, 
+    {
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.803562455867, 
       "lon": 5.339516331275, 
+      "municipality": "Borgloon", 
+      "pcode": "3840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Graethempoort"
+    }, 
+    {
+      "apptnrs": [
+        "0002", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.803287764673, 
+      "lon": 5.335598188752, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "manueleAanduidingVanGebouw", 
@@ -131,6 +163,26 @@
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Graethempoort"
+    }, 
+    {
+      "apptnrs": [
+        "0002", 
+        "0004", 
+        "0006", 
+        "0104", 
+        "0105", 
+        "0204"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.803040780841, 
+      "lon": 5.335164793304, 
+      "municipality": "Borgloon", 
+      "pcode": "3840", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Graethempoort"
     }, 
     {
@@ -306,6 +358,9 @@
       "street": "Graethempoort"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -319,6 +374,7 @@
     }, 
     {
       "apptnrs": [
+        "0002", 
         "0101", 
         "0102", 
         "0202"
@@ -377,6 +433,7 @@
         "0101", 
         "0102", 
         "0103", 
+        "0201", 
         "0202"
       ], 
       "hnrlbls": [
@@ -516,18 +573,23 @@
     {
       "apptnrs": [
         "001", 
+        "102", 
+        "106", 
+        "107", 
         "108", 
         "202", 
+        "203", 
         "205", 
         "206", 
+        "207", 
         "208"
       ], 
       "hnrlbls": [
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 50.803110945977, 
-      "lon": 5.33757496987, 
+      "lat": 50.803133453696, 
+      "lon": 5.337614590878, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "manueleAanduidingVanGebouw", 

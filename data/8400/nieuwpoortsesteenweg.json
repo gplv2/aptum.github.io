@@ -16,10 +16,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "10"
@@ -34,19 +31,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.222400164446, 
-      "lon": 2.904612249736, 
+      "lat": 51.222459592728, 
+      "lon": 2.904532645426, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -86,7 +83,6 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -101,8 +97,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.222473611246, 
-      "lon": 2.904031126212, 
+      "lat": 51.222473938337, 
+      "lon": 2.904072061267, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -110,17 +106,20 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.222352582168, 
-      "lon": 2.904443233749, 
+      "lat": 51.222395191838, 
+      "lon": 2.904399375982, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -140,29 +139,34 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.222123053841, 
-      "lon": 2.903926887364, 
+      "lat": 51.222166890801, 
+      "lon": 2.903873255602, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0203", 
         "0301", 
         "0302", 
         "0303", 
+        "0401", 
         "0402", 
         "0403", 
         "0501", 
@@ -194,57 +198,49 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.222074205839, 
-      "lon": 2.903837225805, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "003G", 
-        "0102", 
-        "0202", 
-        "C119", 
-        "D101", 
-        "E102", 
-        "E104", 
-        "E2", 
-        "E201", 
-        "E3", 
-        "E302", 
-        "E4", 
-        "F001", 
-        "F102", 
-        "G3"
-      ], 
-      "hnrlbls": [
-        "112-112C"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.220219987438, 
-      "lon": 2.898981681069, 
+      "lat": 51.222125024691, 
+      "lon": 2.903766624489, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0241", 
-        "0382"
-      ], 
       "hnrlbls": [
-        "112-112C"
+        "112A"
+      ], 
+      "housenumber": "112A", 
+      "lat": 51.220473767865, 
+      "lon": 2.899545177242, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwpoortsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "112B"
+      ], 
+      "housenumber": "112B", 
+      "lat": 51.220337277167, 
+      "lon": 2.899246838078, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwpoortsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "112C"
       ], 
       "housenumber": "112C", 
       "lat": 51.220219987438, 
@@ -256,20 +252,27 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
         "0101", 
         "0102", 
         "0103", 
+        "0104", 
         "0201", 
         "0202", 
         "0203", 
-        "0204"
+        "0204", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "112D"
       ], 
       "housenumber": "112D", 
-      "lat": 51.220101119422, 
-      "lon": 2.898097844474, 
+      "lat": 51.220070042654, 
+      "lon": 2.898049577821, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -281,11 +284,15 @@
         "0002", 
         "0003", 
         "0004", 
+        "0101", 
         "0102", 
+        "0103", 
         "0104", 
         "0201", 
         "0202", 
         "0203", 
+        "0204", 
+        "0301", 
         "0302"
       ], 
       "hnrlbls": [
@@ -301,6 +308,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
         "0101", 
         "0102", 
         "0103", 
@@ -310,8 +321,7 @@
         "0203", 
         "0204", 
         "0301", 
-        "0302", 
-        "2"
+        "0302"
       ], 
       "hnrlbls": [
         "112F"
@@ -326,15 +336,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
+        "0103", 
+        "0104", 
         "0201", 
+        "0202", 
+        "0203", 
         "0204", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3"
+        "0302"
       ], 
       "hnrlbls": [
         "112G"
@@ -349,14 +363,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
         "0103", 
+        "0104", 
         "0201", 
         "0202", 
+        "0203", 
         "0204", 
-        "0301", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "112H"
@@ -502,6 +521,9 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -515,6 +537,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0401"
@@ -532,12 +557,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
         "0401", 
-        "0501", 
-        "1"
+        "0501"
       ], 
       "hnrlbls": [
         "130"
@@ -552,19 +577,17 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0302", 
         "0401", 
         "0402", 
         "0501", 
-        "10", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0502"
       ], 
       "hnrlbls": [
         "132"
@@ -579,18 +602,18 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.221872459633, 
-      "lon": 2.903509990718, 
+      "lat": 51.221951223307, 
+      "lon": 2.903416464206, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -606,45 +629,53 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.221775065223, 
-      "lon": 2.903137389586, 
+      "lat": 51.221811928291, 
+      "lon": 2.903094141219, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0501"
+      ], 
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.216330535247, 
-      "lon": 2.890092838258, 
+      "lat": 51.216266197578, 
+      "lon": 2.890167309981, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
         "0001", 
-        "0101", 
-        "0201", 
-        "0301"
+        "0101"
       ], 
       "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.221741862744, 
-      "lon": 2.903077015825, 
+      "lat": 51.221781685486, 
+      "lon": 2.903025943612, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -665,16 +696,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "2", 
-        "4A"
+        "0402"
       ], 
       "hnrlbls": [
         "139"
@@ -701,6 +732,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -709,11 +741,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.216272259811, 
-      "lon": 2.889983460264, 
+      "lat": 51.216204147828, 
+      "lon": 2.890058051687, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -769,14 +801,11 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0201", 
+        "0202", 
         "0301", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41"
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "145"
@@ -875,49 +904,50 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0202"
       ], 
       "hnrlbls": [
-        "151-153"
+        "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.221414273278, 
-      "lon": 2.902432342206, 
+      "lat": 51.221494306193, 
+      "lon": 2.902375997123, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.216011110905, 
-      "lon": 2.889424020914, 
+      "lat": 51.215947848843, 
+      "lon": 2.889491015362, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "151-153"
+        "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.221414273278, 
-      "lon": 2.902432342206, 
+      "lat": 51.221455543945, 
+      "lon": 2.902295040499, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -942,18 +972,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "157"
-      ], 
-      "housenumber": "157", 
-      "lat": 51.221391738035, 
-      "lon": 2.902122961263, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -997,10 +1015,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "6", 
-        "7"
+        "0301"
       ], 
       "hnrlbls": [
         "160"
@@ -1015,9 +1032,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "161"
@@ -1034,8 +1051,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "162"
@@ -1074,20 +1090,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.221182237258, 
-      "lon": 2.901874005184, 
+      "lat": 51.221235874058, 
+      "lon": 2.901820493829, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1115,8 +1130,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.221143687813, 
-      "lon": 2.901831982738, 
+      "lat": 51.221143162814, 
+      "lon": 2.901833144541, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1136,13 +1151,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0201", 
         "0301", 
         "0401", 
-        "0501", 
-        "2", 
-        "4", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "170"
@@ -1160,8 +1174,8 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.22114418725, 
-      "lon": 2.901741775297, 
+      "lat": 51.22114492038, 
+      "lon": 2.901742897532, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1228,24 +1242,32 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.221056520224, 
-      "lon": 2.901610247311, 
+      "lat": 51.221116298439, 
+      "lon": 2.901544517056, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
         "0101", 
         "0102", 
+        "0103", 
+        "0201", 
         "0202", 
         "0203", 
+        "0301", 
         "0302", 
+        "0303", 
         "0401", 
         "0402", 
         "0403", 
@@ -1257,27 +1279,28 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.215614140656, 
-      "lon": 2.888564713368, 
+      "lat": 51.21557353285, 
+      "lon": 2.888624404972, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.22102187532, 
-      "lon": 2.901527874103, 
+      "lat": 51.221073243335, 
+      "lon": 2.901465414738, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1297,9 +1320,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0300", 
         "0301"
       ], 
       "hnrlbls": [
@@ -1339,20 +1362,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.22097826716, 
-      "lon": 2.90137520461, 
+      "lat": 51.22102270787, 
+      "lon": 2.901326849698, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1382,14 +1404,17 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0103", 
         "0201", 
+        "0202", 
         "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
+        "0402", 
         "0403", 
-        "0406", 
         "0501", 
         "0502"
       ], 
@@ -1397,8 +1422,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.215279397439, 
-      "lon": 2.88777172434, 
+      "lat": 51.215233933499, 
+      "lon": 2.887881527591, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1454,6 +1479,18 @@
     }, 
     {
       "hnrlbls": [
+        "193"
+      ], 
+      "housenumber": "193", 
+      "lat": 51.220838431068, 
+      "lon": 2.900908319117, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwpoortsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "194"
       ], 
       "housenumber": "194", 
@@ -1486,8 +1523,6 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -1499,10 +1534,8 @@
         "0303", 
         "0401", 
         "0402", 
-        "0403", 
         "0501", 
-        "0502", 
-        "0503"
+        "0502"
       ], 
       "hnrlbls": [
         "196"
@@ -1567,8 +1600,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.220634261527, 
-      "lon": 2.900784898013, 
+      "lat": 51.220666324253, 
+      "lon": 2.900746094698, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1599,11 +1632,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "7"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1660,26 +1688,17 @@
         "0302", 
         "0401", 
         "0402", 
-        "0501", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0501"
       ], 
       "hnrlbls": [
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.220638656617, 
-      "lon": 2.900610247688, 
+      "lat": 51.220678695346, 
+      "lon": 2.900562174108, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1700,29 +1719,20 @@
         "0302", 
         "0401", 
         "0402", 
-        "0501", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.220560417485, 
-      "lon": 2.900463394672, 
+      "lat": 51.220617509744, 
+      "lon": 2.900398607138, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -1736,7 +1746,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "206A"
@@ -1771,14 +1782,20 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.220508950481, 
-      "lon": 2.900394723409, 
+      "lat": 51.220545395211, 
+      "lon": 2.90035406406, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "20A"
       ], 
@@ -1791,9 +1808,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "20B"
       ], 
@@ -1809,19 +1823,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.214566009149, 
-      "lon": 2.886277927102, 
+      "lat": 51.214527592305, 
+      "lon": 2.886311497969, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1890,23 +1902,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.220262816531, 
-      "lon": 2.899816808788, 
+      "lat": 51.220308128844, 
+      "lon": 2.89975181922, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -1955,10 +1964,11 @@
     }, 
     {
       "busnrs": [
-        "001C", 
         "0101", 
+        "0102", 
         "0103", 
         "0201", 
+        "0202", 
         "0203", 
         "0301", 
         "0302", 
@@ -1967,11 +1977,7 @@
         "0402", 
         "0403", 
         "0501", 
-        "11", 
-        "1C", 
-        "3", 
-        "3A", 
-        "3C"
+        "0502"
       ], 
       "hnrlbls": [
         "224"
@@ -1986,24 +1992,20 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.220005636963, 
-      "lon": 2.899146052248, 
+      "lat": 51.220034916043, 
+      "lon": 2.899100321266, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -2034,17 +2036,18 @@
     {
       "busnrs": [
         "0101", 
-        "1"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 51.219928503937, 
-      "lon": 2.899073897171, 
+      "lat": 51.219986256784, 
+      "lon": 2.898982746899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -2171,6 +2174,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -2178,16 +2182,7 @@
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0402"
       ], 
       "hnrlbls": [
         "245"
@@ -2202,6 +2197,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0103", 
@@ -2213,9 +2211,12 @@
         "0301", 
         "0302", 
         "0303", 
+        "0304", 
         "0401", 
-        "0502", 
-        "2"
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "248"
@@ -2290,6 +2291,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -2298,48 +2300,49 @@
         "256"
       ], 
       "housenumber": "256", 
-      "lat": 51.213435376684, 
-      "lon": 2.883753681537, 
+      "lat": 51.213388354877, 
+      "lon": 2.883803559093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 51.213409709421, 
-      "lon": 2.883678492066, 
+      "lat": 51.213351359055, 
+      "lon": 2.883742614697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
+        "0301", 
         "0302", 
-        "1", 
-        "A"
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.224020411765, 
-      "lon": 2.90749508707, 
+      "lat": 51.224003328612, 
+      "lon": 2.907502208104, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2358,15 +2361,23 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
       "hnrlbls": [
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.219381247759, 
-      "lon": 2.897842388244, 
+      "lat": 51.219427334002, 
+      "lon": 2.897789112369, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -2383,9 +2394,9 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "2", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "267"
@@ -2427,8 +2438,8 @@
         "271"
       ], 
       "housenumber": "271", 
-      "lat": 51.219255358799, 
-      "lon": 2.897572787175, 
+      "lat": 51.219255538531, 
+      "lon": 2.897572781506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2454,19 +2465,18 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.219224007682, 
-      "lon": 2.897502484407, 
+      "lat": 51.219278776065, 
+      "lon": 2.897438913603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -2538,11 +2548,11 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
+        "0301", 
         "0302", 
         "0401", 
         "0402", 
@@ -2563,26 +2573,24 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.224026855477, 
-      "lon": 2.907361736979, 
+      "lat": 51.223969676686, 
+      "lon": 2.907427095997, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "280"
@@ -2597,12 +2605,15 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
-        "0401", 
-        "2"
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "282"
@@ -2674,7 +2685,7 @@
     {
       "busnrs": [
         "0101", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "288"
@@ -2709,19 +2720,18 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "0301", 
-        "1"
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 51.212766999392, 
-      "lon": 2.882233090691, 
+      "lat": 51.212711397935, 
+      "lon": 2.882301277638, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -2737,6 +2747,9 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4-294"
       ], 
@@ -2822,15 +2835,15 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.223964547099, 
-      "lon": 2.907339350377, 
+      "lat": 51.223944980137, 
+      "lon": 2.907363729669, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2958,18 +2971,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
         "0301", 
+        "0401", 
         "0501", 
-        "1", 
-        "2", 
-        "4"
+        "0601"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.223603545752, 
-      "lon": 2.90728451759, 
+      "lat": 51.223662602826, 
+      "lon": 2.907218384206, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3030,36 +3044,28 @@
     }, 
     {
       "busnrs": [
-        "002A", 
-        "002B", 
-        "002C", 
-        "004A", 
-        "005A", 
-        "005C", 
+        "0001", 
         "0101", 
         "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
         "0301", 
-        "1", 
-        "1B", 
-        "1C", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "3", 
-        "3B", 
-        "4", 
-        "4A", 
-        "4C", 
-        "5A", 
-        "5C", 
-        "B"
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 51.212143450503, 
-      "lon": 2.880954441861, 
+      "lat": 51.212105713641, 
+      "lon": 2.880941904411, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3130,8 +3136,8 @@
         "32-34"
       ], 
       "housenumber": "32", 
-      "lat": 51.224193588519, 
-      "lon": 2.906784259703, 
+      "lat": 51.224069993309, 
+      "lon": 2.907040399824, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3139,12 +3145,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0202"
       ], 
       "hnrlbls": [
         "320"
@@ -3172,19 +3178,19 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
-        "0202", 
-        "1"
+        "0202"
       ], 
       "hnrlbls": [
         "322"
       ], 
       "housenumber": "322", 
-      "lat": 51.212004038062, 
-      "lon": 2.880399232995, 
+      "lat": 51.211913689084, 
+      "lon": 2.880506603171, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3236,39 +3242,22 @@
     }, 
     {
       "busnrs": [
-        "006A", 
-        "008A", 
-        "00A5", 
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
-        "011A", 
-        "012A", 
+        "0201", 
         "0202", 
+        "0203", 
         "0301", 
+        "0302", 
+        "0303", 
         "0401", 
         "0402", 
         "0403", 
-        "1", 
-        "10A", 
-        "11A", 
-        "12A", 
-        "1A", 
-        "1S", 
-        "2A", 
-        "2S", 
-        "3", 
-        "3A", 
-        "3S", 
-        "4A", 
-        "4S", 
-        "6A", 
-        "7", 
-        "7A", 
-        "8A", 
-        "9", 
-        "9A", 
-        "A"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "326"
@@ -3282,11 +3271,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
-      ], 
       "hnrlbls": [
         "326A"
       ], 
@@ -3324,20 +3308,20 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.223591112126, 
-      "lon": 2.907194997187, 
+      "lat": 51.223632269018, 
+      "lon": 2.907149897806, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3357,12 +3341,7 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0401"
       ], 
       "hnrlbls": [
         "338"
@@ -3380,8 +3359,8 @@
         "32-34"
       ], 
       "housenumber": "34", 
-      "lat": 51.224193588519, 
-      "lon": 2.906784259703, 
+      "lat": 51.224069993309, 
+      "lon": 2.907040399824, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3389,17 +3368,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "340"
       ], 
       "housenumber": "340", 
-      "lat": 51.211669940719, 
-      "lon": 2.879854820899, 
+      "lat": 51.211640332539, 
+      "lon": 2.879888113913, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3451,26 +3431,27 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "3", 
-        "4", 
-        "5"
+        "0202"
       ], 
       "hnrlbls": [
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.211527733353, 
-      "lon": 2.879456440463, 
+      "lat": 51.211463878173, 
+      "lon": 2.879518737725, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -3504,23 +3485,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "13", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "354"
       ], 
       "housenumber": "354", 
-      "lat": 51.211411789742, 
-      "lon": 2.8792375707, 
+      "lat": 51.211365409917, 
+      "lon": 2.87929544562, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3594,40 +3572,37 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "0201", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 51.217574253739, 
-      "lon": 2.893823722324, 
+      "lat": 51.217632899981, 
+      "lon": 2.893746856876, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.217562823647, 
-      "lon": 2.893692957602, 
+      "lat": 51.217594060378, 
+      "lon": 2.893660190351, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3713,17 +3688,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
         "0201", 
-        "0302", 
-        "6"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "374"
       ], 
       "housenumber": "374", 
-      "lat": 51.211063327491, 
-      "lon": 2.878538191734, 
+      "lat": 51.211030925765, 
+      "lon": 2.878549532167, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3746,18 +3723,14 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "376"
       ], 
       "housenumber": "376", 
-      "lat": 51.210999382165, 
-      "lon": 2.878357885082, 
+      "lat": 51.210962776243, 
+      "lon": 2.878406574024, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3806,46 +3779,46 @@
         "0503"
       ], 
       "hnrlbls": [
-        "38-40"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.223860933659, 
-      "lon": 2.906957184286, 
+      "lat": 51.223828695216, 
+      "lon": 2.907091055998, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "3"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "381"
       ], 
       "housenumber": "381", 
-      "lat": 51.217353284962, 
-      "lon": 2.893298333599, 
+      "lat": 51.217397886131, 
+      "lon": 2.893227065521, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "383"
       ], 
       "housenumber": "383", 
-      "lat": 51.217320804684, 
-      "lon": 2.893224207157, 
+      "lat": 51.217370615666, 
+      "lon": 2.893159788616, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3886,8 +3859,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
         "0101", 
         "0201", 
         "0301"
@@ -3896,8 +3867,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.223454752148, 
-      "lon": 2.906825600679, 
+      "lat": 51.223478607826, 
+      "lon": 2.906799082629, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3965,19 +3936,19 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "395"
       ], 
       "housenumber": "395", 
-      "lat": 51.217109169353, 
-      "lon": 2.892755359037, 
+      "lat": 51.217158437315, 
+      "lon": 2.892690671164, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -3994,17 +3965,18 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "397"
       ], 
       "housenumber": "397", 
-      "lat": 51.217039628301, 
-      "lon": 2.892744389674, 
+      "lat": 51.217119639226, 
+      "lon": 2.892614598123, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4021,20 +3993,21 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
         "0301", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "399"
       ], 
       "housenumber": "399", 
-      "lat": 51.217047321628, 
-      "lon": 2.892554044037, 
+      "lat": 51.21707432954, 
+      "lon": 2.892513823287, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4068,11 +4041,11 @@
         "0601"
       ], 
       "hnrlbls": [
-        "38-40"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.223860933659, 
-      "lon": 2.906957184286, 
+      "lat": 51.223854787706, 
+      "lon": 2.906961815165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4104,14 +4077,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "1", 
-        "10", 
-        "3", 
-        "6", 
-        "7", 
-        "8"
+        "0402"
       ], 
       "hnrlbls": [
         "403"
@@ -4141,19 +4116,17 @@
         "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 51.210442065697, 
-      "lon": 2.877187570431, 
+      "lat": 51.210429844634, 
+      "lon": 2.877202274099, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4196,9 +4169,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "41"
@@ -4247,8 +4218,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "413"
@@ -4263,21 +4233,21 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
         "0302", 
         "0401", 
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0402"
       ], 
       "hnrlbls": [
-        "414-416"
+        "414"
       ], 
       "housenumber": "414", 
-      "lat": 51.210168996449, 
-      "lon": 2.876336812406, 
+      "lat": 51.210084633799, 
+      "lon": 2.876433832738, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4296,23 +4266,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "6", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "414-416"
-      ], 
-      "housenumber": "416", 
-      "lat": 51.210168996449, 
-      "lon": 2.876336812406, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4342,21 +4295,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
         "0601", 
-        "1", 
-        "10", 
-        "12", 
-        "13", 
-        "2", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+        "0602"
       ], 
       "hnrlbls": [
         "421"
@@ -4371,11 +4322,18 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
         "0303", 
+        "0401", 
         "0402", 
+        "0403", 
         "0501", 
         "0502"
       ], 
@@ -4391,17 +4349,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0102", 
-        "0103", 
-        "0201", 
-        "0302", 
-        "0401", 
-        "0402", 
-        "0403", 
-        "0501", 
-        "0502"
-      ], 
       "hnrlbls": [
         "427"
       ], 
@@ -4415,18 +4362,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.223342343226, 
-      "lon": 2.906750238402, 
+      "lat": 51.223413923645, 
+      "lon": 2.906657226007, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4443,38 +4391,45 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "433"
       ], 
       "housenumber": "433", 
-      "lat": 51.216543957231, 
-      "lon": 2.891509677869, 
+      "lat": 51.216606775456, 
+      "lon": 2.891457443633, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
-        "0006", 
         "0101", 
+        "0102", 
         "0103", 
         "0104", 
         "0105", 
+        "0106", 
         "0201", 
         "0202", 
+        "0203", 
         "0204", 
         "0205", 
         "0206", 
+        "0301", 
         "0302", 
+        "0303", 
         "0304", 
+        "0305", 
         "0306", 
         "0401", 
         "0402", 
-        "0403"
+        "0403", 
+        "0404", 
+        "0405"
       ], 
       "hnrlbls": [
         "435"
@@ -4489,9 +4444,7 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
-        "0102", 
         "0201", 
         "0202", 
         "0301", 
@@ -4514,6 +4467,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -4537,11 +4492,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
         "0301", 
         "0401", 
-        "0501", 
-        "1"
+        "0501"
       ], 
       "hnrlbls": [
         "449"
@@ -4557,14 +4513,15 @@
     {
       "busnrs": [
         "0001", 
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.223326639692, 
-      "lon": 2.906643497805, 
+      "lat": 51.223379032505, 
+      "lon": 2.90658372914, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4581,7 +4538,7 @@
         "0302", 
         "0401", 
         "0402", 
-        "2"
+        "0501"
       ], 
       "hnrlbls": [
         "451"
@@ -4620,6 +4577,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -4627,9 +4585,7 @@
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1", 
-        "21"
+        "0402"
       ], 
       "hnrlbls": [
         "457"
@@ -4690,6 +4646,8 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
@@ -4699,19 +4657,21 @@
         "0301", 
         "0302", 
         "0303", 
+        "0401", 
         "0402", 
         "0403", 
-        "2"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "461"
       ], 
       "housenumber": "461", 
-      "lat": 51.215947796011, 
-      "lon": 2.890148200263, 
+      "lat": 51.215991462778, 
+      "lon": 2.890103013472, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4785,8 +4745,8 @@
         "469"
       ], 
       "housenumber": "469", 
-      "lat": 51.215793327095, 
-      "lon": 2.889959849929, 
+      "lat": 51.215799944993, 
+      "lon": 2.88995706352, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -4813,21 +4773,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "5"
+        "0301"
       ], 
       "hnrlbls": [
         "471"
       ], 
       "housenumber": "471", 
-      "lat": 51.215765796115, 
-      "lon": 2.889857514819, 
+      "lat": 51.215845868145, 
+      "lon": 2.889768802633, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4846,17 +4802,18 @@
         "0401", 
         "0402", 
         "0403", 
-        "0501"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "473"
       ], 
       "housenumber": "473", 
-      "lat": 51.215749301273, 
-      "lon": 2.889710311716, 
+      "lat": 51.215790049598, 
+      "lon": 2.889654624469, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -4970,9 +4927,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2"
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "485"
@@ -4998,6 +4962,16 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
+      ], 
       "hnrlbls": [
         "487"
       ], 
@@ -5011,14 +4985,14 @@
     }, 
     {
       "hnrlbls": [
-        "488-490"
+        "488"
       ], 
       "housenumber": "488", 
-      "lat": 51.209488769584, 
-      "lon": 2.874960653075, 
+      "lat": 51.20945602092, 
+      "lon": 2.875044142553, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5050,7 +5024,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "488-490"
+        "490"
       ], 
       "housenumber": "490", 
       "lat": 51.209488769584, 
@@ -5085,9 +5059,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "493"
       ], 
@@ -5125,8 +5096,7 @@
         "0401", 
         "0402", 
         "0403", 
-        "0501", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "495"
@@ -5164,11 +5134,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "499"
       ], 
@@ -5213,9 +5178,8 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0004", 
-        "000O", 
+        "0101", 
+        "0201", 
         "0301", 
         "0401"
       ], 
@@ -5223,8 +5187,8 @@
         "502"
       ], 
       "housenumber": "502", 
-      "lat": 51.209269815463, 
-      "lon": 2.874580221178, 
+      "lat": 51.209256260667, 
+      "lon": 2.87458895659, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5235,30 +5199,27 @@
         "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "504"
       ], 
       "housenumber": "504", 
-      "lat": 51.209324019155, 
-      "lon": 2.874408880658, 
+      "lat": 51.209222273903, 
+      "lon": 2.874524636481, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "505"
@@ -5285,18 +5246,17 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "30"
+        "0101"
       ], 
       "hnrlbls": [
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 51.215088538288, 
-      "lon": 2.88825301966, 
+      "lat": 51.215141804814, 
+      "lon": 2.888184767403, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5340,26 +5300,17 @@
     }, 
     {
       "busnrs": [
-        "001A", 
-        "001C", 
-        "002C", 
-        "003B", 
-        "003C", 
+        "0001", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
+        "0202", 
+        "0203", 
         "0301", 
-        "1", 
-        "1A", 
-        "1C", 
-        "2", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "A"
+        "0302", 
+        "0303", 
+        "0401"
       ], 
       "hnrlbls": [
         "510"
@@ -5374,19 +5325,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "511"
       ], 
       "housenumber": "511", 
-      "lat": 51.215019748257, 
-      "lon": 2.888108194743, 
+      "lat": 51.215074177295, 
+      "lon": 2.888046633258, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5429,10 +5381,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "1"
-      ], 
       "hnrlbls": [
         "517"
       ], 
@@ -5445,6 +5393,9 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "519"
       ], 
@@ -5494,26 +5445,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0302"
       ], 
       "hnrlbls": [
         "527"
       ], 
       "housenumber": "527", 
-      "lat": 51.214676358612, 
-      "lon": 2.887314205299, 
+      "lat": 51.214683444264, 
+      "lon": 2.887190877988, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5526,18 +5474,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "529"
-      ], 
-      "housenumber": "529", 
-      "lat": 51.214615846941, 
-      "lon": 2.887191593388, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5574,16 +5510,15 @@
     }, 
     {
       "busnrs": [
-        "0002", 
-        "0301", 
-        "1"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "531"
       ], 
       "housenumber": "531", 
-      "lat": 51.214494617165, 
-      "lon": 2.887202600587, 
+      "lat": 51.214626229528, 
+      "lon": 2.887044399921, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5650,33 +5585,37 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "539"
       ], 
       "housenumber": "539", 
-      "lat": 51.214396992738, 
-      "lon": 2.886901955087, 
+      "lat": 51.214503309772, 
+      "lon": 2.886784207728, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.223612414358, 
-      "lon": 2.906481778203, 
+      "lat": 51.223569095978, 
+      "lon": 2.906533818025, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5792,8 +5731,8 @@
         "549"
       ], 
       "housenumber": "549", 
-      "lat": 51.214242380036, 
-      "lon": 2.88653040585, 
+      "lat": 51.21433279974, 
+      "lon": 2.886399564757, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5801,20 +5740,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
-        "0401"
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.223129062299, 
-      "lon": 2.906260132865, 
+      "lat": 51.223172388277, 
+      "lon": 2.906186904242, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5855,21 +5796,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "1A", 
-        "2", 
-        "2A", 
-        "A"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "556"
       ], 
       "housenumber": "556", 
-      "lat": 51.205004652443, 
-      "lon": 2.864801206914, 
+      "lat": 51.204946417257, 
+      "lon": 2.864859470574, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -5892,6 +5833,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -5936,8 +5878,8 @@
         "560"
       ], 
       "housenumber": "560", 
-      "lat": 51.204877022046, 
-      "lon": 2.864570472339, 
+      "lat": 51.204887417634, 
+      "lon": 2.864546666677, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -5957,13 +5899,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "0402"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "563"
@@ -6074,19 +6019,18 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "1", 
-        "2"
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "570"
       ], 
       "housenumber": "570", 
-      "lat": 51.204524726776, 
-      "lon": 2.863894892091, 
+      "lat": 51.204481538537, 
+      "lon": 2.863948663899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -6184,22 +6128,26 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
-        "0402"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "579"
       ], 
       "housenumber": "579", 
-      "lat": 51.213526371336, 
-      "lon": 2.884793264649, 
+      "lat": 51.213525481651, 
+      "lon": 2.884794008643, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6225,8 +6173,6 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0005", 
         "0101", 
         "0102", 
         "0201", 
@@ -6236,8 +6182,8 @@
         "580"
       ], 
       "housenumber": "580", 
-      "lat": 51.204283027842, 
-      "lon": 2.863517431872, 
+      "lat": 51.204276968008, 
+      "lon": 2.863500454016, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6326,15 +6272,20 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "588"
       ], 
       "housenumber": "588", 
-      "lat": 51.203968101895, 
-      "lon": 2.862592938051, 
+      "lat": 51.20391608186, 
+      "lon": 2.862644991972, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -6363,9 +6314,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "591"
@@ -6415,18 +6366,12 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0301"
-      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.224620447805, 
-      "lon": 2.908764835045, 
+      "lat": 51.224585676126, 
+      "lon": 2.908810163582, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6437,11 +6382,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.223459721632, 
-      "lon": 2.90612220167, 
+      "lat": 51.223407943963, 
+      "lon": 2.906180806328, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -6466,6 +6411,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nieuwpoortsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "604A"
+      ], 
+      "housenumber": "604A", 
+      "lat": 51.201835275417, 
+      "lon": 2.857445502764, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -6526,8 +6483,8 @@
         "620"
       ], 
       "housenumber": "620", 
-      "lat": 51.199919204863, 
-      "lon": 2.852743677394, 
+      "lat": 51.19991837407, 
+      "lon": 2.852748999019, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6686,8 +6643,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0302", 
@@ -6794,6 +6753,9 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "639-641"
       ], 
@@ -6855,6 +6817,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -6862,18 +6825,17 @@
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1"
+        "0402"
       ], 
       "hnrlbls": [
-        "647-649"
+        "647"
       ], 
       "housenumber": "647", 
-      "lat": 51.21247932659, 
-      "lon": 2.882427331412, 
+      "lat": 51.212516448063, 
+      "lon": 2.882362310193, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -6890,23 +6852,11 @@
     }, 
     {
       "hnrlbls": [
-        "647-649"
-      ], 
-      "housenumber": "649", 
-      "lat": 51.21247932659, 
-      "lon": 2.882427331412, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.222941155418, 
-      "lon": 2.905742893164, 
+      "lat": 51.222935645655, 
+      "lon": 2.905748076826, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -6972,19 +6922,18 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.223330917849, 
-      "lon": 2.905884286822, 
+      "lat": 51.223303843511, 
+      "lon": 2.905919496288, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -7027,14 +6976,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0301", 
-        "0401", 
-        "4B"
-      ], 
       "hnrlbls": [
         "669"
       ], 
@@ -7060,7 +7001,6 @@
     }, 
     {
       "busnrs": [
-        "004B", 
         "0101", 
         "0102", 
         "0201", 
@@ -7068,7 +7008,7 @@
         "0301", 
         "0302", 
         "0401", 
-        "4B"
+        "0402"
       ], 
       "hnrlbls": [
         "671"
@@ -7148,19 +7088,16 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.223289062827, 
-      "lon": 2.905785668354, 
+      "lat": 51.223257173305, 
+      "lon": 2.905831336958, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7282,15 +7219,28 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.223938697429, 
-      "lon": 2.908420090361, 
+      "lat": 51.224102125398, 
+      "lon": 2.908200647464, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -7454,14 +7404,6 @@
         "0001", 
         "0002", 
         "0003", 
-        "0005", 
-        "0008", 
-        "0011", 
-        "0015", 
-        "0019", 
-        "0022", 
-        "0024", 
-        "0028", 
         "0101", 
         "0102", 
         "0103", 
@@ -7539,20 +7481,21 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
-        "2"
+        "0202"
       ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.223191895593, 
-      "lon": 2.905590715274, 
+      "lat": 51.223158338571, 
+      "lon": 2.905625125993, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -7569,21 +7512,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "0402", 
-        "1"
+        "0402"
       ], 
       "hnrlbls": [
         "745"
       ], 
       "housenumber": "745", 
-      "lat": 51.21077545425, 
-      "lon": 2.878466375057, 
+      "lat": 51.210788521764, 
+      "lon": 2.878490289836, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7603,18 +7547,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
         "0201", 
+        "0202", 
         "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
         "0402", 
-        "0403", 
-        "1", 
-        "2"
+        "0403"
       ], 
       "hnrlbls": [
         "75"
@@ -7629,20 +7575,15 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
         "0301", 
         "0302", 
-        "0303", 
-        "0402", 
-        "0403", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "A01B", 
-        "A01C", 
-        "A02A", 
-        "A02B", 
-        "A04A"
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "751"
@@ -7657,28 +7598,29 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
         "0203", 
+        "0301", 
+        "0302", 
         "0303", 
-        "1", 
-        "1C", 
-        "2A", 
-        "2B", 
-        "2C", 
-        "3B", 
-        "3C", 
-        "4A", 
-        "4B", 
-        "4C"
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "751A"
       ], 
       "housenumber": "751A", 
-      "lat": 51.210569489022, 
-      "lon": 2.878188268847, 
+      "lat": 51.210622989077, 
+      "lon": 2.878124727358, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -7707,7 +7649,11 @@
     }, 
     {
       "busnrs": [
-        "0004"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
       "hnrlbls": [
         "759"
@@ -7766,8 +7712,12 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "79"
@@ -7793,20 +7743,15 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "A"
-      ], 
       "hnrlbls": [
         "795"
       ], 
       "housenumber": "795", 
-      "lat": 51.209706587003, 
-      "lon": 2.876233810313, 
+      "lat": 51.209755331625, 
+      "lon": 2.876192461497, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -7823,8 +7768,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0301"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "8"
@@ -7860,11 +7805,10 @@
         "0301", 
         "0302", 
         "0303", 
+        "0401", 
         "0402", 
-        "0403", 
         "0501", 
-        "0502", 
-        "5"
+        "0502"
       ], 
       "hnrlbls": [
         "82"
@@ -7975,7 +7919,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "857A"
@@ -8014,17 +7958,19 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "869"
       ], 
       "housenumber": "869", 
-      "lat": 51.208576378939, 
-      "lon": 2.87415903063, 
+      "lat": 51.208638303986, 
+      "lon": 2.874065161192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8035,8 +7981,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.222587471534, 
-      "lon": 2.905037012758, 
+      "lat": 51.222557450007, 
+      "lon": 2.905081047755, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8095,11 +8041,11 @@
         "879"
       ], 
       "housenumber": "879", 
-      "lat": 51.207608705194, 
-      "lon": 2.873927258551, 
+      "lat": 51.207671362176, 
+      "lon": 2.871929854804, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8131,11 +8077,11 @@
         "887"
       ], 
       "housenumber": "887", 
-      "lat": 51.207244428391, 
-      "lon": 2.871128626158, 
+      "lat": 51.207235359926, 
+      "lon": 2.871172139471, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8212,15 +8158,18 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
         "0401", 
-        "2"
+        "0501"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.223989532151, 
-      "lon": 2.90821949247, 
+      "lat": 51.224070255599, 
+      "lon": 2.908131492048, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8242,6 +8191,7 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0203", 
@@ -8256,11 +8206,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.222630870579, 
-      "lon": 2.904904367673, 
+      "lat": 51.22261472297, 
+      "lon": 2.90490716511, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8300,6 +8250,9 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "917"
       ], 
@@ -8313,8 +8266,8 @@
     }, 
     {
       "busnrs": [
-        "000C", 
-        "0101"
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "919"
@@ -8340,22 +8293,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0301"
-      ], 
-      "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.222875980738, 
-      "lon": 2.90484942998, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "921"
       ], 
@@ -8369,18 +8306,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "923"
       ], 
       "housenumber": "923", 
-      "lat": 51.203851557349, 
-      "lon": 2.863261159298, 
+      "lat": 51.203918735873, 
+      "lon": 2.863185146987, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8414,21 +8351,6 @@
       "housenumber": "929", 
       "lat": 51.203757704344, 
       "lon": 2.862986268565, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwpoortsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "0103"
-      ], 
-      "hnrlbls": [
-        "93"
-      ], 
-      "housenumber": "93", 
-      "lat": 51.222497500094, 
-      "lon": 2.904936900192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8475,8 +8397,8 @@
         "937"
       ], 
       "housenumber": "937", 
-      "lat": 51.203625654579, 
-      "lon": 2.862705313198, 
+      "lat": 51.203619374311, 
+      "lon": 2.862713386909, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -8495,11 +8417,8 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "94-96"
+        "94"
       ], 
       "housenumber": "94", 
       "lat": 51.222766227835, 
@@ -8522,15 +8441,31 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "943"
+      ], 
+      "housenumber": "943", 
+      "lat": 51.200986994911, 
+      "lon": 2.857252171012, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwpoortsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "945"
       ], 
       "housenumber": "945", 
-      "lat": 51.2007018253, 
-      "lon": 2.856760270173, 
+      "lat": 51.200758857231, 
+      "lon": 2.856699607855, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8594,23 +8529,26 @@
         "0204", 
         "0205", 
         "0301", 
+        "0302", 
+        "0303", 
         "0304", 
         "0305", 
         "0401", 
         "0402", 
         "0403", 
         "0501", 
+        "0502", 
         "0601"
       ], 
       "hnrlbls": [
-        "94-96"
+        "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.222766227835, 
-      "lon": 2.904451293033, 
+      "lat": 51.222686982149, 
+      "lon": 2.904542257548, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
@@ -8627,16 +8565,14 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0101", 
         "0201", 
         "0202", 
         "0301", 
         "0302", 
         "0401", 
         "0501", 
-        "0502", 
-        "0503"
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "98"
@@ -8650,9 +8586,6 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "98B"
       ], 
@@ -8665,15 +8598,20 @@
       "street": "Nieuwpoortsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.222426885714, 
-      "lon": 2.904708333855, 
+      "lat": 51.222480102177, 
+      "lon": 2.904620764183, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwpoortsesteenweg"
     }
   ]

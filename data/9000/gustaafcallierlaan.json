@@ -1761,27 +1761,27 @@
       "street": "Gustaaf Callierlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601", 
+        "0701"
+      ], 
       "hnrlbls": [
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.039321948281, 
-      "lon": 3.735288713054, 
+      "lat": 51.039302488862, 
+      "lon": 3.735297531058, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Gustaaf Callierlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "256"
-      ], 
-      "housenumber": "256", 
-      "lat": 51.039271769613, 
-      "lon": 3.73531876336, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gustaaf Callierlaan"
     }, 
     {
@@ -2426,11 +2426,11 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "35-36"
       ], 
       "housenumber": "35", 
-      "lat": 51.041894961601, 
-      "lon": 3.733718799935, 
+      "lat": 51.042026006225, 
+      "lon": 3.733631754608, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2453,7 +2453,7 @@
         "0801"
       ], 
       "hnrlbls": [
-        "36"
+        "35-36"
       ], 
       "housenumber": "36", 
       "lat": 51.042026006225, 
@@ -2465,7 +2465,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "39", 
       "lat": 51.041894961601, 
@@ -2489,7 +2489,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "40", 
       "lat": 51.041894961601, 
@@ -2501,7 +2501,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "41", 
       "lat": 51.041894961601, 
@@ -2513,7 +2513,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "42", 
       "lat": 51.041894961601, 
@@ -2525,7 +2525,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "43", 
       "lat": 51.041894961601, 
@@ -2537,7 +2537,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "44", 
       "lat": 51.041894961601, 
@@ -2549,7 +2549,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "45", 
       "lat": 51.041894961601, 
@@ -2561,7 +2561,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "46", 
       "lat": 51.041894961601, 
@@ -2573,7 +2573,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "47", 
       "lat": 51.041894961601, 
@@ -2585,7 +2585,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "48", 
       "lat": 51.041894961601, 
@@ -2597,7 +2597,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "49", 
       "lat": 51.041894961601, 
@@ -2621,7 +2621,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "50", 
       "lat": 51.041894961601, 
@@ -2633,7 +2633,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "51", 
       "lat": 51.041894961601, 
@@ -2645,7 +2645,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "52", 
       "lat": 51.041894961601, 
@@ -2657,7 +2657,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "53", 
       "lat": 51.041894961601, 
@@ -2669,7 +2669,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "54", 
       "lat": 51.041894961601, 
@@ -2681,7 +2681,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-55"
+        "39-55"
       ], 
       "housenumber": "55", 
       "lat": 51.041894961601, 
@@ -2711,23 +2711,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.041812144567, 
-      "lon": 3.733764125265, 
+      "lat": 51.041811766499, 
+      "lon": 3.73379407437, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Gustaaf Callierlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.041764448597, 
-      "lon": 3.733787728608, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gustaaf Callierlaan"
     }, 
     {
@@ -3221,30 +3209,6 @@
       "housenumber": "91", 
       "lat": 51.041347898282, 
       "lon": 3.734057447672, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Gustaaf Callierlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "92-93"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.041274311781, 
-      "lon": 3.734097513665, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Gustaaf Callierlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "92-93"
-      ], 
-      "housenumber": "93", 
-      "lat": 51.041274311781, 
-      "lon": 3.734097513665, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

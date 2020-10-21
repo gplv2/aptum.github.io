@@ -23,11 +23,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.128476412309, 
-      "lon": 3.330157442678, 
+      "lat": 51.128482158143, 
+      "lon": 3.330177030213, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisstraat"
     }, 
     {
@@ -59,11 +59,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.125688506243, 
-      "lon": 3.347006393861, 
+      "lat": 51.125618533534, 
+      "lon": 3.347033636824, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Jorisstraat"
     }, 
     {
@@ -107,8 +107,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.125324457208, 
-      "lon": 3.351162814851, 
+      "lat": 51.125311542973, 
+      "lon": 3.35117680985, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanPerceelGrb", 
@@ -477,8 +477,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.128479091134, 
-      "lon": 3.330380250432, 
+      "lat": 51.128448456034, 
+      "lon": 3.330351786707, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -585,8 +585,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.127696316193, 
-      "lon": 3.334153028326, 
+      "lat": 51.12770595046, 
+      "lon": 3.334144529173, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -639,8 +639,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.127700567131, 
-      "lon": 3.334227793494, 
+      "lat": 51.127681374468, 
+      "lon": 3.33423293261, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -651,8 +651,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.128122642051, 
-      "lon": 3.333357707375, 
+      "lat": 51.128135336535, 
+      "lon": 3.333288137917, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -675,8 +675,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.128109525987, 
-      "lon": 3.333440715198, 
+      "lat": 51.128122642051, 
+      "lon": 3.333357707375, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -699,8 +699,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.128133853665, 
-      "lon": 3.333549609121, 
+      "lat": 51.128109525987, 
+      "lon": 3.333440715198, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -723,8 +723,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.128141161127, 
-      "lon": 3.333634593368, 
+      "lat": 51.128133853665, 
+      "lon": 3.333549609121, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -747,11 +747,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.128070852217, 
-      "lon": 3.33371543866, 
+      "lat": 51.128141161127, 
+      "lon": 3.333634593368, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jorisstraat"
     }, 
     {
@@ -783,11 +783,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.128057755933, 
-      "lon": 3.333800731643, 
+      "lat": 51.128112698049, 
+      "lon": 3.333761513953, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jorisstraat"
     }, 
     {
@@ -1101,8 +1101,8 @@
         "83A"
       ], 
       "housenumber": "83A", 
-      "lat": 51.127508487069, 
-      "lon": 3.340745909914, 
+      "lat": 51.127496513339, 
+      "lon": 3.340743887434, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1209,6 +1209,18 @@
     }, 
     {
       "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.126887589156, 
+      "lon": 3.344450167273, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
         "85C"
       ], 
       "housenumber": "85C", 
@@ -1236,8 +1248,8 @@
         "85E"
       ], 
       "housenumber": "85E", 
-      "lat": 51.126909006902, 
-      "lon": 3.346246999925, 
+      "lat": 51.126918917863, 
+      "lon": 3.346239211669, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 

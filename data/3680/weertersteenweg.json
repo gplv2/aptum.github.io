@@ -1720,8 +1720,8 @@
         "281A"
       ], 
       "housenumber": "281A", 
-      "lat": 51.121523760773, 
-      "lon": 5.767529902197, 
+      "lat": 51.121519899698, 
+      "lon": 5.767529500843, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1828,8 +1828,8 @@
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 51.122820971514, 
-      "lon": 5.767007040832, 
+      "lat": 51.122815662219, 
+      "lon": 5.766999881836, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2479,6 +2479,21 @@
       "street": "Weertersteenweg"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "92-94A"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.102271501905, 
+      "lon": 5.779903446147, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Weertersteenweg"
+    }, 
+    {
       "hnrlbls": [
         "93"
       ], 
@@ -2491,12 +2506,16 @@
       "street": "Weertersteenweg"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
-        "94-94A"
+        "92-94A"
       ], 
       "housenumber": "94", 
-      "lat": 51.102206547888, 
-      "lon": 5.779816949522, 
+      "lat": 51.102271501905, 
+      "lon": 5.779903446147, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -2504,11 +2523,11 @@
     }, 
     {
       "hnrlbls": [
-        "94-94A"
+        "92-94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.102206547888, 
-      "lon": 5.779816949522, 
+      "lat": 51.102271501905, 
+      "lon": 5.779903446147, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 

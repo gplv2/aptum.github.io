@@ -171,6 +171,10 @@
       "street": "Frans Versmissenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -180,6 +184,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Frans Versmissenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.227059110373, 
+      "lon": 4.477487248329, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans Versmissenlaan"
     }, 
     {
@@ -262,8 +278,9 @@
       "street": "Frans Versmissenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "27"
@@ -277,8 +294,10 @@
       "street": "Frans Versmissenlaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "28"

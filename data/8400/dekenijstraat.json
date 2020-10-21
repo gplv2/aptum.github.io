@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.229172927352, 
-      "lon": 2.921567584651, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dekenijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -130,6 +118,7 @@
         "0201", 
         "0202", 
         "0301", 
+        "0302", 
         "0401", 
         "0402", 
         "0501", 
@@ -138,15 +127,14 @@
         "0602", 
         "0701", 
         "0801", 
-        "0901", 
-        "0902"
+        "0901"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.228545133902, 
-      "lon": 2.922301264703, 
+      "lat": 51.228542140047, 
+      "lon": 2.922218167988, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -206,24 +194,22 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "0301", 
+        "0401", 
         "0501", 
-        "0601", 
-        "1", 
-        "2", 
-        "3", 
-        "5"
+        "0601"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.228536443654, 
-      "lon": 2.921825878929, 
+      "lat": 51.228562510678, 
+      "lon": 2.921950498936, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dekenijstraat"
     }, 
     {
@@ -287,8 +273,11 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
         "0401", 
-        "1"
+        "0501"
       ], 
       "hnrlbls": [
         "5"

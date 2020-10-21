@@ -137,10 +137,6 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "114-116"
       ], 
@@ -173,8 +169,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.219571887592, 
-      "lon": 4.423997755217, 
+      "lat": 51.21956882917, 
+      "lon": 4.424002761055, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -253,11 +249,9 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "17"
@@ -268,6 +262,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Offerandestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.219821622562, 
+      "lon": 4.424108550809, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Offerandestraat"
     }, 
     {
@@ -349,15 +355,16 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "301"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.220246101623, 
-      "lon": 4.424763598343, 
+      "lat": 51.220211292465, 
+      "lon": 4.424813794897, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -587,22 +594,22 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
-        "38"
+        "38-38A"
       ], 
       "housenumber": "38", 
+      "lat": 51.220060173152, 
+      "lon": 4.425051493454, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Offerandestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38-38A"
+      ], 
+      "housenumber": "38A", 
       "lat": 51.220060173152, 
       "lon": 4.425051493454, 
       "municipality": "Antwerpen", 
@@ -786,6 +793,13 @@
       "street": "Offerandestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "5-7"
       ], 
@@ -1114,18 +1128,15 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "72"
-      ], 
       "hnrlbls": [
-        "70-72"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.220493813336, 
-      "lon": 4.42607770448, 
+      "lat": 51.220555883995, 
+      "lon": 4.425974154301, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Offerandestraat"
     }, 
     {
@@ -1141,15 +1152,20 @@
       "street": "Offerandestraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
-        "70-72"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.220493813336, 
-      "lon": 4.42607770448, 
+      "lat": 51.220570968772, 
+      "lon": 4.426006234567, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Offerandestraat"
     }, 
     {
@@ -1243,6 +1259,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Offerandestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.219721634837, 
+      "lon": 4.423806141706, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Offerandestraat"
     }, 
     {
@@ -1411,8 +1439,9 @@
       "street": "Offerandestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "9"
@@ -1457,11 +1486,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.220982277634, 
-      "lon": 4.426915784007, 
+      "lat": 51.220962610099, 
+      "lon": 4.426881550386, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Offerandestraat"
     }, 
     {

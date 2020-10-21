@@ -346,6 +346,11 @@
       "street": "Boerendijk"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -370,12 +375,12 @@
       "street": "Boerendijk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "37"
@@ -401,12 +406,12 @@
       "street": "Boerendijk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "39"
@@ -599,11 +604,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.284842266835, 
-      "lon": 4.419981964081, 
+      "lat": 51.284888761781, 
+      "lon": 4.419922247516, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boerendijk"
     }, 
     {

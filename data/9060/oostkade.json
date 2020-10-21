@@ -2,11 +2,6 @@
   "addresses": [
     {
       "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0005", 
         "0101", 
         "0201", 
         "0301", 
@@ -25,8 +20,22 @@
       "street": "Oostkade"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601"
+      ], 
       "hnrlbls": [
-        "10-10J"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.200876471901, 
@@ -37,118 +46,8 @@
       "street": "Oostkade"
     }, 
     {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10A", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10C", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10D", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10E", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10F", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10G", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10H", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10I", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10J"
-      ], 
-      "housenumber": "10J", 
-      "lat": 51.200876471901, 
-      "lon": 3.80952877726, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostkade"
-    }, 
-    {
-      "busnrs": [
+        "0101", 
         "0201", 
         "0202", 
         "0301"
@@ -268,6 +167,30 @@
       "street": "Oostkade"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.19927303635, 
+      "lon": 3.809617793539, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oostkade"
+    }, 
+    {
+      "hnrlbls": [
+        "1_0001"
+      ], 
+      "housenumber": "1_0001", 
+      "lat": 51.201861614463, 
+      "lon": 3.808935224581, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oostkade"
+    }, 
+    {
       "busnrs": [
         "0101"
       ], 
@@ -307,15 +230,30 @@
       "street": "Oostkade"
     }, 
     {
+      "apptnrs": [
+        "0202"
+      ], 
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.199586614434, 
-      "lon": 3.810066431594, 
+      "lat": 51.199511738612, 
+      "lon": 3.810066468794, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oostkade"
     }, 
     {
@@ -371,17 +309,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "B"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.198834009492, 
-      "lon": 3.81026113749, 
+      "lat": 51.198834278463, 
+      "lon": 3.810260991205, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostkade"
     }, 
     {
@@ -546,18 +484,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.201679237462, 
-      "lon": 3.809088071622, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Oostkade"
-    }, 
-    {
-      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -565,7 +491,7 @@
       "lon": 3.81031962947, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostkade"
     }, 
     {

@@ -322,11 +322,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.029116319011, 
-      "lon": 5.272549009516, 
+      "lat": 51.029113418555, 
+      "lon": 5.272540400061, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -375,6 +375,10 @@
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -1187,7 +1191,7 @@
         "2B"
       ], 
       "hnrlbls": [
-        "19-23B"
+        "19-22B"
       ], 
       "housenumber": "19", 
       "lat": 51.031826649076, 
@@ -1403,7 +1407,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-23B"
+        "19-22B"
       ], 
       "housenumber": "21A", 
       "lat": 51.031826649076, 
@@ -1415,7 +1419,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-23B"
+        "19-22B"
       ], 
       "housenumber": "21B", 
       "lat": 51.031826649076, 
@@ -1439,7 +1443,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-23B"
+        "19-22B"
       ], 
       "housenumber": "22A", 
       "lat": 51.031826649076, 
@@ -1451,7 +1455,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-23B"
+        "19-22B"
       ], 
       "housenumber": "22B", 
       "lat": 51.031826649076, 
@@ -1462,24 +1466,36 @@
       "street": "G. Gezellelaan"
     }, 
     {
-      "hnrlbls": [
-        "23"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
       ], 
-      "housenumber": "23", 
-      "lat": 51.031439787704, 
-      "lon": 5.278730716455, 
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.031743931741, 
+      "lon": 5.27873934116, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
-        "19-23B"
+        "23B"
       ], 
       "housenumber": "23B", 
-      "lat": 51.031826649076, 
-      "lon": 5.279132862646, 
+      "lat": 51.031431117376, 
+      "lon": 5.278898631091, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 

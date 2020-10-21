@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.227742597878, 
-      "lon": 4.437242419232, 
+      "lat": 51.227756444472, 
+      "lon": 4.437234709468, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -241,11 +241,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.227870295242, 
-      "lon": 4.437595483979, 
+      "lat": 51.227799909179, 
+      "lon": 4.437454658571, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Marbaixstraat"
     }, 
     {
@@ -264,23 +264,21 @@
       "street": "De Marbaixstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.227829839571, 
-      "lon": 4.437456134664, 
+      "lat": 51.227825717525, 
+      "lon": 4.43743465541, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Marbaixstraat"
     }, 
     {
@@ -288,8 +286,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.228097874595, 
-      "lon": 4.4369917095, 
+      "lat": 51.228085140323, 
+      "lon": 4.43694158645, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -300,11 +298,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.227910226223, 
-      "lon": 4.43740385982, 
+      "lat": 51.227884252892, 
+      "lon": 4.437398667631, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Marbaixstraat"
     }, 
     {
@@ -320,9 +318,10 @@
       "street": "De Marbaixstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "3"
@@ -336,18 +335,29 @@
       "street": "De Marbaixstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.227930589229, 
-      "lon": 4.437473033705, 
+      "lat": 51.227904393863, 
+      "lon": 4.437386672621, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Marbaixstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -396,8 +406,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.228236270938, 
-      "lon": 4.436879394001, 
+      "lat": 51.228221574163, 
+      "lon": 4.436803499978, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -588,9 +598,6 @@
       "street": "De Marbaixstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -771,9 +778,6 @@
       "street": "De Marbaixstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -826,11 +830,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.227711152106, 
-      "lon": 4.43721932481, 
+      "lat": 51.227718411405, 
+      "lon": 4.437255696643, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "De Marbaixstraat"
     }
   ]

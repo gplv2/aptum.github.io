@@ -233,11 +233,11 @@
         "18B"
       ], 
       "housenumber": "18B", 
-      "lat": 50.887089452908, 
-      "lon": 3.985327634769, 
+      "lat": 50.887338668846, 
+      "lon": 3.985197839711, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -273,7 +273,7 @@
       "lon": 3.985243524933, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -297,7 +297,7 @@
       "lon": 3.98536875637, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -345,7 +345,7 @@
       "lon": 3.984635852321, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -357,7 +357,7 @@
       "lon": 3.984635852321, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -373,6 +373,9 @@
       "street": "Driehoekstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -381,7 +384,7 @@
       "lon": 3.984921659179, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -616,7 +619,7 @@
       "lon": 3.986600072138, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -770,8 +773,7 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "60-60F"
@@ -813,6 +815,18 @@
         "60-60F"
       ], 
       "housenumber": "60D", 
+      "lat": 50.888671146115, 
+      "lon": 3.987119696058, 
+      "municipality": "Haaltert", 
+      "pcode": "9451", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Driehoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "60-60F"
+      ], 
+      "housenumber": "60E", 
       "lat": 50.888671146115, 
       "lon": 3.987119696058, 
       "municipality": "Haaltert", 
@@ -1178,11 +1192,11 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.889315370162, 
-      "lon": 3.987601671875, 
+      "lat": 50.889262634757, 
+      "lon": 3.987639619795, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {

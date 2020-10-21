@@ -66,9 +66,6 @@
       "street": "Frans van Dunlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -249,12 +246,16 @@
       "street": "Frans van Dunlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.173251563435, 
-      "lon": 4.432834730807, 
+      "lat": 51.173266664586, 
+      "lon": 4.432834036829, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -273,9 +274,6 @@
       "street": "Frans van Dunlaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -441,18 +439,12 @@
       "street": "Frans van Dunlaan"
     }, 
     {
-      "hnrlbls": [
-        "19"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
-      "housenumber": "19", 
-      "lat": 51.172974943383, 
-      "lon": 4.42744234917, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Frans van Dunlaan"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
@@ -465,8 +457,11 @@
       "street": "Frans van Dunlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "23"
@@ -601,8 +596,7 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "45"
+        "4"
       ], 
       "hnrlbls": [
         "43-45"
@@ -650,9 +644,6 @@
       "street": "Frans van Dunlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -898,8 +889,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.173140943372, 
-      "lon": 4.430951446442, 
+      "lat": 51.173144808295, 
+      "lon": 4.430951737622, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

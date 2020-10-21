@@ -2,18 +2,20 @@
   "addresses": [
     {
       "apptnrs": [
-        "001", 
-        "101"
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.21108976167, 
-      "lon": 4.428276227345, 
+      "lat": 51.211047951383, 
+      "lon": 4.428303935268, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marinisstraat"
     }, 
     {
@@ -86,8 +88,14 @@
       "street": "Marinisstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "202", 
+        "301", 
+        "302", 
+        "402"
       ], 
       "hnrlbls": [
         "15"
@@ -98,6 +106,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marinisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.210846003448, 
+      "lon": 4.429136957286, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marinisstraat"
     }, 
     {
@@ -149,6 +169,24 @@
       "street": "Marinisstraat"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.21108976167, 
+      "lon": 4.428276227345, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Marinisstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -279,11 +317,11 @@
       "street": "Marinisstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "5"
@@ -315,6 +353,12 @@
       "street": "Marinisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -339,11 +383,11 @@
       "street": "Marinisstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "9"

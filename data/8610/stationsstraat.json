@@ -9,11 +9,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.028092891197, 
-      "lon": 3.041969465664, 
+      "lat": 51.028064835644, 
+      "lon": 3.042032846804, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -605,7 +605,7 @@
       "street": "Stationsstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0001", 
         "0101", 
         "0102", 
@@ -613,18 +613,17 @@
         "0104", 
         "0105", 
         "0201", 
-        "0202", 
-        "0203"
+        "0202"
       ], 
       "hnrlbls": [
-        "51-53"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.025370600984, 
-      "lon": 3.042003086155, 
+      "lat": 51.025349379322, 
+      "lon": 3.0423779014, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {

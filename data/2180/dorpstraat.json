@@ -119,15 +119,36 @@
       "street": "Dorpstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.278829976961, 
-      "lon": 4.418979679759, 
+      "lat": 51.278805805857, 
+      "lon": 4.418963172586, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.278818450161, 
+      "lon": 4.418821451982, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19_1"
+      ], 
+      "housenumber": "19_1", 
+      "lat": 51.278853789214, 
+      "lon": 4.418994610136, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -174,8 +195,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.278764042939, 
-      "lon": 4.418256461988, 
+      "lat": 51.278765936592, 
+      "lon": 4.41824198965, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -303,6 +324,11 @@
       "street": "Dorpstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -444,6 +470,34 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.278399647138, 
+      "lon": 4.41850313487, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.278410363185, 
+      "lon": 4.418244329362, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpstraat"
     }, 
     {

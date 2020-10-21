@@ -58,11 +58,11 @@
         "101B"
       ], 
       "housenumber": "101B", 
-      "lat": 51.069517470181, 
-      "lon": 5.103678896145, 
+      "lat": 51.069481083003, 
+      "lon": 5.103675755785, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rodeheide"
     }, 
     {
@@ -111,6 +111,18 @@
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rodeheide"
+    }, 
+    {
+      "hnrlbls": [
+        "107"
+      ], 
+      "housenumber": "107", 
+      "lat": 51.069301061027, 
+      "lon": 5.106387050125, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rodeheide"
     }, 
     {
@@ -410,11 +422,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.069625896249, 
-      "lon": 5.088779007858, 
+      "lat": 51.069663370769, 
+      "lon": 5.088589682417, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodeheide"
     }, 
     {
@@ -458,8 +470,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.069896642997, 
-      "lon": 5.091787824924, 
+      "lat": 51.069899371952, 
+      "lon": 5.091782588073, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -654,8 +666,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.070148300786, 
-      "lon": 5.092687167425, 
+      "lat": 51.070138771735, 
+      "lon": 5.092672609311, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -683,6 +695,27 @@
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rodeheide"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.069644568696, 
+      "lon": 5.088783147804, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodeheide"
     }, 
     {
@@ -726,6 +759,18 @@
     }, 
     {
       "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.069983023526, 
+      "lon": 5.094200131281, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rodeheide"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -749,18 +794,13 @@
       "street": "Rodeheide"
     }, 
     {
-      "hnrlbls": [
-        "46"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
-      "housenumber": "46", 
-      "lat": 51.069964503648, 
-      "lon": 5.094506743755, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodeheide"
-    }, 
-    {
       "hnrlbls": [
         "48"
       ], 
@@ -947,6 +987,18 @@
       "street": "Rodeheide"
     }, 
     {
+      "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 51.070049783634, 
+      "lon": 5.097349502213, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rodeheide"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -968,6 +1020,30 @@
       "housenumber": "70", 
       "lat": 51.069593868039, 
       "lon": 5.097752447605, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rodeheide"
+    }, 
+    {
+      "hnrlbls": [
+        "71-71A"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.070002711656, 
+      "lon": 5.097736424435, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rodeheide"
+    }, 
+    {
+      "hnrlbls": [
+        "71-71A"
+      ], 
+      "housenumber": "71A", 
+      "lat": 51.070002711656, 
+      "lon": 5.097736424435, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1197,8 +1273,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.069391396815, 
-      "lon": 5.1011902101, 
+      "lat": 51.069346759473, 
+      "lon": 5.10116939324, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 

@@ -10,8 +10,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.846028663168, 
-      "lon": 4.284547550114, 
+      "lat": 50.846030372084, 
+      "lon": 4.284548825001, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -307,8 +307,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.84456416707, 
-      "lon": 4.275318725064, 
+      "lat": 50.844550688418, 
+      "lon": 4.275325851004, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -1177,6 +1177,26 @@
       "street": "Ninoofsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.845493772507, 
+      "lon": 4.284024274054, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
       "busnrs": [
         "201"
       ], 
@@ -1333,45 +1353,40 @@
       "street": "Ninoofsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202"
-      ], 
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 50.844612051019, 
-      "lon": 4.269441923928, 
+      "lat": 50.844802486524, 
+      "lon": 4.269379475773, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
       "apptnrs": [
         "001", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
         "201", 
+        "202", 
+        "203", 
         "301", 
         "302", 
         "303"
       ], 
       "busnrs": [
-        "203"
+        "002"
       ], 
       "hnrlbls": [
         "213A"
       ], 
       "housenumber": "213A", 
-      "lat": 50.844838755977, 
-      "lon": 4.26932217853, 
+      "lat": 50.844606373418, 
+      "lon": 4.269425039367, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1403,10 +1418,11 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "101", 
+        "301"
       ], 
       "busnrs": [
-        "2"
+        "201"
       ], 
       "hnrlbls": [
         "217"
@@ -1980,6 +1996,18 @@
     }, 
     {
       "hnrlbls": [
+        "256"
+      ], 
+      "housenumber": "256", 
+      "lat": 50.843967192948, 
+      "lon": 4.26655117967, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "257"
       ], 
       "housenumber": "257", 
@@ -2408,9 +2436,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0", 
-        "2.0"
+        "001", 
+        "002", 
+        "202"
       ], 
       "busnrs": [
         "101", 
@@ -2505,23 +2533,21 @@
       "street": "Ninoofsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
-        "202", 
-        "301", 
-        "302"
+        "202"
       ], 
       "hnrlbls": [
         "343"
       ], 
       "housenumber": "343", 
-      "lat": 50.843955599571, 
-      "lon": 4.260896360055, 
+      "lat": 50.843831196692, 
+      "lon": 4.260909706249, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -2545,7 +2571,7 @@
       "lon": 4.26081215959, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -3037,7 +3063,7 @@
         "301", 
         "302", 
         "401", 
-        "5", 
+        "402", 
         "501", 
         "502", 
         "6", 

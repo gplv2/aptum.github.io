@@ -763,10 +763,6 @@
       "street": "Nieuwe Steenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -1135,8 +1131,16 @@
       "street": "Nieuwe Steenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
-        "22"
+        "22-24"
       ], 
       "housenumber": "22", 
       "lat": 50.751031181813, 
@@ -1244,6 +1248,18 @@
     }, 
     {
       "hnrlbls": [
+        "229A"
+      ], 
+      "housenumber": "229A", 
+      "lat": 50.773632915455, 
+      "lon": 5.316872624404, 
+      "municipality": "Heers", 
+      "pcode": "3870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwe Steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -1283,8 +1299,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 50.774451291813, 
-      "lon": 5.317330075273, 
+      "lat": 50.774449662309, 
+      "lon": 5.317331460287, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -1327,15 +1343,22 @@
       "street": "Nieuwe Steenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
+      ], 
       "hnrlbls": [
-        "24-24F"
+        "22-24"
       ], 
       "housenumber": "24", 
-      "lat": 50.751002138293, 
-      "lon": 5.301604437862, 
+      "lat": 50.751031181813, 
+      "lon": 5.301581346887, 
       "municipality": "Heers", 
       "pcode": "3870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwe Steenweg"
     }, 
     {
@@ -1412,7 +1435,7 @@
     }, 
     {
       "hnrlbls": [
-        "24-24F"
+        "24F"
       ], 
       "housenumber": "24F", 
       "lat": 50.751002138293, 
@@ -1739,8 +1762,8 @@
         "274"
       ], 
       "housenumber": "274", 
-      "lat": 50.777297053085, 
-      "lon": 5.323407393962, 
+      "lat": 50.777296962039, 
+      "lon": 5.32340753391, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -2281,8 +2304,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.753231414338, 
-      "lon": 5.301761575647, 
+      "lat": 50.753249362353, 
+      "lon": 5.301731886201, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 

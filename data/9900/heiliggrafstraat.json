@@ -2,14 +2,32 @@
   "addresses": [
     {
       "busnrs": [
-        "0101"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.191510393985, 
-      "lon": 3.554834612466, 
+      "lat": 51.190921230226, 
+      "lon": 3.554870487391, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -32,8 +50,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.191880863876, 
-      "lon": 3.554852330922, 
+      "lat": 51.191633892947, 
+      "lon": 3.55480699667, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -56,23 +74,20 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.19195536866, 
-      "lon": 3.554824138421, 
+      "lat": 51.191696333012, 
+      "lon": 3.55482822437, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Heilig Grafstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.192014598552, 
-      "lon": 3.554809945155, 
+      "lat": 51.191793140806, 
+      "lon": 3.554840699131, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -95,8 +110,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.19220224867, 
-      "lon": 3.554738723895, 
+      "lat": 51.191880863876, 
+      "lon": 3.554852330922, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -116,23 +131,26 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "19"
       ], 
-      "housenumber": "1A", 
-      "lat": 51.191293070346, 
-      "lon": 3.554878311538, 
+      "housenumber": "19", 
+      "lat": 51.19195536866, 
+      "lon": 3.554824138421, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Heilig Grafstraat"
     }, 
     {
-      "hnrlbls": [
-        "1B"
+      "busnrs": [
+        "1"
       ], 
-      "housenumber": "1B", 
-      "lat": 51.191190498135, 
-      "lon": 3.554877238273, 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.192014598552, 
+      "lon": 3.554809945155, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -145,6 +163,18 @@
       "housenumber": "22", 
       "lat": 51.191633593154, 
       "lon": 3.555233724832, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heilig Grafstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.19220224867, 
+      "lon": 3.554738723895, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -175,6 +205,13 @@
       "street": "Heilig Grafstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -187,6 +224,13 @@
       "street": "Heilig Grafstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "2B"
       ], 
@@ -203,8 +247,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.191570892734, 
-      "lon": 3.554834988477, 
+      "lat": 51.191190498135, 
+      "lon": 3.554877238273, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -290,6 +334,13 @@
       "street": "Heilig Grafstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4B"
       ], 
@@ -302,6 +353,13 @@
       "street": "Heilig Grafstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4C"
       ], 
@@ -318,8 +376,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.191633892947, 
-      "lon": 3.55480699667, 
+      "lat": 51.191293070346, 
+      "lon": 3.554878311538, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -330,11 +388,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.191696333012, 
-      "lon": 3.55482822437, 
+      "lat": 51.191510393985, 
+      "lon": 3.554834612466, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heilig Grafstraat"
     }, 
     {
@@ -354,8 +412,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.191793140806, 
-      "lon": 3.554840699131, 
+      "lat": 51.191570892734, 
+      "lon": 3.554834988477, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

@@ -148,8 +148,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.182987006841, 
-      "lon": 3.093932815094, 
+      "lat": 51.18301239971, 
+      "lon": 3.093819980199, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -197,16 +197,24 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
-        "21"
+        "21A"
       ], 
-      "housenumber": "21", 
-      "lat": 51.182273667505, 
-      "lon": 3.092075953933, 
+      "housenumber": "21A", 
+      "lat": 51.18231933867, 
+      "lon": 3.092142790015, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 51.182288183798, 
+      "lon": 3.092063255935, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -405,7 +413,7 @@
       "lon": 3.091098081567, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -530,9 +538,39 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42B"
       ], 
       "housenumber": "42", 
+      "lat": 51.182405707807, 
+      "lon": 3.09179943087, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42-42B"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.182405707807, 
+      "lon": 3.09179943087, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "42-42B"
+      ], 
+      "housenumber": "42B", 
       "lat": 51.182405707807, 
       "lon": 3.09179943087, 
       "municipality": "Jabbeke", 
@@ -561,6 +599,12 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -569,7 +613,7 @@
       "lon": 3.091668350782, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -682,32 +726,19 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "11", 
-        "12", 
-        "21", 
-        "22"
+        "21"
       ], 
       "hnrlbls": [
-        "54A-54B"
+        "54"
       ], 
-      "housenumber": "54A", 
-      "lat": 51.182253805835, 
-      "lon": 3.091111437062, 
+      "housenumber": "54", 
+      "lat": 51.182241369262, 
+      "lon": 3.09105871126, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54B"
-      ], 
-      "housenumber": "54B", 
-      "lat": 51.182191811832, 
-      "lon": 3.091031603457, 
-      "municipality": "Jabbeke", 
-      "pcode": "8490", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {

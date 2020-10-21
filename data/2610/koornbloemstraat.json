@@ -185,8 +185,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.16961945606, 
-      "lon": 4.380866788723, 
+      "lat": 51.169633389031, 
+      "lon": 4.380860358643, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -787,8 +787,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.169017231414, 
-      "lon": 4.378986376158, 
+      "lat": 51.169007796181, 
+      "lon": 4.378956492449, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -865,9 +865,11 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "194-198"
@@ -986,12 +988,11 @@
         "02", 
         "11", 
         "12", 
-        "16", 
         "21", 
         "22"
       ], 
       "hnrlbls": [
-        "203-203_1"
+        "203"
       ], 
       "housenumber": "203", 
       "lat": 51.169501012389, 
@@ -1002,23 +1003,12 @@
       "street": "Koornbloemstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "203-203_1"
-      ], 
-      "housenumber": "203_1", 
-      "lat": 51.169501012389, 
-      "lon": 4.37880734148, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koornbloemstraat"
-    }, 
-    {
-      "busnrs": [
-        "10"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
         "205"
@@ -1032,9 +1022,12 @@
       "street": "Koornbloemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
         "207"
@@ -1178,8 +1171,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.169159211588, 
-      "lon": 4.377342921536, 
+      "lat": 51.169156155296, 
+      "lon": 4.377345208514, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1211,7 +1204,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-23b"
+        "23"
       ], 
       "housenumber": "23", 
       "lat": 51.170302817544, 
@@ -1305,18 +1298,6 @@
     }, 
     {
       "hnrlbls": [
-        "23-23b"
-      ], 
-      "housenumber": "23b", 
-      "lat": 51.170302817544, 
-      "lon": 4.385397652133, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koornbloemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -1361,21 +1342,9 @@
     }, 
     {
       "hnrlbls": [
-        "27-27b"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.170348781497, 
-      "lon": 4.38517548171, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koornbloemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27-27b"
-      ], 
-      "housenumber": "27b", 
       "lat": 51.170348781497, 
       "lon": 4.38517548171, 
       "municipality": "Antwerpen", 
@@ -1703,8 +1672,8 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "101"
+        "01", 
+        "11"
       ], 
       "hnrlbls": [
         "72A"
@@ -1854,8 +1823,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.170338952381, 
-      "lon": 4.382738994004, 
+      "lat": 51.170325378891, 
+      "lon": 4.382745137777, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1962,8 +1931,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.169839610069, 
-      "lon": 4.382229841576, 
+      "lat": 51.169841318153, 
+      "lon": 4.382227697451, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

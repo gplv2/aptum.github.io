@@ -1,12 +1,18 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1A", 
+        "2A", 
+        "2B", 
+        "3A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.315838746672, 
-      "lon": 3.132567155235, 
+      "lat": 51.315784527744, 
+      "lon": 3.13247965936, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -244,18 +250,12 @@
       "street": "Van Monsstraat"
     }, 
     {
-      "apptnrs": [
-        "-101", 
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.315865806404, 
-      "lon": 3.132627687609, 
+      "lat": 51.315827135479, 
+      "lon": 3.132582955585, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -414,6 +414,24 @@
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Van Monsstraat"
+    }, 
+    {
+      "apptnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.315821696807, 
+      "lon": 3.132682076811, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Monsstraat"
     }, 
     {

@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.215034302291, 
-      "lon": 4.40314019652, 
+      "lat": 51.215202835216, 
+      "lon": 4.402528075933, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
@@ -25,16 +25,16 @@
       "street": "Vleminckveld"
     }, 
     {
+      "apptnrs": [
+        "21", 
+        "31"
+      ], 
       "busnrs": [
         "01", 
         "02", 
         "03", 
         "11", 
         "12", 
-        "21", 
-        "22", 
-        "23", 
-        "31", 
         "32", 
         "41", 
         "42"
@@ -67,8 +67,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.214881989327, 
-      "lon": 4.403003264629, 
+      "lat": 51.215028477041, 
+      "lon": 4.40277739614, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -91,8 +91,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.214885754385, 
-      "lon": 4.403037328666, 
+      "lat": 51.214982530682, 
+      "lon": 4.402830457469, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -124,8 +124,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.214884481771, 
-      "lon": 4.403085414133, 
+      "lat": 51.214938468618, 
+      "lon": 4.402894539918, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -156,8 +156,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.214859324913, 
-      "lon": 4.403049330442, 
+      "lat": 51.214905106565, 
+      "lon": 4.402945606842, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -197,15 +197,12 @@
       "street": "Vleminckveld"
     }, 
     {
-      "busnrs": [
-        "15"
-      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.214864341803, 
-      "lon": 4.403105435007, 
+      "lat": 51.21485978754, 
+      "lon": 4.403004679135, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -216,8 +213,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.21464193699, 
-      "lon": 4.40290820043, 
+      "lat": 51.214632500934, 
+      "lon": 4.402902182609, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -714,23 +711,25 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.213905080325, 
-      "lon": 4.404063846354, 
+      "lat": 51.213887271456, 
+      "lon": 4.404102615764, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.213853349883, 
-      "lon": 4.404218080275, 
+      "lat": 51.213840891784, 
+      "lon": 4.404100862584, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -741,8 +740,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.21378464587, 
-      "lon": 4.404030122293, 
+      "lat": 51.213787061413, 
+      "lon": 4.404067333012, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -787,8 +786,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.213776413601, 
-      "lon": 4.404203280194, 
+      "lat": 51.213783935169, 
+      "lon": 4.404297023711, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -796,38 +795,42 @@
     }, 
     {
       "hnrlbls": [
-        "72-76"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.213654770703, 
-      "lon": 4.404300214887, 
+      "lat": 51.213664539826, 
+      "lon": 4.4043922426, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.213663531279, 
-      "lon": 4.403868027669, 
+      "lat": 51.213656539041, 
+      "lon": 4.404395814131, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
       "hnrlbls": [
-        "72-76"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.213654770703, 
-      "lon": 4.404300214887, 
+      "lat": 51.213620763055, 
+      "lon": 4.404402655558, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
@@ -835,14 +838,19 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.213628733335, 
-      "lon": 4.403910218546, 
+      "lat": 51.213597380073, 
+      "lon": 4.404152051022, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Vleminckveld"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

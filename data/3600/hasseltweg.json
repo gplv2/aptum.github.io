@@ -377,8 +377,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.961127735537, 
-      "lon": 5.459554633667, 
+      "lat": 50.961123626054, 
+      "lon": 5.459551833257, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -401,11 +401,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.960915865895, 
-      "lon": 5.459086622359, 
+      "lat": 50.960949175206, 
+      "lon": 5.459081703222, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -437,8 +437,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.960694123546, 
-      "lon": 5.458141642645, 
+      "lat": 50.960696671777, 
+      "lon": 5.458128605331, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -461,8 +461,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.96074825379, 
-      "lon": 5.457743028659, 
+      "lat": 50.960756916799, 
+      "lon": 5.457739528778, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -514,11 +514,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.960806429127, 
-      "lon": 5.457130834157, 
+      "lat": 50.960826681215, 
+      "lon": 5.457108812575, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -674,11 +674,11 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.960188757439, 
-      "lon": 5.454570802761, 
+      "lat": 50.960337525175, 
+      "lon": 5.454495101867, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -754,15 +754,19 @@
       "street": "Hasseltweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.965461353943, 
-      "lon": 5.47704997679, 
+      "lat": 50.965372262224, 
+      "lon": 5.477040323909, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -890,8 +894,8 @@
         "214B"
       ], 
       "housenumber": "214B", 
-      "lat": 50.960836339432, 
-      "lon": 5.452182728098, 
+      "lat": 50.96084412445, 
+      "lon": 5.452176929221, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -914,11 +918,11 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.960037536399, 
-      "lon": 5.451698057604, 
+      "lat": 50.959972267999, 
+      "lon": 5.451746799313, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -938,11 +942,11 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 50.960081224993, 
-      "lon": 5.451610666785, 
+      "lat": 50.959995105599, 
+      "lon": 5.451570953554, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -962,8 +966,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.965031508234, 
-      "lon": 5.473845367324, 
+      "lat": 50.965029697208, 
+      "lon": 5.473846748285, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -986,11 +990,11 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.959997858891, 
-      "lon": 5.451350229927, 
+      "lat": 50.95994180366, 
+      "lon": 5.451345518466, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1238,8 +1242,8 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 50.959712218839, 
-      "lon": 5.445375012883, 
+      "lat": 50.959716023907, 
+      "lon": 5.445371826243, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1298,11 +1302,11 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.959110910148, 
-      "lon": 5.446468528438, 
+      "lat": 50.959161289018, 
+      "lon": 5.446455025128, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1326,11 +1330,11 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 50.959092022751, 
-      "lon": 5.446351795211, 
+      "lat": 50.959140980641, 
+      "lon": 5.446326586503, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1350,11 +1354,11 @@
         "283"
       ], 
       "housenumber": "283", 
-      "lat": 50.958954828248, 
-      "lon": 5.446117039762, 
+      "lat": 50.958973066934, 
+      "lon": 5.446098669107, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1378,11 +1382,11 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.958885504739, 
-      "lon": 5.445990606762, 
+      "lat": 50.958949478491, 
+      "lon": 5.44594552952, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1403,14 +1407,14 @@
         "BU11"
       ], 
       "hnrlbls": [
-        "287-289"
+        "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.958737050469, 
-      "lon": 5.445679723391, 
+      "lat": 50.958933108841, 
+      "lon": 5.445622734658, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1427,14 +1431,14 @@
     }, 
     {
       "hnrlbls": [
-        "287-289"
+        "289"
       ], 
       "housenumber": "289", 
-      "lat": 50.958737050469, 
-      "lon": 5.445679723391, 
+      "lat": 50.958920531599, 
+      "lon": 5.445533478062, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1493,11 +1497,11 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 50.958986928453, 
-      "lon": 5.442256723147, 
+      "lat": 50.958949125536, 
+      "lon": 5.442251729052, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1533,11 +1537,11 @@
         "300"
       ], 
       "housenumber": "300", 
-      "lat": 50.958934459672, 
-      "lon": 5.441583780716, 
+      "lat": 50.958882823, 
+      "lon": 5.441597260385, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1564,7 +1568,7 @@
       "lon": 5.443403949292, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1597,11 +1601,11 @@
         "308"
       ], 
       "housenumber": "308", 
-      "lat": 50.958848890565, 
-      "lon": 5.440587095491, 
+      "lat": 50.958737581092, 
+      "lon": 5.440647467119, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1669,8 +1673,8 @@
         "319"
       ], 
       "housenumber": "319", 
-      "lat": 50.958273762512, 
-      "lon": 5.442018041457, 
+      "lat": 50.958274141545, 
+      "lon": 5.442015914947, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1705,11 +1709,11 @@
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 50.958271775332, 
-      "lon": 5.441910809375, 
+      "lat": 50.958195869349, 
+      "lon": 5.441874623403, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1717,11 +1721,11 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 50.958241956278, 
-      "lon": 5.440883669954, 
+      "lat": 50.958220654329, 
+      "lon": 5.440893004459, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1734,11 +1738,11 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.958140533339, 
-      "lon": 5.440520645768, 
+      "lat": 50.958156957318, 
+      "lon": 5.440484296219, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1811,11 +1815,11 @@
         "336"
       ], 
       "housenumber": "336", 
-      "lat": 50.958132766494, 
-      "lon": 5.436773222081, 
+      "lat": 50.958090894562, 
+      "lon": 5.436800452162, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1823,11 +1827,11 @@
         "337"
       ], 
       "housenumber": "337", 
-      "lat": 50.958157183559, 
-      "lon": 5.439848301051, 
+      "lat": 50.958190276226, 
+      "lon": 5.439817741372, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1835,11 +1839,11 @@
         "339"
       ], 
       "housenumber": "339", 
-      "lat": 50.958162269556, 
-      "lon": 5.439753899787, 
+      "lat": 50.958194695396, 
+      "lon": 5.439727452826, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1874,11 +1878,11 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 50.958102330738, 
-      "lon": 5.439682068912, 
+      "lat": 50.958183774001, 
+      "lon": 5.439623717896, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -1902,11 +1906,11 @@
         "345"
       ], 
       "housenumber": "345", 
-      "lat": 50.957942879437, 
-      "lon": 5.439204843265, 
+      "lat": 50.957969222234, 
+      "lon": 5.439283592437, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2050,11 +2054,11 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 50.957592846367, 
-      "lon": 5.436631668754, 
+      "lat": 50.957651415859, 
+      "lon": 5.43656752517, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2131,41 +2135,42 @@
     }, 
     {
       "busnrs": [
+        "BU01", 
         "BU02"
       ], 
       "hnrlbls": [
         "377"
       ], 
       "housenumber": "377", 
-      "lat": 50.95672318198, 
-      "lon": 5.434409264376, 
+      "lat": 50.95686581166, 
+      "lon": 5.434473572286, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
       "hnrlbls": [
-        "37A-37B"
+        "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.963649146826, 
-      "lon": 5.472873025317, 
+      "lat": 50.963829107538, 
+      "lon": 5.472856338393, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
       "hnrlbls": [
-        "37A-37B"
+        "37B"
       ], 
       "housenumber": "37B", 
-      "lat": 50.963649146826, 
-      "lon": 5.472873025317, 
+      "lat": 50.963705148901, 
+      "lon": 5.47278764562, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2212,11 +2217,11 @@
         "383"
       ], 
       "housenumber": "383", 
-      "lat": 50.955227501656, 
-      "lon": 5.427438057779, 
+      "lat": 50.955368468736, 
+      "lon": 5.426839157528, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2264,11 +2269,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.963718862171, 
-      "lon": 5.472361447866, 
+      "lat": 50.963626069124, 
+      "lon": 5.472362963776, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2315,11 +2320,11 @@
         "394"
       ], 
       "housenumber": "394", 
-      "lat": 50.951891949916, 
-      "lon": 5.406638765746, 
+      "lat": 50.951863224229, 
+      "lon": 5.406664459852, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2430,26 +2435,14 @@
     }, 
     {
       "hnrlbls": [
-        "403"
+        "403A"
       ], 
-      "housenumber": "403", 
+      "housenumber": "403A", 
       "lat": 50.954878035748, 
       "lon": 5.421036463623, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hasseltweg"
-    }, 
-    {
-      "hnrlbls": [
-        "403A"
-      ], 
-      "housenumber": "403A", 
-      "lat": 50.954864323161, 
-      "lon": 5.421051812589, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2476,11 +2469,11 @@
         "406"
       ], 
       "housenumber": "406", 
-      "lat": 50.951578802558, 
-      "lon": 5.404981433345, 
+      "lat": 50.951534567041, 
+      "lon": 5.405012478345, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2504,11 +2497,11 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 50.951429334892, 
-      "lon": 5.404661172534, 
+      "lat": 50.951442818049, 
+      "lon": 5.404620623475, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2636,8 +2629,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.96346666842, 
-      "lon": 5.472057115887, 
+      "lat": 50.963455935031, 
+      "lon": 5.472060849311, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2780,8 +2773,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.963295354755, 
-      "lon": 5.470893827359, 
+      "lat": 50.963283419988, 
+      "lon": 5.470910630086, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2797,11 +2790,11 @@
         "475"
       ], 
       "housenumber": "475", 
-      "lat": 50.951983993535, 
-      "lon": 5.408957729478, 
+      "lat": 50.952038057631, 
+      "lon": 5.408893032375, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2824,11 +2817,11 @@
         "481"
       ], 
       "housenumber": "481", 
-      "lat": 50.951776658027, 
-      "lon": 5.408086935259, 
+      "lat": 50.951791245157, 
+      "lon": 5.408023354617, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2881,14 +2874,14 @@
     }, 
     {
       "hnrlbls": [
-        "501-503"
+        "501"
       ], 
       "housenumber": "501", 
-      "lat": 50.951116474079, 
-      "lon": 5.405507485799, 
+      "lat": 50.951123852312, 
+      "lon": 5.405618803553, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2897,14 +2890,14 @@
         "BU21"
       ], 
       "hnrlbls": [
-        "501-503"
+        "503"
       ], 
       "housenumber": "503", 
-      "lat": 50.951116474079, 
-      "lon": 5.405507485799, 
+      "lat": 50.951109107013, 
+      "lon": 5.405537495377, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2916,11 +2909,11 @@
         "505"
       ], 
       "housenumber": "505", 
-      "lat": 50.951069761481, 
-      "lon": 5.405564520348, 
+      "lat": 50.951084700875, 
+      "lon": 5.405471059822, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2934,11 +2927,11 @@
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 50.951021436364, 
-      "lon": 5.405182879493, 
+      "lat": 50.951087458402, 
+      "lon": 5.405158578982, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -2999,11 +2992,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.963871731128, 
-      "lon": 5.470211510155, 
+      "lat": 50.963847717569, 
+      "lon": 5.470231730778, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -3059,8 +3052,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.964204547991, 
-      "lon": 5.468147640918, 
+      "lat": 50.964192253438, 
+      "lon": 5.468154897781, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -3111,11 +3104,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.962796360196, 
-      "lon": 5.469401825296, 
+      "lat": 50.962922574613, 
+      "lon": 5.469354678931, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {
@@ -3203,11 +3196,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.962971167608, 
-      "lon": 5.466043221475, 
+      "lat": 50.96294384342, 
+      "lon": 5.466042581607, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltweg"
     }, 
     {

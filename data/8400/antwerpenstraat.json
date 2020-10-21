@@ -30,6 +30,10 @@
       "street": "Antwerpenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -42,12 +46,19 @@
       "street": "Antwerpenstraat"
     }, 
     {
-      "hnrlbls": [
-        "12"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "12", 
-      "lat": 51.224924635903, 
-      "lon": 2.913021860768, 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.224889712711, 
+      "lon": 2.913084228638, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -56,49 +67,15 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
-        "0101", 
         "0201", 
-        "0202"
-      ], 
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.224880407151, 
-      "lon": 2.913080510238, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.224844812791, 
-      "lon": 2.91311025564, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpenstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.224800583994, 
-      "lon": 2.913168904926, 
+      "lat": 51.224807649986, 
+      "lon": 2.913165964133, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -147,51 +124,52 @@
       "street": "Antwerpenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.225436046156, 
-      "lon": 2.912704803105, 
+      "lat": 51.225447897862, 
+      "lon": 2.912732781615, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpenstraat"
     }, 
     {
       "hnrlbls": [
-        "3-4"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.225359805708, 
-      "lon": 2.912770179817, 
+      "lat": 51.225386185819, 
+      "lon": 2.912795270804, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpenstraat"
     }, 
     {
       "hnrlbls": [
-        "3-4"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.225359805708, 
-      "lon": 2.912770179817, 
+      "lat": 51.225338672798, 
+      "lon": 2.91282080724, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpenstraat"
     }, 
     {
       "busnrs": [
         "0101", 
         "0201", 
-        "0501", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "5"
@@ -206,9 +184,7 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "6"

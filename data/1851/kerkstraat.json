@@ -261,33 +261,6 @@
     }, 
     {
       "hnrlbls": [
-        "124-126"
-      ], 
-      "housenumber": "124", 
-      "lat": 50.972586061617, 
-      "lon": 4.386038113035, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "124-126"
-      ], 
-      "housenumber": "126", 
-      "lat": 50.972586061617, 
-      "lon": 4.386038113035, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "127"
       ], 
       "housenumber": "127", 
@@ -300,14 +273,14 @@
     }, 
     {
       "hnrlbls": [
-        "128"
+        "128-136"
       ], 
       "housenumber": "128", 
-      "lat": 50.972883108495, 
-      "lon": 4.386332659546, 
+      "lat": 50.972995337605, 
+      "lon": 4.386624431458, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -336,6 +309,18 @@
     }, 
     {
       "hnrlbls": [
+        "128-136"
+      ], 
+      "housenumber": "130", 
+      "lat": 50.972995337605, 
+      "lon": 4.386624431458, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "129-131"
       ], 
       "housenumber": "131", 
@@ -348,14 +333,14 @@
     }, 
     {
       "hnrlbls": [
-        "132-134"
+        "128-136"
       ], 
       "housenumber": "132", 
-      "lat": 50.973110427286, 
-      "lon": 4.386444655855, 
+      "lat": 50.972995337605, 
+      "lon": 4.386624431458, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -372,14 +357,14 @@
     }, 
     {
       "hnrlbls": [
-        "132-134"
+        "128-136"
       ], 
       "housenumber": "134", 
-      "lat": 50.973110427286, 
-      "lon": 4.386444655855, 
+      "lat": 50.972995337605, 
+      "lon": 4.386624431458, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -396,14 +381,14 @@
     }, 
     {
       "hnrlbls": [
-        "136"
+        "128-136"
       ], 
       "housenumber": "136", 
-      "lat": 50.973217464777, 
-      "lon": 4.386594905089, 
+      "lat": 50.972995337605, 
+      "lon": 4.386624431458, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -863,11 +848,11 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.975364986755, 
-      "lon": 4.387649531245, 
+      "lat": 50.97535527176, 
+      "lon": 4.387689679205, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -896,11 +881,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.967947735237, 
-      "lon": 4.381277079177, 
+      "lat": 50.968152682942, 
+      "lon": 4.381328671687, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -917,18 +902,23 @@
     }, 
     {
       "busnrs": [
-        "B001", 
-        "B002"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0104", 
+        "0105"
       ], 
       "hnrlbls": [
-        "203-205"
+        "205"
       ], 
-      "housenumber": "203", 
-      "lat": 50.975557602277, 
-      "lon": 4.387783309986, 
+      "housenumber": "205", 
+      "lat": 50.975525500259, 
+      "lon": 4.387846941933, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1294,7 +1284,7 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "24-24A"
       ], 
       "housenumber": "24", 
       "lat": 50.968348633307, 
@@ -1402,6 +1392,18 @@
     }, 
     {
       "hnrlbls": [
+        "24-24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.968348633307, 
+      "lon": 4.381451727699, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -1414,14 +1416,14 @@
     }, 
     {
       "hnrlbls": [
-        "250-254"
+        "250"
       ], 
       "housenumber": "250", 
-      "lat": 50.977746571435, 
-      "lon": 4.389727004316, 
+      "lat": 50.977743963135, 
+      "lon": 4.389734834577, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1434,30 +1436,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1851", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "250-254"
-      ], 
-      "housenumber": "252", 
-      "lat": 50.977746571435, 
-      "lon": 4.389727004316, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "250-254"
-      ], 
-      "housenumber": "254", 
-      "lat": 50.977746571435, 
-      "lon": 4.389727004316, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1510,17 +1488,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0101"
       ], 
       "hnrlbls": [
-        "260"
+        "260-262"
       ], 
       "housenumber": "260", 
-      "lat": 50.97793299297, 
-      "lon": 4.389801133734, 
+      "lat": 50.977924713667, 
+      "lon": 4.389851251473, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1537,14 +1515,14 @@
     }, 
     {
       "hnrlbls": [
-        "262"
+        "260-262"
       ], 
       "housenumber": "262", 
-      "lat": 50.977970024625, 
-      "lon": 4.389821085646, 
+      "lat": 50.977924713667, 
+      "lon": 4.389851251473, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

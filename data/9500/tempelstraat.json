@@ -85,10 +85,6 @@
       "street": "Tempelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "BB02"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -266,8 +262,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.822075164624, 
-      "lon": 3.888717740492, 
+      "lat": 50.822075431985, 
+      "lon": 3.88871717008, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -682,15 +678,21 @@
       "street": "Tempelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.822736536014, 
-      "lon": 3.887289631214, 
+      "lat": 50.822651122702, 
+      "lon": 3.88735280885, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tempelstraat"
     }, 
     {
@@ -806,8 +808,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.823576699088, 
-      "lon": 3.88516335685, 
+      "lat": 50.823583463476, 
+      "lon": 3.885190537296, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 

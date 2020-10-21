@@ -57,8 +57,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.244862124684, 
-      "lon": 4.447966501777, 
+      "lat": 51.244863916152, 
+      "lon": 4.447975670063, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -198,8 +198,8 @@
         "26-28"
       ], 
       "housenumber": "26", 
-      "lat": 51.244412438663, 
-      "lon": 4.447834841286, 
+      "lat": 51.244415577228, 
+      "lon": 4.447845730246, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -222,8 +222,8 @@
         "26-28"
       ], 
       "housenumber": "28", 
-      "lat": 51.244412438663, 
-      "lon": 4.447834841286, 
+      "lat": 51.244415577228, 
+      "lon": 4.447845730246, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -242,9 +242,6 @@
       "street": "Komiteitstraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -353,15 +350,19 @@
       "street": "Komiteitstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.244206599291, 
-      "lon": 4.447978552621, 
+      "lat": 51.244215958584, 
+      "lon": 4.448094564307, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Komiteitstraat"
     }, 
     {
@@ -388,18 +389,6 @@
       "housenumber": "4", 
       "lat": 51.244925236893, 
       "lon": 4.447545009562, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Komiteitstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.244168562147, 
-      "lon": 4.44800311854, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -521,8 +510,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.245119558249, 
-      "lon": 4.447820728565, 
+      "lat": 51.245109337945, 
+      "lon": 4.447781615498, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -754,14 +743,10 @@
       "street": "Komiteitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "69"

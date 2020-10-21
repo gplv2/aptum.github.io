@@ -625,12 +625,19 @@
       "street": "Hogeweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "165"
+        "165-167"
       ], 
       "housenumber": "165", 
-      "lat": 51.069983017092, 
-      "lon": 3.748836124459, 
+      "lat": 51.069825409144, 
+      "lon": 3.748830934222, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -649,12 +656,53 @@
       "street": "Hogeweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403"
+      ], 
+      "hnrlbls": [
+        "165-167"
+      ], 
+      "housenumber": "167", 
+      "lat": 51.069825409144, 
+      "lon": 3.748830934222, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hogeweg"
+    }, 
+    {
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
       "lat": 51.06941600215, 
       "lon": 3.748464401568, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hogeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 51.070177126734, 
+      "lon": 3.749818308928, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1620,23 +1668,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.072416179603, 
-      "lon": 3.74770168594, 
+      "lat": 51.072402936371, 
+      "lon": 3.747696154231, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hogeweg"
-    }, 
-    {
-      "hnrlbls": [
-        "96"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.071355105533, 
-      "lon": 3.747669528908, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hogeweg"
     }
   ]

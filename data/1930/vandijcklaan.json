@@ -252,18 +252,12 @@
       "street": "Van Dijcklaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.887429776298, 
-      "lon": 4.473536946336, 
+      "lat": 50.887432555733, 
+      "lon": 4.473545053226, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -282,12 +276,6 @@
       "street": "Van Dijcklaan"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -337,11 +325,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "32"
@@ -448,6 +434,18 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Dijcklaan"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.887623531108, 
+      "lon": 4.473899922468, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Dijcklaan"
     }, 
     {
@@ -561,7 +559,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "011", 
         "012", 
         "021", 

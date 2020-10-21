@@ -1,14 +1,17 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "14", 
-        "22", 
-        "31", 
-        "32", 
-        "33"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "204", 
+        "301", 
+        "304", 
+        "401", 
+        "403"
       ], 
       "hnrlbls": [
         "11-15"
@@ -46,19 +49,12 @@
       "street": "Hessenplein"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "8"
-      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.22655952243, 
-      "lon": 4.410177256894, 
+      "lat": 51.226560488823, 
+      "lon": 4.409987154304, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -107,6 +103,13 @@
       "street": "Hessenplein"
     }, 
     {
+      "apptnrs": [
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208"
+      ], 
       "busnrs": [
         "001", 
         "102", 
@@ -202,11 +205,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.226124087628, 
-      "lon": 4.410031996882, 
+      "lat": 51.226122199563, 
+      "lon": 4.410033426671, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hessenplein"
     }, 
     {
@@ -242,8 +245,8 @@
         "37-39"
       ], 
       "housenumber": "37", 
-      "lat": 51.225836147702, 
-      "lon": 4.410151409365, 
+      "lat": 51.225839654031, 
+      "lon": 4.410148979015, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -254,8 +257,8 @@
         "37-39"
       ], 
       "housenumber": "39", 
-      "lat": 51.225836147702, 
-      "lon": 4.410151409365, 
+      "lat": 51.225839654031, 
+      "lon": 4.410148979015, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -266,8 +269,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.225715876617, 
-      "lon": 4.410170196265, 
+      "lat": 51.225721089564, 
+      "lon": 4.410171059859, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

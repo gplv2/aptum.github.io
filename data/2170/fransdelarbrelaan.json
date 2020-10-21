@@ -131,8 +131,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.240429530716, 
-      "lon": 4.439550045565, 
+      "lat": 51.240431766369, 
+      "lon": 4.439568950449, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -237,9 +237,11 @@
       "street": "Frans de l'Arbrelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "28"
@@ -578,6 +580,10 @@
       "street": "Frans de l'Arbrelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -602,6 +608,11 @@
       "street": "Frans de l'Arbrelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -928,15 +939,11 @@
       "street": "Frans de l'Arbrelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1000", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "71"

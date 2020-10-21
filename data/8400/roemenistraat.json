@@ -2,7 +2,6 @@
   "addresses": [
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -17,26 +16,28 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.216132309013, 
-      "lon": 2.889834586762, 
+      "lat": 51.216164858688, 
+      "lon": 2.889799056486, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roemeni\u00ebstraat"
     }, 
     {
       "busnrs": [
-        "0101"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.216385090356, 
-      "lon": 2.889559602943, 
+      "lat": 51.216379458185, 
+      "lon": 2.88954775716, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roemeni\u00ebstraat"
     }, 
     {
@@ -56,8 +57,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.216236589499, 
-      "lon": 2.889438771975, 
+      "lat": 51.216239817147, 
+      "lon": 2.889445254377, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -80,8 +81,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.216181933875, 
-      "lon": 2.889489461381, 
+      "lat": 51.216162890691, 
+      "lon": 2.889533868132, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

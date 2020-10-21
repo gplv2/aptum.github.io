@@ -37,6 +37,13 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -281,11 +288,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.019445480896, 
-      "lon": 3.780131715543, 
+      "lat": 51.019451925621, 
+      "lon": 3.780198192214, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -325,6 +332,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -587,31 +597,15 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204"
-      ], 
       "hnrlbls": [
         "157B"
       ], 
       "housenumber": "157B", 
-      "lat": 51.015428632621, 
-      "lon": 3.7852721433, 
+      "lat": 51.015367654508, 
+      "lon": 3.785374938555, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -619,11 +613,11 @@
         "157C"
       ], 
       "housenumber": "157C", 
-      "lat": 51.015654911275, 
-      "lon": 3.785439057013, 
+      "lat": 51.016005605694, 
+      "lon": 3.785316125302, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1115,8 +1109,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.00649755568, 
-      "lon": 3.79340997778, 
+      "lat": 51.006396889612, 
+      "lon": 3.793284119006, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -1307,6 +1301,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "200"
       ], 
@@ -1870,8 +1868,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.024724895534, 
-      "lon": 3.773435432593, 
+      "lat": 51.024717204717, 
+      "lon": 3.773425552615, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3436,6 +3434,30 @@
     }, 
     {
       "hnrlbls": [
+        "348A"
+      ], 
+      "housenumber": "348A", 
+      "lat": 50.996787050478, 
+      "lon": 3.81377496114, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "348B"
+      ], 
+      "housenumber": "348B", 
+      "lat": 50.996722532088, 
+      "lon": 3.813971168448, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "349"
       ], 
       "housenumber": "349", 
@@ -4146,8 +4168,8 @@
         "403"
       ], 
       "housenumber": "403", 
-      "lat": 51.001337488815, 
-      "lon": 3.805014312983, 
+      "lat": 51.001328165558, 
+      "lon": 3.805000890753, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4158,8 +4180,8 @@
         "404"
       ], 
       "housenumber": "404", 
-      "lat": 50.993222664575, 
-      "lon": 3.82485432485, 
+      "lat": 50.993231685675, 
+      "lon": 3.824861199891, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4335,18 +4357,6 @@
       "housenumber": "42", 
       "lat": 51.021808179433, 
       "lon": 3.775888189237, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "421"
-      ], 
-      "housenumber": "421", 
-      "lat": 51.000938569517, 
-      "lon": 3.805696955069, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4874,23 +4884,11 @@
     }, 
     {
       "hnrlbls": [
-        "489B"
+        "489A"
       ], 
-      "housenumber": "489B", 
-      "lat": 50.995627065346, 
-      "lon": 3.822740007769, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "489D"
-      ], 
-      "housenumber": "489D", 
-      "lat": 50.995502709121, 
-      "lon": 3.823101421412, 
+      "housenumber": "489A", 
+      "lat": 50.995439719047, 
+      "lon": 3.822311710503, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -4898,19 +4896,43 @@
     }, 
     {
       "hnrlbls": [
-        "491-491A"
+        "489B"
       ], 
-      "housenumber": "491", 
-      "lat": 50.994734091012, 
-      "lon": 3.822067657523, 
+      "housenumber": "489B", 
+      "lat": 50.995334953247, 
+      "lon": 3.822516345915, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "491-491A"
+        "489D"
+      ], 
+      "housenumber": "489D", 
+      "lat": 50.99565575788, 
+      "lon": 3.823306334261, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "491"
+      ], 
+      "housenumber": "491", 
+      "lat": 50.99469555445, 
+      "lon": 3.821957426278, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "491A"
       ], 
       "housenumber": "491A", 
       "lat": 50.994734091012, 
@@ -4942,6 +4964,42 @@
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "493B"
+      ], 
+      "housenumber": "493B", 
+      "lat": 50.994919695412, 
+      "lon": 3.823342098892, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "493C"
+      ], 
+      "housenumber": "493C", 
+      "lat": 50.995220009132, 
+      "lon": 3.824056541765, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "493D"
+      ], 
+      "housenumber": "493D", 
+      "lat": 50.995162184236, 
+      "lon": 3.824615605557, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5006,7 +5064,7 @@
     }, 
     {
       "hnrlbls": [
-        "503"
+        "503-503M"
       ], 
       "housenumber": "503", 
       "lat": 50.994182664963, 
@@ -5021,11 +5079,11 @@
         "503A"
       ], 
       "housenumber": "503A", 
-      "lat": 50.994497162928, 
-      "lon": 3.823820640606, 
+      "lat": 50.994466750031, 
+      "lon": 3.823872701361, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5033,11 +5091,11 @@
         "503B"
       ], 
       "housenumber": "503B", 
-      "lat": 50.994469934524, 
-      "lon": 3.824192025962, 
+      "lat": 50.994398042996, 
+      "lon": 3.824138731398, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5045,11 +5103,11 @@
         "503C"
       ], 
       "housenumber": "503C", 
-      "lat": 50.994553919175, 
-      "lon": 3.82425557884, 
+      "lat": 50.994466839618, 
+      "lon": 3.824319834996, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5057,11 +5115,11 @@
         "503D"
       ], 
       "housenumber": "503D", 
-      "lat": 50.994615088216, 
-      "lon": 3.824303442817, 
+      "lat": 50.994539758672, 
+      "lon": 3.824381522257, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5069,11 +5127,11 @@
         "503E"
       ], 
       "housenumber": "503E", 
-      "lat": 50.994664370203, 
-      "lon": 3.824346744149, 
+      "lat": 50.994608880262, 
+      "lon": 3.82445792564, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5081,11 +5139,11 @@
         "503F"
       ], 
       "housenumber": "503F", 
-      "lat": 50.994590948649, 
-      "lon": 3.824915810455, 
+      "lat": 50.994715241689, 
+      "lon": 3.825201540214, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5093,11 +5151,11 @@
         "503G"
       ], 
       "housenumber": "503G", 
-      "lat": 50.994464892225, 
-      "lon": 3.825027096666, 
+      "lat": 50.994563806471, 
+      "lon": 3.825014412278, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5105,11 +5163,11 @@
         "503H"
       ], 
       "housenumber": "503H", 
-      "lat": 50.994424373559, 
-      "lon": 3.824973722104, 
+      "lat": 50.994497670638, 
+      "lon": 3.824942104451, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5117,11 +5175,11 @@
         "503I"
       ], 
       "housenumber": "503I", 
-      "lat": 50.994368679915, 
-      "lon": 3.824904569732, 
+      "lat": 50.99442723917, 
+      "lon": 3.824873977523, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5129,11 +5187,11 @@
         "503J"
       ], 
       "housenumber": "503J", 
-      "lat": 50.994311746201, 
-      "lon": 3.824839420346, 
+      "lat": 50.994363778864, 
+      "lon": 3.824797080856, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5141,11 +5199,11 @@
         "503K"
       ], 
       "housenumber": "503K", 
-      "lat": 50.994244717287, 
-      "lon": 3.824768405506, 
+      "lat": 50.994302653865, 
+      "lon": 3.824739244872, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5153,29 +5211,30 @@
         "503L"
       ], 
       "housenumber": "503L", 
-      "lat": 50.994190031372, 
-      "lon": 3.824703372835, 
+      "lat": 50.994265807458, 
+      "lon": 3.824585689797, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "503M"
+        "503-503M"
       ], 
       "housenumber": "503M", 
-      "lat": 50.994183956748, 
-      "lon": 3.824478096748, 
+      "lat": 50.994182664963, 
+      "lon": 3.823615470387, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0004", 
         "0005", 
         "0006"
@@ -5184,11 +5243,11 @@
         "505"
       ], 
       "housenumber": "505", 
-      "lat": 50.994070856885, 
-      "lon": 3.824047234484, 
+      "lat": 50.994058324782, 
+      "lon": 3.824000373558, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5703,11 +5762,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.022956365273, 
-      "lon": 3.775616256408, 
+      "lat": 51.022955398745, 
+      "lon": 3.775620687138, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5820,18 +5879,6 @@
     }, 
     {
       "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.018363752481, 
-      "lon": 3.780285105668, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -5868,26 +5915,49 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "87A-87C"
       ], 
-      "housenumber": "87", 
-      "lat": 51.021708536462, 
-      "lon": 3.777741464549, 
+      "housenumber": "87A", 
+      "lat": 51.021530540346, 
+      "lon": 3.777632393976, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "87B"
+      ], 
+      "housenumber": "87B", 
+      "lat": 51.021547658109, 
+      "lon": 3.777622058668, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "89"
+        "87A-87C"
       ], 
-      "housenumber": "89", 
-      "lat": 51.021387615104, 
-      "lon": 3.777579607927, 
+      "housenumber": "87C", 
+      "lat": 51.021530540346, 
+      "lon": 3.777632393976, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5947,11 +6017,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.017535847781, 
-      "lon": 3.781242513133, 
+      "lat": 51.017460392151, 
+      "lon": 3.781307590549, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

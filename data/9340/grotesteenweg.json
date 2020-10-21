@@ -113,8 +113,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.958431105699, 
-      "lon": 3.897441389717, 
+      "lat": 50.958432647509, 
+      "lon": 3.897444790273, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +125,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.959581423195, 
-      "lon": 3.89581345453, 
+      "lat": 50.959591856056, 
+      "lon": 3.89583711992, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -562,11 +562,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.957324147518, 
-      "lon": 3.89962376029, 
+      "lat": 50.957331252263, 
+      "lon": 3.899624543308, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -648,18 +648,18 @@
     }, 
     {
       "hnrlbls": [
-        "152"
+        "152-154"
       ], 
       "housenumber": "152", 
-      "lat": 50.958419107155, 
-      "lon": 3.898307330769, 
+      "lat": 50.958411076426, 
+      "lon": 3.89845728939, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "01", 
         "11"
       ], 
@@ -676,7 +676,7 @@
     }, 
     {
       "hnrlbls": [
-        "154"
+        "152-154"
       ], 
       "housenumber": "154", 
       "lat": 50.958411076426, 
@@ -703,8 +703,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.958196126165, 
-      "lon": 3.898521357114, 
+      "lat": 50.958242496224, 
+      "lon": 3.898427521763, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -715,8 +715,20 @@
         "156A"
       ], 
       "housenumber": "156A", 
-      "lat": 50.958281128394, 
-      "lon": 3.898647040984, 
+      "lat": 50.958322989031, 
+      "lon": 3.898729602783, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "156B"
+      ], 
+      "housenumber": "156B", 
+      "lat": 50.958196283208, 
+      "lon": 3.89851566219, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -742,6 +754,18 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "158"
+      ], 
+      "housenumber": "158", 
+      "lat": 50.958369405051, 
+      "lon": 3.899052664138, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -773,8 +797,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.956723538424, 
-      "lon": 3.900859342551, 
+      "lat": 50.956706640794, 
+      "lon": 3.900905198582, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -908,8 +932,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.963842781652, 
-      "lon": 3.878371675318, 
+      "lat": 50.96380601988, 
+      "lon": 3.878135471758, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -920,8 +944,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.958116662806, 
-      "lon": 3.899784224304, 
+      "lat": 50.95811937369, 
+      "lon": 3.899787755573, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1116,18 +1140,6 @@
       "street": "Grote Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "185"
-      ], 
-      "housenumber": "185", 
-      "lat": 50.956352635108, 
-      "lon": 3.90255873536, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Steenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -1254,8 +1266,8 @@
         "197-199"
       ], 
       "housenumber": "197", 
-      "lat": 50.955976642563, 
-      "lon": 3.904182006437, 
+      "lat": 50.955977080746, 
+      "lon": 3.904201927882, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1274,7 +1286,7 @@
       "street": "Grote Steenweg"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "01", 
         "02", 
         "11", 
@@ -1288,8 +1300,8 @@
         "197-199"
       ], 
       "housenumber": "199", 
-      "lat": 50.955976642563, 
-      "lon": 3.904182006437, 
+      "lat": 50.955977080746, 
+      "lon": 3.904201927882, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1641,8 +1653,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 50.955446093767, 
-      "lon": 3.90706279593, 
+      "lat": 50.955450263927, 
+      "lon": 3.907048807052, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1711,14 +1723,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "242"
+        "242-242B"
       ], 
       "housenumber": "242", 
-      "lat": 50.956151391055, 
-      "lon": 3.905343947657, 
+      "lat": 50.956135282216, 
+      "lon": 3.90543078402, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1735,14 +1747,14 @@
     }, 
     {
       "hnrlbls": [
-        "242B"
+        "242-242B"
       ], 
       "housenumber": "242B", 
-      "lat": 50.956119253683, 
-      "lon": 3.905515199965, 
+      "lat": 50.956135282216, 
+      "lon": 3.90543078402, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1822,8 +1834,8 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 50.956380717816, 
-      "lon": 3.906786885415, 
+      "lat": 50.956373073774, 
+      "lon": 3.906786106633, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1834,8 +1846,8 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.954845977947, 
-      "lon": 3.910102889797, 
+      "lat": 50.954831504459, 
+      "lon": 3.910102746484, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1867,7 +1879,7 @@
     }, 
     {
       "hnrlbls": [
-        "252"
+        "252-258"
       ], 
       "housenumber": "252", 
       "lat": 50.955897170596, 
@@ -1908,14 +1920,14 @@
     }, 
     {
       "hnrlbls": [
-        "258"
+        "252-258"
       ], 
       "housenumber": "258", 
-      "lat": 50.956269229881, 
-      "lon": 3.90714864077, 
+      "lat": 50.955897170596, 
+      "lon": 3.90696826901, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1923,11 +1935,11 @@
         "258A"
       ], 
       "housenumber": "258A", 
-      "lat": 50.956401632579, 
-      "lon": 3.907535753246, 
+      "lat": 50.956331171027, 
+      "lon": 3.907356115572, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -2187,8 +2199,8 @@
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 50.951515847431, 
-      "lon": 3.932499791524, 
+      "lat": 50.951295493688, 
+      "lon": 3.932614691663, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -2211,8 +2223,8 @@
         "356"
       ], 
       "housenumber": "356", 
-      "lat": 50.950796794561, 
-      "lon": 3.934252339615, 
+      "lat": 50.95079874695, 
+      "lon": 3.934245490632, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -2319,11 +2331,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.965529992398, 
-      "lon": 3.88403606226, 
+      "lat": 50.964386337334, 
+      "lon": 3.887052934621, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -2607,8 +2619,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.96243116049, 
-      "lon": 3.890319921032, 
+      "lat": 50.962431507905, 
+      "lon": 3.890316928211, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -2665,11 +2677,11 @@
         "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 50.959383146456, 
-      "lon": 3.895328657292, 
+      "lat": 50.959215938608, 
+      "lon": 3.895103884857, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Steenweg"
     }, 
     {

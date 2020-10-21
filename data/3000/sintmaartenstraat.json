@@ -279,6 +279,26 @@
       "street": "Sint-Maartenstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "1C-101"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.88064563608, 
+      "lon": 4.706226433636, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Maartenstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -397,7 +417,6 @@
         "0001", 
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
         "0202"
       ], 
@@ -413,13 +432,11 @@
       "street": "Sint-Maartenstraat"
     }, 
     {
-      "apptnrs": [
-        "bus 1", 
-        "bus 2"
-      ], 
       "busnrs": [
-        "bus 3", 
-        "bus 4"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "25A"
@@ -1032,11 +1049,11 @@
         "55A-55C"
       ], 
       "housenumber": "55A", 
-      "lat": 50.882795886104, 
-      "lon": 4.703767174226, 
+      "lat": 50.883114807682, 
+      "lon": 4.703147176328, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Maartenstraat"
     }, 
     {
@@ -1146,11 +1163,11 @@
         "55A-55C"
       ], 
       "housenumber": "55B", 
-      "lat": 50.882795886104, 
-      "lon": 4.703767174226, 
+      "lat": 50.883114807682, 
+      "lon": 4.703147176328, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Maartenstraat"
     }, 
     {
@@ -1171,11 +1188,11 @@
         "55A-55C"
       ], 
       "housenumber": "55C", 
-      "lat": 50.882795886104, 
-      "lon": 4.703767174226, 
+      "lat": 50.883114807682, 
+      "lon": 4.703147176328, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Maartenstraat"
     }, 
     {

@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -129,19 +126,24 @@
         "2"
       ], 
       "hnrlbls": [
-        "1A-1B"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.855811035065, 
-      "lon": 4.055310401901, 
+      "lat": 50.855714898283, 
+      "lon": 4.055262328147, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Kouterbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "1A-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
       "lat": 50.855811035065, 
@@ -257,8 +259,24 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.856976287766, 
-      "lon": 4.056197693234, 
+      "lat": 50.856968224927, 
+      "lon": 4.056072906208, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kouterbaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.857012254891, 
+      "lon": 4.056099598813, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -608,6 +626,9 @@
       "street": "Kouterbaan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "59"
       ], 

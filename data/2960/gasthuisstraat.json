@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.350765740153, 
-      "lon": 4.640302459188, 
+      "lat": 51.350807832834, 
+      "lon": 4.640328972313, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -25,15 +25,22 @@
       "street": "Gasthuisstraat"
     }, 
     {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "2V1", 
+        "2V2", 
+        "GV"
+      ], 
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.350765740153, 
-      "lon": 4.640302459188, 
+      "lat": 51.350745731606, 
+      "lon": 4.640248229916, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -56,7 +63,14 @@
     }, 
     {
       "apptnrs": [
-        "1V"
+        "1V1", 
+        "1V2", 
+        "1V3", 
+        "2V1", 
+        "2V2", 
+        "2V3", 
+        "GV1", 
+        "GV2"
       ], 
       "hnrlbls": [
         "14"
@@ -202,8 +216,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.349190638757, 
-      "lon": 4.636659234881, 
+      "lat": 51.349181898562, 
+      "lon": 4.636708558233, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -534,11 +548,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.351072664099, 
-      "lon": 4.639956472301, 
+      "lat": 51.351105439705, 
+      "lon": 4.639891355738, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -684,11 +698,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.350983727258, 
-      "lon": 4.639976477599, 
+      "lat": 51.35106728803, 
+      "lon": 4.639831565886, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -785,11 +799,11 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.351485569486, 
-      "lon": 4.638266457027, 
+      "lat": 51.35144568838, 
+      "lon": 4.638215844255, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -800,6 +814,7 @@
         "13", 
         "14", 
         "2", 
+        "21", 
         "22", 
         "23", 
         "24", 
@@ -810,11 +825,11 @@
         "9B"
       ], 
       "housenumber": "9B", 
-      "lat": 51.351723465634, 
-      "lon": 4.638233677911, 
+      "lat": 51.351745527904, 
+      "lon": 4.638294234995, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gasthuisstraat"
     }
   ]

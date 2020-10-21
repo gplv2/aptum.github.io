@@ -313,15 +313,41 @@
       "street": "Ommegangsdreef"
     }, 
     {
-      "hnrlbls": [
-        "51"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102"
       ], 
-      "housenumber": "51", 
-      "lat": 51.120926060434, 
-      "lon": 4.101302982348, 
+      "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 51.12090025198, 
+      "lon": 4.101298273543, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Ommegangsdreef"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "51B"
+      ], 
+      "housenumber": "51B", 
+      "lat": 51.121189748304, 
+      "lon": 4.102000478792, 
+      "municipality": "Waasmunster", 
+      "pcode": "9250", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ommegangsdreef"
     }, 
     {

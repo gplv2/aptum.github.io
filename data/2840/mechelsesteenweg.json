@@ -184,7 +184,7 @@
       "lon": 4.452654802096, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -196,7 +196,7 @@
       "lon": 4.452654802096, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -264,9 +264,21 @@
     }, 
     {
       "hnrlbls": [
-        "19"
+        "19-19A"
       ], 
       "housenumber": "19", 
+      "lat": 51.083035220112, 
+      "lon": 4.454742490579, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "19-19A"
+      ], 
+      "housenumber": "19A", 
       "lat": 51.083035220112, 
       "lon": 4.454742490579, 
       "municipality": "Rumst", 
@@ -363,8 +375,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.079967203983, 
-      "lon": 4.451925297872, 
+      "lat": 51.079968189913, 
+      "lon": 4.451929295284, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanPerceelGrb", 
@@ -639,8 +651,8 @@
         "44B"
       ], 
       "housenumber": "44B", 
-      "lat": 51.079153316962, 
-      "lon": 4.451975067516, 
+      "lat": 51.079152876966, 
+      "lon": 4.45196179571, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanPerceelGrb", 
@@ -804,18 +816,6 @@
     }, 
     {
       "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.084476634378, 
-      "lon": 4.451683489836, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -881,6 +881,54 @@
       "housenumber": "69", 
       "lat": 51.079059782494, 
       "lon": 4.452674123919, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.084381357175, 
+      "lon": 4.45167704001, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 51.084442482978, 
+      "lon": 4.451674723141, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6C"
+      ], 
+      "housenumber": "6C", 
+      "lat": 51.084547841037, 
+      "lon": 4.45166235254, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6D"
+      ], 
+      "housenumber": "6D", 
+      "lat": 51.084596293085, 
+      "lon": 4.451659299409, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

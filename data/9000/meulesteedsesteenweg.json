@@ -987,11 +987,11 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.0783165275, 
-      "lon": 3.729908736491, 
+      "lat": 51.078310260251, 
+      "lon": 3.729913388455, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -1039,7 +1039,7 @@
       "lon": 3.729901291284, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -1099,7 +1099,7 @@
       "lon": 3.729844018206, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -1416,26 +1416,26 @@
     }, 
     {
       "hnrlbls": [
-        "223-223A"
+        "223"
       ], 
       "housenumber": "223", 
       "lat": 51.078446548092, 
       "lon": 3.729483993357, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "223-223A"
+        "223A"
       ], 
       "housenumber": "223A", 
-      "lat": 51.078446548092, 
-      "lon": 3.729483993357, 
+      "lat": 51.078408850822, 
+      "lon": 3.729262320974, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -2691,11 +2691,23 @@
         "325"
       ], 
       "housenumber": "325", 
-      "lat": 51.080492752023, 
-      "lon": 3.728670445618, 
+      "lat": 51.080496491191, 
+      "lon": 3.728730046616, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meulesteedsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "325A"
+      ], 
+      "housenumber": "325A", 
+      "lat": 51.080517480215, 
+      "lon": 3.728721625319, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -2784,14 +2796,14 @@
     }, 
     {
       "hnrlbls": [
-        "335"
+        "327-337"
       ], 
       "housenumber": "335", 
-      "lat": 51.080517683607, 
-      "lon": 3.72865968706, 
+      "lat": 51.080574007669, 
+      "lon": 3.728636083656, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -4594,6 +4606,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -5450,15 +5463,26 @@
       "street": "Meulesteedsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "559"
       ], 
       "housenumber": "559", 
-      "lat": 51.086975663909, 
-      "lon": 3.727165228056, 
+      "lat": 51.087031321339, 
+      "lon": 3.727167890745, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -5468,18 +5492,6 @@
       "housenumber": "56", 
       "lat": 51.073987357353, 
       "lon": 3.731160388279, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Meulesteedsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "561"
-      ], 
-      "housenumber": "561", 
-      "lat": 51.087015090172, 
-      "lon": 3.727175106883, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -5634,11 +5646,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.075144190278, 
-      "lon": 3.730364681913, 
+      "lat": 51.075129177873, 
+      "lon": 3.730364601196, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meulesteedsesteenweg"
     }, 
     {
@@ -5646,8 +5658,8 @@
         "69A"
       ], 
       "housenumber": "69A", 
-      "lat": 51.075129177873, 
-      "lon": 3.730364601196, 
+      "lat": 51.075151771093, 
+      "lon": 3.730353591273, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

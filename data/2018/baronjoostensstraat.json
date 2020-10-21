@@ -42,8 +42,12 @@
       "street": "Baron Joostensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "10"
@@ -81,12 +85,18 @@
       "street": "Baron Joostensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.210229471425, 
-      "lon": 4.423707504703, 
+      "lat": 51.2102251753, 
+      "lon": 4.423668576356, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

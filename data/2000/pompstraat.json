@@ -44,6 +44,10 @@
       "street": "Pompstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -56,9 +60,6 @@
       "street": "Pompstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -107,8 +108,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.215452825482, 
-      "lon": 4.397088418059, 
+      "lat": 51.215428088156, 
+      "lon": 4.397166544004, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -141,8 +142,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.215413643343, 
-      "lon": 4.397058625546, 
+      "lat": 51.215387379274, 
+      "lon": 4.397131598317, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -283,7 +284,8 @@
     {
       "apptnrs": [
         "001", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "30"
@@ -397,12 +399,6 @@
       "street": "Pompstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -415,9 +411,6 @@
       "street": "Pompstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -430,12 +423,6 @@
       "street": "Pompstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5"
-      ], 
       "hnrlbls": [
         "9"
       ], 

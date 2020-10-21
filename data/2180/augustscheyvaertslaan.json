@@ -299,6 +299,10 @@
       "street": "August Scheyvaertslaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -708,15 +712,19 @@
       "street": "August Scheyvaertslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.27971902935, 
-      "lon": 4.42273776175, 
+      "lat": 51.279673935026, 
+      "lon": 4.422289710856, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "August Scheyvaertslaan"
     }, 
     {
@@ -866,11 +874,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.280853876807, 
-      "lon": 4.422930852603, 
+      "lat": 51.280865190006, 
+      "lon": 4.422956519704, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Scheyvaertslaan"
     }, 
     {

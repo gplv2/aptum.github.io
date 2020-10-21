@@ -74,8 +74,8 @@
         "108-116"
       ], 
       "housenumber": "108", 
-      "lat": 51.225230415435, 
-      "lon": 4.454979798429, 
+      "lat": 51.225230415224, 
+      "lon": 4.454980084721, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "108-116"
       ], 
       "housenumber": "110", 
-      "lat": 51.225230415435, 
-      "lon": 4.454979798429, 
+      "lat": 51.225230415224, 
+      "lon": 4.454980084721, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "108-116"
       ], 
       "housenumber": "112", 
-      "lat": 51.225230415435, 
-      "lon": 4.454979798429, 
+      "lat": 51.225230415224, 
+      "lon": 4.454980084721, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "108-116"
       ], 
       "housenumber": "114", 
-      "lat": 51.225230415435, 
-      "lon": 4.454979798429, 
+      "lat": 51.225230415224, 
+      "lon": 4.454980084721, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +125,8 @@
         "108-116"
       ], 
       "housenumber": "116", 
-      "lat": 51.225230415435, 
-      "lon": 4.454979798429, 
+      "lat": 51.225230415224, 
+      "lon": 4.454980084721, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -666,9 +666,6 @@
       "street": "Lakborslei"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -822,6 +819,11 @@
       "street": "Lakborslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -1067,6 +1069,18 @@
     }, 
     {
       "hnrlbls": [
+        "189A"
+      ], 
+      "housenumber": "189A", 
+      "lat": 51.224618769533, 
+      "lon": 4.454348107457, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lakborslei"
+    }, 
+    {
+      "hnrlbls": [
         "191"
       ], 
       "housenumber": "191", 
@@ -1142,8 +1156,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.228500319966, 
-      "lon": 4.455798020274, 
+      "lat": 51.228487906904, 
+      "lon": 4.455810308346, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1334,11 +1348,11 @@
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.226299417788, 
-      "lon": 4.454222526636, 
+      "lat": 51.226305068542, 
+      "lon": 4.454115461263, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lakborslei"
     }, 
     {
@@ -2916,10 +2930,10 @@
       "street": "Lakborslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "364"
@@ -3598,8 +3612,8 @@
         "429"
       ], 
       "housenumber": "429", 
-      "lat": 51.230410715945, 
-      "lon": 4.455055168608, 
+      "lat": 51.23040449903, 
+      "lon": 4.455075486021, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

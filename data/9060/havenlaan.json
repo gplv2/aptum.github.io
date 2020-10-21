@@ -187,10 +187,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0002", 
-        "101", 
-        "102", 
-        "201"
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "24"
@@ -213,18 +214,6 @@
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Havenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.204182081723, 
-      "lon": 3.808467421109, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Havenlaan"
     }, 
     {
@@ -849,6 +838,10 @@
       "street": "Havenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -936,15 +929,20 @@
       "street": "Havenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.203128965322, 
-      "lon": 3.809341410702, 
+      "lat": 51.203128692294, 
+      "lon": 3.809340698561, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenlaan"
     }
   ]

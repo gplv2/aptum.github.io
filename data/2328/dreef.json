@@ -1529,18 +1529,15 @@
       "street": "Dreef"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.499196286663, 
-      "lon": 4.777208623412, 
+      "lat": 51.499222490203, 
+      "lon": 4.776984943285, 
       "municipality": "Hoogstraten", 
       "pcode": "2328", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -1550,6 +1547,18 @@
       "housenumber": "63", 
       "lat": 51.499670222566, 
       "lon": 4.776625016395, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2328", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dreef"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.499278564707, 
+      "lon": 4.777039292091, 
       "municipality": "Hoogstraten", 
       "pcode": "2328", 
       "source": "afgeleidVanGebouw", 
@@ -1780,11 +1789,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.490183051994, 
-      "lon": 4.773583315435, 
+      "lat": 51.49028118941, 
+      "lon": 4.77329494491, 
       "municipality": "Hoogstraten", 
       "pcode": "2328", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dreef"
     }, 
     {
@@ -1854,9 +1863,6 @@
       "street": "Dreef"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "85"
       ], 

@@ -10,8 +10,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.317828334649, 
-      "lon": 4.98082498761, 
+      "lat": 51.317789991555, 
+      "lon": 4.980869951764, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -100,8 +100,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.317943007281, 
-      "lon": 4.980689516266, 
+      "lat": 51.31800560831, 
+      "lon": 4.980837793128, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -292,8 +292,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.318021392896, 
-      "lon": 4.978371611906, 
+      "lat": 51.318019785448, 
+      "lon": 4.978369582711, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -316,8 +316,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.317816189448, 
-      "lon": 4.980357657276, 
+      "lat": 51.317875243426, 
+      "lon": 4.980514062443, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -325,22 +325,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4", 
+        "bus5", 
+        "bus6"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.318325850081, 
-      "lon": 4.979291452932, 
+      "lat": 51.318222303025, 
+      "lon": 4.979239459372, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -368,11 +368,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.318241288228, 
-      "lon": 4.979183337984, 
+      "lat": 51.318300530503, 
+      "lon": 4.979355810518, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -404,11 +404,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.318452480604, 
-      "lon": 4.978771433444, 
+      "lat": 51.318428994021, 
+      "lon": 4.978846429933, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -439,11 +439,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.318306936266, 
-      "lon": 4.978636413269, 
+      "lat": 51.318281002384, 
+      "lon": 4.978715393712, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -482,6 +482,18 @@
       "street": "Koning Boudewijnlaan"
     }, 
     {
+      "hnrlbls": [
+        "49B"
+      ], 
+      "housenumber": "49B", 
+      "lat": 51.317386713646, 
+      "lon": 4.975908693704, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Boudewijnlaan"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -501,11 +513,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.317290169977, 
-      "lon": 4.975805307384, 
+      "lat": 51.317365555457, 
+      "lon": 4.975775453669, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -525,11 +537,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.31727369044, 
-      "lon": 4.975671124734, 
+      "lat": 51.31733591246, 
+      "lon": 4.975631632262, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Boudewijnlaan"
     }, 
     {
@@ -718,6 +730,18 @@
     }, 
     {
       "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 51.317849799992, 
+      "lon": 4.976625181181, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -779,8 +803,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.318771847976, 
-      "lon": 4.976742812224, 
+      "lat": 51.318673538147, 
+      "lon": 4.976948364251, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -807,8 +831,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.318958402051, 
-      "lon": 4.976873774365, 
+      "lat": 51.318956236937, 
+      "lon": 4.97712017467, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 

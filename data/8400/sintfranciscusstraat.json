@@ -61,41 +61,27 @@
       "street": "Sint-Franciscusstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "A", 
-        "F"
-      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.232204269683, 
-      "lon": 2.920787465905, 
+      "lat": 51.232188913892, 
+      "lon": 2.920752144034, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.231927021725, 
-      "lon": 2.921008287766, 
+      "lat": 51.231927520637, 
+      "lon": 2.921004978818, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -161,6 +147,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201"
       ], 
@@ -168,8 +155,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.231944141535, 
-      "lon": 2.920673541651, 
+      "lat": 51.231985786223, 
+      "lon": 2.920778068891, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -368,21 +355,26 @@
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0302", 
+        "0303", 
         "0401", 
-        "0402"
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.23129807584, 
-      "lon": 2.921772411266, 
+      "lat": 51.231282530111, 
+      "lon": 2.921780339602, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -419,24 +411,18 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0003", 
         "0101", 
         "0102", 
-        "0103", 
         "0201", 
         "0202", 
-        "0203", 
-        "0301", 
-        "0302", 
-        "0303", 
-        "0401"
+        "0301"
       ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.23140007985, 
-      "lon": 2.922026992227, 
+      "lat": 51.231386378692, 
+      "lon": 2.922038729459, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -457,8 +443,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.231474598349, 
-      "lon": 2.922239469089, 
+      "lat": 51.231469422319, 
+      "lon": 2.922227887864, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -479,31 +465,23 @@
         "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.23137679526, 
-      "lon": 2.922328418067, 
+      "lat": 51.231371663605, 
+      "lon": 2.922313112485, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "2"
-      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.230890599057, 
-      "lon": 2.921665633502, 
+      "lat": 51.230890258849, 
+      "lon": 2.921667219156, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -535,8 +513,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.231232308903, 
-      "lon": 2.922275622844, 
+      "lat": 51.231243539414, 
+      "lon": 2.922245633814, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -544,20 +522,26 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
         "0302", 
-        "0402", 
-        "1"
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.230848202547, 
-      "lon": 2.921720072769, 
+      "lat": 51.230920920275, 
+      "lon": 2.921851413359, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -577,6 +561,7 @@
         "0301", 
         "0302", 
         "0303", 
+        "0304", 
         "0401", 
         "0402", 
         "0403"
@@ -585,8 +570,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.231143601206, 
-      "lon": 2.921858537086, 
+      "lat": 51.231144131664, 
+      "lon": 2.92183575319, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -618,6 +603,28 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Franciscusstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.23077126268, 
+      "lon": 2.921985930277, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -741,18 +748,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.230755084445, 
-      "lon": 2.922331807006, 
+      "lat": 51.230726913997, 
+      "lon": 2.922248341752, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -841,18 +849,16 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
-        "60-62"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.230517776146, 
-      "lon": 2.922856367734, 
+      "lat": 51.230474083325, 
+      "lon": 2.922878341676, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -869,18 +875,6 @@
       "housenumber": "61", 
       "lat": 51.230154546781, 
       "lon": 2.923096587605, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Franciscusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60-62"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.230517776146, 
-      "lon": 2.922856367734, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -918,8 +912,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.230181645057, 
-      "lon": 2.923335158625, 
+      "lat": 51.230210490855, 
+      "lon": 2.923348869803, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -927,28 +921,24 @@
     }, 
     {
       "busnrs": [
-        "002B", 
-        "004A", 
-        "004B", 
+        "0101", 
+        "0102", 
         "0201", 
-        "1", 
-        "1A", 
-        "2A", 
-        "2B", 
-        "3A", 
-        "4A", 
-        "4B", 
-        "A"
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.230459743145, 
-      "lon": 2.923058488837, 
+      "lat": 51.230432488863, 
+      "lon": 2.923079380214, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {

@@ -25,6 +25,11 @@
       "street": "Lange Winkelhaakstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -63,7 +68,9 @@
     {
       "apptnrs": [
         "101", 
+        "102", 
         "201", 
+        "202", 
         "301"
       ], 
       "hnrlbls": [
@@ -275,18 +282,6 @@
     }, 
     {
       "hnrlbls": [
-        "34B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 51.219752327688, 
-      "lon": 4.422946973127, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Winkelhaakstraat"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -298,15 +293,12 @@
       "street": "Lange Winkelhaakstraat"
     }, 
     {
-      "busnrs": [
-        "38"
-      ], 
       "hnrlbls": [
-        "36-38"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.21981597391, 
-      "lon": 4.422928870599, 
+      "lat": 51.219793859753, 
+      "lon": 4.422934712883, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -326,11 +318,11 @@
     }, 
     {
       "hnrlbls": [
-        "36-38"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.21981597391, 
-      "lon": 4.422928870599, 
+      "lat": 51.219838088996, 
+      "lon": 4.422921024495, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -660,7 +652,7 @@
     }, 
     {
       "hnrlbls": [
-        "67-69"
+        "67"
       ], 
       "housenumber": "67", 
       "lat": 51.220192468635, 
@@ -677,18 +669,6 @@
       "housenumber": "68", 
       "lat": 51.220364625924, 
       "lon": 4.422343393988, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Winkelhaakstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67-69"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.220192468635, 
-      "lon": 4.422211942746, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

@@ -86,18 +86,6 @@
     }, 
     {
       "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 50.858079828726, 
-      "lon": 5.314743658117, 
-      "municipality": "Wellen", 
-      "pcode": "3830", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Russelt"
-    }, 
-    {
-      "hnrlbls": [
         "103A"
       ], 
       "housenumber": "103A", 
@@ -113,11 +101,11 @@
         "103B"
       ], 
       "housenumber": "103B", 
-      "lat": 50.858079654027, 
-      "lon": 5.314754165503, 
+      "lat": 50.858071279477, 
+      "lon": 5.314499604532, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Russelt"
     }, 
     {
@@ -476,7 +464,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3"
       ], 
@@ -1439,7 +1426,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-60B"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 50.852721617651, 
@@ -1463,14 +1450,14 @@
     }, 
     {
       "hnrlbls": [
-        "60-60B"
+        "60B"
       ], 
       "housenumber": "60B", 
-      "lat": 50.852721617651, 
-      "lon": 5.313823643415, 
+      "lat": 50.852685613935, 
+      "lon": 5.3138624013, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Russelt"
     }, 
     {
@@ -1670,11 +1657,11 @@
         "70A"
       ], 
       "housenumber": "70A", 
-      "lat": 50.853822370129, 
-      "lon": 5.314827906551, 
+      "lat": 50.853888449509, 
+      "lon": 5.314760922901, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Russelt"
     }, 
     {
@@ -1754,8 +1741,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.854592799206, 
-      "lon": 5.314765168954, 
+      "lat": 50.854559006981, 
+      "lon": 5.314864050323, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -1834,6 +1821,11 @@
       "street": "Russelt"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1888,6 +1880,18 @@
       "housenumber": "82", 
       "lat": 50.854651546451, 
       "lon": 5.315839948905, 
+      "municipality": "Wellen", 
+      "pcode": "3830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Russelt"
+    }, 
+    {
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 50.854801470106, 
+      "lon": 5.316022071401, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 

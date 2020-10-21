@@ -352,33 +352,8 @@
     }, 
     {
       "apptnrs": [
-        "A1", 
-        "A2", 
-        "A3", 
-        "A4", 
-        "A5", 
-        "A6", 
-        "A7", 
-        "B1", 
-        "B2", 
-        "B3", 
-        "B4", 
-        "B5", 
-        "B6", 
-        "B7"
+        "3"
       ], 
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.840498229068, 
-      "lon": 5.333120883769, 
-      "municipality": "Wellen", 
-      "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -387,31 +362,38 @@
         "6"
       ], 
       "hnrlbls": [
-        "29A-29B"
+        "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 50.840344919709, 
-      "lon": 5.333211305514, 
+      "lat": 50.840515661451, 
+      "lon": 5.333274871177, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "2", 
         "3", 
         "4"
       ], 
       "hnrlbls": [
-        "29A-29B"
+        "29B"
       ], 
       "housenumber": "29B", 
-      "lat": 50.840344919709, 
-      "lon": 5.333211305514, 
+      "lat": 50.840456213864, 
+      "lon": 5.332982578382, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -761,23 +743,25 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
         "5", 
         "6"
       ], 
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.840531048197, 
-      "lon": 5.330451214309, 
+      "lat": 50.840613446455, 
+      "lon": 5.330554989668, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -805,8 +789,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.840891806662, 
-      "lon": 5.33042097277, 
+      "lat": 50.84077640384, 
+      "lon": 5.330427981567, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "manueleAanduidingVanGebouw", 
@@ -826,8 +810,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.841008825396, 
-      "lon": 5.330359473599, 
+      "lat": 50.840957649002, 
+      "lon": 5.330362117734, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "manueleAanduidingVanGebouw", 
@@ -839,6 +823,7 @@
         "10", 
         "11", 
         "12", 
+        "13", 
         "2", 
         "3", 
         "4", 
@@ -995,8 +980,8 @@
         "63A-63B"
       ], 
       "housenumber": "63A", 
-      "lat": 50.841843034709, 
-      "lon": 5.330184010461, 
+      "lat": 50.841839562669, 
+      "lon": 5.330168888401, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1016,8 +1001,8 @@
         "63A-63B"
       ], 
       "housenumber": "63B", 
-      "lat": 50.841843034709, 
-      "lon": 5.330184010461, 
+      "lat": 50.841839562669, 
+      "lon": 5.330168888401, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanPerceelGrb", 

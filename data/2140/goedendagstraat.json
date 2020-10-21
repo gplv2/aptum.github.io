@@ -1,15 +1,21 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.221400755614, 
-      "lon": 4.44010686198, 
+      "lat": 51.221366312497, 
+      "lon": 4.440135721887, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Goedendagstraat"
     }, 
     {
@@ -469,9 +475,6 @@
       "street": "Goedendagstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -685,8 +688,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.22118041411, 
-      "lon": 4.440166065144, 
+      "lat": 51.221189579116, 
+      "lon": 4.440171232132, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

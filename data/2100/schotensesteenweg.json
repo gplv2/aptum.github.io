@@ -217,6 +217,10 @@
       "street": "Schotensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -729,14 +733,15 @@
       "street": "Schotensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "171"
+        "171-171A"
       ], 
       "housenumber": "171", 
       "lat": 51.222994296552, 
@@ -747,8 +752,21 @@
       "street": "Schotensesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "171-171A"
+      ], 
+      "housenumber": "171A", 
+      "lat": 51.222994296552, 
+      "lon": 4.480833468198, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schotensesteenweg"
+    }, 
+    {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
         "5"
@@ -789,6 +807,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5", 
         "6", 
@@ -818,24 +837,24 @@
       "street": "Schotensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.224148286036, 
-      "lon": 4.481146736458, 
+      "lat": 51.224194682011, 
+      "lon": 4.481130101251, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schotensesteenweg"
     }, 
     {
@@ -891,10 +910,14 @@
       "street": "Schotensesteenweg"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "5", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "186"
@@ -1164,8 +1187,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.225783251505, 
-      "lon": 4.481544215919, 
+      "lat": 51.22576831819, 
+      "lon": 4.481557349178, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1224,8 +1247,8 @@
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 51.226876513001, 
-      "lon": 4.482564539781, 
+      "lat": 51.226875166689, 
+      "lon": 4.482562532356, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1260,11 +1283,11 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.225108346996, 
-      "lon": 4.480190560308, 
+      "lat": 51.225158151881, 
+      "lon": 4.480180803014, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schotensesteenweg"
     }, 
     {
@@ -1506,11 +1529,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.219455980476, 
-      "lon": 4.474769429248, 
+      "lat": 51.219372572621, 
+      "lon": 4.474863989277, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schotensesteenweg"
     }, 
     {
@@ -1614,8 +1637,8 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 51.227172512767, 
-      "lon": 4.482086422589, 
+      "lat": 51.227170353768, 
+      "lon": 4.482088278287, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2056,6 +2079,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Schotensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.219392671295, 
+      "lon": 4.474903109344, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schotensesteenweg"
     }, 
     {
@@ -2698,8 +2733,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.219395411066, 
-      "lon": 4.475648384823, 
+      "lat": 51.219394512748, 
+      "lon": 4.475647810237, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2811,11 +2846,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.220995190704, 
-      "lon": 4.476408964732, 
+      "lat": 51.220938452543, 
+      "lon": 4.476628255881, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schotensesteenweg"
     }, 
     {
@@ -2919,8 +2954,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.220416919962, 
-      "lon": 4.477727579411, 
+      "lat": 51.220489347936, 
+      "lon": 4.477650601777, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2972,8 +3007,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.219469070055, 
-      "lon": 4.475600034198, 
+      "lat": 51.219468530361, 
+      "lon": 4.475600462339, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

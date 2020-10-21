@@ -25,8 +25,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.211234481952, 
-      "lon": 4.425739337946, 
+      "lat": 51.211249270705, 
+      "lon": 4.425825647479, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -79,8 +79,8 @@
         "12_2"
       ], 
       "housenumber": "12_2", 
-      "lat": 51.211243869595, 
-      "lon": 4.425473177594, 
+      "lat": 51.211186081784, 
+      "lon": 4.425457222017, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -111,6 +111,12 @@
       "street": "Wipstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -191,8 +197,8 @@
         "2-220"
       ], 
       "housenumber": "2", 
-      "lat": 51.211146587011, 
-      "lon": 4.425899075187, 
+      "lat": 51.211145237208, 
+      "lon": 4.425902221777, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -251,8 +257,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.211255891027, 
-      "lon": 4.424776136502, 
+      "lat": 51.211266841542, 
+      "lon": 4.42462059656, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -279,11 +285,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.211352035153, 
-      "lon": 4.424467292891, 
+      "lat": 51.211329997367, 
+      "lon": 4.424689076612, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wipstraat"
     }, 
     {
@@ -304,6 +310,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301", 
@@ -345,9 +352,12 @@
       "street": "Wipstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "30"
@@ -361,6 +371,12 @@
       "street": "Wipstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -432,11 +448,23 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.211044194479, 
-      "lon": 4.424440446581, 
+      "lat": 51.211097111751, 
+      "lon": 4.424303275013, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Wipstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.21108635637, 
+      "lon": 4.424427475204, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wipstraat"
     }, 
     {
@@ -480,8 +508,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.211129824144, 
-      "lon": 4.425806037542, 
+      "lat": 51.211133329837, 
+      "lon": 4.425805612574, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -704,8 +732,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.211161791477, 
-      "lon": 4.425686299951, 
+      "lat": 51.2111507367, 
+      "lon": 4.425684282851, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

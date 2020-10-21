@@ -49,6 +49,22 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "bu10", 
+        "bu11", 
+        "bu12", 
+        "bu13", 
+        "bu14", 
+        "bu15", 
+        "bu16", 
+        "bu17", 
+        "bu18", 
+        "bu19", 
+        "bu20", 
+        "bu21", 
+        "bu22", 
+        "bu23"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -72,8 +88,8 @@
         "103A"
       ], 
       "housenumber": "103A", 
-      "lat": 51.025470452567, 
-      "lon": 3.135778981079, 
+      "lat": 51.025461359986, 
+      "lon": 3.135777794828, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -204,15 +220,22 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.025029256982, 
-      "lon": 3.130538197254, 
+      "lat": 51.025029176093, 
+      "lon": 3.130539054715, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -237,17 +260,19 @@
         "002", 
         "101", 
         "102", 
-        "201"
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.025028291972, 
-      "lon": 3.130352332481, 
+      "lat": 51.025029739006, 
+      "lon": 3.130353149554, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Statiestraat"
     }, 
     {
@@ -277,14 +302,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "125-127"
+        "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.025107173228, 
-      "lon": 3.134072619436, 
+      "lat": 51.025327241143, 
+      "lon": 3.134440170376, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -322,14 +347,14 @@
         "203"
       ], 
       "hnrlbls": [
-        "125-127"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.025107173228, 
-      "lon": 3.134072619436, 
+      "lat": 51.025306955483, 
+      "lon": 3.134305990721, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -352,11 +377,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.025139932599, 
-      "lon": 3.134307540589, 
+      "lat": 51.025259281851, 
+      "lon": 3.134140600712, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -382,14 +407,14 @@
         "203"
       ], 
       "hnrlbls": [
-        "131"
+        "131-133"
       ], 
       "housenumber": "131", 
-      "lat": 51.025175698471, 
-      "lon": 3.134040164336, 
+      "lat": 51.025107173228, 
+      "lon": 3.134072619436, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -406,14 +431,14 @@
         "204"
       ], 
       "hnrlbls": [
-        "133"
+        "131-133"
       ], 
       "housenumber": "133", 
-      "lat": 51.025139266428, 
-      "lon": 3.133883744757, 
+      "lat": 51.025107173228, 
+      "lon": 3.134072619436, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -609,15 +634,26 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.024718402673, 
-      "lon": 3.131987195428, 
+      "lat": 51.024952874277, 
+      "lon": 3.131850711651, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -872,14 +908,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "205-207"
+        "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.024180207822, 
-      "lon": 3.12938344818, 
+      "lat": 51.024336934033, 
+      "lon": 3.12915521066, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -893,14 +929,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "205-207"
+        "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.024180207822, 
-      "lon": 3.12938344818, 
+      "lat": 51.024296209737, 
+      "lon": 3.128993066474, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -908,11 +944,11 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.024078612918, 
-      "lon": 3.129126692868, 
+      "lat": 51.024201928741, 
+      "lon": 3.128944385407, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1040,11 +1076,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.026337482621, 
-      "lon": 3.138755290171, 
+      "lat": 51.026066459494, 
+      "lon": 3.139197631706, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1102,6 +1138,42 @@
       "housenumber": "39", 
       "lat": 51.0259521845, 
       "lon": 3.139481039378, 
+      "municipality": "Lichtervelde", 
+      "pcode": "8810", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.026487321699, 
+      "lon": 3.142037318468, 
+      "municipality": "Lichtervelde", 
+      "pcode": "8810", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.02652935307, 
+      "lon": 3.142205862006, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1813,18 +1885,6 @@
     }, 
     {
       "hnrlbls": [
-        "93A"
-      ], 
-      "housenumber": "93A", 
-      "lat": 51.023300084195, 
-      "lon": 3.136326037432, 
-      "municipality": "Lichtervelde", 
-      "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
@@ -1842,18 +1902,6 @@
       "housenumber": "96", 
       "lat": 51.02532950935, 
       "lon": 3.132667442772, 
-      "municipality": "Lichtervelde", 
-      "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "97"
-      ], 
-      "housenumber": "97", 
-      "lat": 51.024092933275, 
-      "lon": 3.136489071641, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanPerceel", 

@@ -217,10 +217,12 @@
     }, 
     {
       "apptnrs": [
-        "0", 
         "1", 
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "00/1"
       ], 
       "hnrlbls": [
         "27"
@@ -264,12 +266,11 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+        "1"
       ], 
       "busnrs": [
-        "02/1"
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "3"
@@ -640,14 +641,15 @@
       "street": "Now\u00e9lei (Jean Baptiste)"
     }, 
     {
-      "apptnrs": [
-        "1/1", 
-        "1/2", 
-        "2/1", 
-        "2/2", 
-        "3/1", 
-        "3/2", 
-        "51/4"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2", 
+        "04/1"
       ], 
       "hnrlbls": [
         "49-51"
@@ -685,6 +687,9 @@
         "1", 
         "2"
       ], 
+      "busnrs": [
+        "00/1"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -697,11 +702,6 @@
       "street": "Now\u00e9lei (Jean Baptiste)"
     }, 
     {
-      "apptnrs": [
-        "2/2", 
-        "3/1", 
-        "4"
-      ], 
       "hnrlbls": [
         "49-51"
       ], 
@@ -729,8 +729,8 @@
       "street": "Now\u00e9lei (Jean Baptiste)"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "53"
@@ -974,6 +974,18 @@
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Now\u00e9lei (Jean Baptiste)"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.929761635827, 
+      "lon": 4.427810359495, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Now\u00e9lei (Jean Baptiste)"
     }, 
     {

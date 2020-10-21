@@ -140,11 +140,11 @@
         "107D"
       ], 
       "housenumber": "107D", 
-      "lat": 51.025014176804, 
-      "lon": 3.012375661132, 
+      "lat": 51.025057177339, 
+      "lon": 3.012393518861, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handzamestraat"
     }, 
     {
@@ -152,11 +152,11 @@
         "107E"
       ], 
       "housenumber": "107E", 
-      "lat": 51.025020430106, 
-      "lon": 3.012301920233, 
+      "lat": 51.025077995907, 
+      "lon": 3.012265184113, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handzamestraat"
     }, 
     {
@@ -197,7 +197,7 @@
     }, 
     {
       "hnrlbls": [
-        "110"
+        "110-110A"
       ], 
       "housenumber": "110", 
       "lat": 51.028364199318, 
@@ -205,6 +205,18 @@
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
+      "street": "Handzamestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "110-110A"
+      ], 
+      "housenumber": "110A", 
+      "lat": 51.028364199318, 
+      "lon": 3.021908973277, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handzamestraat"
     }, 
     {
@@ -993,8 +1005,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.02533244084, 
-      "lon": 3.006245252504, 
+      "lat": 51.025316194136, 
+      "lon": 3.006224198639, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -1017,8 +1029,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.025292818617, 
-      "lon": 3.006146471146, 
+      "lat": 51.025292457467, 
+      "lon": 3.006146339091, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -1191,11 +1203,11 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.025578941386, 
-      "lon": 3.004961745357, 
+      "lat": 51.025208542552, 
+      "lon": 3.006578736718, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Handzamestraat"
     }, 
     {
@@ -1215,11 +1227,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.025632903441, 
-      "lon": 3.004839140971, 
+      "lat": 51.025740887153, 
+      "lon": 3.004948477051, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Handzamestraat"
     }, 
     {
@@ -1320,7 +1332,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2_1"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.028684010919, 
@@ -1584,14 +1596,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-2_1"
+        "2B-2_1"
       ], 
       "housenumber": "2B", 
-      "lat": 51.028684010919, 
-      "lon": 3.041362776534, 
+      "lat": 51.028742722231, 
+      "lon": 3.041355124969, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Handzamestraat"
     }, 
     {
@@ -1599,14 +1611,14 @@
         "A"
       ], 
       "hnrlbls": [
-        "2-2_1"
+        "2B-2_1"
       ], 
       "housenumber": "2_1", 
-      "lat": 51.028684010919, 
-      "lon": 3.041362776534, 
+      "lat": 51.028742722231, 
+      "lon": 3.041355124969, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Handzamestraat"
     }, 
     {
@@ -1614,8 +1626,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.028420159739, 
-      "lon": 3.041380375501, 
+      "lat": 51.02840679079, 
+      "lon": 3.041390734029, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -1928,8 +1940,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.02881957461, 
-      "lon": 3.038206033868, 
+      "lat": 51.028844752966, 
+      "lon": 3.038214443078, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2448,8 +2460,8 @@
         "85A"
       ], 
       "housenumber": "85A", 
-      "lat": 51.029162783656, 
-      "lon": 3.03340309421, 
+      "lat": 51.029165793174, 
+      "lon": 3.033406857799, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2496,8 +2508,8 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 51.029331080064, 
-      "lon": 3.027436148017, 
+      "lat": 51.029290476833, 
+      "lon": 3.027447005465, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2774,6 +2786,18 @@
       "housenumber": "98", 
       "lat": 51.028939291055, 
       "lon": 3.025559749627, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Handzamestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "98A"
+      ], 
+      "housenumber": "98A", 
+      "lat": 51.029395140636, 
+      "lon": 3.025365470783, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 

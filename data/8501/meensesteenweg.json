@@ -535,18 +535,6 @@
       "street": "Meensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "171"
-      ], 
-      "housenumber": "171", 
-      "lat": 50.826517168839, 
-      "lon": 3.241386787386, 
-      "municipality": "Kortrijk", 
-      "pcode": "8501", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Meensesteenweg"
-    }, 
-    {
       "apptnrs": [
         "2.2"
       ], 
@@ -641,18 +629,6 @@
     }, 
     {
       "hnrlbls": [
-        "181"
-      ], 
-      "housenumber": "181", 
-      "lat": 50.826386372583, 
-      "lon": 3.241079905874, 
-      "municipality": "Kortrijk", 
-      "pcode": "8501", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Meensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "182"
       ], 
       "housenumber": "182", 
@@ -668,8 +644,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.826295207938, 
-      "lon": 3.240696559602, 
+      "lat": 50.826360671393, 
+      "lon": 3.240959581859, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
@@ -959,8 +935,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.82593837277, 
-      "lon": 3.238315435137, 
+      "lat": 50.825873763987, 
+      "lon": 3.238374901644, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
@@ -1370,8 +1346,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 50.82532523227, 
-      "lon": 3.235727030262, 
+      "lat": 50.825355189498, 
+      "lon": 3.235719637492, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
@@ -1587,11 +1563,11 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.825081570182, 
-      "lon": 3.234822890409, 
+      "lat": 50.825084454536, 
+      "lon": 3.234898051558, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Meensesteenweg"
     }, 
     {
@@ -2151,14 +2127,16 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "21", 
-        "22", 
-        "23", 
-        "31", 
-        "32"
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
       ], 
       "hnrlbls": [
         "298"
@@ -2498,11 +2476,11 @@
         "333"
       ], 
       "housenumber": "333", 
-      "lat": 50.823809122378, 
-      "lon": 3.230663743003, 
+      "lat": 50.823842150159, 
+      "lon": 3.230667060491, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Meensesteenweg"
     }, 
     {
@@ -3003,6 +2981,30 @@
     }, 
     {
       "hnrlbls": [
+        "377"
+      ], 
+      "housenumber": "377", 
+      "lat": 50.823990585621, 
+      "lon": 3.228427040368, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "377A"
+      ], 
+      "housenumber": "377A", 
+      "lat": 50.823981103371, 
+      "lon": 3.228367228903, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Meensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "378"
       ], 
       "housenumber": "378", 
@@ -3097,6 +3099,7 @@
         "0006", 
         "0011", 
         "0041", 
+        "0099", 
         "00S1", 
         "00S3", 
         "0S12", 
@@ -3352,8 +3355,8 @@
         "402"
       ], 
       "housenumber": "402", 
-      "lat": 50.821024339156, 
-      "lon": 3.22246337371, 
+      "lat": 50.821003510449, 
+      "lon": 3.222503196422, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 

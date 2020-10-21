@@ -455,6 +455,11 @@
       "street": "Philipslaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -491,6 +496,11 @@
       "street": "Philipslaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -968,7 +978,7 @@
         "02K2"
       ], 
       "hnrlbls": [
-        "9-9K"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 50.868323257634, 
@@ -1015,6 +1025,11 @@
       "street": "Philipslaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "97"
       ], 
@@ -1041,22 +1056,6 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Philipslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "9-9K"
-      ], 
-      "housenumber": "9K", 
-      "lat": 50.868323257634, 
-      "lon": 4.732953615112, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Philipslaan"
     }
   ]

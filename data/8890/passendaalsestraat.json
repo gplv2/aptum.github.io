@@ -285,8 +285,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.898983313356, 
-      "lon": 3.06421961792, 
+      "lat": 50.898959849867, 
+      "lon": 3.064211739117, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
       "source": "afgeleidVanGebouw", 
@@ -597,11 +597,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.894832373459, 
-      "lon": 3.060033946254, 
+      "lat": 50.894751827733, 
+      "lon": 3.059922034977, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Passendaalsestraat"
     }, 
     {
@@ -1281,11 +1281,23 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.896036808853, 
-      "lon": 3.0595525745, 
+      "lat": 50.89592832662, 
+      "lon": 3.059580049967, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Passendaalsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 50.896110913904, 
+      "lon": 3.059578657956, 
+      "municipality": "Moorslede", 
+      "pcode": "8890", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Passendaalsestraat"
     }, 
     {

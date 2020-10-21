@@ -90,10 +90,13 @@
       "street": "Sint-Martenplein"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
-        "102", 
-        "2", 
+        "102"
+      ], 
+      "busnrs": [
+        "001", 
+        "002", 
         "201", 
         "202", 
         "301", 
@@ -101,22 +104,26 @@
         "401", 
         "402", 
         "501", 
-        "502", 
-        "8"
+        "502"
       ], 
       "hnrlbls": [
-        "1A-8"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.815978016231, 
-      "lon": 5.182813342768, 
+      "lat": 50.815889691266, 
+      "lon": 5.182793506623, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Martenplein"
     }, 
     {
+      "apptnrs": [
+        "204"
+      ], 
       "busnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "103", 
@@ -136,14 +143,26 @@
         "502"
       ], 
       "hnrlbls": [
-        "1A-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.815978016231, 
-      "lon": 5.182813342768, 
+      "lat": 50.81596511052, 
+      "lon": 5.182717046762, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Martenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.816087808074, 
+      "lon": 5.182551434802, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Martenplein"
     }
   ]

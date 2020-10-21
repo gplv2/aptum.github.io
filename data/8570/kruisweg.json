@@ -13,43 +13,48 @@
       "street": "Kruisweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
-        "102"
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
-        "10"
+        "8-10"
       ], 
       "housenumber": "10", 
-      "lat": 50.842406085646, 
-      "lon": 3.471616557581, 
+      "lat": 50.842388419711, 
+      "lon": 3.471610646865, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisweg"
     }, 
     {
       "hnrlbls": [
-        "12"
+        "11"
       ], 
-      "housenumber": "12", 
-      "lat": 50.842448404413, 
-      "lon": 3.471342844139, 
+      "housenumber": "11", 
+      "lat": 50.842606115205, 
+      "lon": 3.470570242616, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisweg"
     }, 
     {
       "hnrlbls": [
-        "14"
+        "13"
       ], 
-      "housenumber": "14", 
-      "lat": 50.842485616372, 
-      "lon": 3.47135363559, 
+      "housenumber": "13", 
+      "lat": 50.842554701244, 
+      "lon": 3.470289655599, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisweg"
     }, 
     {
@@ -281,18 +286,21 @@
       "street": "Kruisweg"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "8"
+        "8-10"
       ], 
       "housenumber": "8", 
-      "lat": 50.842179595947, 
-      "lon": 3.47146014378, 
+      "lat": 50.842388419711, 
+      "lon": 3.471610646865, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisweg"
     }, 
     {

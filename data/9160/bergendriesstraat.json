@@ -266,19 +266,15 @@
       "street": "Bergendriesstraat"
     }, 
     {
-      "apptnrs": [
-        "B001", 
-        "B002"
-      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.111619072524, 
-      "lon": 3.984309329085, 
+      "lat": 51.111641858594, 
+      "lon": 3.984295290388, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bergendriesstraat"
     }, 
     {
@@ -609,8 +605,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.111963134473, 
-      "lon": 3.985239994885, 
+      "lat": 51.111963202578, 
+      "lon": 3.985233282676, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -630,9 +626,21 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43-43A"
       ], 
       "housenumber": "43", 
+      "lat": 51.111433383701, 
+      "lon": 3.985284174898, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bergendriesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43-43A"
+      ], 
+      "housenumber": "43A", 
       "lat": 51.111433383701, 
       "lon": 3.985284174898, 
       "municipality": "Lokeren", 

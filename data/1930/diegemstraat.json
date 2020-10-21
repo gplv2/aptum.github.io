@@ -5,9 +5,6 @@
         "011", 
         "012"
       ], 
-      "busnrs": [
-        "21"
-      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -20,10 +17,6 @@
       "street": "Diegemstraat"
     }, 
     {
-      "apptnrs": [
-        "X001", 
-        "X011"
-      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -196,7 +189,8 @@
       "apptnrs": [
         "001", 
         "011", 
-        "012"
+        "012", 
+        "X021"
       ], 
       "hnrlbls": [
         "126"
@@ -214,11 +208,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.890286927752, 
-      "lon": 4.46227908355, 
+      "lat": 50.890212242658, 
+      "lon": 4.462258041344, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -462,15 +456,19 @@
       "street": "Diegemstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "021"
+      ], 
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.886422265987, 
-      "lon": 4.468697422026, 
+      "lat": 50.886466755046, 
+      "lon": 4.468812203106, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -478,8 +476,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.891092715872, 
-      "lon": 4.462530560567, 
+      "lat": 50.891076357696, 
+      "lon": 4.462527400854, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -659,18 +657,6 @@
     }, 
     {
       "hnrlbls": [
-        "15-17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.886422265987, 
-      "lon": 4.468697422026, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Diegemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
@@ -837,21 +823,18 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
-      "busnrs": [
-        "2"
+        "X001", 
+        "X011"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.886663064743, 
-      "lon": 4.468414846294, 
+      "lat": 50.886771831644, 
+      "lon": 4.468420763273, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -931,11 +914,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.887891247754, 
-      "lon": 4.466980373218, 
+      "lat": 50.887793631734, 
+      "lon": 4.466756047995, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -1091,11 +1074,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.888505021581, 
-      "lon": 4.465395181903, 
+      "lat": 50.888559413621, 
+      "lon": 4.465496199843, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -1411,11 +1394,12 @@
       "street": "Diegemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "013", 
+        "014"
       ], 
       "hnrlbls": [
         "81"
@@ -1478,14 +1462,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "GLVL"
+        "X001", 
+        "X011", 
+        "X021"
       ], 
       "hnrlbls": [
         "86"

@@ -11,11 +11,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.354501514701, 
-      "lon": 4.397162751844, 
+      "lat": 51.354368735873, 
+      "lon": 4.396908165739, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert-Louisastraat"
     }, 
     {
@@ -23,8 +23,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.354464370414, 
-      "lon": 4.396894301319, 
+      "lat": 51.354459074362, 
+      "lon": 4.396866306958, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -104,10 +104,10 @@
     }, 
     {
       "apptnrs": [
-        "Bus 1 - 1st", 
-        "Bus 2 - 1st", 
-        "Bus 3 - 2de", 
-        "Bus 4 - 2de"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "21"
@@ -198,6 +198,25 @@
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Albert-Louisastraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.354610984141, 
+      "lon": 4.396433758124, 
+      "municipality": "Kapellen", 
+      "pcode": "2950", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert-Louisastraat"
     }, 
     {

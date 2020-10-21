@@ -1,3 +1,29 @@
+2020
+
+21/10
+
+Loading took 772.0 sec. Writing took 228.0 sec
+
+Found objects:
+	300 municipalities
+	365619 apptnrs
+	80752 streets
+	517 pcodes
+	3660431 records
+	609821 busnrs
+	2687413 housenumbers
+
+Strange stuff:
+	1441 streets didn't match with only 1 postcode
+
+Integrity check:
+	0 streetnames didn't match their streetname-id
+	0 streets didn't match with only 1 municipality
+	0 municipality-names didn't match their NIS-code
+	0 postcodes didn't match to 1 single municipality
+	0 addresses were identical on postcode, street and housenumber, but have different NIS-codes
+	7905 addresses have one or more busnrs as well as one or more apptnrs
+
 2019
 
 06/09

@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.926002963558, 
-      "lon": 4.808182365215, 
+      "lat": 50.925905918903, 
+      "lon": 4.808027271779, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -130,8 +135,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.927390543146, 
-      "lon": 4.806989895455, 
+      "lat": 50.927408899153, 
+      "lon": 4.807009269556, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +291,8 @@
         "22C"
       ], 
       "housenumber": "22C", 
-      "lat": 50.928092620681, 
-      "lon": 4.805108767591, 
+      "lat": 50.928089748388, 
+      "lon": 4.805107602903, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -322,8 +327,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.928516783938, 
-      "lon": 4.805411855976, 
+      "lat": 50.928464428883, 
+      "lon": 4.805445790875, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -372,14 +377,26 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.926166469362, 
+      "lon": 4.807657482212, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bruul"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.926273147933, 
-      "lon": 4.808024740801, 
+      "lat": 50.92605904577, 
+      "lon": 4.808089584406, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bruul"
     }, 
     {
@@ -447,11 +464,47 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.929438432313, 
-      "lon": 4.802855321115, 
+      "lat": 50.929439785422, 
+      "lon": 4.802854053437, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bruul"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.926118625971, 
+      "lon": 4.808046903291, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bruul"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.926254286578, 
+      "lon": 4.808044334848, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bruul"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.926301965933, 
+      "lon": 4.80801092955, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bruul"
     }, 
     {
@@ -563,15 +616,19 @@
       "street": "Bruul"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.926539707132, 
-      "lon": 4.807874903657, 
+      "lat": 50.926417648708, 
+      "lon": 4.807917995411, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -692,6 +749,22 @@
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bruul"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.926480158518, 
+      "lon": 4.807885155579, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bruul"
     }, 
     {

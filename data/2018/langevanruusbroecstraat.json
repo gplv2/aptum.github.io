@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.207650518624, 
-      "lon": 4.425384186817, 
+      "lat": 51.207637275359, 
+      "lon": 4.425446558713, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Van Ruusbroecstraat"
     }, 
     {
@@ -525,17 +529,30 @@
       "apptnrs": [
         "001", 
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.207954991099, 
-      "lon": 4.426234104857, 
+      "lat": 51.207934826791, 
+      "lon": 4.426295466627, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lange Van Ruusbroecstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.207622843348, 
+      "lon": 4.425365407738, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Van Ruusbroecstraat"
     }, 
     {
@@ -573,8 +590,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.208006856939, 
-      "lon": 4.426228875098, 
+      "lat": 51.208002695913, 
+      "lon": 4.426282386788, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1526,8 +1543,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.208779100114, 
-      "lon": 4.430540165327, 
+      "lat": 51.208797889175, 
+      "lon": 4.430534037382, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

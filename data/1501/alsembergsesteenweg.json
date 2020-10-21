@@ -267,11 +267,11 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.747420366582, 
-      "lon": 4.264355951448, 
+      "lat": 50.747418929229, 
+      "lon": 4.264357088167, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -392,33 +392,6 @@
       "municipality": "Halle", 
       "pcode": "1501", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alsembergsesteenweg"
-    }, 
-    {
-      "apptnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "134"
-      ], 
-      "housenumber": "134", 
-      "lat": 50.746733846405, 
-      "lon": 4.265509278468, 
-      "municipality": "Halle", 
-      "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alsembergsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "134A"
-      ], 
-      "housenumber": "134A", 
-      "lat": 50.746965853154, 
-      "lon": 4.266105016993, 
-      "municipality": "Halle", 
-      "pcode": "1501", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -755,11 +728,11 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.745806796222, 
-      "lon": 4.267342065087, 
+      "lat": 50.746150242757, 
+      "lon": 4.267281537434, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -791,11 +764,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.746758506555, 
-      "lon": 4.26421599963, 
+      "lat": 50.746704474269, 
+      "lon": 4.264009248291, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -819,8 +792,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.746730380438, 
-      "lon": 4.264533735467, 
+      "lat": 50.746763829297, 
+      "lon": 4.264338551707, 
       "municipality": "Halle", 
       "pcode": "1501", 
       "source": "afgeleidVanGebouw", 
@@ -1223,27 +1196,19 @@
       "street": "Alsembergsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "225"
+      "apptnrs": [
+        "01", 
+        "11"
       ], 
-      "housenumber": "225", 
-      "lat": 50.745658895778, 
-      "lon": 4.266799287608, 
-      "municipality": "Halle", 
-      "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alsembergsesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 50.745505720664, 
-      "lon": 4.266915234657, 
+      "lat": 50.74562496067, 
+      "lon": 4.267060776451, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -1263,11 +1228,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.745458888944, 
-      "lon": 4.267025001979, 
+      "lat": 50.745574988147, 
+      "lon": 4.26717721, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -1275,26 +1240,35 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 50.745433320765, 
-      "lon": 4.267085982766, 
+      "lat": 50.745553833529, 
+      "lon": 4.267248241301, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alsembergsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "11"
-      ], 
       "hnrlbls": [
-        "235"
+        "235A"
       ], 
-      "housenumber": "235", 
-      "lat": 50.745402982125, 
-      "lon": 4.267140172674, 
+      "housenumber": "235A", 
+      "lat": 50.74552916677, 
+      "lon": 4.267312195621, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Alsembergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "235B"
+      ], 
+      "housenumber": "235B", 
+      "lat": 50.745517584761, 
+      "lon": 4.267329364701, 
+      "municipality": "Halle", 
+      "pcode": "1501", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alsembergsesteenweg"
     }, 
     {
@@ -1497,8 +1471,8 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.744736626611, 
-      "lon": 4.268463957105, 
+      "lat": 50.744734108759, 
+      "lon": 4.268463112311, 
       "municipality": "Halle", 
       "pcode": "1501", 
       "source": "afgeleidVanGebouw", 
@@ -1911,6 +1885,22 @@
     }, 
     {
       "apptnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.748361729758, 
+      "lon": 4.261999865505, 
+      "municipality": "Halle", 
+      "pcode": "1501", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Alsembergsesteenweg"
+    }, 
+    {
+      "apptnrs": [
         "11", 
         "21"
       ], 
@@ -1918,11 +1908,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.748026968763, 
-      "lon": 4.263517900739, 
+      "lat": 50.747982297615, 
+      "lon": 4.263426180913, 
       "municipality": "Halle", 
       "pcode": "1501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alsembergsesteenweg"
     }, 
     {

@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.930299556775, 
-      "lon": 4.421657182208, 
+      "lat": 50.930299646408, 
+      "lon": 4.421657751296, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kolveniersstraat"
     }, 
     {
@@ -215,10 +215,12 @@
     {
       "apptnrs": [
         "0", 
-        "1/1", 
-        "1/2", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "02/1"
       ], 
       "hnrlbls": [
         "25"

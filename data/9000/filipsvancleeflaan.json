@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.060813103877, 
@@ -29,7 +34,7 @@
       "lon": 3.711676031529, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {
@@ -505,7 +510,7 @@
       "lon": 3.713310432329, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {
@@ -778,18 +783,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Filips van Cleeflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.060813103877, 
-      "lon": 3.710765378921, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {
@@ -1085,7 +1078,7 @@
       "lon": 3.711324684373, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {
@@ -1245,7 +1238,7 @@
       "lon": 3.711582680362, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {
@@ -1400,7 +1393,7 @@
       "lon": 3.711347101377, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Cleeflaan"
     }, 
     {

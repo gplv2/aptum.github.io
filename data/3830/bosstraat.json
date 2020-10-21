@@ -991,15 +991,21 @@
       "street": "Bosstraat"
     }, 
     {
+      "apptnrs": [
+        "B"
+      ], 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.854338452227, 
-      "lon": 5.338267850433, 
+      "lat": 50.854439705937, 
+      "lon": 5.338319366717, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bosstraat"
     }, 
     {
@@ -1111,18 +1117,15 @@
       "street": "Bosstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.855320106116, 
-      "lon": 5.338332145506, 
+      "lat": 50.855329176409, 
+      "lon": 5.338126813144, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bosstraat"
     }, 
     {
@@ -1154,8 +1157,8 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 50.855511370126, 
-      "lon": 5.338120631583, 
+      "lat": 50.855667784709, 
+      "lon": 5.338187774795, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1637,6 +1640,9 @@
       "street": "Bosstraat"
     }, 
     {
+      "apptnrs": [
+        "3"
+      ], 
       "busnrs": [
         "1", 
         "2"
@@ -1726,14 +1732,38 @@
     }, 
     {
       "hnrlbls": [
-        "88"
+        "88A"
       ], 
-      "housenumber": "88", 
-      "lat": 50.860104858164, 
-      "lon": 5.337532214066, 
+      "housenumber": "88A", 
+      "lat": 50.860032068093, 
+      "lon": 5.337561110156, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "88B"
+      ], 
+      "housenumber": "88B", 
+      "lat": 50.860083331792, 
+      "lon": 5.337482622092, 
+      "municipality": "Wellen", 
+      "pcode": "3830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "88C"
+      ], 
+      "housenumber": "88C", 
+      "lat": 50.86015499369, 
+      "lon": 5.337437935459, 
+      "municipality": "Wellen", 
+      "pcode": "3830", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {

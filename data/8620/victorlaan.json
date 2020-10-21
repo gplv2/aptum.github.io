@@ -209,11 +209,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.14250807836, 
-      "lon": 2.731020315996, 
+      "lat": 51.142503745186, 
+      "lon": 2.731310753256, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -254,7 +254,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "2"
@@ -264,7 +265,7 @@
       "lon": 2.732818413611, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -272,11 +273,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.141238691267, 
-      "lon": 2.730970625441, 
+      "lat": 51.140637778097, 
+      "lon": 2.729839312581, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -284,8 +285,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.14059279428, 
-      "lon": 2.729629938353, 
+      "lat": 51.14059499925, 
+      "lon": 2.729626859645, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -324,7 +325,7 @@
       "lon": 2.732916078987, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -336,7 +337,7 @@
       "lon": 2.732970594672, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -348,7 +349,7 @@
       "lon": 2.733025080599, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -360,7 +361,7 @@
       "lon": 2.733069365115, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -372,13 +373,13 @@
       "lon": 2.733123740809, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "2F"
@@ -432,18 +433,6 @@
     }, 
     {
       "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.138048796764, 
-      "lon": 2.722332678277, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Victorlaan"
-    }, 
-    {
-      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -471,11 +460,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.137119167107, 
-      "lon": 2.718503257121, 
+      "lat": 51.13715886735, 
+      "lon": 2.718448977731, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victorlaan"
     }, 
     {
@@ -588,18 +577,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Victorlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "77G"
-      ], 
-      "housenumber": "77G", 
-      "lat": 51.140174678514, 
-      "lon": 2.728215832719, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Victorlaan"
     }
   ]

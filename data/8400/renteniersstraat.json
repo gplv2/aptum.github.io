@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.223365038504, 
-      "lon": 2.907415545009, 
+      "lat": 51.223372543687, 
+      "lon": 2.907426333808, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -59,8 +59,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.223285215102, 
-      "lon": 2.907481755647, 
+      "lat": 51.223286069867, 
+      "lon": 2.907485451231, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -87,8 +87,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.223245048079, 
-      "lon": 2.907519664997, 
+      "lat": 51.223249090596, 
+      "lon": 2.907526696736, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -132,6 +132,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201"
       ], 
@@ -139,11 +140,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.223048848846, 
-      "lon": 2.907320366838, 
+      "lat": 51.223077351641, 
+      "lon": 2.90738618968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Renteniersstraat"
     }, 
     {
@@ -276,6 +277,18 @@
     }, 
     {
       "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 51.222894671909, 
+      "lon": 2.907546246927, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Renteniersstraat"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -289,6 +302,7 @@
     {
       "busnrs": [
         "0301", 
+        "0401", 
         "0501"
       ], 
       "hnrlbls": [
@@ -304,10 +318,10 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0001", 
         "0101", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "3"
@@ -321,9 +335,6 @@
       "street": "Renteniersstraat"
     }, 
     {
-      "busnrs": [
-        "0001"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -400,8 +411,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.223408317528, 
-      "lon": 2.907382119348, 
+      "lat": 51.223411530343, 
+      "lon": 2.907394760658, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

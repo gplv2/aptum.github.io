@@ -37,8 +37,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.970896043703, 
-      "lon": 3.010800572815, 
+      "lat": 50.970896475014, 
+      "lon": 3.010798994001, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -150,18 +150,6 @@
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.970116105167, 
-      "lon": 3.009835388438, 
-      "municipality": "Staden", 
-      "pcode": "8840", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Ieperstraat"
     }, 
     {
@@ -716,8 +704,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.959916772443, 
-      "lon": 2.993082764492, 
+      "lat": 50.959901045658, 
+      "lon": 2.993060305627, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -1333,6 +1321,10 @@
       "street": "Ieperstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1604,6 +1596,9 @@
       "street": "Ieperstraat"
     }, 
     {
+      "busnrs": [
+        "0.1"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -1640,6 +1635,14 @@
       "street": "Ieperstraat"
     }, 
     {
+      "busnrs": [
+        "0.2", 
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2", 
+        "2.3"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1855,8 +1858,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.972014704401, 
-      "lon": 3.011310429374, 
+      "lat": 50.972014085118, 
+      "lon": 3.011311301678, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -2046,11 +2049,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.971840565098, 
-      "lon": 3.012043968217, 
+      "lat": 50.971651876771, 
+      "lon": 3.012319123688, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ieperstraat"
     }, 
     {
@@ -2070,11 +2073,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.971798043916, 
-      "lon": 3.011958621485, 
+      "lat": 50.971598670626, 
+      "lon": 3.012273956811, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ieperstraat"
     }, 
     {

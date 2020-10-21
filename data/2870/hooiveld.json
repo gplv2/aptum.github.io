@@ -431,11 +431,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.073254124823, 
-      "lon": 4.277034234436, 
+      "lat": 51.073247275207, 
+      "lon": 4.277010848064, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hooiveld"
     }, 
     {
@@ -459,7 +459,7 @@
       "lon": 4.277058948672, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hooiveld"
     }, 
     {
@@ -640,11 +640,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.07257558687, 
-      "lon": 4.276728224099, 
+      "lat": 51.072631690218, 
+      "lon": 4.276976947137, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hooiveld"
     }, 
     {
@@ -676,11 +676,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.072531099804, 
-      "lon": 4.27673844116, 
+      "lat": 51.072583438499, 
+      "lon": 4.277001011174, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hooiveld"
     }, 
     {
@@ -756,6 +756,12 @@
       "street": "Hooiveld"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -827,11 +833,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.072031719816, 
-      "lon": 4.277726743633, 
+      "lat": 51.072004663744, 
+      "lon": 4.277727366589, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hooiveld"
     }, 
     {

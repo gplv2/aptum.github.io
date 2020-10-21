@@ -85,15 +85,30 @@
       "street": "Diederikplein"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
       "lat": 51.226392390722, 
       "lon": 3.751298343598, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Diederikplein"
+    }, 
+    {
+      "hnrlbls": [
+        "18-18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 51.226392390722, 
+      "lon": 3.751298343598, 
+      "municipality": "Assenede", 
+      "pcode": "9960", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diederikplein"
     }, 
     {

@@ -924,11 +924,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.303560706667, 
-      "lon": 4.565302561522, 
+      "lat": 51.303423830284, 
+      "lon": 4.565456839506, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Eikenlei"
     }, 
     {
@@ -1007,11 +1007,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.30347787646, 
-      "lon": 4.565116380637, 
+      "lat": 51.303316891559, 
+      "lon": 4.56528303139, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Eikenlei"
     }, 
     {
@@ -1119,14 +1119,14 @@
         "GV"
       ], 
       "hnrlbls": [
-        "4"
+        "4-4A"
       ], 
       "housenumber": "4", 
-      "lat": 51.304127208415, 
-      "lon": 4.567140774815, 
+      "lat": 51.304169580435, 
+      "lon": 4.567064672905, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Eikenlei"
     }, 
     {
@@ -1273,7 +1273,7 @@
     }, 
     {
       "hnrlbls": [
-        "4A"
+        "4-4A"
       ], 
       "housenumber": "4A", 
       "lat": 51.304169580435, 
@@ -1297,10 +1297,10 @@
     }, 
     {
       "apptnrs": [
-        "0L", 
-        "0R", 
-        "1.0", 
-        "2.0"
+        "1V", 
+        "2V", 
+        "GVL", 
+        "GVR"
       ], 
       "hnrlbls": [
         "50-50B"
@@ -1315,13 +1315,11 @@
     }, 
     {
       "apptnrs": [
-        "0R", 
         "1L", 
         "1R", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "L"
+        "2V", 
+        "GL", 
+        "GR"
       ], 
       "hnrlbls": [
         "50-50B"
@@ -1336,14 +1334,11 @@
     }, 
     {
       "apptnrs": [
-        "0L", 
-        "0R", 
         "1L", 
         "1R", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2V"
+        "2V", 
+        "GL", 
+        "GR"
       ], 
       "hnrlbls": [
         "50-50B"
@@ -2034,6 +2029,26 @@
       "housenumber": "83A", 
       "lat": 51.299929491795, 
       "lon": 4.559225654617, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Eikenlei"
+    }, 
+    {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "2V1", 
+        "2V2", 
+        "GV1", 
+        "GV2"
+      ], 
+      "hnrlbls": [
+        "83B"
+      ], 
+      "housenumber": "83B", 
+      "lat": 51.299835954296, 
+      "lon": 4.558984828927, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 

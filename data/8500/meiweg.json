@@ -1,15 +1,25 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.816394969513, 
-      "lon": 3.25645713008, 
+      "lat": 50.816543052506, 
+      "lon": 3.256391612095, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meiweg"
     }, 
     {
@@ -130,30 +140,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Meiweg"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.81656265597, 
-      "lon": 3.256401508805, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Meiweg"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.81656265597, 
-      "lon": 3.256401508805, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Meiweg"
     }, 
     {
@@ -296,8 +282,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.814257124797, 
-      "lon": 3.261599996149, 
+      "lat": 50.814265991628, 
+      "lon": 3.261577365602, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -308,11 +294,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.814859071531, 
-      "lon": 3.261717105929, 
+      "lat": 50.81489639338, 
+      "lon": 3.261689690337, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Meiweg"
     }, 
     {

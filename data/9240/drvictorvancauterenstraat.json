@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10-15"
       ], 
       "housenumber": "10", 
-      "lat": 51.068517686055, 
-      "lon": 4.043623801166, 
+      "lat": 51.068510046107, 
+      "lon": 4.043754680627, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dr. Victor Van Cauterenstraat"
     }, 
     {
@@ -119,8 +119,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.068535499739, 
-      "lon": 4.04376006823, 
+      "lat": 51.068510003723, 
+      "lon": 4.043771943738, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 
@@ -255,15 +255,23 @@
       "street": "Dr. Victor Van Cauterenstraat"
     }, 
     {
+      "busnrs": [
+        "W1", 
+        "W2", 
+        "W3", 
+        "W4", 
+        "W5", 
+        "W6"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.069100032986, 
-      "lon": 4.044980260921, 
+      "lat": 51.069099696963, 
+      "lon": 4.045021637455, 
       "municipality": "Zele", 
       "pcode": "9240", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dr. Victor Van Cauterenstraat"
     }, 
     {
@@ -279,6 +287,18 @@
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dr. Victor Van Cauterenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.069142823056, 
+      "lon": 4.045145177078, 
+      "municipality": "Zele", 
+      "pcode": "9240", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dr. Victor Van Cauterenstraat"
     }, 
     {
@@ -737,8 +757,8 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.068810498845, 
-      "lon": 4.043573691114, 
+      "lat": 51.068808222967, 
+      "lon": 4.043563292076, 
       "municipality": "Zele", 
       "pcode": "9240", 
       "source": "afgeleidVanGebouw", 

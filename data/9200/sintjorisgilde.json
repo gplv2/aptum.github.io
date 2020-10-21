@@ -13,18 +13,6 @@
       "street": "Sint-Jorisgilde"
     }, 
     {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.029005677927, 
-      "lon": 4.098243181475, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Jorisgilde"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -44,11 +32,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.028978403595, 
-      "lon": 4.098148402311, 
+      "lat": 51.028975163651, 
+      "lon": 4.098146710423, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisgilde"
     }, 
     {
@@ -221,15 +209,17 @@
       "street": "Sint-Jorisgilde"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "5"
       ], 
       "hnrlbls": [
         "29"
@@ -244,18 +234,18 @@
     }, 
     {
       "hnrlbls": [
-        "3-5"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.028831531195, 
-      "lon": 4.098387729414, 
+      "lat": 51.028865925674, 
+      "lon": 4.098451534791, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisgilde"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -277,15 +267,17 @@
       "street": "Sint-Jorisgilde"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "5"
       ], 
       "hnrlbls": [
         "33"
@@ -306,26 +298,26 @@
         "4"
       ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.029101268489, 
-      "lon": 4.098180765054, 
+      "lat": 51.028997625597, 
+      "lon": 4.098338164247, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisgilde"
     }, 
     {
       "hnrlbls": [
-        "3-5"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.028831531195, 
-      "lon": 4.098387729414, 
+      "lat": 51.028845534474, 
+      "lon": 4.098339895639, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisgilde"
     }, 
     {
@@ -342,14 +334,26 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.029101268489, 
-      "lon": 4.098180765054, 
+      "lat": 51.02898611892, 
+      "lon": 4.098259402002, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Jorisgilde"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.028825202618, 
+      "lon": 4.098254199719, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jorisgilde"
     }, 
     {

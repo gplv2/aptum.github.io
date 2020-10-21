@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.97756257358, 
-      "lon": 3.533562922233, 
+      "lat": 50.977503272457, 
+      "lon": 3.533351946506, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -253,14 +253,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.97756257358, 
-      "lon": 3.533562922233, 
+      "lat": 50.977555753333, 
+      "lon": 3.533551936554, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -348,15 +348,30 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.973998453108, 
-      "lon": 3.536207862614, 
+      "lat": 50.974002908142, 
+      "lon": 3.536100565483, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -400,8 +415,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.973466414697, 
-      "lon": 3.536852631155, 
+      "lat": 50.973449411806, 
+      "lon": 3.536863611605, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -513,8 +528,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.973067343985, 
-      "lon": 3.537639265155, 
+      "lat": 50.973103231903, 
+      "lon": 3.537603745065, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -558,11 +573,11 @@
     }, 
     {
       "hnrlbls": [
-        "7-151"
+        "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.972862567115, 
-      "lon": 3.537322385396, 
+      "lat": 50.972879935117, 
+      "lon": 3.537363084335, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -899,6 +914,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -1254,7 +1270,7 @@
     }, 
     {
       "hnrlbls": [
-        "211-213"
+        "211"
       ], 
       "housenumber": "211", 
       "lat": 50.971047285456, 
@@ -1266,14 +1282,14 @@
     }, 
     {
       "hnrlbls": [
-        "211-213"
+        "213"
       ], 
       "housenumber": "213", 
-      "lat": 50.971047285456, 
-      "lon": 3.539197505024, 
+      "lat": 50.97099950344, 
+      "lon": 3.539305703367, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -1342,18 +1358,19 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "23-25"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.977228777049, 
-      "lon": 3.533169154374, 
+      "lat": 50.977301585063, 
+      "lon": 3.533243898068, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -1423,9 +1440,6 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1462,19 +1476,8 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 50.976970192987, 
-      "lon": 3.5337209916, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gaversesteenweg"
-    }, 
-    {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -1482,14 +1485,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "23-25"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.977228777049, 
-      "lon": 3.533169154374, 
+      "lat": 50.977228894787, 
+      "lon": 3.533287057609, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -1509,8 +1512,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.977008797407, 
-      "lon": 3.533979894301, 
+      "lat": 50.976972045263, 
+      "lon": 3.533868054681, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1691,18 +1694,6 @@
       "housenumber": "288", 
       "lat": 50.965687161575, 
       "lon": 3.54735026449, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gaversesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "1-29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.977085884204, 
-      "lon": 3.533289319674, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -2343,11 +2334,11 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 50.961395970935, 
-      "lon": 3.554032230439, 
+      "lat": 50.961491324216, 
+      "lon": 3.554132070265, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -2473,11 +2464,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.976616234023, 
-      "lon": 3.533627614764, 
+      "lat": 50.976561943604, 
+      "lon": 3.533489318205, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -2817,12 +2808,20 @@
       "street": "Gaversesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.974853620002, 
-      "lon": 3.535937238569, 
+      "lat": 50.974878945392, 
+      "lon": 3.536111502205, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -2846,18 +2845,6 @@
       "housenumber": "81", 
       "lat": 50.975552406781, 
       "lon": 3.534555586557, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gaversesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 50.974806998427, 
-      "lon": 3.535993028837, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

@@ -191,8 +191,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.21651047704, 
-      "lon": 4.441937531904, 
+      "lat": 51.216467010476, 
+      "lon": 4.441877782309, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -825,8 +825,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.215376675138, 
-      "lon": 4.444070882068, 
+      "lat": 51.215394367011, 
+      "lon": 4.444094668158, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -849,8 +849,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.215350575731, 
-      "lon": 4.444122218113, 
+      "lat": 51.215366829726, 
+      "lon": 4.444145572515, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -873,11 +873,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.215323489696, 
-      "lon": 4.444170260828, 
+      "lat": 51.215339743221, 
+      "lon": 4.444194330811, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gijselsstraat"
     }, 
     {
@@ -909,8 +909,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.215503759309, 
-      "lon": 4.444368484905, 
+      "lat": 51.215504837363, 
+      "lon": 4.444369345367, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -1035,9 +1035,6 @@
       "street": "Gijselsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1098,6 +1095,10 @@
       "street": "Gijselsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1182,8 +1183,10 @@
       "street": "Gijselsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "31"
@@ -1293,6 +1296,10 @@
       "street": "Gijselsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1446,11 +1453,11 @@
     }, 
     {
       "hnrlbls": [
-        "51-53"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.217646453445, 
-      "lon": 4.440595694045, 
+      "lat": 51.217700720491, 
+      "lon": 4.440486432453, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -1472,12 +1479,11 @@
       "apptnrs": [
         "101", 
         "102", 
-        "103", 
         "201", 
         "202"
       ], 
       "hnrlbls": [
-        "51-53"
+        "53"
       ], 
       "housenumber": "53", 
       "lat": 51.217646453445, 
@@ -1712,14 +1718,18 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.217068567719, 
-      "lon": 4.440922685587, 
+      "lat": 51.217061832156, 
+      "lon": 4.440913372192, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
       "street": "Gijselsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1748,8 +1758,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.217136589772, 
-      "lon": 4.44153620983, 
+      "lat": 51.217089368237, 
+      "lon": 4.441443679148, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -2000,8 +2010,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.216829403414, 
-      "lon": 4.441909126858, 
+      "lat": 51.216834702812, 
+      "lon": 4.441915146307, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

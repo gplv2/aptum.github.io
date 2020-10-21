@@ -77,8 +77,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.863496554773, 
-      "lon": 5.190633928713, 
+      "lat": 50.863495302299, 
+      "lon": 5.190633054471, 
       "municipality": "Nieuwerkerken", 
       "pcode": "3850", 
       "source": "afgeleidVanPerceelGrb", 
@@ -121,18 +121,30 @@
       "street": "Mouveldstraat"
     }, 
     {
+      "hnrlbls": [
+        "20-20B"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.864383476715, 
+      "lon": 5.190677155837, 
+      "municipality": "Nieuwerkerken", 
+      "pcode": "3850", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Mouveldstraat"
+    }, 
+    {
       "busnrs": [
         "101", 
         "102", 
         "103"
       ], 
       "hnrlbls": [
-        "20A-20B", 
+        "20-20B", 
         "20B"
       ], 
       "housenumber": "20B", 
-      "lat": 50.863852531086, 
-      "lon": 5.190330198734, 
+      "lat": 50.864383476715, 
+      "lon": 5.190677155837, 
       "municipality": "Nieuwerkerken", 
       "pcode": "3850", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -160,11 +172,11 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 50.863856353639, 
-      "lon": 5.189938623064, 
+      "lat": 50.863957811662, 
+      "lon": 5.189982729801, 
       "municipality": "Nieuwerkerken", 
       "pcode": "3850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mouveldstraat"
     }, 
     {
@@ -172,8 +184,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 50.863699853618, 
-      "lon": 5.190013304865, 
+      "lat": 50.863686055464, 
+      "lon": 5.190006671101, 
       "municipality": "Nieuwerkerken", 
       "pcode": "3850", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -205,11 +217,23 @@
     }, 
     {
       "hnrlbls": [
+        "23D"
+      ], 
+      "housenumber": "23D", 
+      "lat": 50.863744894047, 
+      "lon": 5.189936247387, 
+      "municipality": "Nieuwerkerken", 
+      "pcode": "3850", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mouveldstraat"
+    }, 
+    {
+      "hnrlbls": [
         "23E"
       ], 
       "housenumber": "23E", 
-      "lat": 50.863812951436, 
-      "lon": 5.189948660009, 
+      "lat": 50.863793937717, 
+      "lon": 5.189942219131, 
       "municipality": "Nieuwerkerken", 
       "pcode": "3850", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

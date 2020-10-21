@@ -449,6 +449,11 @@
       "street": "Oosteindestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -457,7 +462,30 @@
       "lon": 3.670197520931, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oosteindestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.102741452539, 
+      "lon": 3.670243978756, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteindestraat"
     }, 
     {

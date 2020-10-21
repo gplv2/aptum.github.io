@@ -441,6 +441,11 @@
       "street": "Strandlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "137"
       ], 
@@ -540,7 +545,6 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
         "101", 
         "102"
       ], 
@@ -1068,9 +1072,7 @@
       "apptnrs": [
         "001", 
         "101", 
-        "102", 
-        "201", 
-        "202"
+        "201"
       ], 
       "hnrlbls": [
         "199"
@@ -1994,7 +1996,7 @@
       "lon": 2.613441858491, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Strandlaan"
     }, 
     {
@@ -2332,6 +2334,7 @@
     {
       "apptnrs": [
         "001", 
+        "201", 
         "303", 
         "404"
       ], 
@@ -3093,6 +3096,18 @@
     }, 
     {
       "hnrlbls": [
+        "332-338"
+      ], 
+      "housenumber": "336", 
+      "lat": 51.111396105772, 
+      "lon": 2.61103829017, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Strandlaan"
+    }, 
+    {
+      "hnrlbls": [
         "337"
       ], 
       "housenumber": "337", 
@@ -3215,7 +3230,8 @@
         "102", 
         "202", 
         "301", 
-        "402"
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "355-357"

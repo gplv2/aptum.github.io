@@ -865,11 +865,11 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.920701678634, 
-      "lon": 3.442499209843, 
+      "lat": 50.920449345822, 
+      "lon": 3.442923615273, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1475,6 +1475,10 @@
       "street": "Staatsbaan"
     }, 
     {
+      "busnrs": [
+        "0000", 
+        "0201"
+      ], 
       "hnrlbls": [
         "249"
       ], 
@@ -2763,7 +2767,7 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "8-8A"
       ], 
       "housenumber": "8", 
       "lat": 50.928443602623, 
@@ -2875,14 +2879,14 @@
     }, 
     {
       "hnrlbls": [
-        "8A"
+        "8-8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.92863516775, 
-      "lon": 3.453298558934, 
+      "lat": 50.928443602623, 
+      "lon": 3.453496324547, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Staatsbaan"
     }, 
     {

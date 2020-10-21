@@ -275,15 +275,21 @@
       "street": "Eiermarkt"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.219570324033, 
-      "lon": 4.403053294935, 
+      "lat": 51.219494188769, 
+      "lon": 4.403065403719, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eiermarkt"
     }, 
     {
@@ -299,20 +305,15 @@
       "street": "Eiermarkt"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "102", 
-        "202"
-      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.219512863962, 
-      "lon": 4.403135121346, 
+      "lat": 51.219480331508, 
+      "lon": 4.403116490175, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eiermarkt"
     }
   ]

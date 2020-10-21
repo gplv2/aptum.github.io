@@ -37,8 +37,8 @@
         "98-100"
       ], 
       "housenumber": "100", 
-      "lat": 51.223127020132, 
-      "lon": 4.424844826864, 
+      "lat": 51.223144361028, 
+      "lon": 4.424858732538, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -369,15 +369,32 @@
       "street": "Diepestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.222648163917, 
-      "lon": 4.426231968582, 
+      "lat": 51.222647533603, 
+      "lon": 4.426234258007, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diepestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "125A"
+      ], 
+      "housenumber": "125A", 
+      "lat": 51.222594390819, 
+      "lon": 4.425911558553, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diepestraat"
     }, 
     {
@@ -462,10 +479,6 @@
       "street": "Diepestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -482,8 +495,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.222439335502, 
-      "lon": 4.426106605805, 
+      "lat": 51.222440320499, 
+      "lon": 4.426114193323, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -525,8 +538,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.222373213261, 
-      "lon": 4.425302950331, 
+      "lat": 51.22240314441, 
+      "lon": 4.42567342681, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1074,8 +1087,7 @@
         "101", 
         "102", 
         "201", 
-        "202", 
-        "3"
+        "202"
       ], 
       "hnrlbls": [
         "16-18"
@@ -1398,14 +1410,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "36"
+        "36-38"
       ], 
       "housenumber": "36", 
-      "lat": 51.224058815289, 
-      "lon": 4.422812335735, 
+      "lat": 51.224211390881, 
+      "lon": 4.422913860157, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diepestraat"
     }, 
     {
@@ -1422,7 +1434,7 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "36-38"
       ], 
       "housenumber": "38", 
       "lat": 51.224211390881, 
@@ -1433,9 +1445,6 @@
       "street": "Diepestraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1490,6 +1499,12 @@
       "street": "Diepestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -2402,8 +2417,8 @@
         "98-100"
       ], 
       "housenumber": "98", 
-      "lat": 51.223127020132, 
-      "lon": 4.424844826864, 
+      "lat": 51.223144361028, 
+      "lon": 4.424858732538, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

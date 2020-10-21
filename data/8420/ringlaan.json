@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "-101"
+      ], 
       "busnrs": [
         "0001", 
         "0101", 
@@ -146,6 +149,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "201"
       ], 
       "hnrlbls": [
@@ -154,6 +158,38 @@
       "housenumber": "128A", 
       "lat": 51.29658588203, 
       "lon": 3.079047239307, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ringlaan"
+    }, 
+    {
+      "apptnrs": [
+        "002"
+      ], 
+      "hnrlbls": [
+        "128C"
+      ], 
+      "housenumber": "128C", 
+      "lat": 51.29636206181, 
+      "lon": 3.079131439764, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ringlaan"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "103"
+      ], 
+      "hnrlbls": [
+        "128D"
+      ], 
+      "housenumber": "128D", 
+      "lat": 51.296171814552, 
+      "lon": 3.079211268542, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -226,7 +262,8 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0001", 
         "0101"
       ], 
       "hnrlbls": [
@@ -693,6 +730,22 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -701,7 +754,7 @@
       "lon": 3.083198947942, 
       "municipality": "De Haan", 
       "pcode": "8420", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -741,7 +794,7 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
         "0002", 
         "0003", 

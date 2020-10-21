@@ -337,6 +337,10 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -730,14 +734,14 @@
         "0201"
       ], 
       "hnrlbls": [
-        "56"
+        "56-58"
       ], 
       "housenumber": "56", 
-      "lat": 51.185651315094, 
-      "lon": 3.56083441227, 
+      "lat": 51.185574266505, 
+      "lon": 3.560766803294, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -747,6 +751,22 @@
       "housenumber": "57", 
       "lat": 51.185264190654, 
       "lon": 3.561378909342, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "56-58"
+      ], 
+      "housenumber": "58", 
+      "lat": 51.185574266505, 
+      "lon": 3.560766803294, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

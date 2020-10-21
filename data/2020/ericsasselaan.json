@@ -441,10 +441,12 @@
       "street": "Eric Sasselaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "59"
@@ -555,6 +557,7 @@
         "14", 
         "15", 
         "16", 
+        "17", 
         "2", 
         "3", 
         "4", 
@@ -638,11 +641,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.192299169929, 
-      "lon": 4.395786034338, 
+      "lat": 51.192284073502, 
+      "lon": 4.395768001694, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eric Sasselaan"
     }
   ]

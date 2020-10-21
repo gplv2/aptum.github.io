@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-3B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.779504750691, 
@@ -122,8 +122,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.779026435902, 
-      "lon": 5.463001780214, 
+      "lat": 50.779038456828, 
+      "lon": 5.462956540525, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -146,16 +146,20 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.779106432391, 
-      "lon": 5.463013567296, 
+      "lat": 50.779125022841, 
+      "lon": 5.462871485769, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
       "street": "Plein"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "2-2B"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.779474409057, 
@@ -182,8 +186,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.778856648794, 
-      "lon": 5.462891052437, 
+      "lat": 50.778862723995, 
+      "lon": 5.462895164248, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -248,38 +252,7 @@
       "street": "Plein"
     }, 
     {
-      "apptnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2-2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 50.779474409057, 
-      "lon": 5.463677979406, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Plein"
-    }, 
-    {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "1-3B"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.779504750691, 
-      "lon": 5.463212001778, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Plein"
-    }, 
-    {
-      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -289,14 +262,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "1-3B"
+        "3"
       ], 
-      "housenumber": "3B", 
-      "lat": 50.779504750691, 
-      "lon": 5.463212001778, 
+      "housenumber": "3", 
+      "lat": 50.779451477853, 
+      "lon": 5.463313288069, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Plein"
     }, 
     {
@@ -312,20 +285,13 @@
       "street": "Plein"
     }, 
     {
-      "hnrlbls": [
-        "5-7"
+      "busnrs": [
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "5", 
-      "lat": 50.779442977164, 
-      "lon": 5.463164761319, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Plein"
-    }, 
-    {
       "hnrlbls": [
-        "6-6B"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.779401030485, 
@@ -337,35 +303,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "6-6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.779401030485, 
-      "lon": 5.46356424497, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Plein"
-    }, 
-    {
-      "hnrlbls": [
-        "5-7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.779442977164, 
-      "lon": 5.463164761319, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Plein"
-    }, 
-    {
-      "busnrs": [
         "3"
       ], 
       "hnrlbls": [
@@ -381,46 +320,12 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "8-10"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.779305372209, 
-      "lon": 5.463564004055, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Plein"
-    }, 
-    {
-      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "9-9B"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.779428031539, 
-      "lon": 5.463138179543, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Plein"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "9-9B"
-      ], 
-      "housenumber": "9B", 
       "lat": 50.779428031539, 
       "lon": 5.463138179543, 
       "municipality": "Tongeren", 

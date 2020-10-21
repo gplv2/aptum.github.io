@@ -312,6 +312,12 @@
       "street": "Boechtstraat"
     }, 
     {
+      "busnrs": [
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -438,6 +444,18 @@
       "street": "Boechtstraat"
     }, 
     {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.934654642794, 
+      "lon": 4.327606979259, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boechtstraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -494,9 +512,6 @@
       "street": "Boechtstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "8"
       ], 

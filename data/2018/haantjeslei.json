@@ -743,8 +743,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.200673465912, 
-      "lon": 4.403197784516, 
+      "lat": 51.2006705007, 
+      "lon": 4.403194491655, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -905,9 +905,10 @@
       "street": "Haantjeslei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "15"
@@ -1088,8 +1089,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.203397084873, 
-      "lon": 4.397861841036, 
+      "lat": 51.203345318956, 
+      "lon": 4.397831904463, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1256,9 +1257,6 @@
       "street": "Haantjeslei"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -1855,8 +1853,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.203057150614, 
-      "lon": 4.39818140331, 
+      "lat": 51.20301383118, 
+      "lon": 4.398162202894, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1875,6 +1873,11 @@
       "street": "Haantjeslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1935,6 +1938,11 @@
       "street": "Haantjeslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -2080,8 +2088,8 @@
         "44-46"
       ], 
       "housenumber": "44", 
-      "lat": 51.202926520516, 
-      "lon": 4.398640169006, 
+      "lat": 51.202925441902, 
+      "lon": 4.398640168298, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2113,8 +2121,8 @@
         "44-46"
       ], 
       "housenumber": "46", 
-      "lat": 51.202926520516, 
-      "lon": 4.398640169006, 
+      "lat": 51.202925441902, 
+      "lon": 4.398640168298, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2166,8 +2174,8 @@
         "50-52"
       ], 
       "housenumber": "50", 
-      "lat": 51.20273943621, 
-      "lon": 4.398773823429, 
+      "lat": 51.202739615905, 
+      "lon": 4.398774109701, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2194,8 +2202,8 @@
         "50-52"
       ], 
       "housenumber": "52", 
-      "lat": 51.20273943621, 
-      "lon": 4.398773823429, 
+      "lat": 51.202739615905, 
+      "lon": 4.398774109701, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2218,11 +2226,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.202691428468, 
-      "lon": 4.399829556546, 
+      "lat": 51.203026754599, 
+      "lon": 4.400611276794, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Haantjeslei"
     }, 
     {
@@ -2230,8 +2238,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.202688506352, 
-      "lon": 4.399999529948, 
+      "lat": 51.202769259763, 
+      "lon": 4.400194170205, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2263,11 +2271,11 @@
     }, 
     {
       "hnrlbls": [
-        "60A"
+        "60A-60H"
       ], 
       "housenumber": "60A", 
-      "lat": 51.202631982267, 
-      "lon": 4.398934857102, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2275,11 +2283,11 @@
     }, 
     {
       "hnrlbls": [
-        "60C"
+        "60A-60H"
       ], 
       "housenumber": "60C", 
-      "lat": 51.20259307871, 
-      "lon": 4.398871877631, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2287,11 +2295,11 @@
     }, 
     {
       "hnrlbls": [
-        "60D"
+        "60A-60H"
       ], 
       "housenumber": "60D", 
-      "lat": 51.202551209079, 
-      "lon": 4.398808324005, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2299,11 +2307,11 @@
     }, 
     {
       "hnrlbls": [
-        "60E"
+        "60A-60H"
       ], 
       "housenumber": "60E", 
-      "lat": 51.202509609104, 
-      "lon": 4.398744627593, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2311,11 +2319,11 @@
     }, 
     {
       "hnrlbls": [
-        "60F"
+        "60A-60H"
       ], 
       "housenumber": "60F", 
-      "lat": 51.202472591424, 
-      "lon": 4.398687801964, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2323,11 +2331,11 @@
     }, 
     {
       "hnrlbls": [
-        "60G"
+        "60A-60H"
       ], 
       "housenumber": "60G", 
-      "lat": 51.202438088373, 
-      "lon": 4.398639133414, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2335,11 +2343,11 @@
     }, 
     {
       "hnrlbls": [
-        "60H"
+        "60A-60H"
       ], 
       "housenumber": "60H", 
-      "lat": 51.202410511543, 
-      "lon": 4.398570581895, 
+      "lat": 51.202554086909, 
+      "lon": 4.398802459765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2386,8 +2394,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.202597202779, 
-      "lon": 4.400260439239, 
+      "lat": 51.202597651655, 
+      "lon": 4.400262442622, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2408,8 +2416,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.202788273713, 
-      "lon": 4.399344018369, 
+      "lat": 51.202780183844, 
+      "lon": 4.399345014483, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2420,8 +2428,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.202541915429, 
-      "lon": 4.400291162516, 
+      "lat": 51.202541376044, 
+      "lon": 4.400291448297, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2435,8 +2443,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.202515630835, 
-      "lon": 4.400431359226, 
+      "lat": 51.202622827462, 
+      "lon": 4.400561061136, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2497,8 +2505,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.20243265093, 
-      "lon": 4.400491536696, 
+      "lat": 51.202432560928, 
+      "lon": 4.400491965862, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2591,8 +2599,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.202348736044, 
-      "lon": 4.400682770815, 
+      "lat": 51.202350442862, 
+      "lon": 4.400686348906, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2961,8 +2969,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.201780913409, 
-      "lon": 4.401085842793, 
+      "lat": 51.201782261357, 
+      "lon": 4.40108698834, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

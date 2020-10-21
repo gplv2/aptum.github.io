@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.172951323285, 
-      "lon": 3.325600603268, 
+      "lat": 51.173106986243, 
+      "lon": 3.32571896283, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggestraat"
     }, 
     {
@@ -41,11 +41,11 @@
         "100A"
       ], 
       "housenumber": "100A", 
-      "lat": 51.172987993751, 
-      "lon": 3.325477662246, 
+      "lat": 51.173097640537, 
+      "lon": 3.325576743225, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -101,11 +101,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.171919521306, 
-      "lon": 3.327436130992, 
+      "lat": 51.171854067636, 
+      "lon": 3.327363518119, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggestraat"
     }, 
     {
@@ -185,8 +185,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.173450687352, 
-      "lon": 3.324155431618, 
+      "lat": 51.173457641329, 
+      "lon": 3.324118381706, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -537,18 +537,6 @@
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Bruggestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "134A"
-      ], 
-      "housenumber": "134A", 
-      "lat": 51.175227751507, 
-      "lon": 3.315508664441, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1316,11 +1304,11 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.177631864788, 
-      "lon": 3.309169524784, 
+      "lat": 51.177641922274, 
+      "lon": 3.309058031155, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1472,20 +1460,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.179379255446, 
-      "lon": 3.306567814924, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bruggestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "209"
-      ], 
-      "housenumber": "209", 
-      "lat": 51.179613378329, 
-      "lon": 3.306331940003, 
+      "lat": 51.179385575113, 
+      "lon": 3.306580829027, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1505,7 +1481,7 @@
     }, 
     {
       "hnrlbls": [
-        "213-213A"
+        "213"
       ], 
       "housenumber": "213", 
       "lat": 51.180611721879, 
@@ -1517,14 +1493,14 @@
     }, 
     {
       "hnrlbls": [
-        "213-213A"
+        "213A"
       ], 
       "housenumber": "213A", 
-      "lat": 51.180611721879, 
-      "lon": 3.304480522517, 
+      "lat": 51.180901932558, 
+      "lon": 3.304164545517, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1760,8 +1736,8 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.188290849325, 
-      "lon": 3.287194682135, 
+      "lat": 51.188280574331, 
+      "lon": 3.287181902802, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1796,8 +1772,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.186589349483, 
-      "lon": 3.293079391574, 
+      "lat": 51.186527349776, 
+      "lon": 3.293062653581, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1916,8 +1892,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.186838228908, 
-      "lon": 3.292018570032, 
+      "lat": 51.186801919157, 
+      "lon": 3.292009537405, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1928,11 +1904,11 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.186334601705, 
-      "lon": 3.291343440542, 
+      "lat": 51.186674904692, 
+      "lon": 3.291625392592, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2494,8 +2470,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.170566293092, 
-      "lon": 3.331734768353, 
+      "lat": 51.170624330151, 
+      "lon": 3.3317410584, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -2554,11 +2530,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.168735556358, 
-      "lon": 3.337627430611, 
+      "lat": 51.168736682074, 
+      "lon": 3.337663724366, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2614,8 +2590,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.17075189867, 
-      "lon": 3.330472452169, 
+      "lat": 51.170752526552, 
+      "lon": 3.330472295218, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2725,14 +2701,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.168485464354, 
-      "lon": 3.337698867897, 
+      "lat": 51.168457218379, 
+      "lon": 3.337645156788, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2764,8 +2740,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.171269767299, 
-      "lon": 3.329550493456, 
+      "lat": 51.171290281836, 
+      "lon": 3.329552610923, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -3050,14 +3026,26 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "8C"
       ], 
-      "housenumber": "9", 
-      "lat": 51.168248068429, 
-      "lon": 3.337628468901, 
+      "housenumber": "8C", 
+      "lat": 51.168733519387, 
+      "lon": 3.337589727107, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7-9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.168457218379, 
+      "lon": 3.337645156788, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3149,11 +3137,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.172736077993, 
-      "lon": 3.326329844701, 
+      "lat": 51.172833500288, 
+      "lon": 3.326408751019, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3161,11 +3149,11 @@
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.172770215017, 
-      "lon": 3.326204959397, 
+      "lat": 51.172863752758, 
+      "lon": 3.326312266136, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3173,11 +3161,11 @@
         "96B"
       ], 
       "housenumber": "96B", 
-      "lat": 51.172804369568, 
-      "lon": 3.326082075507, 
+      "lat": 51.172916930129, 
+      "lon": 3.326134474543, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3197,11 +3185,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.172841005215, 
-      "lon": 3.325955132052, 
+      "lat": 51.172953327726, 
+      "lon": 3.326051866098, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3209,11 +3197,11 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 51.172877676052, 
-      "lon": 3.325832191599, 
+      "lat": 51.173004240776, 
+      "lon": 3.325892571421, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -3221,11 +3209,11 @@
         "98B"
       ], 
       "housenumber": "98B", 
-      "lat": 51.17291434676, 
-      "lon": 3.325709250953, 
+      "lat": 51.173069499068, 
+      "lon": 3.325841064206, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggestraat"
     }, 
     {

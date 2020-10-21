@@ -121,12 +121,26 @@
       "street": "Kempenlaan"
     }, 
     {
+      "apptnrs": [
+        "A0.1", 
+        "A0.2", 
+        "A1.1", 
+        "A1.2", 
+        "B0.1", 
+        "B0.2", 
+        "B1.1", 
+        "B1.2", 
+        "C0.1", 
+        "C0.2", 
+        "C1.1", 
+        "C1.2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.005274475741, 
-      "lon": 4.633155510386, 
+      "lat": 51.005306188403, 
+      "lon": 4.63320384638, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -532,11 +546,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.006292827149, 
-      "lon": 4.625925957796, 
+      "lat": 51.006283799027, 
+      "lon": 4.626025785108, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kempenlaan"
     }, 
     {
@@ -592,7 +606,7 @@
       "lon": 4.636043701943, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kempenlaan"
     }, 
     {

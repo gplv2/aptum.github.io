@@ -569,7 +569,9 @@
     }, 
     {
       "apptnrs": [
-        "001"
+        "001", 
+        "002", 
+        "101"
       ], 
       "hnrlbls": [
         "137C"
@@ -870,7 +872,8 @@
     }, 
     {
       "apptnrs": [
-        "0001"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "173"
@@ -1620,6 +1623,11 @@
       "street": "Tongersesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -1821,6 +1829,18 @@
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tongersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "325"
+      ], 
+      "housenumber": "325", 
+      "lat": 50.790905973501, 
+      "lon": 5.384106995618, 
+      "municipality": "Borgloon", 
+      "pcode": "3840", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tongersesteenweg"
     }, 
     {
@@ -2815,6 +2835,17 @@
       "street": "Tongersesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -3168,11 +3199,11 @@
         "64B"
       ], 
       "housenumber": "64B", 
-      "lat": 50.800866825476, 
-      "lon": 5.353334451025, 
+      "lat": 50.800830443799, 
+      "lon": 5.353341633765, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tongersesteenweg"
     }, 
     {
@@ -3180,11 +3211,11 @@
         "64C"
       ], 
       "housenumber": "64C", 
-      "lat": 50.800901800621, 
-      "lon": 5.353280706242, 
+      "lat": 50.800868396759, 
+      "lon": 5.353275892642, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tongersesteenweg"
     }, 
     {

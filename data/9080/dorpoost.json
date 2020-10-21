@@ -595,54 +595,6 @@
     }, 
     {
       "hnrlbls": [
-        "152A"
-      ], 
-      "housenumber": "152A", 
-      "lat": 51.09893952484, 
-      "lon": 3.844996513053, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp-Oost"
-    }, 
-    {
-      "hnrlbls": [
-        "154"
-      ], 
-      "housenumber": "154", 
-      "lat": 51.099051725096, 
-      "lon": 3.845061214378, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp-Oost"
-    }, 
-    {
-      "hnrlbls": [
-        "156"
-      ], 
-      "housenumber": "156", 
-      "lat": 51.099036902206, 
-      "lon": 3.845245687556, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp-Oost"
-    }, 
-    {
-      "hnrlbls": [
-        "158"
-      ], 
-      "housenumber": "158", 
-      "lat": 51.099172174229, 
-      "lon": 3.845445614349, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp-Oost"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -1286,6 +1238,10 @@
         "0002", 
         "0003", 
         "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
         "0201", 
         "0202", 
         "0203", 
@@ -1297,8 +1253,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.097958390725, 
-      "lon": 3.837535288201, 
+      "lat": 51.097850694532, 
+      "lon": 3.83739375055, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1319,8 +1275,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.098078951159, 
-      "lon": 3.836999996112, 
+      "lat": 51.098123348639, 
+      "lon": 3.837197786234, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1395,7 +1351,7 @@
       "street": "Dorp-Oost"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0101", 
         "0102", 
         "0201", 
@@ -1406,11 +1362,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.097964648531, 
-      "lon": 3.83816735881, 
+      "lat": 51.098036191422, 
+      "lon": 3.838085174574, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorp-Oost"
     }, 
     {
@@ -1651,7 +1607,12 @@
         "0003", 
         "0101", 
         "0102", 
-        "0103"
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "73-75"
@@ -1678,12 +1639,25 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
         "A001", 
         "A002", 
         "A101", 
         "A102", 
         "A201", 
-        "A202"
+        "A202", 
+        "A301", 
+        "A302", 
+        "A401"
       ], 
       "hnrlbls": [
         "73-75"

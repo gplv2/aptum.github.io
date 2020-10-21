@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.024564989048, 
-      "lon": 5.308476031626, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -26,35 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.024484057634, 
-      "lon": 5.308253890934, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 51.02481118798, 
       "lon": 5.308018275674, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.024480486469, 
-      "lon": 5.308149477155, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -394,18 +358,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.024649962097, 
-      "lon": 5.308901094893, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -622,18 +574,6 @@
     }, 
     {
       "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.024646594049, 
-      "lon": 5.308793833876, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -685,8 +625,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.025980794526, 
-      "lon": 5.306096967459, 
+      "lat": 51.025991794322, 
+      "lon": 5.30609291137, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -709,8 +649,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.025966810547, 
-      "lon": 5.305967823659, 
+      "lat": 51.025966626239, 
+      "lon": 5.305968390161, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -765,15 +705,27 @@
       "street": "Rodenbachlaan"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.0245681014, 
-      "lon": 5.308581576762, 
+      "lat": 51.024593248959, 
+      "lon": 5.308426993813, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodenbachlaan"
     }, 
     {
@@ -837,6 +789,90 @@
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_1"
+      ], 
+      "housenumber": "8_1", 
+      "lat": 51.024687941987, 
+      "lon": 5.308861945557, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_2"
+      ], 
+      "housenumber": "8_2", 
+      "lat": 51.024669927525, 
+      "lon": 5.308753820041, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_3"
+      ], 
+      "housenumber": "8_3", 
+      "lat": 51.024646783867, 
+      "lon": 5.308657565303, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_4"
+      ], 
+      "housenumber": "8_4", 
+      "lat": 51.024618766077, 
+      "lon": 5.308541256568, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_5"
+      ], 
+      "housenumber": "8_5", 
+      "lat": 51.024558524792, 
+      "lon": 5.308362436728, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_6"
+      ], 
+      "housenumber": "8_6", 
+      "lat": 51.024528085591, 
+      "lon": 5.308234106084, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rodenbachlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8_7"
+      ], 
+      "housenumber": "8_7", 
+      "lat": 51.024501230149, 
+      "lon": 5.308129794927, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rodenbachlaan"
     }, 
     {

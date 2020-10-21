@@ -45,6 +45,10 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "00.1", 
+        "01.1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -308,15 +312,18 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "02.1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.086919117285, 
-      "lon": 4.364652676657, 
+      "lat": 51.086970980382, 
+      "lon": 4.36456818094, 
       "municipality": "Boom", 
       "pcode": "2850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
@@ -329,18 +336,6 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.086963342963, 
-      "lon": 4.364674081862, 
-      "municipality": "Boom", 
-      "pcode": "2850", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {

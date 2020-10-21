@@ -714,8 +714,8 @@
     }, 
     {
       "apptnrs": [
-        "101", 
-        "201"
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "148"
@@ -774,9 +774,9 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "153"
@@ -1093,9 +1093,9 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "176"
@@ -1453,13 +1453,13 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "201"
@@ -1485,10 +1485,10 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "203"
@@ -1687,12 +1687,16 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.231528158729, 
-      "lon": 4.453313068363, 
+      "lat": 51.231524653069, 
+      "lon": 4.453313348283, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1915,8 +1919,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.231707458397, 
-      "lon": 4.454206179917, 
+      "lat": 51.231709977948, 
+      "lon": 4.454202319089, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2417,6 +2421,11 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -2581,11 +2590,11 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.233349544959, 
-      "lon": 4.459932623507, 
+      "lat": 51.233347724611, 
+      "lon": 4.459730175946, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2625,11 +2634,11 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 51.233360772101, 
-      "lon": 4.460058922604, 
+      "lat": 51.233343342563, 
+      "lon": 4.459933183967, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2680,11 +2689,11 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.233377034138, 
-      "lon": 4.460183227316, 
+      "lat": 51.233367140899, 
+      "lon": 4.460075543032, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2723,18 +2732,18 @@
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 51.233417277252, 
-      "lon": 4.460330200644, 
+      "lat": 51.233393627644, 
+      "lon": 4.460228072716, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "294"
@@ -2766,11 +2775,11 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.23342337167, 
-      "lon": 4.460467943556, 
+      "lat": 51.23341239685, 
+      "lon": 4.460364408931, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2792,6 +2801,7 @@
         "11", 
         "12", 
         "2", 
+        "299", 
         "3", 
         "4", 
         "5", 
@@ -2804,11 +2814,11 @@
         "297"
       ], 
       "housenumber": "297", 
-      "lat": 51.233445915701, 
-      "lon": 4.460604287449, 
+      "lat": 51.233445715587, 
+      "lon": 4.460515377593, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2848,11 +2858,11 @@
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 51.233470255446, 
-      "lon": 4.460742925787, 
+      "lat": 51.233462707193, 
+      "lon": 4.460625653336, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2869,8 +2879,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.229951102113, 
-      "lon": 4.443742327221, 
+      "lat": 51.229952268583, 
+      "lon": 4.443745478649, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2925,11 +2935,11 @@
         "301"
       ], 
       "housenumber": "301", 
-      "lat": 51.23348526626, 
-      "lon": 4.460857206531, 
+      "lat": 51.233492582637, 
+      "lon": 4.460811549364, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2969,11 +2979,11 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 51.233509091829, 
-      "lon": 4.460963487308, 
+      "lat": 51.233507778322, 
+      "lon": 4.460919244659, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -2995,11 +3005,11 @@
         "305"
       ], 
       "housenumber": "305", 
-      "lat": 51.233525367102, 
-      "lon": 4.461069753128, 
+      "lat": 51.233520098318, 
+      "lon": 4.461026075259, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -3063,11 +3073,11 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 51.233545422114, 
-      "lon": 4.461170013359, 
+      "lat": 51.233547486049, 
+      "lon": 4.461174312634, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -3089,18 +3099,6 @@
       "housenumber": "31", 
       "lat": 51.230307253542, 
       "lon": 4.445083901588, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19-310"
-      ], 
-      "housenumber": "310", 
-      "lat": 51.232725735789, 
-      "lon": 4.459839622595, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3466,18 +3464,26 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "339"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
-        "337-339"
+        "337"
       ], 
       "housenumber": "337", 
-      "lat": 51.23394155249, 
-      "lon": 4.463297352539, 
+      "lat": 51.233830699847, 
+      "lon": 4.463218381116, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -3493,15 +3499,38 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
+      ], 
       "hnrlbls": [
-        "337-339"
+        "339"
       ], 
       "housenumber": "339", 
-      "lat": 51.23394155249, 
-      "lon": 4.463297352539, 
+      "lat": 51.233846963404, 
+      "lon": 4.463336674941, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bisschoppenhoflaan"
+    }, 
+    {
+      "hnrlbls": [
+        "339A"
+      ], 
+      "housenumber": "339A", 
+      "lat": 51.233854463531, 
+      "lon": 4.463398827219, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -3540,7 +3569,31 @@
     }, 
     {
       "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
+      ], 
+      "hnrlbls": [
+        "341"
+      ], 
+      "housenumber": "341", 
+      "lat": 51.233868229585, 
+      "lon": 4.463493063033, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bisschoppenhoflaan"
+    }, 
+    {
+      "apptnrs": [
         "001", 
+        "002", 
         "101", 
         "102", 
         "103", 
@@ -3563,6 +3616,29 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
+      ], 
+      "hnrlbls": [
+        "343"
+      ], 
+      "housenumber": "343", 
+      "lat": 51.233882005277, 
+      "lon": 4.46357527241, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bisschoppenhoflaan"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -3574,7 +3650,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "345-347"
+        "345"
       ], 
       "housenumber": "345", 
       "lat": 51.233954729107, 
@@ -3600,20 +3676,8 @@
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 51.233208355198, 
-      "lon": 4.463542251355, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "345-347"
-      ], 
-      "housenumber": "347", 
-      "lat": 51.233954729107, 
-      "lon": 4.463787603812, 
+      "lat": 51.233252049948, 
+      "lon": 4.463528166943, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3936,8 +4000,22 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
+      ], 
       "hnrlbls": [
-        "361-363"
+        "361"
       ], 
       "housenumber": "361", 
       "lat": 51.234114992558, 
@@ -3954,18 +4032,6 @@
       "housenumber": "362", 
       "lat": 51.233508878081, 
       "lon": 4.465255772343, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "361-363"
-      ], 
-      "housenumber": "363", 
-      "lat": 51.234114992558, 
-      "lon": 4.464450110343, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4211,9 +4277,6 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "387"
-      ], 
       "hnrlbls": [
         "385-387"
       ], 
@@ -4531,7 +4594,7 @@
     }, 
     {
       "hnrlbls": [
-        "404-414"
+        "404-408"
       ], 
       "housenumber": "404", 
       "lat": 51.233868022507, 
@@ -4542,9 +4605,6 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "407"
-      ], 
       "hnrlbls": [
         "405"
       ], 
@@ -4571,7 +4631,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "404-414"
+        "404-408"
       ], 
       "housenumber": "406", 
       "lat": 51.233868022507, 
@@ -4605,11 +4665,8 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
       "hnrlbls": [
-        "404-414"
+        "404-408"
       ], 
       "housenumber": "408", 
       "lat": 51.233868022507, 
@@ -4695,18 +4752,6 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "hnrlbls": [
-        "404-414"
-      ], 
-      "housenumber": "412", 
-      "lat": 51.233868022507, 
-      "lon": 4.467561745502, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "201", 
@@ -4720,18 +4765,6 @@
       "housenumber": "413", 
       "lat": 51.234463625621, 
       "lon": 4.467091399837, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "404-414"
-      ], 
-      "housenumber": "414", 
-      "lat": 51.233868022507, 
-      "lon": 4.467561745502, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4775,46 +4808,6 @@
     }, 
     {
       "hnrlbls": [
-        "415_1-415_"
-      ], 
-      "housenumber": "415_1", 
-      "lat": 51.234477805141, 
-      "lon": 4.467225011878, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "415_1-415_"
-      ], 
-      "housenumber": "415_2", 
-      "lat": 51.234477805141, 
-      "lon": 4.467225011878, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "b"
-      ], 
-      "hnrlbls": [
-        "415_1-415_"
-      ], 
-      "housenumber": "415_3", 
-      "lat": 51.234477805141, 
-      "lon": 4.467225011878, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
         "415-421"
       ], 
       "housenumber": "417", 
@@ -4842,11 +4835,11 @@
         "420"
       ], 
       "housenumber": "420", 
-      "lat": 51.233999062684, 
-      "lon": 4.46831855213, 
+      "lat": 51.23397896207, 
+      "lon": 4.468279279471, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -4886,7 +4879,6 @@
         "28", 
         "3", 
         "4", 
-        "424", 
         "5", 
         "6", 
         "7", 
@@ -4894,14 +4886,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "422-424"
+        "422"
       ], 
       "housenumber": "422", 
-      "lat": 51.233992638358, 
-      "lon": 4.46836879208, 
+      "lat": 51.234064657354, 
+      "lon": 4.468342459988, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -4918,11 +4910,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "423-425"
+        "423"
       ], 
       "housenumber": "423", 
-      "lat": 51.234533686131, 
-      "lon": 4.467577627087, 
+      "lat": 51.234503288286, 
+      "lon": 4.467384276351, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4930,26 +4922,11 @@
     }, 
     {
       "hnrlbls": [
-        "423_5"
-      ], 
-      "housenumber": "423_5", 
-      "lat": 51.234507040296, 
-      "lon": 4.46741177389, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "busnrs": [
-        "17"
-      ], 
-      "hnrlbls": [
-        "422-424"
+        "424"
       ], 
       "housenumber": "424", 
-      "lat": 51.233992638358, 
-      "lon": 4.46836879208, 
+      "lat": 51.234006404341, 
+      "lon": 4.468458448109, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4970,26 +4947,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "423-425"
+        "425"
       ], 
       "housenumber": "425", 
-      "lat": 51.234533686131, 
-      "lon": 4.467577627087, 
+      "lat": 51.234535027031, 
+      "lon": 4.467586363612, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "426-440"
-      ], 
-      "housenumber": "426", 
-      "lat": 51.233836536122, 
-      "lon": 4.468972931095, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5010,8 +4975,8 @@
         "427"
       ], 
       "housenumber": "427", 
-      "lat": 51.234533685649, 
-      "lon": 4.467578199785, 
+      "lat": 51.23456265144, 
+      "lon": 4.467763959443, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5052,11 +5017,11 @@
         "428"
       ], 
       "housenumber": "428", 
-      "lat": 51.234047792495, 
-      "lon": 4.468726557667, 
+      "lat": 51.234117205563, 
+      "lon": 4.468699504602, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5099,9 +5064,6 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "434"
-      ], 
       "hnrlbls": [
         "432-434"
       ], 
@@ -5147,30 +5109,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "434A-434E"
-      ], 
-      "housenumber": "434A", 
-      "lat": 51.234102937686, 
-      "lon": 4.468988254685, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "434A-434E"
-      ], 
-      "housenumber": "434E", 
-      "lat": 51.234102937686, 
-      "lon": 4.468988254685, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5243,14 +5181,14 @@
         "84"
       ], 
       "hnrlbls": [
-        "436-442"
+        "438"
       ], 
       "housenumber": "438", 
-      "lat": 51.234127780228, 
-      "lon": 4.469263201682, 
+      "lat": 51.234201060358, 
+      "lon": 4.469233866983, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5270,18 +5208,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "426-440"
-      ], 
-      "housenumber": "440", 
-      "lat": 51.233836536122, 
-      "lon": 4.468972931095, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5311,9 +5237,6 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "440"
-      ], 
       "hnrlbls": [
         "436-442"
       ], 
@@ -5339,7 +5262,7 @@
     }, 
     {
       "hnrlbls": [
-        "444-452"
+        "444-446"
       ], 
       "housenumber": "444", 
       "lat": 51.2341832002, 
@@ -5363,7 +5286,7 @@
     }, 
     {
       "hnrlbls": [
-        "444-452"
+        "444-446"
       ], 
       "housenumber": "446", 
       "lat": 51.2341832002, 
@@ -5412,7 +5335,6 @@
         "109", 
         "110", 
         "111", 
-        "450", 
         "85", 
         "86", 
         "87", 
@@ -5433,11 +5355,11 @@
         "448"
       ], 
       "housenumber": "448", 
-      "lat": 51.234182840544, 
-      "lon": 4.469622400902, 
+      "lat": 51.234255490103, 
+      "lon": 4.469594783447, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bisschoppenhoflaan"
     }, 
     {
@@ -5483,40 +5405,12 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "108", 
-        "111"
-      ], 
-      "hnrlbls": [
-        "444-452"
-      ], 
-      "housenumber": "450", 
-      "lat": 51.2341832002, 
-      "lon": 4.469622258512, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
       "hnrlbls": [
         "449-451"
       ], 
       "housenumber": "451", 
       "lat": 51.234764430981, 
       "lon": 4.469045668585, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "444-452"
-      ], 
-      "housenumber": "452", 
-      "lat": 51.2341832002, 
-      "lon": 4.469622258512, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5625,8 +5519,8 @@
         "460-462"
       ], 
       "housenumber": "460", 
-      "lat": 51.234175848697, 
-      "lon": 4.47022643549, 
+      "lat": 51.234177039438, 
+      "lon": 4.470200666834, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5637,8 +5531,8 @@
         "460-462"
       ], 
       "housenumber": "462", 
-      "lat": 51.234175848697, 
-      "lon": 4.47022643549, 
+      "lat": 51.234177039438, 
+      "lon": 4.470200666834, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5722,7 +5616,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "482"
@@ -6254,8 +6149,9 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "6"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "53-55"
@@ -7218,42 +7114,12 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "635-637"
-      ], 
-      "housenumber": "635", 
-      "lat": 51.236758284159, 
-      "lon": 4.480250801752, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
       "hnrlbls": [
         "636"
       ], 
       "housenumber": "636", 
       "lat": 51.235899630924, 
       "lon": 4.480247589631, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bisschoppenhoflaan"
-    }, 
-    {
-      "hnrlbls": [
-        "635-637"
-      ], 
-      "housenumber": "637", 
-      "lat": 51.236758284159, 
-      "lon": 4.480250801752, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -7877,14 +7743,14 @@
       "street": "Bisschoppenhoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "89"
@@ -7948,6 +7814,23 @@
       "housenumber": "91", 
       "lat": 51.231105351218, 
       "lon": 4.447764395305, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bisschoppenhoflaan"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.230394968175, 
+      "lon": 4.447680289913, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.880194598586, 
-      "lon": 3.359559621535, 
+      "lat": 50.880215471964, 
+      "lon": 3.359540557252, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
@@ -916,6 +916,10 @@
       "street": "Gentseweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "226"
       ], 
@@ -924,7 +928,7 @@
       "lon": 3.378248360694, 
       "municipality": "Waregem", 
       "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentseweg"
     }, 
     {
@@ -1273,6 +1277,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.879929351753, 
+      "lon": 3.359607948582, 
+      "municipality": "Waregem", 
+      "pcode": "8792", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gentseweg"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -1348,8 +1364,10 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "11", 
-        "12"
+        "12", 
+        "21"
       ], 
       "hnrlbls": [
         "39-41"
@@ -1372,18 +1390,6 @@
       "housenumber": "4", 
       "lat": 50.879918292729, 
       "lon": 3.359879894363, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "409"
-      ], 
-      "housenumber": "409", 
-      "lat": 50.893384074339, 
-      "lon": 3.381083892492, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1439,18 +1445,6 @@
     }, 
     {
       "hnrlbls": [
-        "455"
-      ], 
-      "housenumber": "455", 
-      "lat": 50.89177053457, 
-      "lon": 3.384170592154, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -1463,35 +1457,11 @@
     }, 
     {
       "hnrlbls": [
-        "460"
-      ], 
-      "housenumber": "460", 
-      "lat": 50.893748905121, 
-      "lon": 3.390141006526, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
       "lat": 50.881377863552, 
       "lon": 3.362027984012, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "471"
-      ], 
-      "housenumber": "471", 
-      "lat": 50.89267679576, 
-      "lon": 3.385937369557, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1587,119 +1557,11 @@
     }, 
     {
       "hnrlbls": [
-        "521"
-      ], 
-      "housenumber": "521", 
-      "lat": 50.89553526332, 
-      "lon": 3.392314145411, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "522A"
-      ], 
-      "housenumber": "522A", 
-      "lat": 50.897962068274, 
-      "lon": 3.400821352007, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "523"
-      ], 
-      "housenumber": "523", 
-      "lat": 50.895608299374, 
-      "lon": 3.392524010005, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "525"
-      ], 
-      "housenumber": "525", 
-      "lat": 50.895660766592, 
-      "lon": 3.392638775213, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "528"
-      ], 
-      "housenumber": "528", 
-      "lat": 50.898191418526, 
-      "lon": 3.401226620076, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
       "lat": 50.881827006132, 
       "lon": 3.362320495292, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "530"
-      ], 
-      "housenumber": "530", 
-      "lat": 50.898266673598, 
-      "lon": 3.401413149929, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "532"
-      ], 
-      "housenumber": "532", 
-      "lat": 50.898341804348, 
-      "lon": 3.401584613807, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "534"
-      ], 
-      "housenumber": "534", 
-      "lat": 50.898421636813, 
-      "lon": 3.40174844689, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "536"
-      ], 
-      "housenumber": "536", 
-      "lat": 50.898484778109, 
-      "lon": 3.401905089393, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1719,66 +1581,6 @@
     }, 
     {
       "hnrlbls": [
-        "540"
-      ], 
-      "housenumber": "540", 
-      "lat": 50.898583790045, 
-      "lon": 3.40266290942, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "542"
-      ], 
-      "housenumber": "542", 
-      "lat": 50.898654509838, 
-      "lon": 3.402582413005, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "544"
-      ], 
-      "housenumber": "544", 
-      "lat": 50.898734513324, 
-      "lon": 3.402482959952, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "546"
-      ], 
-      "housenumber": "546", 
-      "lat": 50.898842636393, 
-      "lon": 3.402326489484, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "548"
-      ], 
-      "housenumber": "548", 
-      "lat": 50.8990167159, 
-      "lon": 3.402089760659, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -1791,62 +1593,14 @@
     }, 
     {
       "hnrlbls": [
-        "550"
+        "553"
       ], 
-      "housenumber": "550", 
-      "lat": 50.89922472987, 
-      "lon": 3.401923698194, 
+      "housenumber": "553", 
+      "lat": 50.897015457981, 
+      "lon": 3.395332527457, 
       "municipality": "Waregem", 
       "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "551-551A"
-      ], 
-      "housenumber": "551A", 
-      "lat": 50.89689251272, 
-      "lon": 3.395131220811, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "552"
-      ], 
-      "housenumber": "552", 
-      "lat": 50.899474434547, 
-      "lon": 3.402497882293, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "556"
-      ], 
-      "housenumber": "556", 
-      "lat": 50.900584174414, 
-      "lon": 3.404314007197, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "556B"
-      ], 
-      "housenumber": "556B", 
-      "lat": 50.900622151299, 
-      "lon": 3.404439188862, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentseweg"
     }, 
     {
@@ -1859,21 +1613,6 @@
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "apptnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "568B"
-      ], 
-      "housenumber": "568B", 
-      "lat": 50.901917320401, 
-      "lon": 3.407429644107, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Gentseweg"
     }, 
     {
@@ -1895,34 +1634,6 @@
       "housenumber": "58", 
       "lat": 50.881495630338, 
       "lon": 3.363013705522, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "585"
-      ], 
-      "housenumber": "585", 
-      "lat": 50.899699132604, 
-      "lon": 3.400885509755, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "589"
-      ], 
-      "housenumber": "589", 
-      "lat": 50.899817977151, 
-      "lon": 3.401507170579, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1978,35 +1689,11 @@
     }, 
     {
       "hnrlbls": [
-        "614"
-      ], 
-      "housenumber": "614", 
-      "lat": 50.903820512474, 
-      "lon": 3.411888501149, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.881541420474, 
       "lon": 3.363227172277, 
-      "municipality": "Waregem", 
-      "pcode": "8792", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "624"
-      ], 
-      "housenumber": "624", 
-      "lat": 50.905254989435, 
-      "lon": 3.414986724438, 
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 

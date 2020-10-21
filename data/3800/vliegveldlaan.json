@@ -168,11 +168,11 @@
         "118A"
       ], 
       "housenumber": "118A", 
-      "lat": 50.805986143178, 
-      "lon": 5.223071405622, 
+      "lat": 50.806153381845, 
+      "lon": 5.222945333777, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vliegveldlaan"
     }, 
     {
@@ -252,11 +252,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.806066263667, 
-      "lon": 5.221947043095, 
+      "lat": 50.806067605768, 
+      "lon": 5.221960262302, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vliegveldlaan"
     }, 
     {
@@ -276,11 +276,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.806133496944, 
-      "lon": 5.222047579548, 
+      "lat": 50.806122399157, 
+      "lon": 5.222040709733, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vliegveldlaan"
     }, 
     {
@@ -296,11 +296,6 @@
       "street": "Vliegveldlaan"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "103"
-      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -666,10 +661,6 @@
       "street": "Vliegveldlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -746,8 +737,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.800752118018, 
-      "lon": 5.211450984794, 
+      "lat": 50.800762231766, 
+      "lon": 5.211469750242, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -806,8 +797,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.800603340282, 
-      "lon": 5.212098761722, 
+      "lat": 50.800586972969, 
+      "lon": 5.212136913093, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -902,11 +893,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.801586730627, 
-      "lon": 5.21228011594, 
+      "lat": 50.801586091173, 
+      "lon": 5.212281523131, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vliegveldlaan"
     }, 
     {
@@ -1122,8 +1113,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.802454966685, 
-      "lon": 5.213257991735, 
+      "lat": 50.802443944329, 
+      "lon": 5.21330290807, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1158,8 +1149,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.802660291288, 
-      "lon": 5.213708143801, 
+      "lat": 50.802659209533, 
+      "lon": 5.213708549967, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1380,11 +1371,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.802729708187, 
-      "lon": 5.214739650334, 
+      "lat": 50.802706985997, 
+      "lon": 5.214587157026, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vliegveldlaan"
     }, 
     {
@@ -1404,8 +1395,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.804325983137, 
-      "lon": 5.216768667663, 
+      "lat": 50.80432773679, 
+      "lon": 5.216749971832, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1425,6 +1416,23 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vliegveldlaan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.802775819958, 
+      "lon": 5.214778075666, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vliegveldlaan"
     }, 
     {

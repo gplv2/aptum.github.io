@@ -73,34 +73,31 @@
       "street": "Leeuwerikenstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
-        "60-110"
+        "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.211099632888, 
-      "lon": 2.90806495198, 
+      "lat": 51.211106597963, 
+      "lon": 2.908002901565, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.211391522677, 
-      "lon": 2.907786726351, 
+      "lat": 51.211388847131, 
+      "lon": 2.907861238415, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -129,6 +126,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -349,14 +347,12 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
-        "133-135"
+        "133"
       ], 
       "housenumber": "133", 
       "lat": 51.210393048512, 
@@ -380,14 +376,14 @@
     }, 
     {
       "hnrlbls": [
-        "133-135"
+        "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.210393048512, 
-      "lon": 2.907362558693, 
+      "lat": 51.210407854716, 
+      "lon": 2.90722211542, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -452,9 +448,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2"
+        "0001"
       ], 
       "hnrlbls": [
         "141"
@@ -484,8 +478,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.210169969768, 
-      "lon": 2.907221695434, 
+      "lat": 51.210175467876, 
+      "lon": 2.907230110855, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -556,8 +550,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.213719829727, 
-      "lon": 2.908830721203, 
+      "lat": 51.213722271377, 
+      "lon": 2.90881003286, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -624,20 +618,15 @@
       "street": "Leeuwerikenstraat"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.209733362504, 
-      "lon": 2.90751632937, 
+      "lat": 51.209749971596, 
+      "lon": 2.907419914565, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -750,9 +739,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "171"
@@ -933,8 +922,8 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.208912471765, 
-      "lon": 2.907109089602, 
+      "lat": 51.208919079473, 
+      "lon": 2.907105447627, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -978,9 +967,8 @@
     }, 
     {
       "busnrs": [
-        "0002", 
-        "0101", 
-        "0201"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "188"
@@ -1022,8 +1010,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.208635113903, 
-      "lon": 2.906577346506, 
+      "lat": 51.208640591516, 
+      "lon": 2.906525936837, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1046,8 +1034,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.20857913072, 
-      "lon": 2.906586686464, 
+      "lat": 51.208581311226, 
+      "lon": 2.906566724069, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1190,8 +1178,8 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.208361003461, 
-      "lon": 2.906431937454, 
+      "lat": 51.208364847235, 
+      "lon": 2.90644469797, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1238,8 +1226,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.208150115123, 
-      "lon": 2.906390028905, 
+      "lat": 51.208150287413, 
+      "lon": 2.906382151827, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1721,8 +1709,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.213327531609, 
-      "lon": 2.908622136988, 
+      "lat": 51.213327579078, 
+      "lon": 2.908618700209, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1805,8 +1793,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.213225804795, 
-      "lon": 2.90858910722, 
+      "lat": 51.213225831064, 
+      "lon": 2.908583953469, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1829,8 +1817,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.213166372587, 
-      "lon": 2.908581234087, 
+      "lat": 51.213170110962, 
+      "lon": 2.908556354422, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1853,8 +1841,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.213122959167, 
-      "lon": 2.90856012044, 
+      "lat": 51.213127539905, 
+      "lon": 2.908537934026, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1877,8 +1865,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.213091427591, 
-      "lon": 2.908540209432, 
+      "lat": 51.213092283859, 
+      "lon": 2.908536747355, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1889,8 +1877,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.212828863419, 
-      "lon": 2.90890011202, 
+      "lat": 51.212826444292, 
+      "lon": 2.908908060181, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1973,8 +1961,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.212937866426, 
-      "lon": 2.908437520706, 
+      "lat": 51.212937646296, 
+      "lon": 2.908441535405, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2021,8 +2009,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.212862860261, 
-      "lon": 2.908413388422, 
+      "lat": 51.212861352443, 
+      "lon": 2.908429609966, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2045,8 +2033,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.212821059107, 
-      "lon": 2.908391795192, 
+      "lat": 51.212820391411, 
+      "lon": 2.908395967027, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2081,8 +2069,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.212462250203, 
-      "lon": 2.908711195608, 
+      "lat": 51.212463638611, 
+      "lon": 2.908707144389, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2141,8 +2129,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.212648609342, 
-      "lon": 2.908324766966, 
+      "lat": 51.212645115879, 
+      "lon": 2.908347634814, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2273,21 +2261,21 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "79B"
       ], 
       "housenumber": "79B", 
-      "lat": 51.212264079878, 
-      "lon": 2.908133840288, 
+      "lat": 51.212252971026, 
+      "lon": 2.908268018323, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -2369,21 +2357,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.211842954232, 
-      "lon": 2.908022499359, 
+      "lat": 51.211832799628, 
+      "lon": 2.908081072294, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leeuwerikenstraat"
     }, 
     {

@@ -192,11 +192,23 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.27455445974, 
-      "lon": 4.865135058892, 
+      "lat": 51.274514184184, 
+      "lon": 4.865051227978, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Beersebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "117A"
+      ], 
+      "housenumber": "117A", 
+      "lat": 51.27465990405, 
+      "lon": 4.864982708709, 
+      "municipality": "Lille", 
+      "pcode": "2275", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beersebaan"
     }, 
     {
@@ -216,11 +228,11 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.274676369798, 
-      "lon": 4.864764493267, 
+      "lat": 51.274772375027, 
+      "lon": 4.864826563648, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beersebaan"
     }, 
     {
@@ -449,15 +461,21 @@
       "street": "Beersebaan"
     }, 
     {
+      "apptnrs": [
+        "139BUS3", 
+        "139Bus1", 
+        "139Bus2", 
+        "139Bus4"
+      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.276077230091, 
-      "lon": 4.863945109129, 
+      "lat": 51.276023722592, 
+      "lon": 4.863801233987, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Beersebaan"
     }, 
     {
@@ -505,8 +523,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.276506329513, 
-      "lon": 4.863581666113, 
+      "lat": 51.276488194955, 
+      "lon": 4.863533465372, 
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanGebouw", 
@@ -625,8 +643,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.283582103634, 
-      "lon": 4.857065425729, 
+      "lat": 51.283547855248, 
+      "lon": 4.857087855282, 
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanGebouw", 
@@ -752,11 +770,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.270620698153, 
-      "lon": 4.867097400774, 
+      "lat": 51.270572621691, 
+      "lon": 4.866924079533, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Beersebaan"
     }, 
     {
@@ -980,6 +998,22 @@
       "street": "Beersebaan"
     }, 
     {
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.270820026494, 
+      "lon": 4.866401573658, 
+      "municipality": "Lille", 
+      "pcode": "2275", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Beersebaan"
+    }, 
+    {
       "hnrlbls": [
         "56"
       ], 
@@ -992,6 +1026,10 @@
       "street": "Beersebaan"
     }, 
     {
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
+      ], 
       "hnrlbls": [
         "57"
       ], 

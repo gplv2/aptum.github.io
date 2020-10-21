@@ -39,24 +39,21 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "0501", 
-        "3", 
-        "4", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
+        "0402"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.225056623554, 
-      "lon": 2.917332115985, 
+      "lat": 51.225018971303, 
+      "lon": 2.917414037154, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -76,11 +73,11 @@
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.225056623554, 
-      "lon": 2.917332115985, 
+      "lat": 51.225020307538, 
+      "lon": 2.917317783457, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -403,22 +400,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.224500643163, 
-      "lon": 2.916743373852, 
+      "lat": 51.224546179035, 
+      "lon": 2.916695855063, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ka\u00efrostraat"
     }, 
     {
@@ -497,8 +492,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.224338730494, 
-      "lon": 2.915396309897, 
+      "lat": 51.224333541093, 
+      "lon": 2.915398332821, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -780,7 +775,10 @@
     {
       "busnrs": [
         "0001", 
-        "0101"
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "65"
@@ -837,9 +835,7 @@
         "-101", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "7"

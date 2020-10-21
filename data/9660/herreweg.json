@@ -167,11 +167,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.799670935557, 
-      "lon": 3.758404362792, 
+      "lat": 50.79980856239, 
+      "lon": 3.758730977762, 
       "municipality": "Brakel", 
       "pcode": "9660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herreweg"
     }, 
     {
@@ -331,8 +331,14 @@
       "street": "Herreweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
-        "44-46"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 50.800443790089, 
@@ -352,18 +358,6 @@
       "municipality": "Brakel", 
       "pcode": "9660", 
       "source": "manueleAanduidingVanLot", 
-      "street": "Herreweg"
-    }, 
-    {
-      "hnrlbls": [
-        "44-46"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.800443790089, 
-      "lon": 3.7577981177, 
-      "municipality": "Brakel", 
-      "pcode": "9660", 
-      "source": "afgeleidVanGebouw", 
       "street": "Herreweg"
     }, 
     {

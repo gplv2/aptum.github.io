@@ -13,15 +13,26 @@
       "street": "Bouwensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
+      ], 
       "hnrlbls": [
-        "8-16"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.211053623739, 
-      "lon": 4.429852456123, 
+      "lat": 51.211072411177, 
+      "lon": 4.430021055979, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bouwensstraat"
     }, 
     {
@@ -117,12 +128,19 @@
       "street": "Bouwensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.210744793732, 
-      "lon": 4.429829007568, 
+      "lat": 51.210796730561, 
+      "lon": 4.429860129455, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -140,8 +158,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.210796730561, 
-      "lon": 4.429860129455, 
+      "lat": 51.210744793732, 
+      "lon": 4.429829007568, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -289,27 +307,69 @@
       "street": "Bouwensstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.210165509286, 
-      "lon": 4.43013476034, 
+      "lat": 51.210242588589, 
+      "lon": 4.429870700073, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bouwensstraat"
     }, 
     {
       "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.210159564901, 
+      "lon": 4.429814494885, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bouwensstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501"
+      ], 
+      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.21004345945, 
-      "lon": 4.430280988713, 
+      "lat": 51.21008031632, 
+      "lon": 4.429758294891, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bouwensstraat"
     }, 
     {

@@ -13,10 +13,10 @@
       "street": "Louis Wanbecqstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "10"
@@ -30,10 +30,10 @@
       "street": "Louis Wanbecqstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "12"
@@ -47,14 +47,16 @@
       "street": "Louis Wanbecqstraat"
     }, 
     {
-      "busnrs": [
-        "16", 
-        "2", 
-        "3", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "14-16"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.224365054457, 
@@ -84,18 +86,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Louis Wanbecqstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14-16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.224365054457, 
-      "lon": 4.46003616208, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
       "street": "Louis Wanbecqstraat"
     }, 
     {
@@ -214,9 +204,10 @@
       "street": "Louis Wanbecqstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "6"
@@ -246,6 +237,10 @@
       "street": "Louis Wanbecqstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

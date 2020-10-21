@@ -70,17 +70,32 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
-        "4"
+        "4-4A"
       ], 
       "housenumber": "4", 
-      "lat": 51.332375525512, 
-      "lon": 3.20499111664, 
+      "lat": 51.332304380848, 
+      "lon": 3.205069377594, 
       "municipality": "Brugge", 
       "pcode": "8380", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wandelaarstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "4-4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.332304380848, 
+      "lon": 3.205069377594, 
+      "municipality": "Brugge", 
+      "pcode": "8380", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wandelaarstraat"
     }, 
     {

@@ -88,15 +88,21 @@
       "street": "Hoofdstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.15152093074, 
-      "lon": 5.390155394633, 
+      "lat": 51.151577355692, 
+      "lon": 5.390034135381, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoofdstraat"
     }, 
     {
@@ -544,8 +550,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.152522529739, 
-      "lon": 5.390073260539, 
+      "lat": 51.152521412855, 
+      "lon": 5.390077667132, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
       "source": "afgeleidVanPerceelGrb", 

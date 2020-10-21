@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -115,23 +121,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Gentplaats"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "1-3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.206393497207, 
-      "lon": 4.387354779266, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
       "street": "Gentplaats"
     }, 
     {

@@ -1,17 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0001", 
-        "0201", 
-        "1B"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.215269181256, 
-      "lon": 2.886956127883, 
+      "lat": 51.215263696957, 
+      "lon": 2.886920229801, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -20,27 +15,26 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0103", 
-        "0104", 
-        "0105", 
         "0201", 
+        "0202", 
         "0203", 
-        "0205", 
         "0301", 
+        "0302", 
         "0303", 
-        "0305", 
-        "2", 
-        "3", 
-        "A"
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.2156246786, 
-      "lon": 2.887345641899, 
+      "lat": 51.215626834888, 
+      "lon": 2.887359887933, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -48,9 +42,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "10B"
@@ -66,7 +60,8 @@
     {
       "busnrs": [
         "0001", 
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "11"
@@ -102,22 +97,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.215814888503, 
-      "lon": 2.88746585599, 
+      "lat": 51.215726588355, 
+      "lon": 2.887600926202, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Passchijnstraat"
     }, 
     {
@@ -149,6 +141,10 @@
       "street": "Passchijnstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "13A"
       ], 
@@ -165,8 +161,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.215877478214, 
-      "lon": 2.887854942995, 
+      "lat": 51.215907892009, 
+      "lon": 2.88782119707, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -213,8 +209,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.215965199411, 
-      "lon": 2.88791771915, 
+      "lat": 51.215945848088, 
+      "lon": 2.887951829621, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -399,8 +395,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.216202673868, 
-      "lon": 2.88843824932, 
+      "lat": 51.216175807982, 
+      "lon": 2.88846816065, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -611,20 +607,17 @@
         "0101", 
         "0102", 
         "0103", 
-        "0104", 
-        "3", 
-        "4", 
-        "5"
+        "0104"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.216322856012, 
-      "lon": 2.889255957177, 
+      "lat": 51.216308092162, 
+      "lon": 2.889268736076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Passchijnstraat"
     }, 
     {
@@ -763,6 +756,9 @@
       "street": "Passchijnstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -776,22 +772,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
-        "0302", 
-        "1", 
-        "6"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.216646121776, 
-      "lon": 2.889505804649, 
+      "lat": 51.216602144487, 
+      "lon": 2.889547710084, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Passchijnstraat"
     }, 
     {
@@ -832,8 +829,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.216711519872, 
-      "lon": 2.890227918227, 
+      "lat": 51.216735882043, 
+      "lon": 2.890206246396, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -877,21 +874,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 51.215560464617, 
-      "lon": 2.887056667517, 
+      "lat": 51.215508157277, 
+      "lon": 2.887108143297, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Passchijnstraat"
     }, 
     {
@@ -935,17 +932,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "0402", 
-        "1"
+        "0402"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.215569145716, 
-      "lon": 2.887218574987, 
+      "lat": 51.215562046528, 
+      "lon": 2.887211643205, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

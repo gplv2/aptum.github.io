@@ -17,11 +17,11 @@
         "12-16"
       ], 
       "housenumber": "12", 
-      "lat": 50.940460704031, 
-      "lon": 3.063491501734, 
+      "lat": 50.939501289624, 
+      "lon": 3.064591381346, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brabandstraat"
     }, 
     {
@@ -53,11 +53,11 @@
         "12-16"
       ], 
       "housenumber": "16", 
-      "lat": 50.940460704031, 
-      "lon": 3.063491501734, 
+      "lat": 50.939501289624, 
+      "lon": 3.064591381346, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brabandstraat"
     }, 
     {
@@ -85,18 +85,19 @@
       "street": "Brabandstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "0/1", 
         "1/1"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.940802843632, 
-      "lon": 3.062160017769, 
+      "lat": 50.940855107394, 
+      "lon": 3.06210591163, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabandstraat"
     }, 
     {
@@ -209,6 +210,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.940737592144, 
+      "lon": 3.062234691944, 
+      "municipality": "Staden", 
+      "pcode": "8840", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brabandstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -236,11 +249,23 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.939167863274, 
-      "lon": 3.065454132469, 
+      "lat": 50.939181978953, 
+      "lon": 3.065413613261, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brabandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.939116679645, 
+      "lon": 3.065516598299, 
+      "municipality": "Staden", 
+      "pcode": "8840", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brabandstraat"
     }, 
     {

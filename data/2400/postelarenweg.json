@@ -691,6 +691,25 @@
       "street": "Postelarenweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.194779584462, 
+      "lon": 5.113464594331, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Postelarenweg"
+    }, 
+    {
       "hnrlbls": [
         "241"
       ], 
@@ -736,6 +755,18 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Postelarenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "247B"
+      ], 
+      "housenumber": "247B", 
+      "lat": 51.189444274058, 
+      "lon": 5.091000808776, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Postelarenweg"
     }, 
     {
@@ -963,15 +994,16 @@
       "street": "Postelarenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "2", 
-        "3", 
         "4", 
         "5", 
         "6", 
         "7", 
         "8"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "4"

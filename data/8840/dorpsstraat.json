@@ -132,11 +132,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.933279134641, 
-      "lon": 3.012636373372, 
+      "lat": 50.933323927685, 
+      "lon": 3.012225030531, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -653,8 +653,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.930733270053, 
-      "lon": 3.012010231172, 
+      "lat": 50.930773090446, 
+      "lon": 3.011908209755, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -821,8 +821,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.93083523429, 
-      "lon": 3.011473622966, 
+      "lat": 50.930826395496, 
+      "lon": 3.011479000314, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -841,12 +841,20 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.930959309925, 
-      "lon": 3.011614014759, 
+      "lat": 50.930958162308, 
+      "lon": 3.011576914925, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -908,9 +916,21 @@
     }, 
     {
       "hnrlbls": [
-        "60"
+        "60-60A"
       ], 
       "housenumber": "60", 
+      "lat": 50.931245181507, 
+      "lon": 3.011564206091, 
+      "municipality": "Staden", 
+      "pcode": "8840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "60-60A"
+      ], 
+      "housenumber": "60A", 
       "lat": 50.931245181507, 
       "lon": 3.011564206091, 
       "municipality": "Staden", 
@@ -1016,8 +1036,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.931634861397, 
-      "lon": 3.011674868296, 
+      "lat": 50.931590260583, 
+      "lon": 3.011853431116, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 

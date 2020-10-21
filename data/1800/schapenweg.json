@@ -44,11 +44,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.900894779759, 
-      "lon": 4.365163875109, 
+      "lat": 50.900910060743, 
+      "lon": 4.365125633855, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -68,11 +68,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.900852174618, 
-      "lon": 4.365351667284, 
+      "lat": 50.900843452766, 
+      "lon": 4.365259692154, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -80,11 +80,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.900781428967, 
-      "lon": 4.36538280373, 
+      "lat": 50.900851455488, 
+      "lon": 4.365352520269, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -97,11 +97,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.900792398337, 
-      "lon": 4.365487146291, 
+      "lat": 50.900812892351, 
+      "lon": 4.365408248036, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -114,11 +114,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.900798782487, 
-      "lon": 4.365565616578, 
+      "lat": 50.90079239834, 
+      "lon": 4.365487288448, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenweg"
     }, 
     {
@@ -431,10 +431,12 @@
     {
       "apptnrs": [
         "0", 
-        "1", 
         "2", 
         "3", 
         "4"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "75"

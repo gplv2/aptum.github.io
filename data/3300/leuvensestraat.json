@@ -492,6 +492,17 @@
       "street": "Leuvensestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -522,18 +533,6 @@
       "housenumber": "134", 
       "lat": 50.809576388067, 
       "lon": 4.930255454821, 
-      "municipality": "Tienen", 
-      "pcode": "3300", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "135"
-      ], 
-      "housenumber": "135", 
-      "lat": 50.809775307178, 
-      "lon": 4.929904819669, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -639,11 +638,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.808636496863, 
-      "lon": 4.935385479841, 
+      "lat": 50.808797168124, 
+      "lon": 4.935882021818, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -663,8 +662,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.808385844811, 
-      "lon": 4.935054142683, 
+      "lat": 50.808386562586, 
+      "lon": 4.935054435097, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1128,11 +1127,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.809068129913, 
-      "lon": 4.933966312512, 
+      "lat": 50.809033159858, 
+      "lon": 4.933947588855, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1259,11 +1258,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.809056015119, 
-      "lon": 4.933552149731, 
+      "lat": 50.809120889825, 
+      "lon": 4.933596062276, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1271,8 +1270,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.809426352465, 
-      "lon": 4.93359874107, 
+      "lat": 50.809410124688, 
+      "lon": 4.933571020322, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1323,8 +1322,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.809445974644, 
-      "lon": 4.933314213727, 
+      "lat": 50.809435207716, 
+      "lon": 4.93329124088, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1398,11 +1397,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.809517336201, 
-      "lon": 4.933112884696, 
+      "lat": 50.809650690735, 
+      "lon": 4.933478423039, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leuvensestraat"
     }, 
     {
@@ -1478,8 +1477,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.80928818676, 
-      "lon": 4.933056500082, 
+      "lat": 50.809285325903, 
+      "lon": 4.93305320238, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1509,8 +1508,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.808056165643, 
-      "lon": 4.935485601811, 
+      "lat": 50.808072138302, 
+      "lon": 4.935528784369, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1545,8 +1544,8 @@
         "82-82Z"
       ], 
       "housenumber": "82", 
-      "lat": 50.809286135718, 
-      "lon": 4.932847905198, 
+      "lat": 50.809324165, 
+      "lon": 4.932903412985, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1557,8 +1556,8 @@
         "82-82Z"
       ], 
       "housenumber": "82Z", 
-      "lat": 50.809286135718, 
-      "lon": 4.932847905198, 
+      "lat": 50.809324165, 
+      "lon": 4.932903412985, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1572,8 +1571,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.809305204104, 
-      "lon": 4.932808548319, 
+      "lat": 50.809324308651, 
+      "lon": 4.932836303275, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1596,8 +1595,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.809415273355, 
-      "lon": 4.932689693106, 
+      "lat": 50.809412856486, 
+      "lon": 4.932687535826, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1620,8 +1619,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.809399791147, 
-      "lon": 4.932619132399, 
+      "lat": 50.809399255888, 
+      "lon": 4.932618274667, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -1632,8 +1631,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.809385273806, 
-      "lon": 4.932553549286, 
+      "lat": 50.809386084214, 
+      "lon": 4.93255327524, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 

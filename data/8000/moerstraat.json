@@ -309,15 +309,17 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "101", 
+        "102", 
         "103", 
         "201", 
         "202", 
         "203", 
         "301", 
         "302", 
-        "303", 
-        "6"
+        "303"
       ], 
       "hnrlbls": [
         "25"
@@ -433,6 +435,18 @@
       "housenumber": "34", 
       "lat": 51.210413177413, 
       "lon": 3.219922281592, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.20875416039, 
+      "lon": 3.219200190819, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

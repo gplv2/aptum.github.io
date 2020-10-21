@@ -462,8 +462,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.226024304976, 
-      "lon": 4.4498901978, 
+      "lat": 51.226024035622, 
+      "lon": 4.449889767882, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -938,8 +938,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.226840150747, 
-      "lon": 4.448754866741, 
+      "lat": 51.226842843738, 
+      "lon": 4.448760024843, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -950,8 +950,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.228022943614, 
-      "lon": 4.447807511744, 
+      "lat": 51.228029767813, 
+      "lon": 4.447817830561, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1119,10 +1119,6 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "189"
       ], 
@@ -1301,7 +1297,6 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
         "101", 
         "201"
       ], 
@@ -1612,8 +1607,8 @@
         "223-225"
       ], 
       "housenumber": "223", 
-      "lat": 51.227429137995, 
-      "lon": 4.447858031056, 
+      "lat": 51.227430753292, 
+      "lon": 4.44786189895, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1641,8 +1636,8 @@
         "223-225"
       ], 
       "housenumber": "225", 
-      "lat": 51.227429137995, 
-      "lon": 4.447858031056, 
+      "lat": 51.227430753292, 
+      "lon": 4.44786189895, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1977,11 +1972,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.224609281738, 
-      "lon": 4.453301705213, 
+      "lat": 51.224778838958, 
+      "lon": 4.453251198811, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ten Eekhovelei"
     }, 
     {
@@ -2280,8 +2275,8 @@
         "272"
       ], 
       "housenumber": "272", 
-      "lat": 51.229355773057, 
-      "lon": 4.445866124169, 
+      "lat": 51.229342575343, 
+      "lon": 4.445843053576, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2440,9 +2435,21 @@
         "201"
       ], 
       "hnrlbls": [
-        "284"
+        "284-284A"
       ], 
       "housenumber": "284", 
+      "lat": 51.229496248035, 
+      "lon": 4.44561239408, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ten Eekhovelei"
+    }, 
+    {
+      "hnrlbls": [
+        "284-284A"
+      ], 
+      "housenumber": "284A", 
       "lat": 51.229496248035, 
       "lon": 4.44561239408, 
       "municipality": "Antwerpen", 
@@ -2550,6 +2557,11 @@
       "street": "Ten Eekhovelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "292"
       ], 
@@ -2588,8 +2600,13 @@
     {
       "apptnrs": [
         "101", 
+        "102", 
         "201", 
-        "301"
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
       ], 
       "hnrlbls": [
         "48-294"
@@ -2760,8 +2777,11 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "317"
@@ -2817,11 +2837,11 @@
     }, 
     {
       "hnrlbls": [
-        "323-325"
+        "323"
       ], 
       "housenumber": "323", 
-      "lat": 51.228829336189, 
-      "lon": 4.445848639324, 
+      "lat": 51.22880343796, 
+      "lon": 4.445866490753, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2829,26 +2849,11 @@
     }, 
     {
       "hnrlbls": [
-        "323A"
-      ], 
-      "housenumber": "323A", 
-      "lat": 51.228807476879, 
-      "lon": 4.445875373238, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ten Eekhovelei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "323-325"
+        "325"
       ], 
       "housenumber": "325", 
-      "lat": 51.228829336189, 
-      "lon": 4.445848639324, 
+      "lat": 51.228855774188, 
+      "lon": 4.44583007299, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3193,8 +3198,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.225316974461, 
-      "lon": 4.452245289983, 
+      "lat": 51.225327484529, 
+      "lon": 4.452254184043, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3264,6 +3269,10 @@
       "street": "Ten Eekhovelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -3583,8 +3592,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.226279930408, 
-      "lon": 4.450413714383, 
+      "lat": 51.226284958607, 
+      "lon": 4.450421310184, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3770,8 +3779,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.22658575421, 
-      "lon": 4.44996877074, 
+      "lat": 51.226585933878, 
+      "lon": 4.449968914206, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

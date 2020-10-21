@@ -37,9 +37,6 @@
       "street": "Steenbakkersstraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -193,8 +190,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.219352709015, 
-      "lon": 2.907056089763, 
+      "lat": 51.219352328327, 
+      "lon": 2.907054383823, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -205,11 +202,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.219320098575, 
-      "lon": 2.907108934, 
+      "lat": 51.219277812403, 
+      "lon": 2.907040828589, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenbakkersstraat"
     }, 
     {
@@ -233,8 +230,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.219245458369, 
-      "lon": 2.907194446154, 
+      "lat": 51.219248117548, 
+      "lon": 2.907198657498, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -365,7 +362,6 @@
         "0207", 
         "0208", 
         "0209", 
-        "0210", 
         "0301", 
         "0302", 
         "0303", 
@@ -381,7 +377,8 @@
         "0403", 
         "0404", 
         "0405", 
-        "0406"
+        "0406", 
+        "0407"
       ], 
       "hnrlbls": [
         "18"
@@ -407,15 +404,19 @@
       "street": "Steenbakkersstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.221861621783, 
-      "lon": 2.903426150967, 
+      "lat": 51.221875172891, 
+      "lon": 2.903387930043, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenbakkersstraat"
     }, 
     {
@@ -452,8 +453,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.221496623869, 
-      "lon": 2.904101318815, 
+      "lat": 51.221505058148, 
+      "lon": 2.904114511246, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -616,8 +617,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.221122977128, 
-      "lon": 2.904165305448, 
+      "lat": 51.221120517068, 
+      "lon": 2.904162662627, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -628,8 +629,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.221286460384, 
-      "lon": 2.90445193597, 
+      "lat": 51.221291366805, 
+      "lon": 2.90446337805, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -816,11 +817,7 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0202", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "51"
@@ -835,11 +832,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "53"
@@ -897,8 +892,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.22073510514, 
-      "lon": 2.904903019737, 
+      "lat": 51.220717954753, 
+      "lon": 2.90487564176, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -909,8 +904,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.220919399268, 
-      "lon": 2.905026223743, 
+      "lat": 51.220927489919, 
+      "lon": 2.905040715405, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1142,8 +1137,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.220125813724, 
-      "lon": 2.90577980188, 
+      "lat": 51.220128307379, 
+      "lon": 2.905785163681, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

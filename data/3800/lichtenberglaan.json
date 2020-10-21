@@ -85,30 +85,15 @@
       "street": "Lichtenberglaan"
     }, 
     {
-      "busnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "207", 
-        "208"
-      ], 
       "hnrlbls": [
         "1090"
       ], 
       "housenumber": "1090", 
-      "lat": 50.795615517114, 
-      "lon": 5.206120609428, 
+      "lat": 50.795452252399, 
+      "lon": 5.20612096435, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -116,11 +101,11 @@
         "2002"
       ], 
       "housenumber": "2002", 
-      "lat": 50.802885604643, 
-      "lon": 5.20147205957, 
+      "lat": 50.802843912131, 
+      "lon": 5.201721721495, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -145,6 +130,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lichtenberglaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2021"
+      ], 
+      "housenumber": "2021", 
+      "lat": 50.801604493829, 
+      "lon": 5.199081196004, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -188,8 +185,8 @@
         "2045"
       ], 
       "housenumber": "2045", 
-      "lat": 50.802368232391, 
-      "lon": 5.195037390849, 
+      "lat": 50.802035037683, 
+      "lon": 5.195040046688, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -296,11 +293,11 @@
         "2062"
       ], 
       "housenumber": "2062", 
-      "lat": 50.803223863414, 
-      "lon": 5.190946118668, 
+      "lat": 50.803251156071, 
+      "lon": 5.190938651228, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -404,11 +401,11 @@
         "2085"
       ], 
       "housenumber": "2085", 
-      "lat": 50.799673197419, 
-      "lon": 5.19060002036, 
+      "lat": 50.799641149077, 
+      "lon": 5.191118242312, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -425,14 +422,26 @@
     }, 
     {
       "hnrlbls": [
+        "2087"
+      ], 
+      "housenumber": "2087", 
+      "lat": 50.799083749473, 
+      "lon": 5.190620216068, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lichtenberglaan"
+    }, 
+    {
+      "hnrlbls": [
         "2091"
       ], 
       "housenumber": "2091", 
-      "lat": 50.798708474315, 
-      "lon": 5.191404510053, 
+      "lat": 50.798604711327, 
+      "lon": 5.191624275, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichtenberglaan"
     }, 
     {
@@ -452,11 +461,11 @@
         "2095"
       ], 
       "housenumber": "2095", 
-      "lat": 50.798837885687, 
-      "lon": 5.190540875487, 
+      "lat": 50.798795475792, 
+      "lon": 5.190614325666, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichtenberglaan"
     }, 
     {

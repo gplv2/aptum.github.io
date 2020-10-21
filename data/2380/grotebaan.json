@@ -984,11 +984,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.363326963228, 
-      "lon": 4.990299525817, 
+      "lat": 51.363323535159, 
+      "lon": 4.990301920725, 
       "municipality": "Ravels", 
       "pcode": "2380", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -1017,11 +1017,11 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.363323616749, 
-      "lon": 4.990303501157, 
+      "lat": 51.363208317637, 
+      "lon": 4.990334118697, 
       "municipality": "Ravels", 
       "pcode": "2380", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1618,9 +1618,9 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0002"
+      "apptnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "31"
@@ -1720,11 +1720,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.369048889735, 
-      "lon": 4.993295832036, 
+      "lat": 51.369072135406, 
+      "lon": 4.993012259065, 
       "municipality": "Ravels", 
       "pcode": "2380", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -1792,8 +1792,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.368752346557, 
-      "lon": 4.993692467708, 
+      "lat": 51.368701509783, 
+      "lon": 4.993685608875, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -2160,12 +2160,21 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.367343184753, 
-      "lon": 4.993061379801, 
+      "lat": 51.367310205533, 
+      "lon": 4.993008813607, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -2178,21 +2187,6 @@
       "housenumber": "72", 
       "lat": 51.36742555271, 
       "lon": 4.992644930369, 
-      "municipality": "Ravels", 
-      "pcode": "2380", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.367275597077, 
-      "lon": 4.993060758103, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -2362,7 +2356,7 @@
       "street": "Grote Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [

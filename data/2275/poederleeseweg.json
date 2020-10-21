@@ -228,6 +228,18 @@
     }, 
     {
       "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.237052237501, 
+      "lon": 4.825045859293, 
+      "municipality": "Lille", 
+      "pcode": "2275", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Poederleese weg"
+    }, 
+    {
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -279,14 +291,14 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "20-22"
       ], 
       "housenumber": "20", 
-      "lat": 51.236886917027, 
-      "lon": 4.825260876748, 
+      "lat": 51.236853039719, 
+      "lon": 4.825351466605, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Poederleese weg"
     }, 
     {
@@ -308,14 +320,14 @@
         "Bus3"
       ], 
       "hnrlbls": [
-        "22"
+        "20-22"
       ], 
       "housenumber": "22", 
-      "lat": 51.236819637185, 
-      "lon": 4.825365743709, 
+      "lat": 51.236853039719, 
+      "lon": 4.825351466605, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Poederleese weg"
     }, 
     {
@@ -415,8 +427,9 @@
       "street": "Poederleese weg"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
       ], 
       "hnrlbls": [
         "31"
@@ -445,6 +458,10 @@
       "street": "Poederleese weg"
     }, 
     {
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -543,8 +560,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.236429049681, 
-      "lon": 4.826883949087, 
+      "lat": 51.236430275904, 
+      "lon": 4.826869070104, 
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanGebouw", 

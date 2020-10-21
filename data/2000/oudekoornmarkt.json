@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.220313078232, 
-      "lon": 4.399372093385, 
+      "lat": 51.220374197408, 
+      "lon": 4.399379147858, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.220312808618, 
-      "lon": 4.399371950073, 
+      "lat": 51.220297712675, 
+      "lon": 4.39935476422, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Koornmarkt"
     }, 
     {
@@ -65,8 +65,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.220300197349, 
-      "lon": 4.399475711556, 
+      "lat": 51.220295460083, 
+      "lon": 4.399375516696, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.220005575161, 
-      "lon": 4.399410818261, 
+      "lat": 51.22010788118, 
+      "lon": 4.399342327598, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.220229912226, 
-      "lon": 4.39946034921, 
+      "lat": 51.220275647748, 
+      "lon": 4.399518204891, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.220199880855, 
-      "lon": 4.399498544872, 
+      "lat": 51.220232856927, 
+      "lon": 4.399541076943, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.21998890826, 
-      "lon": 4.399555225239, 
+      "lat": 51.219980260092, 
+      "lon": 4.399627643171, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -381,8 +381,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.219520402195, 
-      "lon": 4.399671844828, 
+      "lat": 51.219502106004, 
+      "lon": 4.399521404349, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -413,18 +413,18 @@
       "street": "Oude Koornmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.219723421738, 
-      "lon": 4.400110530335, 
+      "lat": 51.219735549853, 
+      "lon": 4.400133439349, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -477,8 +477,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.21954570939, 
-      "lon": 4.400154205549, 
+      "lat": 51.219577783672, 
+      "lon": 4.400206755878, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -501,8 +501,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.219534914926, 
-      "lon": 4.400185113901, 
+      "lat": 51.219562496051, 
+      "lon": 4.400233796663, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -525,8 +525,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.21953183114, 
-      "lon": 4.400287019348, 
+      "lat": 51.219510269102, 
+      "lon": 4.400249934152, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -551,6 +551,18 @@
     }, 
     {
       "hnrlbls": [
+        "49A"
+      ], 
+      "housenumber": "49A", 
+      "lat": 51.219584452987, 
+      "lon": 4.400470403676, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Oude Koornmarkt"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -566,8 +578,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.219448785004, 
-      "lon": 4.400262773258, 
+      "lat": 51.219457756889, 
+      "lon": 4.400323322761, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -662,11 +674,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "8-59"
+        "57-59"
       ], 
       "housenumber": "57", 
-      "lat": 51.219370465192, 
-      "lon": 4.40070326751, 
+      "lat": 51.219371933909, 
+      "lon": 4.400592344244, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -700,8 +712,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.219272861506, 
-      "lon": 4.40000759799, 
+      "lat": 51.219265484332, 
+      "lon": 4.400032354044, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -709,11 +721,11 @@
     }, 
     {
       "hnrlbls": [
-        "8-59"
+        "57-59"
       ], 
       "housenumber": "59", 
-      "lat": 51.219370465192, 
-      "lon": 4.40070326751, 
+      "lat": 51.219371933909, 
+      "lon": 4.400592344244, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -746,7 +758,7 @@
       "lon": 4.400262408455, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Koornmarkt"
     }, 
     {
@@ -768,7 +780,7 @@
         "301"
       ], 
       "hnrlbls": [
-        "62-62A"
+        "62"
       ], 
       "housenumber": "62", 
       "lat": 51.219079284555, 
@@ -780,11 +792,11 @@
     }, 
     {
       "hnrlbls": [
-        "62-62A"
+        "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 51.219079284555, 
-      "lon": 4.400217289868, 
+      "lat": 51.219082250646, 
+      "lon": 4.400217578168, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -807,23 +819,28 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.219038106112, 
-      "lon": 4.400259913344, 
+      "lat": 51.219038554947, 
+      "lon": 4.40026206056, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Oude Koornmarkt"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.21918156333, 
-      "lon": 4.400579329945, 
+      "lat": 51.219234690232, 
+      "lon": 4.400559329119, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oude Koornmarkt"
     }, 
     {
@@ -831,8 +848,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.21899931391, 
-      "lon": 4.400121339641, 
+      "lat": 51.21898808424, 
+      "lon": 4.400099862878, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -843,11 +860,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.219182363778, 
-      "lon": 4.400610246052, 
+      "lat": 51.219135914693, 
+      "lon": 4.400534212979, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oude Koornmarkt"
     }, 
     {
@@ -861,8 +878,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.218930156068, 
-      "lon": 4.400257835022, 
+      "lat": 51.218930066185, 
+      "lon": 4.40025783496, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -956,8 +973,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.220390571917, 
-      "lon": 4.399320045652, 
+      "lat": 51.220403688224, 
+      "lon": 4.399345531814, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

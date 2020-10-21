@@ -168,14 +168,14 @@
     }, 
     {
       "hnrlbls": [
-        "11-15"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.280094149802, 
-      "lon": 4.419012878003, 
+      "lat": 51.280080721204, 
+      "lon": 4.41888803618, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -247,8 +247,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.283288244167, 
-      "lon": 4.416298078894, 
+      "lat": 51.283300633573, 
+      "lon": 4.41633306294, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +286,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.280032749615, 
-      "lon": 4.418619125664, 
+      "lat": 51.279982680222, 
+      "lon": 4.41842058082, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -362,17 +362,19 @@
     {
       "busnrs": [
         "0101", 
-        "0201"
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.280092081967, 
-      "lon": 4.419014165573, 
+      "lat": 51.28005177671, 
+      "lon": 4.418894023802, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -380,8 +382,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.283649929286, 
-      "lon": 4.416514588769, 
+      "lat": 51.283637972572, 
+      "lon": 4.416520596005, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -529,14 +531,14 @@
     }, 
     {
       "hnrlbls": [
-        "11-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.280094149802, 
-      "lon": 4.419012878003, 
+      "lat": 51.280025347179, 
+      "lon": 4.418904026969, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -608,8 +610,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.280106931709, 
-      "lon": 4.418338452496, 
+      "lat": 51.280128753356, 
+      "lon": 4.418384623447, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -628,6 +630,10 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -667,11 +673,10 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -844,11 +849,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.280730222448, 
-      "lon": 4.418851196155, 
+      "lat": 51.280728334871, 
+      "lon": 4.418851337413, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -877,11 +882,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.280699759177, 
-      "lon": 4.418625725862, 
+      "lat": 51.280678478081, 
+      "lon": 4.418576831803, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -949,8 +954,8 @@
         "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 51.279790384854, 
-      "lon": 4.418510517258, 
+      "lat": 51.279800960583, 
+      "lon": 4.418581612394, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1133,8 +1138,8 @@
         "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 51.279790384854, 
-      "lon": 4.418510517258, 
+      "lat": 51.279800960583, 
+      "lon": 4.418581612394, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1189,6 +1194,11 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1213,6 +1223,11 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1362,12 +1377,6 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "74-76"
       ], 
@@ -1468,8 +1477,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.282307637696, 
-      "lon": 4.417167025016, 
+      "lat": 51.282296508062, 
+      "lon": 4.41712917639, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1531,8 +1540,8 @@
         "89-93"
       ], 
       "housenumber": "89", 
-      "lat": 51.282303790392, 
-      "lon": 4.417556425661, 
+      "lat": 51.282291555943, 
+      "lon": 4.417581637246, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1573,8 +1582,8 @@
         "89-93"
       ], 
       "housenumber": "91", 
-      "lat": 51.282303790392, 
-      "lon": 4.417556425661, 
+      "lat": 51.282291555943, 
+      "lon": 4.417581637246, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1592,8 +1601,8 @@
         "89-93"
       ], 
       "housenumber": "93", 
-      "lat": 51.282303790392, 
-      "lon": 4.417556425661, 
+      "lat": 51.282291555943, 
+      "lon": 4.417581637246, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

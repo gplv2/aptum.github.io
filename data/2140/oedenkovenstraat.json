@@ -63,8 +63,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.213804724767, 
-      "lon": 4.430506970582, 
+      "lat": 51.213812456839, 
+      "lon": 4.430503116937, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -80,8 +80,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.213560041843, 
-      "lon": 4.430371260573, 
+      "lat": 51.213557794364, 
+      "lon": 4.430371973121, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -292,6 +292,11 @@
       "street": "Oedenkovenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -546,8 +551,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.213690893554, 
-      "lon": 4.431923900534, 
+      "lat": 51.21369574683, 
+      "lon": 4.431924765845, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -713,10 +718,10 @@
       "street": "Oedenkovenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "59"
@@ -754,10 +759,11 @@
       "street": "Oedenkovenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "61"

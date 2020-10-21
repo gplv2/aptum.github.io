@@ -1369,8 +1369,14 @@
       "street": "Ganzendries"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "199-201"
+        "199"
       ], 
       "housenumber": "199", 
       "lat": 51.034162583606, 
@@ -1387,18 +1393,6 @@
       "housenumber": "200", 
       "lat": 51.034317319216, 
       "lon": 3.710962586951, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Ganzendries"
-    }, 
-    {
-      "hnrlbls": [
-        "199-201"
-      ], 
-      "housenumber": "201", 
-      "lat": 51.034162583606, 
-      "lon": 3.710651395427, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2141,17 +2135,18 @@
         "0002", 
         "0003", 
         "0101", 
-        "0102"
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.032650229348, 
-      "lon": 3.711814274885, 
+      "lat": 51.032671839561, 
+      "lon": 3.711804562824, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ganzendries"
     }, 
     {
@@ -2161,18 +2156,6 @@
       "housenumber": "65", 
       "lat": 51.032682078222, 
       "lon": 3.711448154481, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Ganzendries"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.032687977024, 
-      "lon": 3.711796780787, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

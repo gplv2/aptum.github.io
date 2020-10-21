@@ -91,8 +91,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.224530424299, 
-      "lon": 2.906498668621, 
+      "lat": 51.22448152073, 
+      "lon": 2.906491611529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -100,20 +100,19 @@
     }, 
     {
       "busnrs": [
-        "-101", 
         "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "4"
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.224898449947, 
-      "lon": 2.907252818579, 
+      "lat": 51.224930047952, 
+      "lon": 2.907299934529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -151,8 +150,9 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0101"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "24"
@@ -166,12 +166,21 @@
       "street": "Velodroomstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.224362542967, 
-      "lon": 2.90608129058, 
+      "lat": 51.224390223788, 
+      "lon": 2.906051501899, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -191,18 +200,6 @@
     }, 
     {
       "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.224325711587, 
-      "lon": 2.906010860081, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Velodroomstraat"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -217,8 +214,10 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
+        "0302", 
         "0401", 
         "0402"
       ], 
@@ -226,8 +225,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.224852102135, 
-      "lon": 2.907139732785, 
+      "lat": 51.224867801091, 
+      "lon": 2.907151553664, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -449,19 +448,15 @@
       "street": "Velodroomstraat"
     }, 
     {
-      "busnrs": [
-        "0301", 
-        "1"
-      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.224096145608, 
-      "lon": 2.904844205494, 
+      "lat": 51.224050609637, 
+      "lon": 2.904898607726, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Velodroomstraat"
     }, 
     {
@@ -507,11 +502,6 @@
       "street": "Velodroomstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -733,15 +723,19 @@
       "street": "Velodroomstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.223615018276, 
-      "lon": 2.904468455099, 
+      "lat": 51.223677289474, 
+      "lon": 2.904400642312, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Velodroomstraat"
     }, 
     {
@@ -833,19 +827,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "A"
+        "0201"
       ], 
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.224882742772, 
-      "lon": 2.90670925427, 
+      "lat": 51.224844072642, 
+      "lon": 2.90672277932, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -853,11 +844,11 @@
     }, 
     {
       "hnrlbls": [
-        "9-9A"
+        "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.224882742772, 
-      "lon": 2.90670925427, 
+      "lat": 51.224866460959, 
+      "lon": 2.906781207849, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

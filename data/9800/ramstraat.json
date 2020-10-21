@@ -1,19 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.985387418, 
-      "lon": 3.526774877414, 
+      "lat": 50.985403731058, 
+      "lon": 3.526830983975, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ramstraat"
     }, 
     {
@@ -49,28 +45,29 @@
       "street": "Ramstraat"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.985530157939, 
-      "lon": 3.527942320783, 
+      "lat": 50.98552916818, 
+      "lon": 3.527942196102, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ramstraat"
     }, 
     {
@@ -90,11 +87,11 @@
         "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 50.985602139124, 
-      "lon": 3.527020263739, 
+      "lat": 50.985646279364, 
+      "lon": 3.527007792879, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ramstraat"
     }, 
     {
@@ -114,11 +111,11 @@
         "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 50.985602139124, 
-      "lon": 3.527020263739, 
+      "lat": 50.985646279364, 
+      "lon": 3.527007792879, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ramstraat"
     }, 
     {
@@ -135,26 +132,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "7-7A"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.985385314621, 
-      "lon": 3.527511810002, 
+      "lat": 50.985385223718, 
+      "lon": 3.52751166921, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ramstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 50.985385314621, 
-      "lon": 3.527511810002, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ramstraat"
     }
   ]

@@ -74,6 +74,18 @@
     }, 
     {
       "hnrlbls": [
+        "108A"
+      ], 
+      "housenumber": "108A", 
+      "lat": 50.857249099218, 
+      "lon": 3.454277908066, 
+      "municipality": "Anzegem", 
+      "pcode": "8570", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Grote Leiestraat"
+    }, 
+    {
+      "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
@@ -841,7 +853,9 @@
       "street": "Grote Leiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
@@ -853,8 +867,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.843956158338, 
-      "lon": 3.469688092911, 
+      "lat": 50.843865211538, 
+      "lon": 3.469856817321, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
       "source": "afgeleidVanGebouw", 
@@ -877,11 +891,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.861124101654, 
-      "lon": 3.448521638811, 
+      "lat": 50.861063747374, 
+      "lon": 3.448322816741, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Leiestraat"
     }, 
     {
@@ -1017,10 +1031,13 @@
       "street": "Grote Leiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
+        "202", 
         "301", 
         "302"
       ], 
@@ -1036,7 +1053,9 @@
       "street": "Grote Leiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
@@ -1540,11 +1559,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.854595570439, 
-      "lon": 3.460602021016, 
+      "lat": 50.854733636422, 
+      "lon": 3.460657160647, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Leiestraat"
     }, 
     {

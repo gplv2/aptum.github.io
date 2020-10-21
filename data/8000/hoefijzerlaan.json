@@ -63,15 +63,19 @@
       "street": "Hoefijzerlaan"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "12A"
+        "12A-14"
       ], 
       "housenumber": "12A", 
-      "lat": 51.20648945757, 
-      "lon": 3.216994476901, 
+      "lat": 51.20664803496, 
+      "lon": 3.216920870402, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoefijzerlaan"
     }, 
     {
@@ -88,7 +92,7 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "12A-14"
       ], 
       "housenumber": "14", 
       "lat": 51.20664803496, 
@@ -486,8 +490,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.207782602458, 
-      "lon": 3.215122455261, 
+      "lat": 51.207796531741, 
+      "lon": 3.215140428975, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -562,11 +566,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.208016631064, 
-      "lon": 3.215263930523, 
+      "lat": 51.208014282359, 
+      "lon": 3.215253541511, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoefijzerlaan"
     }, 
     {
@@ -584,8 +588,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.20810894903, 
-      "lon": 3.215198966051, 
+      "lat": 51.208086221077, 
+      "lon": 3.21512682762, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -614,14 +618,14 @@
         "301"
       ], 
       "hnrlbls": [
-        "45"
+        "45-51"
       ], 
       "housenumber": "45", 
-      "lat": 51.208231729204, 
-      "lon": 3.215003732634, 
+      "lat": 51.208428163255, 
+      "lon": 3.21468259892, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoefijzerlaan"
     }, 
     {
@@ -649,14 +653,14 @@
         "402"
       ], 
       "hnrlbls": [
-        "47"
+        "45-51"
       ], 
       "housenumber": "47", 
-      "lat": 51.20833868212, 
-      "lon": 3.214918512988, 
+      "lat": 51.208428163255, 
+      "lon": 3.21468259892, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoefijzerlaan"
     }, 
     {
@@ -683,8 +687,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.208449180904, 
-      "lon": 3.214782114332, 
+      "lat": 51.208393919727, 
+      "lon": 3.214738543797, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -726,14 +730,14 @@
         "302"
       ], 
       "hnrlbls": [
-        "51"
+        "45-51"
       ], 
       "housenumber": "51", 
-      "lat": 51.208540647137, 
-      "lon": 3.214675953061, 
+      "lat": 51.208428163255, 
+      "lon": 3.21468259892, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoefijzerlaan"
     }, 
     {
@@ -1135,8 +1139,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.209212927785, 
-      "lon": 3.214772673054, 
+      "lat": 51.209211305531, 
+      "lon": 3.214753822096, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1147,8 +1151,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.209250922928, 
-      "lon": 3.214824828873, 
+      "lat": 51.209247677039, 
+      "lon": 3.214786983844, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

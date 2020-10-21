@@ -76,8 +76,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.231308133207, 
-      "lon": 4.410259428865, 
+      "lat": 51.231272015162, 
+      "lon": 4.410217019428, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -110,11 +110,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.231336863446, 
-      "lon": 4.410350364563, 
+      "lat": 51.231263816462, 
+      "lon": 4.410271128248, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Londenstraat"
     }, 
     {
@@ -134,11 +134,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.231319354485, 
-      "lon": 4.410299095676, 
+      "lat": 51.231251839049, 
+      "lon": 4.410335255145, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Londenstraat"
     }, 
     {
@@ -208,7 +208,7 @@
     }, 
     {
       "apptnrs": [
-        "13", 
+        "12", 
         "23", 
         "33", 
         "43"
@@ -325,18 +325,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Londenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.231161928046, 
-      "lon": 4.410911123701, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Londenstraat"
     }, 
     {
@@ -622,7 +610,7 @@
     }, 
     {
       "hnrlbls": [
-        "45-51"
+        "45"
       ], 
       "housenumber": "45", 
       "lat": 51.231200901755, 
@@ -716,18 +704,6 @@
     }, 
     {
       "hnrlbls": [
-        "45-51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.231200901755, 
-      "lon": 4.412469790892, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Londenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -739,6 +715,13 @@
       "street": "Londenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -755,11 +738,11 @@
         "53A"
       ], 
       "housenumber": "53A", 
-      "lat": 51.231165581569, 
-      "lon": 4.41269781804, 
+      "lat": 51.231171611704, 
+      "lon": 4.412676778653, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Londenstraat"
     }, 
     {
@@ -933,7 +916,6 @@
         "197", 
         "201", 
         "202", 
-        "203", 
         "204", 
         "205", 
         "206", 

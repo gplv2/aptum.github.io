@@ -30,8 +30,11 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "4"
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "101"
@@ -89,7 +92,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
@@ -505,8 +511,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.178493786899, 
-      "lon": 4.37106281072, 
+      "lat": 51.178493786939, 
+      "lon": 4.371061237689, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -657,8 +663,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.177952590565, 
-      "lon": 4.370929927882, 
+      "lat": 51.1779537593, 
+      "lon": 4.370920632883, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -924,8 +930,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.177196018758, 
-      "lon": 4.371193714076, 
+      "lat": 51.177195659167, 
+      "lon": 4.371195573035, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -1282,8 +1288,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.181404775501, 
-      "lon": 4.372249994889, 
+      "lat": 51.181404685748, 
+      "lon": 4.372246276578, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -1578,12 +1584,13 @@
       "street": "Hollebeekstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.182086276708, 
@@ -1646,11 +1653,11 @@
         "76A"
       ], 
       "housenumber": "76A", 
-      "lat": 51.180055894509, 
-      "lon": 4.371401982111, 
+      "lat": 51.179960893355, 
+      "lon": 4.371122110137, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hollebeekstraat"
     }, 
     {
@@ -1720,18 +1727,6 @@
       "housenumber": "88", 
       "lat": 51.179720711712, 
       "lon": 4.37142212202, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hollebeekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.182086276708, 
-      "lon": 4.372484169602, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -1810,21 +1805,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hollebeekstraat"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "95w"
-      ], 
-      "housenumber": "95w", 
-      "lat": 51.180609296843, 
-      "lon": 4.372084032753, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Hollebeekstraat"
     }, 
     {

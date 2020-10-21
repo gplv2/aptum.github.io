@@ -110,8 +110,8 @@
         "17-18"
       ], 
       "housenumber": "17", 
-      "lat": 51.211092469722, 
-      "lon": 4.392670556139, 
+      "lat": 51.211112957984, 
+      "lon": 4.392696182346, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -122,8 +122,8 @@
         "17-18"
       ], 
       "housenumber": "18", 
-      "lat": 51.211092469722, 
-      "lon": 4.392670556139, 
+      "lat": 51.211112957984, 
+      "lon": 4.392696182346, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -242,19 +242,19 @@
     }, 
     {
       "hnrlbls": [
-        "28-31"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.210352725203, 
-      "lon": 4.39177822075, 
+      "lat": 51.210447442343, 
+      "lon": 4.391881873847, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vlaamsekaai"
     }, 
     {
       "hnrlbls": [
-        "28-31"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.210352725203, 
@@ -269,11 +269,11 @@
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.210333584856, 
-      "lon": 4.39175331155, 
+      "lat": 51.210402152791, 
+      "lon": 4.391821748466, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vlaamsekaai"
     }, 
     {
@@ -290,11 +290,11 @@
     }, 
     {
       "hnrlbls": [
-        "28-31"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.210352725203, 
-      "lon": 4.39177822075, 
+      "lat": 51.210299078167, 
+      "lon": 4.391709076036, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -302,14 +302,14 @@
     }, 
     {
       "hnrlbls": [
-        "28-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.210352725203, 
-      "lon": 4.39177822075, 
+      "lat": 51.210268795505, 
+      "lon": 4.391667418528, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vlaamsekaai"
     }, 
     {
@@ -659,14 +659,14 @@
       "street": "Vlaamsekaai"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "58-59"
@@ -676,7 +676,7 @@
       "lon": 4.389638043655, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vlaamsekaai"
     }, 
     {
@@ -1018,6 +1018,12 @@
       "street": "Vlaamsekaai"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "79"
       ], 

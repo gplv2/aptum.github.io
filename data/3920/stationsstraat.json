@@ -2066,14 +2066,14 @@
     }, 
     {
       "hnrlbls": [
-        "31"
+        "31-33"
       ], 
       "housenumber": "31", 
-      "lat": 51.226069266838, 
-      "lon": 5.314536805071, 
+      "lat": 51.226052176906, 
+      "lon": 5.314672889817, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2090,14 +2090,14 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "31-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.226019406312, 
-      "lon": 5.31448826365, 
+      "lat": 51.226052176906, 
+      "lon": 5.314672889817, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2346,36 +2346,15 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
       "lat": 51.224789629966, 
       "lon": 5.31431699314, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "63A-63B"
-      ], 
-      "housenumber": "63A", 
-      "lat": 51.224796904583, 
-      "lon": 5.314373973869, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "63A-63B"
-      ], 
-      "housenumber": "63B", 
-      "lat": 51.224796904583, 
-      "lon": 5.314373973869, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2394,6 +2373,18 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -2406,6 +2397,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "67"
       ], 

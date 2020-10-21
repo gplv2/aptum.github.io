@@ -41,13 +41,12 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "10"
@@ -58,26 +57,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwelaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "10B"
-      ], 
-      "housenumber": "10B", 
-      "lat": 50.906837434096, 
-      "lon": 4.351631126944, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Nieuwelaan"
     }, 
     {
@@ -297,7 +276,7 @@
         "B036"
       ], 
       "hnrlbls": [
-        "125-127"
+        "125-524"
       ], 
       "housenumber": "125", 
       "lat": 50.902108316008, 
@@ -343,7 +322,7 @@
         "B032"
       ], 
       "hnrlbls": [
-        "125-127"
+        "125-524"
       ], 
       "housenumber": "127", 
       "lat": 50.902108316008, 
@@ -1115,8 +1094,15 @@
     }, 
     {
       "busnrs": [
-        "103", 
-        "3"
+        "0102", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B010"
       ], 
       "hnrlbls": [
         "6-20"
@@ -1227,29 +1213,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.907057750201, 
-      "lon": 4.352189943321, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Nieuwelaan"
-    }, 
-    {
-      "busnrs": [
         "B001", 
         "B002", 
         "B003"
@@ -1279,34 +1242,19 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.906947642256, 
-      "lon": 4.351621420432, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Nieuwelaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "8B"
-      ], 
-      "housenumber": "8B", 
       "lat": 50.906915111924, 
       "lon": 4.351701192266, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwelaan"
     }, 
     {

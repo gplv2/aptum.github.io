@@ -122,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 50.827438115297, 
+      "lon": 3.235075696424, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bissegemsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
@@ -694,11 +706,11 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.826772624744, 
-      "lon": 3.234954181092, 
+      "lat": 50.826787652679, 
+      "lon": 3.234964891061, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bissegemsestraat"
     }, 
     {
@@ -930,9 +942,6 @@
       "street": "Bissegemsestraat"
     }, 
     {
-      "busnrs": [
-        "11"
-      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -2221,18 +2230,6 @@
     }, 
     {
       "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.830264018082, 
-      "lon": 3.244217553059, 
-      "municipality": "Kortrijk", 
-      "pcode": "8501", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bissegemsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -2340,6 +2337,23 @@
       "street": "Bissegemsestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.830571593643, 
+      "lon": 3.242821823658, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bissegemsestraat"
+    }, 
+    {
       "hnrlbls": [
         "44"
       ], 
@@ -2353,15 +2367,18 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "A000"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.829950228855, 
-      "lon": 3.243587514685, 
+      "lat": 50.830356721023, 
+      "lon": 3.2443592851, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2384,11 +2401,34 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.83048193338, 
-      "lon": 3.242528974947, 
+      "lat": 50.829877094026, 
+      "lon": 3.244305162047, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bissegemsestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
+      "hnrlbls": [
+        "47A"
+      ], 
+      "housenumber": "47A", 
+      "lat": 50.83000361863, 
+      "lon": 3.243361090576, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bissegemsestraat"
     }, 
     {

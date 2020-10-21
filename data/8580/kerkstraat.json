@@ -2,11 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1-3"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.775435160542, 
+      "lon": 3.447289956641, 
+      "municipality": "Avelgem", 
+      "pcode": "8580", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.775650545687, 
-      "lon": 3.447012514717, 
+      "lat": 50.775608404774, 
+      "lon": 3.446946981527, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 
@@ -222,7 +234,7 @@
     }, 
     {
       "hnrlbls": [
-        "25"
+        "1A-25"
       ], 
       "housenumber": "25", 
       "lat": 50.776021541678, 
@@ -261,15 +273,22 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "3"
+        "1-3"
       ], 
       "housenumber": "3", 
-      "lat": 50.775437440421, 
-      "lon": 3.447271195857, 
+      "lat": 50.775435160542, 
+      "lon": 3.447289956641, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

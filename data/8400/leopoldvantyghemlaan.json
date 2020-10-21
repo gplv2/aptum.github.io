@@ -2,6 +2,7 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201"
       ], 
@@ -144,8 +145,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.216459507575, 
-      "lon": 2.88818560297, 
+      "lat": 51.21645368956, 
+      "lon": 2.888187648546, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -153,37 +154,16 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.216413556693, 
-      "lon": 2.888112911003, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopold Van Tyghemlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.21636101682, 
-      "lon": 2.887995050623, 
+      "lat": 51.216444766811, 
+      "lon": 2.888078137552, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -191,19 +171,39 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
         "0201", 
-        "1"
+        "0202"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.216394144837, 
+      "lon": 2.887955492385, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leopold Van Tyghemlaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.216317588581, 
-      "lon": 2.887894078917, 
+      "lat": 51.216356626792, 
+      "lon": 2.887838300518, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -318,18 +318,12 @@
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.215911805147, 
-      "lon": 2.886705393116, 
+      "lat": 51.215937957248, 
+      "lon": 2.886668775737, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -361,23 +355,20 @@
     }, 
     {
       "busnrs": [
-        "000A", 
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.215915861476, 
-      "lon": 2.886326070449, 
+      "lat": 51.215965518851, 
+      "lon": 2.88635727289, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -399,17 +390,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201"
       ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.215984866001, 
-      "lon": 2.886114884084, 
+      "lat": 51.21603470604, 
+      "lon": 2.886174996114, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -518,10 +511,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
+        "0102", 
         "0201", 
-        "1", 
-        "2"
+        "0202"
       ], 
       "hnrlbls": [
         "46"
@@ -551,8 +546,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.216410302688, 
-      "lon": 2.885356565541, 
+      "lat": 51.216412209619, 
+      "lon": 2.885358079525, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -576,20 +571,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.217020238872, 
-      "lon": 2.889551773356, 
+      "lat": 51.217064845599, 
+      "lon": 2.889502690118, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -611,9 +605,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "51"
@@ -628,36 +622,38 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.216544197229, 
-      "lon": 2.885065152866, 
+      "lat": 51.216580836563, 
+      "lon": 2.88511924269, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
-        "1", 
-        "3"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.216580628835, 
-      "lon": 2.884952195448, 
+      "lat": 51.21663843691, 
+      "lon": 2.885016777476, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -721,33 +717,32 @@
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.216953193823, 
-      "lon": 2.889510382027, 
+      "lat": 51.217030373728, 
+      "lon": 2.889420470349, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.216839080127, 
-      "lon": 2.884520969444, 
+      "lat": 51.216871361324, 
+      "lon": 2.884564461675, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -878,6 +873,64 @@
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "1001", 
+        "1002", 
+        "1003", 
+        "1101", 
+        "1102", 
+        "1103", 
+        "1201", 
+        "1202", 
+        "1203", 
+        "1301", 
+        "1302", 
+        "1303", 
+        "1401", 
+        "1402", 
+        "1403", 
+        "1501", 
+        "1502"
+      ], 
       "hnrlbls": [
         "94"
       ], 

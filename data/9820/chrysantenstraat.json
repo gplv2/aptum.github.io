@@ -97,9 +97,18 @@
       "street": "Chrysantenstraat"
     }, 
     {
-      "busnrs": [
-        "A"
+      "hnrlbls": [
+        "21"
       ], 
+      "housenumber": "21", 
+      "lat": 51.002634797511, 
+      "lon": 3.752467161565, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Chrysantenstraat"
+    }, 
+    {
       "hnrlbls": [
         "23"
       ], 
@@ -112,11 +121,11 @@
       "street": "Chrysantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "25"
@@ -529,12 +538,12 @@
       "street": "Chrysantenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103"
       ], 
       "hnrlbls": [
         "64"

@@ -532,6 +532,12 @@
       "street": "Leopoldlaan"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -1038,7 +1044,7 @@
       "street": "Leopoldlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1050,11 +1056,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.221658718912, 
-      "lon": 5.427244458826, 
+      "lat": 51.221608626933, 
+      "lon": 5.427377308817, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -1113,7 +1119,7 @@
         "D"
       ], 
       "hnrlbls": [
-        "61-61C"
+        "61"
       ], 
       "housenumber": "61", 
       "lat": 51.222022595425, 
@@ -1121,30 +1127,6 @@
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "61-61C"
-      ], 
-      "housenumber": "61B", 
-      "lat": 51.222022595425, 
-      "lon": 5.427566654953, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "61-61C"
-      ], 
-      "housenumber": "61C", 
-      "lat": 51.222022595425, 
-      "lon": 5.427566654953, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leopoldlaan"
     }, 
     {

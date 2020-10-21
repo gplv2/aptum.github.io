@@ -461,8 +461,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.778194316157, 
-      "lon": 5.449927429508, 
+      "lat": 50.778177410325, 
+      "lon": 5.449937534304, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1173,8 +1173,12 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2"
+      ], 
       "hnrlbls": [
-        "2-2b"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 50.779833446257, 
@@ -1306,18 +1310,6 @@
     }, 
     {
       "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.779425564545, 
-      "lon": 5.456594637827, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "211"
       ], 
       "housenumber": "211", 
@@ -1389,16 +1381,24 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "21-21B"
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.779423412101, 
+      "lon": 5.456487666596, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
       ], 
       "housenumber": "21B", 
-      "lat": 50.779425564545, 
-      "lon": 5.456594637827, 
+      "lat": 50.77942817028, 
+      "lon": 5.456701194135, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1418,11 +1418,35 @@
     }, 
     {
       "hnrlbls": [
+        "220"
+      ], 
+      "housenumber": "220", 
+      "lat": 50.77672671122, 
+      "lon": 5.4416015422, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "221"
       ], 
       "housenumber": "221", 
       "lat": 50.777160935324, 
       "lon": 5.444238828056, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "222"
+      ], 
+      "housenumber": "222", 
+      "lat": 50.776682584316, 
+      "lon": 5.441423147899, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2018,10 +2042,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
-        "28-28B"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.779435471639, 
@@ -2128,23 +2154,6 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "28-28B"
-      ], 
-      "housenumber": "28B", 
-      "lat": 50.779435471639, 
-      "lon": 5.458255128139, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
       "hnrlbls": [
         "29"
       ], 
@@ -2154,33 +2163,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "2-2b"
-      ], 
-      "housenumber": "2b", 
-      "lat": 50.779833446257, 
-      "lon": 5.460006159964, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.780458961538, 
-      "lon": 5.459288511132, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2261,23 +2243,25 @@
         "10", 
         "11", 
         "12", 
+        "13", 
         "2", 
         "3", 
         "4", 
+        "5", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "32-36B"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
+      "lat": 50.779200956795, 
+      "lon": 5.457515430536, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2297,36 +2281,11 @@
         "323"
       ], 
       "housenumber": "323", 
-      "lat": 50.779802213043, 
-      "lon": 5.432501780916, 
+      "lat": 50.780166197059, 
+      "lon": 5.432467185829, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "32-36B"
-      ], 
-      "housenumber": "32B", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2405,6 +2364,7 @@
       "busnrs": [
         "1", 
         "10", 
+        "11", 
         "12", 
         "13", 
         "3", 
@@ -2416,14 +2376,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "32-36B"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
+      "lat": 50.779098201589, 
+      "lon": 5.457108625429, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2460,32 +2420,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "32-36B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2578,19 +2512,28 @@
     }, 
     {
       "busnrs": [
-        "13", 
-        "1B", 
-        "2"
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "32-36B"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
+      "lat": 50.779004236503, 
+      "lon": 5.456694226173, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2663,32 +2606,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "32-36B"
-      ], 
-      "housenumber": "36B", 
-      "lat": 50.779048204835, 
-      "lon": 5.457119238528, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3023,8 +2940,8 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.781013041983, 
-      "lon": 5.419516855222, 
+      "lat": 50.780996982927, 
+      "lon": 5.419533088202, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3188,7 +3105,7 @@
     }, 
     {
       "hnrlbls": [
-        "3B-42"
+        "3-42"
       ], 
       "housenumber": "42", 
       "lat": 50.778842104922, 
@@ -3344,32 +3261,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "443"
       ], 
       "housenumber": "443", 
-      "lat": 50.781735278319, 
-      "lon": 5.418311848808, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "443b"
-      ], 
-      "housenumber": "443b", 
       "lat": 50.781736350614, 
       "lon": 5.418312581791, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3425,11 +3328,11 @@
         "451"
       ], 
       "housenumber": "451", 
-      "lat": 50.782062392974, 
-      "lon": 5.417776147252, 
+      "lat": 50.781844453963, 
+      "lon": 5.417676698536, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3437,11 +3340,11 @@
         "455"
       ], 
       "housenumber": "455", 
-      "lat": 50.782215954497, 
-      "lon": 5.417575219293, 
+      "lat": 50.781906003973, 
+      "lon": 5.417409762614, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3461,23 +3364,11 @@
         "457"
       ], 
       "housenumber": "457", 
-      "lat": 50.782365479649, 
-      "lon": 5.417413340559, 
+      "lat": 50.781951891912, 
+      "lon": 5.417255217626, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "457A"
-      ], 
-      "housenumber": "457A", 
-      "lat": 50.78231637379, 
-      "lon": 5.417264760015, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3485,8 +3376,8 @@
         "459"
       ], 
       "housenumber": "459", 
-      "lat": 50.782127979473, 
-      "lon": 5.416988422117, 
+      "lat": 50.781959971748, 
+      "lon": 5.417166197845, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3512,8 +3403,8 @@
         "461"
       ], 
       "housenumber": "461", 
-      "lat": 50.782186601177, 
-      "lon": 5.416857558846, 
+      "lat": 50.782127979473, 
+      "lon": 5.416988422117, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3536,11 +3427,11 @@
         "465"
       ], 
       "housenumber": "465", 
-      "lat": 50.782359834455, 
-      "lon": 5.416116047549, 
+      "lat": 50.782245222734, 
+      "lon": 5.416726695249, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -3608,8 +3499,8 @@
         "477"
       ], 
       "housenumber": "477", 
-      "lat": 50.782787039551, 
-      "lon": 5.415897947116, 
+      "lat": 50.782792877358, 
+      "lon": 5.415888575489, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3926,8 +3817,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.779102227471, 
-      "lon": 5.455039930305, 
+      "lat": 50.779102407245, 
+      "lon": 5.455039934456, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4110,24 +4001,20 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.779695606786, 
-      "lon": 5.459602500793, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 50.778090392587, 
-      "lon": 5.451968258582, 
+      "lat": 50.779707943957, 
+      "lon": 5.459677518944, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4138,14 +4025,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "80b"
+        "80"
       ], 
-      "housenumber": "80b", 
-      "lat": 50.778090581547, 
-      "lon": 5.451967270323, 
+      "housenumber": "80", 
+      "lat": 50.778090392587, 
+      "lon": 5.451968258582, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -4186,10 +4073,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
-        "87-87B"
+        "87"
       ], 
       "housenumber": "87", 
       "lat": 50.778893825429, 
@@ -4197,41 +4086,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "87-87B"
-      ], 
-      "housenumber": "87B", 
-      "lat": 50.778893825429, 
-      "lon": 5.45377022649, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.779707943957, 
-      "lon": 5.459677518944, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -4247,30 +4101,18 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
-      "hnrlbls": [
-        "91-91B"
-      ], 
-      "housenumber": "91", 
-      "lat": 50.779015855008, 
-      "lon": 5.453262970804, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
       "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "91-91B"
+        "91"
       ], 
-      "housenumber": "91B", 
-      "lat": 50.779015855008, 
-      "lon": 5.453262970804, 
+      "housenumber": "91", 
+      "lat": 50.778818960961, 
+      "lon": 5.453466599645, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -4278,11 +4120,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.778894786551, 
-      "lon": 5.453103911817, 
+      "lat": 50.778740912113, 
+      "lon": 5.453176655321, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {

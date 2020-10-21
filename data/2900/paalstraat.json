@@ -157,12 +157,22 @@
       "street": "Paalstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.253352077864, 
-      "lon": 4.502638062677, 
+      "lat": 51.253393435342, 
+      "lon": 4.502707077128, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -516,12 +526,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "A"
       ], 
       "hnrlbls": [
         "133"
@@ -551,6 +563,7 @@
     }, 
     {
       "busnrs": [
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -1777,8 +1790,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.258391087681, 
-      "lon": 4.506377501737, 
+      "lat": 51.25842842133, 
+      "lon": 4.506272898041, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -2143,6 +2156,18 @@
     }, 
     {
       "hnrlbls": [
+        "285A"
+      ], 
+      "housenumber": "285A", 
+      "lat": 51.259656043537, 
+      "lon": 4.506114665144, 
+      "municipality": "Schoten", 
+      "pcode": "2900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Paalstraat"
+    }, 
+    {
+      "hnrlbls": [
         "286"
       ], 
       "housenumber": "286", 
@@ -2318,8 +2343,8 @@
         "317"
       ], 
       "housenumber": "317", 
-      "lat": 51.260424881417, 
-      "lon": 4.506668329966, 
+      "lat": 51.260493258822, 
+      "lon": 4.50645780576, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -2390,8 +2415,8 @@
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.261032957176, 
-      "lon": 4.505649867467, 
+      "lat": 51.261035382332, 
+      "lon": 4.505651307193, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -2417,8 +2442,8 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.261275081635, 
-      "lon": 4.506744350452, 
+      "lat": 51.261275111851, 
+      "lon": 4.506718564265, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -2514,8 +2539,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "343-345", 
-        "343"
+        "343-345"
       ], 
       "housenumber": "343", 
       "lat": 51.26156553494, 
@@ -2531,6 +2555,7 @@
         "2"
       ], 
       "hnrlbls": [
+        "345", 
         "343-345"
       ], 
       "housenumber": "345", 
@@ -2546,11 +2571,11 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 51.26179639529, 
-      "lon": 4.506978697764, 
+      "lat": 51.261842838785, 
+      "lon": 4.507535540112, 
       "municipality": "Schoten", 
       "pcode": "2900", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Paalstraat"
     }, 
     {
@@ -3198,11 +3223,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.252210237531, 
-      "lon": 4.50125976442, 
+      "lat": 51.252332025142, 
+      "lon": 4.501103276179, 
       "municipality": "Schoten", 
       "pcode": "2900", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paalstraat"
     }, 
     {
@@ -3333,8 +3358,8 @@
         "81-83"
       ], 
       "housenumber": "81", 
-      "lat": 51.252770277272, 
-      "lon": 4.501357759799, 
+      "lat": 51.252828988625, 
+      "lon": 4.501262106149, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 
@@ -3364,8 +3389,8 @@
         "81-83"
       ], 
       "housenumber": "83", 
-      "lat": 51.252770277272, 
-      "lon": 4.501357759799, 
+      "lat": 51.252828988625, 
+      "lon": 4.501262106149, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 

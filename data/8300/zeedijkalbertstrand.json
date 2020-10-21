@@ -201,7 +201,8 @@
         "41", 
         "51", 
         "61", 
-        "71"
+        "71", 
+        "81"
       ], 
       "hnrlbls": [
         "491"
@@ -1737,15 +1738,26 @@
         "62", 
         "63", 
         "71", 
-        "72", 
         "81"
       ], 
       "hnrlbls": [
-        "577"
+        "577-578"
       ], 
       "housenumber": "577", 
-      "lat": 51.35134266789, 
-      "lon": 3.28449035394, 
+      "lat": 51.35134366957, 
+      "lon": 3.284491766091, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk-Albertstrand"
+    }, 
+    {
+      "hnrlbls": [
+        "577-578"
+      ], 
+      "housenumber": "578", 
+      "lat": 51.35134366957, 
+      "lon": 3.284491766091, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1924,7 +1936,8 @@
     {
       "apptnrs": [
         "1", 
-        "11"
+        "11", 
+        "42"
       ], 
       "hnrlbls": [
         "588-589"
@@ -1950,21 +1963,6 @@
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Zeedijk-Albertstrand"
-    }, 
-    {
-      "busnrs": [
-        "32"
-      ], 
-      "hnrlbls": [
-        "600"
-      ], 
-      "housenumber": "600", 
-      "lat": 51.348295902759, 
-      "lon": 3.275558506999, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "afgeleidVanStraat", 
       "street": "Zeedijk-Albertstrand"
     }
   ]

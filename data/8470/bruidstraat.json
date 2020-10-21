@@ -13,15 +13,22 @@
       "street": "Bruidstraat"
     }, 
     {
+      "apptnrs": [
+        "11/0001", 
+        "11/0002", 
+        "11/0101", 
+        "11/0102", 
+        "11/0103"
+      ], 
       "hnrlbls": [
-        "9-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.157618690407, 
-      "lon": 2.969646041902, 
+      "lat": 51.157535696565, 
+      "lon": 2.970161053467, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruidstraat"
     }, 
     {
@@ -325,7 +332,7 @@
         "48"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.157618690407, 

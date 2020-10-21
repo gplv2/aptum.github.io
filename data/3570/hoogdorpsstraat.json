@@ -212,7 +212,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "A"
       ], 
       "hnrlbls": [
         "20"
@@ -223,18 +224,6 @@
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogdorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20A"
-      ], 
-      "housenumber": "20A", 
-      "lat": 50.875636755137, 
-      "lon": 5.306710189921, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogdorpsstraat"
     }, 
     {
@@ -499,11 +488,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.874820861048, 
-      "lon": 5.305128769989, 
+      "lat": 50.874898717074, 
+      "lon": 5.305083575433, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogdorpsstraat"
     }, 
     {
@@ -528,11 +517,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.874721162049, 
-      "lon": 5.304880824628, 
+      "lat": 50.874695922743, 
+      "lon": 5.304911723035, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanBrievenbus", 
       "street": "Hoogdorpsstraat"
     }, 
     {
@@ -692,6 +681,8 @@
       "busnrs": [
         "1", 
         "10", 
+        "11", 
+        "12", 
         "3", 
         "4", 
         "5", 

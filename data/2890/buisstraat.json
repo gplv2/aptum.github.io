@@ -245,11 +245,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.05405986628, 
-      "lon": 4.212211186468, 
+      "lat": 51.054111327967, 
+      "lon": 4.212245101976, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Buisstraat"
     }, 
     {
@@ -320,8 +320,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.05563955453, 
-      "lon": 4.207832819514, 
+      "lat": 51.055629875517, 
+      "lon": 4.207722030997, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1686,6 +1686,11 @@
       "street": "Buisstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "2"
+      ], 
       "hnrlbls": [
         "86"
       ], 

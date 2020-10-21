@@ -109,6 +109,10 @@
       "street": "Pretoriastraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -118,6 +122,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Pretoriastraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 51.205029835681, 
+      "lon": 4.43418779531, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pretoriastraat"
     }, 
     {
@@ -348,15 +364,20 @@
       "street": "Pretoriastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.20452910153, 
-      "lon": 4.43496473945, 
+      "lat": 51.20449490867, 
+      "lon": 4.435029649867, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pretoriastraat"
     }, 
     {
@@ -484,8 +505,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.204019741627, 
-      "lon": 4.435727060132, 
+      "lat": 51.204021717609, 
+      "lon": 4.435729638458, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 

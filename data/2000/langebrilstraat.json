@@ -58,8 +58,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.223586219627, 
-      "lon": 4.408222413134, 
+      "lat": 51.223589269352, 
+      "lon": 4.4082410241, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -82,8 +82,8 @@
         "14-16"
       ], 
       "housenumber": "14", 
-      "lat": 51.223698863807, 
-      "lon": 4.408428204374, 
+      "lat": 51.223710189697, 
+      "lon": 4.408426639625, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -112,8 +112,8 @@
         "14-16"
       ], 
       "housenumber": "16", 
-      "lat": 51.223698863807, 
-      "lon": 4.408428204374, 
+      "lat": 51.223710189697, 
+      "lon": 4.408426639625, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -152,7 +152,7 @@
       "lon": 4.407801191445, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Brilstraat"
     }, 
     {
@@ -160,8 +160,8 @@
         "20-22"
       ], 
       "housenumber": "20", 
-      "lat": 51.223681173094, 
-      "lon": 4.408642901092, 
+      "lat": 51.223680984825, 
+      "lon": 4.408667664383, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -172,8 +172,8 @@
         "20-22"
       ], 
       "housenumber": "22", 
-      "lat": 51.223681173094, 
-      "lon": 4.408642901092, 
+      "lat": 51.223680984825, 
+      "lon": 4.408667664383, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -296,15 +296,33 @@
       "street": "Lange Brilstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.22375377183, 
-      "lon": 4.407930691786, 
+      "lat": 51.223752774273, 
+      "lon": 4.407956885841, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lange Brilstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.223770292763, 
+      "lon": 4.40798309575, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Brilstraat"
     }, 
     {

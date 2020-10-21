@@ -595,6 +595,12 @@
       "street": "Beersebaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "48-50"
       ], 
@@ -639,6 +645,10 @@
       "street": "Beersebaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "48-50"
       ], 
@@ -1143,6 +1153,18 @@
       "housenumber": "9", 
       "lat": 51.314927796761, 
       "lon": 4.879858105938, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Beersebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.317854072879, 
+      "lon": 4.874803966545, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 

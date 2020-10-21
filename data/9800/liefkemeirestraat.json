@@ -79,6 +79,24 @@
       "street": "Liefkemeirestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.976972395461, 
+      "lon": 3.529442492121, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Liefkemeirestraat"
+    }, 
+    {
       "apptnrs": [
         "0101", 
         "0102", 
@@ -143,11 +161,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.977239102577, 
-      "lon": 3.528583048477, 
+      "lat": 50.977271417439, 
+      "lon": 3.528500733302, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Liefkemeirestraat"
     }, 
     {
@@ -297,6 +315,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Liefkemeirestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.976910984844, 
+      "lon": 3.5288486567, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Liefkemeirestraat"
     }
   ]

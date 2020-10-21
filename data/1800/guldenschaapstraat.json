@@ -13,10 +13,6 @@
       "street": "Guldenschaapstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -66,8 +62,10 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "14"
@@ -99,17 +97,17 @@
     {
       "busnrs": [
         "00/1", 
-        "00/2"
+        "01/1"
       ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.92966962492, 
-      "lon": 4.425385401067, 
+      "lat": 50.929667736613, 
+      "lon": 4.425386536716, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guldenschaapstraat"
     }, 
     {
@@ -125,21 +123,19 @@
       "street": "Guldenschaapstraat"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "busnrs": [
+        "00/1", 
         "01/1"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.929705834068, 
-      "lon": 4.425421717665, 
+      "lat": 50.929711412637, 
+      "lon": 4.425411056141, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guldenschaapstraat"
     }, 
     {
@@ -460,16 +456,9 @@
       "street": "Guldenschaapstraat"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "1", 
-        "1/1", 
-        "2/2", 
-        "3/3"
-      ], 
       "busnrs": [
-        "O/01", 
-        "O/02"
+        "00/1", 
+        "00/2"
       ], 
       "hnrlbls": [
         "5"

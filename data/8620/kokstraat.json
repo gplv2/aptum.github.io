@@ -101,8 +101,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.131603073144, 
-      "lon": 2.748670895071, 
+      "lat": 51.131602711722, 
+      "lon": 2.748670764707, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -177,34 +177,35 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.131569020838, 
-      "lon": 2.748607059219, 
+      "lat": 51.131544250284, 
+      "lon": 2.748715087774, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kokstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "202", 
-        "3", 
-        "301", 
-        "302"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "2-94"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.132140709275, 
-      "lon": 2.749043216531, 
+      "lat": 51.132110879185, 
+      "lon": 2.748985663596, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kokstraat"
     }, 
     {
@@ -272,8 +273,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.131370615728, 
-      "lon": 2.748706960747, 
+      "lat": 51.131369976868, 
+      "lon": 2.748706268432, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -320,8 +321,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.131263116628, 
-      "lon": 2.748702685431, 
+      "lat": 51.131262763046, 
+      "lon": 2.748703126365, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -428,8 +429,8 @@
         "34-36"
       ], 
       "housenumber": "34", 
-      "lat": 51.130601868852, 
-      "lon": 2.749182999845, 
+      "lat": 51.130602136489, 
+      "lon": 2.749182847679, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -440,8 +441,8 @@
         "34-36"
       ], 
       "housenumber": "36", 
-      "lat": 51.130601868852, 
-      "lon": 2.749182999845, 
+      "lat": 51.130602136489, 
+      "lon": 2.749182847679, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -461,17 +462,19 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.13057643631, 
-      "lon": 2.74921660306, 
+      "lat": 51.130576703948, 
+      "lon": 2.749216450894, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kokstraat"
     }, 
     {
@@ -512,18 +515,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kokstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40C"
-      ], 
-      "housenumber": "40C", 
-      "lat": 51.130453954529, 
-      "lon": 2.749247425176, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kokstraat"
     }, 
     {
@@ -576,19 +567,23 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.130752985743, 
-      "lon": 2.748736087836, 
+      "lat": 51.130814942623, 
+      "lon": 2.748743370845, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kokstraat"
     }, 
     {
@@ -954,11 +949,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.131588051693, 
-      "lon": 2.748624546869, 
+      "lat": 51.129407885371, 
+      "lon": 2.749137073908, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kokstraat"
     }, 
     {
@@ -1052,8 +1047,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "89"

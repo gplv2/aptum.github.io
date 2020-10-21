@@ -1,14 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "1"
@@ -146,8 +143,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.210508404598, 
-      "lon": 4.393086528482, 
+      "lat": 51.210433640611, 
+      "lon": 4.392993329815, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -309,12 +306,17 @@
       "street": "Verlatstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.209897238995, 
-      "lon": 4.393287111569, 
+      "lat": 51.209895711513, 
+      "lon": 4.39328453496, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -333,9 +335,9 @@
       "street": "Verlatstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "3"
@@ -427,6 +429,14 @@
       "street": "Verlatstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "34-36"
       ], 

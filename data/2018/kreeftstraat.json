@@ -49,8 +49,9 @@
       "street": "Kreeftstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "12"
@@ -76,6 +77,11 @@
       "street": "Kreeftstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -88,10 +94,13 @@
       "street": "Kreeftstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "15"
@@ -174,8 +183,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.207453357273, 
-      "lon": 4.431791156187, 
+      "lat": 51.207451918584, 
+      "lon": 4.431792155862, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

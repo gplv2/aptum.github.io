@@ -246,8 +246,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.172385392863, 
-      "lon": 4.47602560237, 
+      "lat": 51.172378823645, 
+      "lon": 4.476033880257, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
@@ -258,7 +258,6 @@
         "1", 
         "2", 
         "3", 
-        "4", 
         "glvl"
       ], 
       "hnrlbls": [
@@ -336,6 +335,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -346,7 +346,7 @@
       "lon": 4.473936162951, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kardinaal Cardijnlaan"
     }, 
     {
@@ -670,7 +670,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "51"

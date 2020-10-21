@@ -175,6 +175,11 @@
       "street": "Eikelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -187,6 +192,11 @@
       "street": "Eikelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -251,23 +261,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.199944372208, 
-      "lon": 4.422511486401, 
+      "lat": 51.199915125158, 
+      "lon": 4.422586420129, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Eikelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.19992949322, 
-      "lon": 4.422615622896, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Eikelstraat"
     }, 
     {
@@ -331,11 +329,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.199834517224, 
-      "lon": 4.42293469698, 
+      "lat": 51.199844225023, 
+      "lon": 4.422934136127, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Eikelstraat"
     }, 
     {
@@ -343,8 +341,20 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.200094777719, 
-      "lon": 4.422838717699, 
+      "lat": 51.2000165607, 
+      "lon": 4.422876252934, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Eikelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.200041160654, 
+      "lon": 4.422937515303, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -355,11 +365,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.199869870224, 
-      "lon": 4.423067076755, 
+      "lat": 51.199879217421, 
+      "lon": 4.423068804597, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Eikelstraat"
     }, 
     {
@@ -603,11 +613,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-72"
+        "66-68"
       ], 
       "housenumber": "66", 
-      "lat": 51.200355506077, 
-      "lon": 4.424046962197, 
+      "lat": 51.200367077785, 
+      "lon": 4.423715912484, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -627,11 +637,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-72"
+        "66-68"
       ], 
       "housenumber": "68", 
-      "lat": 51.200355506077, 
-      "lon": 4.424046962197, 
+      "lat": 51.200367077785, 
+      "lon": 4.423715912484, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -663,11 +673,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-72"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.200355506077, 
-      "lon": 4.424046962197, 
+      "lat": 51.200385008671, 
+      "lon": 4.424003790499, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -692,11 +702,11 @@
     }, 
     {
       "hnrlbls": [
-        "66-72"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.200355506077, 
-      "lon": 4.424046962197, 
+      "lat": 51.200325913515, 
+      "lon": 4.424090276803, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +837,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.200144884581, 
-      "lon": 4.424282344311, 
+      "lat": 51.200140030407, 
+      "lon": 4.424283196876, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 

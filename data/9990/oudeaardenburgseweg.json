@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.214242390532, 
-      "lon": 3.446130211743, 
+      "lat": 51.214243641, 
+      "lon": 3.446129185157, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.223598557155, 
-      "lon": 3.445480387236, 
+      "lat": 51.223592892145, 
+      "lon": 3.445491665201, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -347,7 +347,8 @@
         "2-03", 
         "3-01", 
         "3-02", 
-        "3-03"
+        "3-03", 
+        "4-01"
       ], 
       "hnrlbls": [
         "2"
@@ -449,11 +450,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.224703275062, 
-      "lon": 3.446489818914, 
+      "lat": 51.224793739971, 
+      "lon": 3.44622906187, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Aardenburgse Weg"
     }, 
     {
@@ -709,11 +710,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.215517500883, 
-      "lon": 3.446004240391, 
+      "lat": 51.215498541745, 
+      "lon": 3.446039824584, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Aardenburgse Weg"
     }, 
     {
@@ -1333,11 +1334,35 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.220254563337, 
-      "lon": 3.445853306587, 
+      "lat": 51.220255805493, 
+      "lon": 3.44572445433, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Aardenburgse Weg"
+    }, 
+    {
+      "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 51.220341464332, 
+      "lon": 3.44582725364, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Oude Aardenburgse Weg"
+    }, 
+    {
+      "hnrlbls": [
+        "81B"
+      ], 
+      "housenumber": "81B", 
+      "lat": 51.220423858073, 
+      "lon": 3.445799572039, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Oude Aardenburgse Weg"
     }, 
     {
@@ -1345,11 +1370,11 @@
         "81D"
       ], 
       "housenumber": "81D", 
-      "lat": 51.220517751027, 
-      "lon": 3.445782541725, 
+      "lat": 51.220478324627, 
+      "lon": 3.445660362128, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Aardenburgse Weg"
     }, 
     {
@@ -1393,8 +1418,8 @@
         "83B"
       ], 
       "housenumber": "83B", 
-      "lat": 51.220723520635, 
-      "lon": 3.445622445324, 
+      "lat": 51.220724241883, 
+      "lon": 3.445622717341, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1417,8 +1442,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.220781638064, 
-      "lon": 3.445605549757, 
+      "lat": 51.220782173975, 
+      "lon": 3.445605109724, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1477,8 +1502,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.221142401121, 
-      "lon": 3.445494346186, 
+      "lat": 51.22115264816, 
+      "lon": 3.445471240289, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

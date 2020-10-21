@@ -623,8 +623,13 @@
       "street": "de Limburg Stirumlaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "busnrs": [
-        "2"
+        "0"
       ], 
       "hnrlbls": [
         "144"
@@ -992,9 +997,12 @@
       "street": "de Limburg Stirumlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
+      ], 
+      "busnrs": [
+        "0"
       ], 
       "hnrlbls": [
         "176"
@@ -1634,8 +1642,15 @@
       "street": "de Limburg Stirumlaan"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "0A", 
+        "0B", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B"
       ], 
       "hnrlbls": [
         "221"
@@ -2660,8 +2675,17 @@
       "street": "de Limburg Stirumlaan"
     }, 
     {
+      "apptnrs": [
+        "0B", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B"
+      ], 
       "busnrs": [
-        "3"
+        "0A"
       ], 
       "hnrlbls": [
         "4"

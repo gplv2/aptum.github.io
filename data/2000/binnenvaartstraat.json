@@ -2,14 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
-        "31"
+        "30"
       ], 
-      "housenumber": "31", 
-      "lat": 51.235148001551, 
-      "lon": 4.413525899312, 
+      "housenumber": "30", 
+      "lat": 51.234486610882, 
+      "lon": 4.414295533239, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Binnenvaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20-33"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.235231857269, 
+      "lon": 4.413305775138, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Binnenvaartstraat"
     }, 
     {
@@ -30,14 +42,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "33"
+        "20-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.235097488159, 
-      "lon": 4.413523129689, 
+      "lat": 51.235231857269, 
+      "lon": 4.413305775138, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Binnenvaartstraat"
     }, 
     {
@@ -45,8 +57,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.235048231372, 
-      "lon": 4.413524942938, 
+      "lat": 51.235114915618, 
+      "lon": 4.413548918452, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -54,14 +66,14 @@
     }, 
     {
       "hnrlbls": [
-        "37"
+        "4-69"
       ], 
       "housenumber": "37", 
-      "lat": 51.234948549311, 
-      "lon": 4.413528568284, 
+      "lat": 51.234782079639, 
+      "lon": 4.413308917935, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Binnenvaartstraat"
     }, 
     {
@@ -82,8 +94,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.234853723038, 
-      "lon": 4.413526757677, 
+      "lat": 51.234896495124, 
+      "lon": 4.413559013953, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -91,26 +103,26 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "4-69"
       ], 
       "housenumber": "41", 
-      "lat": 51.234734798278, 
-      "lon": 4.413550265601, 
+      "lat": 51.234782079639, 
+      "lon": 4.413308917935, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Binnenvaartstraat"
     }, 
     {
       "hnrlbls": [
-        "43"
+        "4-69"
       ], 
       "housenumber": "43", 
-      "lat": 51.234674757188, 
-      "lon": 4.413547629854, 
+      "lat": 51.234782079639, 
+      "lon": 4.413308917935, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Binnenvaartstraat"
     }, 
     {
@@ -127,11 +139,23 @@
     }, 
     {
       "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.233832258346, 
+      "lon": 4.414298893024, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Binnenvaartstraat"
+    }, 
+    {
+      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.233037240391, 
-      "lon": 4.413601295571, 
+      "lat": 51.233034994132, 
+      "lon": 4.413599145826, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -163,8 +187,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.232888746808, 
-      "lon": 4.413617185496, 
+      "lat": 51.232917958203, 
+      "lon": 4.413619075251, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -175,8 +199,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.232757885807, 
-      "lon": 4.413593005172, 
+      "lat": 51.232756896373, 
+      "lon": 4.413594865406, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -208,8 +232,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.2325999507, 
-      "lon": 4.413618621277, 
+      "lat": 51.232598335059, 
+      "lon": 4.413612749779, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -220,8 +244,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.232473493091, 
-      "lon": 4.413596736094, 
+      "lat": 51.232473762796, 
+      "lon": 4.413596593189, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

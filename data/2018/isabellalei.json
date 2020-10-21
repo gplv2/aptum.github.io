@@ -33,8 +33,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.206459128233, 
-      "lon": 4.41492152101, 
+      "lat": 51.206460564907, 
+      "lon": 4.414925242754, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,11 @@
       "street": "Isabellalei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "102"
@@ -146,6 +149,12 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -429,8 +438,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.203020511538, 
-      "lon": 4.418832250359, 
+      "lat": 51.203029041279, 
+      "lon": 4.41885386442, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -468,17 +477,18 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.202972854446, 
-      "lon": 4.418874835676, 
+      "lat": 51.202972137093, 
+      "lon": 4.418870828716, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Isabellalei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "132"
@@ -575,15 +585,32 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.202820654154, 
-      "lon": 4.419143226068, 
+      "lat": 51.202746309685, 
+      "lon": 4.418958002848, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Isabellalei"
+    }, 
+    {
+      "hnrlbls": [
+        "139A"
+      ], 
+      "housenumber": "139A", 
+      "lat": 51.202728056234, 
+      "lon": 4.418974007563, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isabellalei"
     }, 
     {
@@ -614,6 +641,12 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -626,6 +659,14 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -800,11 +841,16 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
         "13", 
-        "14", 
         "2", 
+        "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
         "8", 
         "9"
@@ -1385,9 +1431,12 @@
       "street": "Isabellalei"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "47"
@@ -1648,6 +1697,10 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1776,8 +1829,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.204000420541, 
-      "lon": 4.417373891061, 
+      "lat": 51.20399287765, 
+      "lon": 4.417356141049, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1839,6 +1892,13 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1883,8 +1943,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.20386176985, 
-      "lon": 4.417490784363, 
+      "lat": 51.203861857999, 
+      "lon": 4.417494933792, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1927,6 +1987,12 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -2113,18 +2179,20 @@
       "street": "Isabellalei"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.203325273599, 
-      "lon": 4.417647459539, 
+      "lat": 51.203443620665, 
+      "lon": 4.417934316198, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isabellalei"
     }, 
     {
@@ -2159,8 +2227,10 @@
       "street": "Isabellalei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "94"
@@ -2230,6 +2300,12 @@
       "street": "Isabellalei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "99"
       ], 

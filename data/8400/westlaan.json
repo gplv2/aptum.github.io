@@ -41,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.204153777148, 
-      "lon": 2.862136288506, 
+      "lat": 51.204155418433, 
+      "lon": 2.862138095951, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -373,10 +373,6 @@
       "street": "Westlaan"
     }, 
     {
-      "busnrs": [
-        "0102", 
-        "5"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -445,11 +441,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.204970672226, 
-      "lon": 2.860552551223, 
+      "lat": 51.204986335361, 
+      "lon": 2.860568216757, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
@@ -606,6 +602,21 @@
       "street": "Westlaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "58A"
+      ], 
+      "housenumber": "58A", 
+      "lat": 51.205614705046, 
+      "lon": 2.860493664784, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Westlaan"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
@@ -630,15 +641,19 @@
       "street": "Westlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.205484045163, 
-      "lon": 2.859969793962, 
+      "lat": 51.205516432841, 
+      "lon": 2.860042021606, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
@@ -646,8 +661,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.205815821981, 
-      "lon": 2.860212094571, 
+      "lat": 51.205814864916, 
+      "lon": 2.860207545801, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -751,24 +766,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "5"
+        "0201"
       ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.205932704211, 
-      "lon": 2.859458958042, 
+      "lat": 51.205966544657, 
+      "lon": 2.859532283976, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -778,11 +792,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.206380649514, 
-      "lon": 2.859660003299, 
+      "lat": 51.2063464716, 
+      "lon": 2.859588404952, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
@@ -814,20 +828,21 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1", 
-        "2", 
-        "3"
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.206467757361, 
-      "lon": 2.859553711541, 
+      "lat": 51.206439475834, 
+      "lon": 2.85947920316, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
@@ -844,7 +859,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "86"
@@ -859,19 +876,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.206602242937, 
-      "lon": 2.859475512313, 
+      "lat": 51.206551223952, 
+      "lon": 2.859359376281, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {
@@ -914,8 +933,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.206608589914, 
-      "lon": 2.858895247668, 
+      "lat": 51.20659037512, 
+      "lon": 2.858813543983, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -926,8 +945,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.204052715625, 
-      "lon": 2.861592296873, 
+      "lat": 51.204044568538, 
+      "lon": 2.861573812546, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -951,14 +970,18 @@
         "0403", 
         "0501", 
         "0502", 
-        "0503"
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701"
       ], 
       "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.20665931628, 
-      "lon": 2.858749056276, 
+      "lat": 51.206676857589, 
+      "lon": 2.858728738192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1004,20 +1027,27 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
+        "0103", 
+        "0201", 
         "0202", 
+        "0203", 
         "0301", 
-        "0401"
+        "0302", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.206685787405, 
-      "lon": 2.859364755176, 
+      "lat": 51.206638090771, 
+      "lon": 2.859262394071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westlaan"
     }, 
     {

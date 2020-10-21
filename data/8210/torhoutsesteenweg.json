@@ -499,15 +499,15 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0101"
+      "apptnrs": [
+        "101"
       ], 
       "hnrlbls": [
         "140A"
       ], 
       "housenumber": "140A", 
-      "lat": 51.128255905432, 
-      "lon": 3.155745937017, 
+      "lat": 51.128254033843, 
+      "lon": 3.155756272082, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1400,11 +1400,11 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.123296668762, 
-      "lon": 3.15196815634, 
+      "lat": 51.123279159458, 
+      "lon": 3.151952755387, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1424,11 +1424,11 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.123214483882, 
-      "lon": 3.151879298205, 
+      "lat": 51.123218460112, 
+      "lon": 3.151924907589, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1448,11 +1448,11 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.123153608044, 
-      "lon": 3.151808170808, 
+      "lat": 51.123202848211, 
+      "lon": 3.151753462127, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1463,11 +1463,11 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.123087822893, 
-      "lon": 3.151740457001, 
+      "lat": 51.123126071761, 
+      "lon": 3.151683463121, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1480,11 +1480,11 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.123043748143, 
-      "lon": 3.15159860928, 
+      "lat": 51.122979748066, 
+      "lon": 3.151625560349, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1578,6 +1578,9 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "105"
+      ], 
       "busnrs": [
         "102", 
         "103", 
@@ -1587,11 +1590,11 @@
         "222A"
       ], 
       "housenumber": "222A", 
-      "lat": 51.123232220854, 
-      "lon": 3.15116700095, 
+      "lat": 51.123234582667, 
+      "lon": 3.151160653913, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1731,8 +1734,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.125400044925, 
-      "lon": 3.15430830303, 
+      "lat": 51.125398902995, 
+      "lon": 3.154310904164, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1782,6 +1785,18 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "228"
+      ], 
+      "housenumber": "228", 
+      "lat": 51.120621988798, 
+      "lon": 3.149059166477, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutsesteenweg"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -1805,15 +1820,38 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.12508488452, 
-      "lon": 3.154293347346, 
+      "lat": 51.1250927754, 
+      "lon": 3.154308856777, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
+      "street": "Torhoutsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "229A"
+      ], 
+      "housenumber": "229A", 
+      "lat": 51.124987607817, 
+      "lon": 3.154222873982, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -1823,6 +1861,29 @@
       "housenumber": "230", 
       "lat": 51.120235980744, 
       "lon": 3.149061094584, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "231"
+      ], 
+      "housenumber": "231", 
+      "lat": 51.12489928796, 
+      "lon": 3.154140453855, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -1916,15 +1977,15 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0201"
       ], 
       "hnrlbls": [
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 51.119585968639, 
-      "lon": 3.148326704229, 
+      "lat": 51.119602427608, 
+      "lon": 3.148327417329, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1935,23 +1996,11 @@
         "236A"
       ], 
       "housenumber": "236A", 
-      "lat": 51.119484460895, 
-      "lon": 3.148247362919, 
+      "lat": 51.119512082304, 
+      "lon": 3.148258212027, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Torhoutsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "237"
-      ], 
-      "housenumber": "237", 
-      "lat": 51.124413279008, 
-      "lon": 3.153475227778, 
-      "municipality": "Zedelgem", 
-      "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2598,11 +2647,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.115157900561, 
-      "lon": 3.144474796308, 
+      "lat": 51.115128115591, 
+      "lon": 3.14456741475, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -2886,9 +2935,6 @@
       "street": "Torhoutsesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "304"
       ], 
@@ -2977,11 +3023,11 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.112745320752, 
-      "lon": 3.142454203688, 
+      "lat": 51.112791449313, 
+      "lon": 3.142316742541, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -3049,11 +3095,11 @@
         "31A"
       ], 
       "housenumber": "31A", 
-      "lat": 51.154952321546, 
-      "lon": 3.167247520549, 
+      "lat": 51.154951550221, 
+      "lon": 3.167242394209, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -4255,8 +4301,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.147157590236, 
-      "lon": 3.163626552363, 
+      "lat": 51.147148105813, 
+      "lon": 3.163630941821, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -4519,11 +4565,11 @@
         "455"
       ], 
       "housenumber": "455", 
-      "lat": 51.108071568097, 
-      "lon": 3.139055287876, 
+      "lat": 51.107966784017, 
+      "lon": 3.13922298476, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Torhoutsesteenweg"
     }, 
     {
@@ -4896,8 +4942,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.140711458571, 
-      "lon": 3.160523667426, 
+      "lat": 51.140565777125, 
+      "lon": 3.160817960845, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -5442,8 +5488,20 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.14729923284, 
-      "lon": 3.164469021328, 
+      "lat": 51.147254918338, 
+      "lon": 3.164601798201, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "99A"
+      ], 
+      "housenumber": "99A", 
+      "lat": 51.14717646914, 
+      "lon": 3.164569660645, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.320886764712, 
-      "lon": 4.863632040686, 
-      "municipality": "Beerse", 
-      "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -122,9 +110,9 @@
     }, 
     {
       "hnrlbls": [
-        "1_1"
+        "1B"
       ], 
-      "housenumber": "1_1", 
+      "housenumber": "1B", 
       "lat": 51.320570592539, 
       "lon": 4.863903365539, 
       "municipality": "Beerse", 
@@ -134,9 +122,9 @@
     }, 
     {
       "hnrlbls": [
-        "1_2"
+        "1C"
       ], 
-      "housenumber": "1_2", 
+      "housenumber": "1C", 
       "lat": 51.32071910098, 
       "lon": 4.863768964236, 
       "municipality": "Beerse", 
@@ -146,11 +134,11 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "1D"
       ], 
-      "housenumber": "2", 
-      "lat": 51.320831172248, 
-      "lon": 4.864308644875, 
+      "housenumber": "1D", 
+      "lat": 51.320886764712, 
+      "lon": 4.863632040686, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -211,6 +199,18 @@
       "housenumber": "27", 
       "lat": 51.322413899163, 
       "lon": 4.862655215299, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 51.320831172248, 
+      "lon": 4.864308644875, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -350,9 +350,9 @@
     }, 
     {
       "hnrlbls": [
-        "48"
+        "48A"
       ], 
-      "housenumber": "48", 
+      "housenumber": "48A", 
       "lat": 51.323994825771, 
       "lon": 4.862506764708, 
       "municipality": "Beerse", 
@@ -362,9 +362,9 @@
     }, 
     {
       "hnrlbls": [
-        "48_1"
+        "48B"
       ], 
-      "housenumber": "48_1", 
+      "housenumber": "48B", 
       "lat": 51.324159426332, 
       "lon": 4.862435783119, 
       "municipality": "Beerse", 
@@ -421,13 +421,10 @@
       "street": "Leemstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "52"
+        "52A"
       ], 
-      "housenumber": "52", 
+      "housenumber": "52A", 
       "lat": 51.324411458637, 
       "lon": 4.86213333384, 
       "municipality": "Beerse", 
@@ -437,9 +434,9 @@
     }, 
     {
       "hnrlbls": [
-        "52_1"
+        "52B"
       ], 
-      "housenumber": "52_1", 
+      "housenumber": "52B", 
       "lat": 51.324526400129, 
       "lon": 4.862137567102, 
       "municipality": "Beerse", 
@@ -449,9 +446,9 @@
     }, 
     {
       "hnrlbls": [
-        "52_2"
+        "52C"
       ], 
-      "housenumber": "52_2", 
+      "housenumber": "52C", 
       "lat": 51.324583528919, 
       "lon": 4.862124689067, 
       "municipality": "Beerse", 
@@ -497,9 +494,9 @@
     }, 
     {
       "hnrlbls": [
-        "6"
+        "6A"
       ], 
-      "housenumber": "6", 
+      "housenumber": "6A", 
       "lat": 51.321318841675, 
       "lon": 4.863908184282, 
       "municipality": "Beerse", 
@@ -509,9 +506,9 @@
     }, 
     {
       "hnrlbls": [
-        "6_1"
+        "6B"
       ], 
-      "housenumber": "6_1", 
+      "housenumber": "6B", 
       "lat": 51.32139252782, 
       "lon": 4.863847861978, 
       "municipality": "Beerse", 
@@ -520,13 +517,10 @@
       "street": "Leemstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "8"
+        "8A"
       ], 
-      "housenumber": "8", 
+      "housenumber": "8A", 
       "lat": 51.321570483596, 
       "lon": 4.863850475584, 
       "municipality": "Beerse", 
@@ -536,9 +530,9 @@
     }, 
     {
       "hnrlbls": [
-        "8_1"
+        "8B"
       ], 
-      "housenumber": "8_1", 
+      "housenumber": "8B", 
       "lat": 51.32164818832, 
       "lon": 4.863710439747, 
       "municipality": "Beerse", 
@@ -548,11 +542,23 @@
     }, 
     {
       "hnrlbls": [
-        "8_2"
+        "8C"
       ], 
-      "housenumber": "8_2", 
+      "housenumber": "8C", 
       "lat": 51.321708242648, 
       "lon": 4.863685833022, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.321619565088, 
+      "lon": 4.863118133853, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 

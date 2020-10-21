@@ -223,7 +223,7 @@
     }, 
     {
       "hnrlbls": [
-        "27-27b"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 50.829307022561, 
@@ -235,11 +235,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-27b"
+        "27B"
       ], 
-      "housenumber": "27b", 
-      "lat": 50.829307022561, 
-      "lon": 3.279417555873, 
+      "housenumber": "27B", 
+      "lat": 50.829279871218, 
+      "lon": 3.279436922665, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -291,6 +291,11 @@
       "street": "Guldensporenlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -495,14 +500,12 @@
       "street": "Guldensporenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
       ], 
       "hnrlbls": [
         "59"
@@ -528,10 +531,13 @@
       "street": "Guldensporenlaan"
     }, 
     {
+      "apptnrs": [
+        "0031"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "21"
+        "0001", 
+        "0011", 
+        "0021"
       ], 
       "hnrlbls": [
         "61"

@@ -50,18 +50,16 @@
     }, 
     {
       "busnrs": [
-        "0002", 
         "0003", 
-        "0101", 
         "0102", 
         "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
-        "0302", 
         "0303", 
-        "203", 
-        "B011"
+        "B004", 
+        "B007"
       ], 
       "hnrlbls": [
         "123"
@@ -166,18 +164,6 @@
     }, 
     {
       "hnrlbls": [
-        "143"
-      ], 
-      "housenumber": "143", 
-      "lat": 50.911969312499, 
-      "lon": 4.356470926704, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Grimbergsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "145"
       ], 
       "housenumber": "145", 
@@ -195,7 +181,7 @@
         "0201"
       ], 
       "hnrlbls": [
-        "147-147B"
+        "147"
       ], 
       "housenumber": "147", 
       "lat": 50.91186899043, 
@@ -203,21 +189,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grimbergsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "147-147B"
-      ], 
-      "housenumber": "147B", 
-      "lat": 50.91186899043, 
-      "lon": 4.356460855953, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grimbergsesteenweg"
     }, 
     {
@@ -440,32 +411,18 @@
       "street": "Grimbergsesteenweg"
     }, 
     {
+      "busnrs": [
+        "B003"
+      ], 
       "hnrlbls": [
-        "170-170B"
+        "170-172"
       ], 
       "housenumber": "170", 
-      "lat": 50.912031038443, 
-      "lon": 4.356162499254, 
+      "lat": 50.912015661526, 
+      "lon": 4.356111883184, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grimbergsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "170-170B"
-      ], 
-      "housenumber": "170B", 
-      "lat": 50.912031038443, 
-      "lon": 4.356162499254, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grimbergsesteenweg"
     }, 
     {
@@ -484,10 +441,11 @@
       "busnrs": [
         "B001", 
         "B004", 
+        "B005", 
         "B006"
       ], 
       "hnrlbls": [
-        "172"
+        "170-172"
       ], 
       "housenumber": "172", 
       "lat": 50.912015661526, 

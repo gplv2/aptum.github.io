@@ -365,8 +365,8 @@
         "148A"
       ], 
       "housenumber": "148A", 
-      "lat": 50.911088467797, 
-      "lon": 4.372942499363, 
+      "lat": 50.911089276915, 
+      "lon": 4.372940651001, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +377,8 @@
         "148B"
       ], 
       "housenumber": "148B", 
-      "lat": 50.911154001176, 
-      "lon": 4.372917196656, 
+      "lat": 50.911154720441, 
+      "lon": 4.372914352964, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -658,8 +658,20 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.911979733563, 
-      "lon": 4.373569937871, 
+      "lat": 50.911780542441, 
+      "lon": 4.373291363886, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Streekbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "189A"
+      ], 
+      "housenumber": "189A", 
+      "lat": 50.912056512592, 
+      "lon": 4.373351541437, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -774,15 +786,11 @@
       "street": "Streekbaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "12", 
-        "13", 
-        "2", 
-        "2/1", 
-        "5"
-      ], 
       "busnrs": [
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
         "02/3"
       ], 
       "hnrlbls": [
@@ -881,9 +889,6 @@
       "street": "Streekbaan"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "hnrlbls": [
         "204-206"
       ], 
@@ -908,6 +913,10 @@
       "street": "Streekbaan"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "02/1"
+      ], 
       "hnrlbls": [
         "204-206"
       ], 
@@ -1484,8 +1493,8 @@
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.915099648818, 
-      "lon": 4.371621449353, 
+      "lat": 50.915094704727, 
+      "lon": 4.371620026976, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1520,8 +1529,8 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 50.915161226381, 
-      "lon": 4.371600977157, 
+      "lat": 50.915155742989, 
+      "lon": 4.371597563934, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1760,11 +1769,11 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 50.915986904073, 
-      "lon": 4.371346496123, 
+      "lat": 50.915984926967, 
+      "lon": 4.371326871978, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Streekbaan"
     }, 
     {
@@ -2393,35 +2402,37 @@
       "street": "Streekbaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.908432081621, 
-      "lon": 4.375328146911, 
+      "lat": 50.908432800839, 
+      "lon": 4.375327009581, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Streekbaan"
     }, 
     {
       "apptnrs": [
-        "1", 
         "2"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.908802494533, 
-      "lon": 4.37443985618, 
+      "lat": 50.908801595528, 
+      "lon": 4.374441135689, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Streekbaan"
     }, 
     {

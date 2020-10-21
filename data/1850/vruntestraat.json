@@ -2,18 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "102"
+        "0101", 
+        "0102", 
+        "B001"
       ], 
       "hnrlbls": [
-        "1"
+        "1-71"
       ], 
       "housenumber": "1", 
-      "lat": 50.932550651474, 
-      "lon": 4.367458454369, 
+      "lat": 50.932635059827, 
+      "lon": 4.367279213994, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vruntestraat"
     }, 
     {
@@ -82,21 +83,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vruntestraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.932634969933, 
-      "lon": 4.367279071742, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vruntestraat"
     }, 
     {

@@ -1,25 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "12", 
-        "17", 
-        "18", 
-        "25", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.98720449772, 
-      "lon": 5.698183208199, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koudenbergstraat"
-    }, 
-    {
       "hnrlbls": [
         "10"
       ], 
@@ -28,7 +9,7 @@
       "lon": 5.697929947711, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -40,7 +21,7 @@
       "lon": 5.697907831376, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -52,7 +33,7 @@
       "lon": 5.697882137303, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -64,7 +45,7 @@
       "lon": 5.697860102244, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -76,7 +57,19 @@
       "lon": 5.697836104281, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koudenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.987231734959, 
+      "lon": 5.69819153074, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -91,8 +84,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.987952455378, 
-      "lon": 5.698013421395, 
+      "lat": 50.988138740494, 
+      "lon": 5.698259867345, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -107,11 +100,11 @@
       "lon": 5.697809952564, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -124,7 +117,7 @@
       "lon": 5.697730986431, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -136,11 +129,11 @@
       "lon": 5.697711346023, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -153,15 +146,13 @@
       "lon": 5.697694479603, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
       "apptnrs": [
+        "1", 
         "2"
-      ], 
-      "busnrs": [
-        "1"
       ], 
       "hnrlbls": [
         "26"
@@ -177,9 +168,7 @@
     {
       "apptnrs": [
         "1", 
-        "2"
-      ], 
-      "busnrs": [
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -195,14 +184,50 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
+        "2C"
       ], 
-      "housenumber": "2A", 
-      "lat": 50.987788843729, 
-      "lon": 5.698019888487, 
+      "housenumber": "2C", 
+      "lat": 50.987968767245, 
+      "lon": 5.698169006075, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koudenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 50.987934932969, 
+      "lon": 5.698092122998, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koudenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2E"
+      ], 
+      "housenumber": "2E", 
+      "lat": 50.987885394864, 
+      "lon": 5.698131883255, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koudenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2F"
+      ], 
+      "housenumber": "2F", 
+      "lat": 50.987786980181, 
+      "lon": 5.698025675786, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -214,7 +239,7 @@
       "lon": 5.697998155804, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -226,7 +251,7 @@
       "lon": 5.697999499634, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -238,7 +263,7 @@
       "lon": 5.69797587143, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }, 
     {
@@ -250,7 +275,7 @@
       "lon": 5.697949361088, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koudenbergstraat"
     }
   ]

@@ -50,7 +50,7 @@
     }, 
     {
       "hnrlbls": [
-        "40"
+        "40-42"
       ], 
       "housenumber": "40", 
       "lat": 50.929079934942, 
@@ -62,38 +62,26 @@
     }, 
     {
       "hnrlbls": [
-        "42-48"
+        "40-42"
       ], 
       "housenumber": "42", 
-      "lat": 50.929038838147, 
-      "lon": 4.359289370389, 
+      "lat": 50.929079934942, 
+      "lon": 4.359502299919, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hof ter Weerdestraat"
     }, 
     {
       "hnrlbls": [
-        "42-48"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.929038838147, 
-      "lon": 4.359289370389, 
+      "lat": 50.928997740966, 
+      "lon": 4.359076441231, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hof ter Weerdestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.929038838147, 
-      "lon": 4.359289370389, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hof ter Weerdestraat"
     }, 
     {
@@ -151,6 +139,18 @@
       "housenumber": "61", 
       "lat": 50.929278167503, 
       "lon": 4.357519108658, 
+      "municipality": "Grimbergen", 
+      "pcode": "1850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Weerdestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.929404275115, 
+      "lon": 4.357383806648, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
@@ -322,38 +322,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hof ter Weerdestraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "97"
-      ], 
-      "housenumber": "97", 
-      "lat": 50.931489397611, 
-      "lon": 4.356097534976, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Hof ter Weerdestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "97B"
-      ], 
-      "housenumber": "97B", 
-      "lat": 50.931483741247, 
-      "lon": 4.356165389628, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Hof ter Weerdestraat"
     }
   ]

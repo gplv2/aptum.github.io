@@ -43,37 +43,37 @@
     {
       "busnrs": [
         "0001", 
-        "0101", 
-        "0201", 
-        "0301"
+        "0101"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.212791898641, 
-      "lon": 2.903744519936, 
+      "lat": 51.212835041026, 
+      "lon": 2.903758194422, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
       "busnrs": [
-        "0202", 
-        "0301", 
-        "4", 
-        "5"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.213173687127, 
-      "lon": 2.904098245555, 
+      "lat": 51.213043934063, 
+      "lon": 2.904081707515, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
@@ -89,15 +89,19 @@
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.213088912697, 
-      "lon": 2.903873462896, 
+      "lat": 51.213075546921, 
+      "lon": 2.903796016252, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
@@ -138,19 +142,21 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "1", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.212752023747, 
-      "lon": 2.904393890257, 
+      "lat": 51.212771350892, 
+      "lon": 2.904401012931, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
@@ -421,18 +427,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.213614640084, 
-      "lon": 2.899227144049, 
+      "lat": 51.213666479342, 
+      "lon": 2.899260580071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }, 
     {
@@ -476,8 +481,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.212778756142, 
-      "lon": 2.90400443771, 
+      "lat": 51.212766044179, 
+      "lon": 2.904001544706, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -593,17 +598,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.213079976329, 
-      "lon": 2.904291559349, 
+      "lat": 51.213040934213, 
+      "lon": 2.904275035993, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onafhankelijkheidsstraat"
     }
   ]

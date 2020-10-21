@@ -165,7 +165,7 @@
       "lon": 3.712254053878, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -344,7 +344,7 @@
     }, 
     {
       "hnrlbls": [
-        "125"
+        "125-125C"
       ], 
       "housenumber": "125", 
       "lat": 51.05575502795, 
@@ -356,38 +356,38 @@
     }, 
     {
       "hnrlbls": [
-        "125A-127"
+        "125-125C"
       ], 
       "housenumber": "125A", 
-      "lat": 51.055781780715, 
-      "lon": 3.711405585407, 
+      "lat": 51.05575502795, 
+      "lon": 3.711460304087, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "hnrlbls": [
-        "125A-127"
+        "125-125C"
       ], 
       "housenumber": "125B", 
-      "lat": 51.055781780715, 
-      "lon": 3.711405585407, 
+      "lat": 51.05575502795, 
+      "lon": 3.711460304087, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "hnrlbls": [
-        "125A-127"
+        "125-125C"
       ], 
       "housenumber": "125C", 
-      "lat": 51.055781780715, 
-      "lon": 3.711405585407, 
+      "lat": 51.05575502795, 
+      "lon": 3.711460304087, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -404,14 +404,14 @@
     }, 
     {
       "hnrlbls": [
-        "125A-127"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.055781780715, 
-      "lon": 3.711405585407, 
+      "lat": 51.055780512775, 
+      "lon": 3.7114038916, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -734,11 +734,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.055550813149, 
-      "lon": 3.711028853142, 
+      "lat": 51.055549335206, 
+      "lon": 3.711021742262, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -760,6 +760,18 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -1001,8 +1013,26 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.055994063063, 
-      "lon": 3.710978413049, 
+      "lat": 51.055790297331, 
+      "lon": 3.710756626725, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "167"
+      ], 
+      "housenumber": "167", 
+      "lat": 51.055984454033, 
+      "lon": 3.710963999314, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1160,6 +1190,11 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1320,11 +1355,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.054652300026, 
-      "lon": 3.716038505487, 
+      "lat": 51.054659709248, 
+      "lon": 3.716029131313, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1392,6 +1427,18 @@
         "45-45E"
       ], 
       "housenumber": "45C", 
+      "lat": 51.054686718037, 
+      "lon": 3.713459134022, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45-45E"
+      ], 
+      "housenumber": "45D", 
       "lat": 51.054686718037, 
       "lon": 3.713459134022, 
       "municipality": "Gent", 

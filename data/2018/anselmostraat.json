@@ -38,6 +38,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -48,18 +49,6 @@
       "housenumber": "102", 
       "lat": 51.205319424893, 
       "lon": 4.404357697499, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Anselmostraat"
-    }, 
-    {
-      "hnrlbls": [
-        "102A"
-      ], 
-      "housenumber": "102A", 
-      "lat": 51.20534567184, 
-      "lon": 4.404355428563, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -179,6 +168,11 @@
       "street": "Anselmostraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -326,9 +320,9 @@
       "street": "Anselmostraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "301"
       ], 
       "hnrlbls": [
         "25"
@@ -530,11 +524,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.206696977535, 
-      "lon": 4.404114945507, 
+      "lat": 51.206750811142, 
+      "lon": 4.404138310693, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Anselmostraat"
     }, 
     {
@@ -579,13 +573,14 @@
       "street": "Anselmostraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601"
       ], 
       "hnrlbls": [
         "42"
@@ -1124,8 +1119,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.205972511543, 
-      "lon": 4.404107946568, 
+      "lat": 51.205977990387, 
+      "lon": 4.404121400983, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1245,14 +1240,14 @@
         "402"
       ], 
       "hnrlbls": [
-        "87"
+        "83-89"
       ], 
       "housenumber": "87", 
-      "lat": 51.205319235215, 
-      "lon": 4.404681212544, 
+      "lat": 51.205347990772, 
+      "lon": 4.404705273417, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Anselmostraat"
     }, 
     {
@@ -1325,6 +1320,13 @@
       "street": "Anselmostraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "92"
       ], 

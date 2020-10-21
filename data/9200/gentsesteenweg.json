@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.030976822219, 
-      "lon": 4.091395828395, 
+      "lat": 51.03068028256, 
+      "lon": 4.090864862777, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -298,19 +298,21 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.031781899652, 
-      "lon": 4.084263858639, 
+      "lat": 51.031872625351, 
+      "lon": 4.084498526038, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -326,19 +328,21 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.031823950676, 
-      "lon": 4.083958249207, 
+      "lat": 51.031879464404, 
+      "lon": 4.084203108635, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -354,7 +358,7 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -406,18 +410,6 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "142"
-      ], 
-      "housenumber": "142", 
-      "lat": 51.032040094694, 
-      "lon": 4.080496521624, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -573,8 +565,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.031744212186, 
-      "lon": 4.082469597539, 
+      "lat": 51.031748010704, 
+      "lon": 4.082479125594, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -749,20 +741,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.031988509054, 
-      "lon": 4.079252464152, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gentsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "167"
-      ], 
-      "housenumber": "167", 
-      "lat": 51.031070759521, 
-      "lon": 4.080994427346, 
+      "lat": 51.031993913604, 
+      "lon": 4.079256992617, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -905,11 +885,11 @@
         "18-20"
       ], 
       "housenumber": "18", 
-      "lat": 51.031992339757, 
-      "lon": 4.090298131645, 
+      "lat": 51.032036587871, 
+      "lon": 4.09030742042, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -989,11 +969,11 @@
         "18-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.031992339757, 
-      "lon": 4.090298131645, 
+      "lat": 51.032036587871, 
+      "lon": 4.09030742042, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -1028,8 +1008,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.031600668412, 
-      "lon": 4.075517059714, 
+      "lat": 51.031608663251, 
+      "lon": 4.075514871433, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1090,26 +1070,26 @@
     }, 
     {
       "hnrlbls": [
-        "210"
+        "210-212"
       ], 
       "housenumber": "210", 
-      "lat": 51.031560955381, 
-      "lon": 4.075054574078, 
+      "lat": 51.031553714706, 
+      "lon": 4.074998595255, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "212"
+        "210-212"
       ], 
       "housenumber": "212", 
-      "lat": 51.031530008044, 
-      "lon": 4.07500843738, 
+      "lat": 51.031553714706, 
+      "lon": 4.074998595255, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -1117,8 +1097,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.032045334457, 
-      "lon": 4.090128460201, 
+      "lat": 51.032111699463, 
+      "lon": 4.090101265596, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1225,8 +1205,8 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.030464444731, 
-      "lon": 4.074503916119, 
+      "lat": 51.030464170443, 
+      "lon": 4.074502064666, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1249,11 +1229,11 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.030435598374, 
-      "lon": 4.073859050731, 
+      "lat": 51.030461842216, 
+      "lon": 4.073929306388, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -1281,7 +1261,7 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1300,7 +1280,7 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1491,8 +1471,8 @@
         "37-39"
       ], 
       "housenumber": "37", 
-      "lat": 51.03177027302, 
-      "lon": 4.087137565586, 
+      "lat": 51.031766410837, 
+      "lon": 4.087138871759, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1503,8 +1483,8 @@
         "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.032075625808, 
-      "lon": 4.089253125818, 
+      "lat": 51.032062400928, 
+      "lon": 4.089248500206, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1515,8 +1495,8 @@
         "37-39"
       ], 
       "housenumber": "39", 
-      "lat": 51.03177027302, 
-      "lon": 4.087137565586, 
+      "lat": 51.031766410837, 
+      "lon": 4.087138871759, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1539,8 +1519,8 @@
         "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.032075625808, 
-      "lon": 4.089253125818, 
+      "lat": 51.032062400928, 
+      "lon": 4.089248500206, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2037,8 +2017,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.032170649301, 
-      "lon": 4.086875282166, 
+      "lat": 51.032186023789, 
+      "lon": 4.0868766154, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

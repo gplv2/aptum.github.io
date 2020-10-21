@@ -58,8 +58,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.958639732082, 
-      "lon": 3.610677558152, 
+      "lat": 50.958640372297, 
+      "lon": 3.610679255888, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -70,11 +70,11 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.958894028692, 
-      "lon": 3.61106502955, 
+      "lat": 50.958545186506, 
+      "lon": 3.610835089182, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -82,11 +82,11 @@
         "109A"
       ], 
       "housenumber": "109A", 
-      "lat": 50.958523485592, 
-      "lon": 3.610941197741, 
+      "lat": 50.958521399848, 
+      "lon": 3.61093838463, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -100,11 +100,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.95851094867, 
-      "lon": 3.611018548062, 
+      "lat": 50.958510393765, 
+      "lon": 3.611016137252, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -112,11 +112,11 @@
         "111A"
       ], 
       "housenumber": "111A", 
-      "lat": 50.958500870652, 
-      "lon": 3.611114789772, 
+      "lat": 50.958501314591, 
+      "lon": 3.61111392857, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -130,11 +130,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.958592921336, 
-      "lon": 3.611197995928, 
+      "lat": 50.958605836999, 
+      "lon": 3.611151527099, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -279,7 +279,7 @@
     }, 
     {
       "hnrlbls": [
-        "125-125A"
+        "125"
       ], 
       "housenumber": "125", 
       "lat": 50.958725630257, 
@@ -291,14 +291,26 @@
     }, 
     {
       "hnrlbls": [
+        "125A"
+      ], 
+      "housenumber": "125A", 
+      "lat": 50.958821734033, 
+      "lon": 3.614055910585, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Drapstraat"
+    }, 
+    {
+      "hnrlbls": [
         "125B"
       ], 
       "housenumber": "125B", 
-      "lat": 50.958814896371, 
-      "lon": 3.614223270227, 
+      "lat": 50.958834984151, 
+      "lon": 3.614173555242, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -306,8 +318,8 @@
         "127-127A"
       ], 
       "housenumber": "127", 
-      "lat": 50.958921858861, 
-      "lon": 3.614599607058, 
+      "lat": 50.958919877687, 
+      "lon": 3.614599069529, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -318,8 +330,8 @@
         "127-127A"
       ], 
       "housenumber": "127A", 
-      "lat": 50.958921858861, 
-      "lon": 3.614599607058, 
+      "lat": 50.958919877687, 
+      "lon": 3.614599069529, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -330,11 +342,11 @@
         "127B"
       ], 
       "housenumber": "127B", 
-      "lat": 50.958932489141, 
-      "lon": 3.61495386413, 
+      "lat": 50.958958557437, 
+      "lon": 3.614953587808, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -571,20 +583,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.959573477954, 
-      "lon": 3.600405123702, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18A"
-      ], 
-      "housenumber": "18A", 
-      "lat": 50.959478483726, 
-      "lon": 3.600560693352, 
+      "lat": 50.959506471347, 
+      "lon": 3.600468851361, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -745,47 +745,11 @@
     }, 
     {
       "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.959855338712, 
-      "lon": 3.599873553402, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31A"
-      ], 
-      "housenumber": "31A", 
-      "lat": 50.959801229991, 
-      "lon": 3.599943761074, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.959349599788, 
       "lon": 3.602260658703, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.96002942377, 
-      "lon": 3.600086779901, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -808,8 +772,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.95911654772, 
-      "lon": 3.603497709733, 
+      "lat": 50.959121990019, 
+      "lon": 3.603505165088, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -839,8 +803,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.959868731092, 
-      "lon": 3.600561423166, 
+      "lat": 50.959895956731, 
+      "lon": 3.60055941177, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -976,8 +940,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.959973387658, 
-      "lon": 3.601431993881, 
+      "lat": 50.959972066263, 
+      "lon": 3.601436143459, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1151,18 +1115,6 @@
     }, 
     {
       "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.958437695171, 
-      "lon": 3.60702441381, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -1175,35 +1127,11 @@
     }, 
     {
       "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.958446948846, 
-      "lon": 3.607148525743, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.960185583125, 
-      "lon": 3.605377162219, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.95844476606, 
-      "lon": 3.607325204084, 
+      "lat": 50.960410269615, 
+      "lon": 3.605507169829, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1449,8 +1377,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.95890771121, 
-      "lon": 3.606835443868, 
+      "lat": 50.958912721867, 
+      "lon": 3.606831804013, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1485,20 +1413,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.957603666498, 
-      "lon": 3.60890682885, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 50.95883029576, 
-      "lon": 3.607138746809, 
+      "lat": 50.957894107812, 
+      "lon": 3.608987956452, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1509,11 +1425,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.958043727049, 
-      "lon": 3.60920160352, 
+      "lat": 50.957709428495, 
+      "lon": 3.609442723206, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -1521,8 +1437,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.958808486895, 
-      "lon": 3.607199879999, 
+      "lat": 50.958854381661, 
+      "lon": 3.607262761501, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1557,18 +1473,6 @@
     }, 
     {
       "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 50.958796381983, 
-      "lon": 3.60728804268, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Drapstraat"
-    }, 
-    {
-      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -1584,11 +1488,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.958812596872, 
-      "lon": 3.607404356317, 
+      "lat": 50.958821833535, 
+      "lon": 3.607414739671, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -1611,11 +1515,11 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.958804024742, 
-      "lon": 3.607635655957, 
+      "lat": 50.958846443067, 
+      "lon": 3.607661443404, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -1631,8 +1535,8 @@
         "85A"
       ], 
       "housenumber": "85A", 
-      "lat": 50.958789027428, 
-      "lon": 3.60797167972, 
+      "lat": 50.958791211412, 
+      "lon": 3.607975772186, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1651,8 +1555,8 @@
         "85B"
       ], 
       "housenumber": "85B", 
-      "lat": 50.958769392506, 
-      "lon": 3.608202304344, 
+      "lat": 50.958775142543, 
+      "lon": 3.608201784149, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 
@@ -1711,11 +1615,11 @@
         "88A"
       ], 
       "housenumber": "88A", 
-      "lat": 50.95725974088, 
-      "lon": 3.609188385142, 
+      "lat": 50.957313135215, 
+      "lon": 3.608825703707, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Drapstraat"
     }, 
     {
@@ -1807,8 +1711,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.958686621649, 
-      "lon": 3.608887873414, 
+      "lat": 50.958699605701, 
+      "lon": 3.608879976853, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 

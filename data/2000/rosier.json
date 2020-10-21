@@ -25,15 +25,19 @@
       "street": "Rosier"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.214090256553, 
-      "lon": 4.402505357473, 
+      "lat": 51.214076601091, 
+      "lon": 4.402481590816, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -44,8 +48,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.213815379396, 
-      "lon": 4.402235390074, 
+      "lat": 51.213806933931, 
+      "lon": 4.402222790113, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -53,14 +57,14 @@
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.214090256553, 
-      "lon": 4.402505357473, 
+      "lat": 51.214071552987, 
+      "lon": 4.402531676239, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -68,8 +72,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.213840231512, 
-      "lon": 4.402393402991, 
+      "lat": 51.213840951, 
+      "lon": 4.402391972409, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -92,8 +96,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.213823910776, 
-      "lon": 4.402570991844, 
+      "lat": 51.213823371931, 
+      "lon": 4.402569417223, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -164,14 +168,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.213565427032, 
-      "lon": 4.403103886432, 
+      "lat": 51.213865008886, 
+      "lon": 4.403110408453, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -179,11 +183,11 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.213866987609, 
-      "lon": 4.403106116603, 
+      "lat": 51.213467019403, 
+      "lon": 4.403051577332, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -200,14 +204,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.213565427032, 
-      "lon": 4.403103886432, 
+      "lat": 51.213651644004, 
+      "lon": 4.403345235638, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -227,8 +231,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.213850600317, 
-      "lon": 4.403502808473, 
+      "lat": 51.213790210208, 
+      "lon": 4.403462691497, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -248,38 +252,14 @@
     }, 
     {
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.214045835853, 
-      "lon": 4.403177377565, 
+      "lat": 51.213998201363, 
+      "lon": 4.403163602977, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rosier"
-    }, 
-    {
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "29A", 
-      "lat": 51.214045835853, 
-      "lon": 4.403177377565, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rosier"
-    }, 
-    {
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "29B", 
-      "lat": 51.214045835853, 
-      "lon": 4.403177377565, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -295,15 +275,20 @@
       "street": "Rosier"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "29-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.214045835853, 
-      "lon": 4.403177377565, 
+      "lat": 51.213995666149, 
+      "lon": 4.403225711513, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosier"
     }, 
     {
@@ -371,8 +356,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.213901699803, 
-      "lon": 4.403948496008, 
+      "lat": 51.21392282413, 
+      "lon": 4.403943360254, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -412,8 +397,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.213897363186, 
-      "lon": 4.404021479445, 
+      "lat": 51.213927749234, 
+      "lon": 4.404004329507, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -436,8 +421,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.213917389607, 
-      "lon": 4.404079741221, 
+      "lat": 51.213920445623, 
+      "lon": 4.404079886693, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -508,8 +493,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.213847785424, 
-      "lon": 4.402069834201, 
+      "lat": 51.213908740379, 
+      "lon": 4.402022795019, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

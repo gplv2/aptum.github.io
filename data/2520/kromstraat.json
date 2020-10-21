@@ -104,11 +104,11 @@
         "105-107"
       ], 
       "housenumber": "105", 
-      "lat": 51.19453041576, 
-      "lon": 4.542888788496, 
+      "lat": 51.194419766692, 
+      "lon": 4.542767638014, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kromstraat"
     }, 
     {
@@ -128,11 +128,11 @@
         "105-107"
       ], 
       "housenumber": "107", 
-      "lat": 51.19453041576, 
-      "lon": 4.542888788496, 
+      "lat": 51.194419766692, 
+      "lon": 4.542767638014, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kromstraat"
     }, 
     {
@@ -710,11 +710,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.189411516337, 
-      "lon": 4.557151244158, 
+      "lat": 51.189436564291, 
+      "lon": 4.55694522972, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kromstraat"
     }, 
     {
@@ -730,12 +730,15 @@
       "street": "Kromstraat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.191717522317, 
-      "lon": 4.554035656533, 
+      "lat": 51.191684615774, 
+      "lon": 4.55404110407, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -794,8 +797,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.189521838511, 
-      "lon": 4.557467373914, 
+      "lat": 51.189533507696, 
+      "lon": 4.557477290839, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1127,19 +1130,19 @@
     }, 
     {
       "hnrlbls": [
-        "68-68A"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.193977027447, 
-      "lon": 4.548369415479, 
+      "lat": 51.193922073958, 
+      "lon": 4.548744567489, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kromstraat"
     }, 
     {
       "hnrlbls": [
-        "68-68A"
+        "68A"
       ], 
       "housenumber": "68A", 
       "lat": 51.193977027447, 
@@ -1171,8 +1174,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.189567623937, 
-      "lon": 4.557390176676, 
+      "lat": 51.189591052203, 
+      "lon": 4.557410010877, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1183,11 +1186,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.193891656798, 
-      "lon": 4.548238337518, 
+      "lat": 51.193873544521, 
+      "lon": 4.548444832208, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kromstraat"
     }, 
     {

@@ -21,24 +21,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "101", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
-        "10-37"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.206732995664, 
-      "lon": 4.423655684345, 
+      "lat": 51.206389840883, 
+      "lon": 4.424553297556, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Diepenbeeckstraat"
     }, 
     {
@@ -214,8 +210,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.205822898958, 
-      "lon": 4.424450876325, 
+      "lat": 51.205814881153, 
+      "lon": 4.424488784567, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -863,10 +859,9 @@
       "street": "Van Diepenbeeckstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "85"

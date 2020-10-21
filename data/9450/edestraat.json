@@ -74,18 +74,6 @@
     }, 
     {
       "hnrlbls": [
-        "107"
-      ], 
-      "housenumber": "107", 
-      "lat": 50.909885225765, 
-      "lon": 3.9873810731, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Edestraat"
-    }, 
-    {
-      "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
@@ -93,7 +81,7 @@
       "lon": 3.987168905936, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -137,11 +125,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.909806879325, 
-      "lon": 3.986950457977, 
+      "lat": 50.909787129919, 
+      "lon": 3.987014317661, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Edestraat"
     }, 
     {
@@ -205,8 +193,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.910133363547, 
-      "lon": 3.985812301212, 
+      "lat": 50.910151312851, 
+      "lon": 3.985803197264, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -250,11 +238,11 @@
     }, 
     {
       "hnrlbls": [
-        "122"
+        "122-124"
       ], 
       "housenumber": "122", 
-      "lat": 50.910048761039, 
-      "lon": 3.985229170887, 
+      "lat": 50.909874244905, 
+      "lon": 3.985274956226, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -270,6 +258,18 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
+      "street": "Edestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122-124"
+      ], 
+      "housenumber": "124", 
+      "lat": 50.909874244905, 
+      "lon": 3.985274956226, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -381,7 +381,7 @@
       "lon": 3.984795639466, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -629,8 +629,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.909987894428, 
-      "lon": 3.983356073359, 
+      "lat": 50.909990861805, 
+      "lon": 3.983356333414, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -653,8 +653,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.909998276259, 
-      "lon": 3.983259727867, 
+      "lat": 50.909978649926, 
+      "lon": 3.9832507888, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -737,8 +737,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.910028426291, 
-      "lon": 3.98272215674, 
+      "lat": 50.910028886482, 
+      "lon": 3.98272542326, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -873,19 +873,7 @@
       "lon": 3.981868138843, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Edestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "172"
-      ], 
-      "housenumber": "172", 
-      "lat": 50.910004474104, 
-      "lon": 3.981970896373, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -967,6 +955,18 @@
       "housenumber": "185", 
       "lat": 50.90963437856, 
       "lon": 3.981015324651, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Edestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "187"
+      ], 
+      "housenumber": "187", 
+      "lat": 50.909560977242, 
+      "lon": 3.980592075086, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1317,7 +1317,7 @@
       "lon": 3.991369989413, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -1646,7 +1646,7 @@
       "lon": 3.989758530735, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Edestraat"
     }, 
     {
@@ -1706,7 +1706,7 @@
       "lon": 3.990612216604, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -1743,18 +1743,6 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Edestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 50.910296979244, 
-      "lon": 3.989282763207, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -1822,11 +1810,11 @@
         "85A"
       ], 
       "housenumber": "85A", 
-      "lat": 50.909944171414, 
-      "lon": 3.989458935288, 
+      "lat": 50.910048101243, 
+      "lon": 3.989406767647, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {
@@ -1843,7 +1831,7 @@
     }, 
     {
       "hnrlbls": [
-        "87-87A"
+        "87"
       ], 
       "housenumber": "87", 
       "lat": 50.909977680832, 
@@ -1855,11 +1843,11 @@
     }, 
     {
       "hnrlbls": [
-        "87-87A"
+        "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 50.909977680832, 
-      "lon": 3.989229318045, 
+      "lat": 50.909960441223, 
+      "lon": 3.989263439753, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1988,7 +1976,7 @@
       "lon": 3.988125131026, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edestraat"
     }, 
     {

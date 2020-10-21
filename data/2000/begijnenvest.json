@@ -172,7 +172,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "9-13"
       ], 
       "housenumber": "11", 
       "lat": 51.210091048335, 
@@ -230,7 +230,7 @@
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "9-13"
       ], 
       "housenumber": "13", 
       "lat": 51.210091048335, 
@@ -383,6 +383,7 @@
     {
       "apptnrs": [
         "001", 
+        "002", 
         "101", 
         "201", 
         "301"
@@ -450,8 +451,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.210215399356, 
-      "lon": 4.40325191041, 
+      "lat": 51.210131350656, 
+      "lon": 4.40327517225, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -479,8 +480,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.210225186422, 
-      "lon": 4.403286548008, 
+      "lat": 51.210151014393, 
+      "lon": 4.403345306013, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -518,11 +519,11 @@
         "301"
       ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.210199435989, 
-      "lon": 4.403432347432, 
+      "lat": 51.210164735537, 
+      "lon": 4.403449493098, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -552,11 +553,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "31-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.210199435989, 
-      "lon": 4.403432347432, 
+      "lat": 51.210216338162, 
+      "lon": 4.403419195049, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -567,8 +568,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.210444324413, 
-      "lon": 4.403285854926, 
+      "lat": 51.210545426829, 
+      "lon": 4.40334403031, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -604,6 +605,11 @@
       "street": "Begijnenvest"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -808,6 +814,16 @@
       "street": "Begijnenvest"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -829,18 +845,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Begijnenvest"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.210539204994, 
-      "lon": 4.404592868183, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Begijnenvest"
     }, 
     {
@@ -1059,6 +1063,10 @@
       "street": "Begijnenvest"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1083,6 +1091,10 @@
       "street": "Begijnenvest"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1393,23 +1405,23 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "9-13"
       ], 
       "housenumber": "9", 
-      "lat": 51.210004236085, 
-      "lon": 4.402728722854, 
+      "lat": 51.210091048335, 
+      "lon": 4.402783022152, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Begijnenvest"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "90"

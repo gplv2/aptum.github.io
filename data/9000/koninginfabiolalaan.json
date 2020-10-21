@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.037263892881, 
@@ -453,43 +459,7 @@
       "lon": 3.707767618356, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Koningin Fabiolalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.037263892881, 
-      "lon": 3.709458245606, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Koningin Fabiolalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.037263892881, 
-      "lon": 3.709458245606, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Koningin Fabiolalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.037263892881, 
-      "lon": 3.709458245606, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningin Fabiolalaan"
     }, 
     {
@@ -525,7 +495,7 @@
       "lon": 3.707886678397, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningin Fabiolalaan"
     }, 
     {

@@ -132,7 +132,8 @@
     {
       "apptnrs": [
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "19"
@@ -186,18 +187,6 @@
     }, 
     {
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.228835718025, 
-      "lon": 4.418911329264, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fuggerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "24-26"
       ], 
       "housenumber": "24", 
@@ -209,15 +198,21 @@
       "street": "Fuggerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.228788694821, 
-      "lon": 4.418944060937, 
+      "lat": 51.228773827736, 
+      "lon": 4.418819354958, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fuggerstraat"
     }, 
     {
@@ -396,8 +391,10 @@
       "street": "Fuggerstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "37"
@@ -447,9 +444,11 @@
       "street": "Fuggerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "43"

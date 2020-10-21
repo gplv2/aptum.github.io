@@ -1245,11 +1245,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.948209267625, 
-      "lon": 4.752580131695, 
+      "lat": 50.948160541565, 
+      "lon": 4.752663690659, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarschotsesteenweg"
     }, 
     {
@@ -1287,8 +1287,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.948248261953, 
-      "lon": 4.752833323189, 
+      "lat": 50.948255033129, 
+      "lon": 4.752851878083, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -3214,11 +3214,23 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.944395917126, 
-      "lon": 4.746254206474, 
+      "lat": 50.944086517832, 
+      "lon": 4.746445084096, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Aarschotsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "96A"
+      ], 
+      "housenumber": "96A", 
+      "lat": 50.94433528921, 
+      "lon": 4.74637822206, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Aarschotsesteenweg"
     }, 
     {

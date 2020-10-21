@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "A", 
+        "A1", 
+        "A2", 
+        "B", 
+        "B1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.960356844627, 
+      "lon": 3.907918521268, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Klinkaard"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -473,11 +492,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.970960040191, 
-      "lon": 3.899509152228, 
+      "lat": 50.970418040741, 
+      "lon": 3.899523965592, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klinkaard"
     }, 
     {
@@ -509,8 +528,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.96129740444, 
-      "lon": 3.907000857934, 
+      "lat": 50.961300225648, 
+      "lon": 3.907009655468, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +660,8 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 50.971002399677, 
-      "lon": 3.898634987811, 
+      "lat": 50.971020430997, 
+      "lon": 3.89867068519, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -674,35 +693,23 @@
     }, 
     {
       "hnrlbls": [
+        "198A"
+      ], 
+      "housenumber": "198A", 
+      "lat": 50.971477887063, 
+      "lon": 3.89848742545, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klinkaard"
+    }, 
+    {
+      "hnrlbls": [
         "198B"
       ], 
       "housenumber": "198B", 
       "lat": 50.971536707153, 
       "lon": 3.898427323834, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klinkaard"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.960384878873, 
-      "lon": 3.907961232953, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klinkaard"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.960384878873, 
-      "lon": 3.907961232953, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -749,8 +756,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.974028561212, 
-      "lon": 3.898676160474, 
+      "lat": 50.974019576869, 
+      "lon": 3.898654893157, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -845,11 +852,11 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 50.977072634533, 
-      "lon": 3.895961178855, 
+      "lat": 50.976972276589, 
+      "lon": 3.89599679057, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klinkaard"
     }, 
     {
@@ -953,8 +960,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.962209928775, 
-      "lon": 3.906065071307, 
+      "lat": 50.962211448521, 
+      "lon": 3.906062921146, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -970,6 +977,25 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Klinkaard"
+    }, 
+    {
+      "apptnrs": [
+        "A", 
+        "A1", 
+        "A2", 
+        "B", 
+        "B1"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.960479991328, 
+      "lon": 3.907824649117, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klinkaard"
     }, 
     {
@@ -1082,30 +1108,6 @@
     }, 
     {
       "hnrlbls": [
-        "3A-3B"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.960504656206, 
-      "lon": 3.907856291351, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klinkaard"
-    }, 
-    {
-      "hnrlbls": [
-        "3A-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.960504656206, 
-      "lon": 3.907856291351, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klinkaard"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -1145,8 +1147,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.963033264655, 
-      "lon": 3.905653116725, 
+      "lat": 50.963034061352, 
+      "lon": 3.905649977204, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1169,8 +1171,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.963114517549, 
-      "lon": 3.905444628772, 
+      "lat": 50.963103729034, 
+      "lon": 3.905444308167, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1325,8 +1327,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.964506763483, 
-      "lon": 3.904205234074, 
+      "lat": 50.964508028124, 
+      "lon": 3.904206787445, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 

@@ -14,7 +14,12 @@
     }, 
     {
       "busnrs": [
-        "5"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "10"
@@ -96,8 +101,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.061655392693, 
-      "lon": 4.363293677203, 
+      "lat": 51.061654763475, 
+      "lon": 4.363293819913, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -108,8 +113,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.061725238625, 
-      "lon": 4.363345450535, 
+      "lat": 51.061721282266, 
+      "lon": 4.36331463943, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -233,11 +238,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.062595277416, 
-      "lon": 4.363398428103, 
+      "lat": 51.062611012687, 
+      "lon": 4.363518251328, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
@@ -642,8 +647,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.065132949631, 
-      "lon": 4.363774359763, 
+      "lat": 51.065132230581, 
+      "lon": 4.363776071704, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -927,20 +932,25 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.061065252853, 
-      "lon": 4.362875077625, 
+      "lat": 51.061062645949, 
+      "lon": 4.362872367681, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.067858937436, 
-      "lon": 4.364201533046, 
+      "lat": 51.067856780689, 
+      "lon": 4.364219508958, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

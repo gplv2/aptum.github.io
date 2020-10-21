@@ -125,8 +125,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.323288328979, 
-      "lon": 4.431145809567, 
+      "lat": 51.323291220335, 
+      "lon": 4.431117267365, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -661,6 +661,10 @@
       "street": "Philippe Spethstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -669,7 +673,7 @@
       "lon": 4.425997542157, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Philippe Spethstraat"
     }, 
     {
@@ -794,18 +798,6 @@
     }, 
     {
       "hnrlbls": [
-        "16A"
-      ], 
-      "housenumber": "16A", 
-      "lat": 51.319919937146, 
-      "lon": 4.426311129313, 
-      "municipality": "Kapellen", 
-      "pcode": "2950", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Philippe Spethstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -917,11 +909,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.31996995448, 
-      "lon": 4.426404569819, 
+      "lat": 51.320081539323, 
+      "lon": 4.426133181711, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Philippe Spethstraat"
     }, 
     {
@@ -1121,11 +1113,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.320014320249, 
-      "lon": 4.426475770576, 
+      "lat": 51.320073812437, 
+      "lon": 4.426127434549, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Philippe Spethstraat"
     }, 
     {
@@ -2045,8 +2037,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.321418926347, 
-      "lon": 4.428530764087, 
+      "lat": 51.321412089159, 
+      "lon": 4.428543091217, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 

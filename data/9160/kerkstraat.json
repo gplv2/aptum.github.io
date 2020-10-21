@@ -42,8 +42,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.103642998117, 
-      "lon": 3.992840829825, 
+      "lat": 51.103646022466, 
+      "lon": 3.992830811258, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -80,14 +80,14 @@
     }, 
     {
       "hnrlbls": [
-        "7A-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.103490766272, 
-      "lon": 3.992768665305, 
+      "lat": 51.103615922295, 
+      "lon": 3.992863034581, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "17-17W"
       ], 
       "housenumber": "17", 
-      "lat": 51.103513941031, 
-      "lon": 3.99301776476, 
+      "lat": 51.103487232339, 
+      "lon": 3.992901046214, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -150,14 +150,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "17W"
+        "17-17W"
       ], 
       "housenumber": "17W", 
-      "lat": 51.10354152442, 
-      "lon": 3.992985561801, 
+      "lat": 51.103487232339, 
+      "lon": 3.992901046214, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -228,6 +228,11 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "W001", 
+        "W002", 
+        "W003"
+      ], 
       "hnrlbls": [
         "19-21"
       ], 
@@ -256,8 +261,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.103373709209, 
-      "lon": 3.993072715895, 
+      "lat": 51.103357875536, 
+      "lon": 3.993040290269, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -268,8 +273,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.103318759398, 
-      "lon": 3.993035749732, 
+      "lat": 51.103298273338, 
+      "lon": 3.992925406582, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -277,17 +282,21 @@
     }, 
     {
       "hnrlbls": [
-        "27-31"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.103198398373, 
-      "lon": 3.992951050766, 
+      "lat": 51.103226741711, 
+      "lon": 3.992931691575, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -301,11 +310,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.103198398373, 
-      "lon": 3.992951050766, 
+      "lat": 51.103221440277, 
+      "lon": 3.99307365178, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -316,8 +325,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.103094000037, 
-      "lon": 3.993052401312, 
+      "lat": 51.103103818114, 
+      "lon": 3.993058747379, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -576,14 +585,16 @@
     }, 
     {
       "apptnrs": [
+        "W001", 
+        "W002", 
         "W003"
       ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.103021185212, 
-      "lon": 3.994013281283, 
+      "lat": 51.10302432219, 
+      "lon": 3.994010400708, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -615,8 +626,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.102910222243, 
-      "lon": 3.993972336548, 
+      "lat": 51.102907135753, 
+      "lon": 3.993962795433, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -639,8 +650,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.102847901786, 
-      "lon": 3.994020378713, 
+      "lat": 51.102847972201, 
+      "lon": 3.994014238904, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -649,8 +660,10 @@
     {
       "apptnrs": [
         "0101", 
+        "0102", 
         "0201", 
-        "0202"
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "67"
@@ -670,6 +683,18 @@
       "housenumber": "68", 
       "lat": 51.102729423652, 
       "lon": 3.993990630528, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.102700575228, 
+      "lon": 3.994020843637, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -708,8 +733,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.102857101028, 
-      "lon": 3.994398654047, 
+      "lat": 51.102763789302, 
+      "lon": 3.994254628179, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -733,11 +758,11 @@
     }, 
     {
       "hnrlbls": [
-        "7A-13"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.103490766272, 
-      "lon": 3.992768665305, 
+      "lat": 51.103385518557, 
+      "lon": 3.992631304223, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -748,11 +773,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.103885378503, 
-      "lon": 3.992909844168, 
+      "lat": 51.103833279352, 
+      "lon": 3.992751780712, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -765,8 +790,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.103570952828, 
-      "lon": 3.992742179214, 
+      "lat": 51.103651138921, 
+      "lon": 3.99271555026, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 

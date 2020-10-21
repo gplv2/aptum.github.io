@@ -1,22 +1,12 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1-3A"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.147026424176, 
-      "lon": 2.711713175307, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "201", 
-        "401"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "11"
@@ -26,35 +16,36 @@
       "lon": 2.712284458768, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.145233794661, 
-      "lon": 2.714372056333, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "102", 
-        "104", 
-        "201", 
-        "202", 
-        "203", 
-        "302", 
-        "304", 
-        "305", 
-        "405", 
-        "503", 
-        "504", 
-        "505"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505"
       ], 
       "hnrlbls": [
         "13"
@@ -64,186 +55,141 @@
       "lon": 2.712402470774, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.14621475412, 
-      "lon": 2.712548144324, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.146282547203, 
-      "lon": 2.712496998451, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.146205410128, 
-      "lon": 2.71258706924, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "4", 
-        "5", 
-        "502", 
-        "801", 
-        "9"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801"
       ], 
       "hnrlbls": [
-        "2-2_5"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.147157046845, 
       "lon": 2.712006862693, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "202", 
-        "301"
+        "0001", 
+        "0002", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.146128270978, 
-      "lon": 2.712676996864, 
+      "lat": 51.146235332244, 
+      "lon": 2.71257300095, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.145142142325, 
-      "lon": 2.713586866374, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.144839729012, 
-      "lon": 2.714231212387, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2_5"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.147157046845, 
-      "lon": 2.712006862693, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "9"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0901"
       ], 
       "hnrlbls": [
-        "2-2_5"
-      ], 
-      "housenumber": "2_5", 
-      "lat": 51.147157046845, 
-      "lon": 2.712006862693, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.147091781537, 
-      "lon": 2.711860088637, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brabantstraat"
-    }, 
-    {
-      "busnrs": [
-        "301", 
-        "303", 
-        "504", 
-        "704"
-      ], 
-      "hnrlbls": [
-        "1-3A"
+        "3A"
       ], 
       "housenumber": "3A", 
       "lat": 51.147026424176, 
       "lon": 2.711713175307, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
-        "3-3B"
+        "3B"
       ], 
       "housenumber": "3B", 
-      "lat": 51.147091781537, 
-      "lon": 2.711860088637, 
+      "lat": 51.146933358786, 
+      "lon": 2.71182139564, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "104", 
-        "201", 
-        "203", 
-        "301", 
-        "302", 
-        "403"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504"
       ], 
       "hnrlbls": [
         "4"
@@ -253,7 +199,7 @@
       "lon": 2.712592769785, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
@@ -264,25 +210,39 @@
         "302"
       ], 
       "hnrlbls": [
-        "5-240A"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.146810732375, 
-      "lon": 2.7119373822, 
+      "lat": 51.146830825908, 
+      "lon": 2.711972547843, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "102", 
-        "202", 
-        "302", 
-        "303", 
-        "402", 
-        "501", 
-        "502"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504"
       ], 
       "hnrlbls": [
         "6"
@@ -297,11 +257,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "7"
@@ -311,19 +270,33 @@
       "lon": 2.712167855753, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "202", 
-        "203", 
-        "301", 
-        "303", 
-        "502", 
-        "504"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "8"
@@ -338,10 +311,11 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "9"

@@ -1,10 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "1"
@@ -42,13 +43,26 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
-        "12"
+        "12-12A"
       ], 
       "housenumber": "12", 
+      "lat": 51.218154369324, 
+      "lon": 4.418511241236, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12-12A"
+      ], 
+      "housenumber": "12A", 
       "lat": 51.218154369324, 
       "lon": 4.418511241236, 
       "municipality": "Antwerpen", 
@@ -88,9 +102,26 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "14-14A"
       ], 
       "housenumber": "14", 
+      "lat": 51.218159457562, 
+      "lon": 4.418593543282, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "14-14A"
+      ], 
+      "housenumber": "14A", 
       "lat": 51.218159457562, 
       "lon": 4.418593543282, 
       "municipality": "Antwerpen", 
@@ -164,6 +195,13 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -557,13 +595,13 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "6"

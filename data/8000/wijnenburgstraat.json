@@ -1,6 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "1-14"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.218555889969, 
+      "lon": 3.205694482994, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wijnenburgstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -77,11 +98,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.219037293558, 
-      "lon": 3.205504123672, 
+      "lat": 51.218974821595, 
+      "lon": 3.205111604624, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wijnenburgstraat"
     }, 
     {
@@ -206,23 +227,11 @@
     }, 
     {
       "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.219189272774, 
-      "lon": 3.205007199361, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Wijnenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19A-19C"
+        "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.219223663111, 
-      "lon": 3.205359623934, 
+      "lat": 51.219216377372, 
+      "lon": 3.205404896353, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -230,11 +239,11 @@
     }, 
     {
       "hnrlbls": [
-        "19A-19C"
+        "19B-19C"
       ], 
       "housenumber": "19B", 
-      "lat": 51.219223663111, 
-      "lon": 3.205359623934, 
+      "lat": 51.219251102835, 
+      "lon": 3.205252153281, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -242,26 +251,14 @@
     }, 
     {
       "hnrlbls": [
-        "19A-19C"
+        "19B-19C"
       ], 
       "housenumber": "19C", 
-      "lat": 51.219223663111, 
-      "lon": 3.205359623934, 
+      "lat": 51.219251102835, 
+      "lon": 3.205252153281, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wijnenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.219189272774, 
-      "lon": 3.205007199361, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Wijnenburgstraat"
     }, 
     {

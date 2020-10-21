@@ -110,26 +110,26 @@
     }, 
     {
       "hnrlbls": [
-        "105-105A"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.981286119279, 
-      "lon": 3.532929833868, 
+      "lat": 50.981202291687, 
+      "lon": 3.532645226179, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
       "hnrlbls": [
-        "105-105A"
+        "105A"
       ], 
       "housenumber": "105A", 
-      "lat": 50.981286119279, 
-      "lon": 3.532929833868, 
+      "lat": 50.980809624174, 
+      "lon": 3.533063501217, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -485,10 +485,10 @@
       "street": "Guido Gezellelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "13"
@@ -679,6 +679,10 @@
       "street": "Guido Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -774,7 +778,6 @@
         "2", 
         "3", 
         "4", 
-        "5", 
         "6"
       ], 
       "hnrlbls": [
@@ -1021,11 +1024,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.983800222194, 
-      "lon": 3.532568155409, 
+      "lat": 50.983795466945, 
+      "lon": 3.532531496411, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1239,6 +1242,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -1334,11 +1338,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.982926259444, 
-      "lon": 3.53317831797, 
+      "lat": 50.982968878709, 
+      "lon": 3.533230109976, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1419,10 +1423,6 @@
       "street": "Guido Gezellelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1521,21 +1521,9 @@
         "2"
       ], 
       "hnrlbls": [
-        "86-86A"
+        "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.982600543006, 
-      "lon": 3.533568353202, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Guido Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "86-86A"
-      ], 
-      "housenumber": "86A", 
       "lat": 50.982600543006, 
       "lon": 3.533568353202, 
       "municipality": "Deinze", 
@@ -1596,11 +1584,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.982471939834, 
-      "lon": 3.533700666652, 
+      "lat": 50.982471925554, 
+      "lon": 3.533597274586, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {
@@ -1613,6 +1601,30 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Guido Gezellelaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.982427570512, 
+      "lon": 3.53364292456, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellelaan"
     }, 
     {

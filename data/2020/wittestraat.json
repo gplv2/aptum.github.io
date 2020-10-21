@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.187746164883, 
-      "lon": 4.38460902372, 
+      "lat": 51.187768639699, 
+      "lon": 4.384583572143, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -432,8 +432,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.186947395162, 
-      "lon": 4.383665180384, 
+      "lat": 51.18695045216, 
+      "lon": 4.383658316031, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -464,9 +464,6 @@
       "street": "Wittestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -543,8 +540,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.18919449999, 
-      "lon": 4.386316094496, 
+      "lat": 51.189195669113, 
+      "lon": 4.386312089958, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -570,8 +567,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.189093833048, 
-      "lon": 4.386288735378, 
+      "lat": 51.18909167508, 
+      "lon": 4.386293454698, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -987,8 +984,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.188968016068, 
-      "lon": 4.385548623913, 
+      "lat": 51.188971073173, 
+      "lon": 4.385541759385, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1168,7 +1165,7 @@
     }, 
     {
       "hnrlbls": [
-        "73-75"
+        "73"
       ], 
       "housenumber": "73", 
       "lat": 51.188291953659, 
@@ -1191,38 +1188,21 @@
       "street": "Wittestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "73-75"
+        "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.188291953659, 
-      "lon": 4.385190502505, 
+      "lat": 51.188290706236, 
+      "lon": 4.385114694677, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wittestraat"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "75_2"
-      ], 
-      "housenumber": "75_2", 
-      "lat": 51.188281975657, 
-      "lon": 4.385195791053, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wittestraat"
     }, 
     {
@@ -1256,11 +1236,11 @@
         "301"
       ], 
       "hnrlbls": [
-        "78-80"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.188587594517, 
-      "lon": 4.385127533194, 
+      "lat": 51.188614286635, 
+      "lon": 4.385153289035, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1273,18 +1253,6 @@
       "housenumber": "79", 
       "lat": 51.188170977562, 
       "lon": 4.385127523831, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wittestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "78-80"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.188587594517, 
-      "lon": 4.385127533194, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1329,37 +1297,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wittestraat"
-    }, 
-    {
-      "busnrs": [
-        "8", 
-        "88"
-      ], 
-      "hnrlbls": [
-        "84-86"
-      ], 
-      "housenumber": "84", 
-      "lat": 51.188364538556, 
-      "lon": 4.384858263497, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Wittestraat"
-    }, 
-    {
-      "busnrs": [
-        "88"
-      ], 
-      "hnrlbls": [
-        "84-86"
-      ], 
-      "housenumber": "84_8", 
-      "lat": 51.188364538556, 
-      "lon": 4.384858263497, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wittestraat"
     }, 
     {
@@ -1465,8 +1402,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.187787525175, 
-      "lon": 4.385147837035, 
+      "lat": 51.187761181367, 
+      "lon": 4.385199604663, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1477,8 +1414,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.187854006209, 
-      "lon": 4.384756098283, 
+      "lat": 51.187838810685, 
+      "lon": 4.384791135536, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1513,8 +1450,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.187784444289, 
-      "lon": 4.384691709343, 
+      "lat": 51.187791908527, 
+      "lon": 4.38466482213, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

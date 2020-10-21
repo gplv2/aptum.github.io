@@ -221,8 +221,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.123938800108, 
-      "lon": 4.378418918087, 
+      "lat": 51.123938890171, 
+      "lon": 4.378416918406, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -257,11 +257,11 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.124138175869, 
-      "lon": 4.377261273317, 
+      "lat": 51.124157325807, 
+      "lon": 4.377210141638, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langlaarsteenweg"
     }, 
     {
@@ -281,8 +281,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.124166056134, 
-      "lon": 4.377063593121, 
+      "lat": 51.124173156782, 
+      "lon": 4.377069307949, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -425,8 +425,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.124907583785, 
-      "lon": 4.376400821389, 
+      "lat": 51.1249070442, 
+      "lon": 4.3764045351, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -497,8 +497,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.124510035542, 
-      "lon": 4.376076080719, 
+      "lat": 51.124520196019, 
+      "lon": 4.376028374716, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -865,8 +865,8 @@
         "45_1"
       ], 
       "housenumber": "45_1", 
-      "lat": 51.124107064859, 
-      "lon": 4.385958712317, 
+      "lat": 51.12410778129, 
+      "lon": 4.385976281457, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -909,24 +909,19 @@
       "street": "Langlaarsteenweg"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2", 
+        "C"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
       "lat": 51.124239075525, 
       "lon": 4.385583388024, 
-      "municipality": "Aartselaar", 
-      "pcode": "2630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Langlaarsteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "49_2"
-      ], 
-      "housenumber": "49_2", 
-      "lat": 51.124431991894, 
-      "lon": 4.385457906391, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -942,6 +937,22 @@
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
+      "street": "Langlaarsteenweg"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.124187425962, 
+      "lon": 4.3853424034, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langlaarsteenweg"
     }, 
     {
@@ -973,8 +984,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.12472733046, 
-      "lon": 4.385663846199, 
+      "lat": 51.124783328516, 
+      "lon": 4.385674723013, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -997,11 +1008,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.124699927453, 
-      "lon": 4.38557941855, 
+      "lat": 51.124738489346, 
+      "lon": 4.385577290435, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langlaarsteenweg"
     }, 
     {

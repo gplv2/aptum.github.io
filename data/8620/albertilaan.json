@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "216"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,14 +14,30 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "104", 
-        "201", 
-        "202", 
-        "205", 
-        "402", 
-        "403"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406"
       ], 
       "hnrlbls": [
         "10"
@@ -205,31 +218,28 @@
     }, 
     {
       "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "1-103"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.146004232128, 
-      "lon": 2.726623187656, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "103", 
-        "104", 
-        "2", 
-        "201", 
-        "203", 
-        "302", 
-        "303", 
-        "304", 
-        "305", 
-        "401"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "103A"
@@ -239,25 +249,32 @@
       "lon": 2.726517183311, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "2", 
-        "201", 
-        "203", 
-        "205", 
-        "206", 
-        "3", 
-        "304", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
       ], 
       "hnrlbls": [
         "103B"
@@ -267,19 +284,7 @@
       "lon": 2.726154288353, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-103D"
-      ], 
-      "housenumber": "103D", 
-      "lat": 51.146779547344, 
-      "lon": 2.725843637727, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -472,7 +477,10 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "-0101", 
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "113"
@@ -482,7 +490,7 @@
       "lon": 2.724308937593, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -564,13 +572,30 @@
     }, 
     {
       "busnrs": [
-        "104", 
-        "202", 
-        "204", 
-        "301", 
-        "304", 
-        "405", 
-        "406"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406"
       ], 
       "hnrlbls": [
         "12"
@@ -616,18 +641,6 @@
     }, 
     {
       "hnrlbls": [
-        "123-133"
-      ], 
-      "housenumber": "123", 
-      "lat": 51.149059226751, 
-      "lon": 2.722387323295, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
         "124-126A"
       ], 
       "housenumber": "124", 
@@ -664,18 +677,6 @@
     }, 
     {
       "hnrlbls": [
-        "123-133"
-      ], 
-      "housenumber": "127", 
-      "lat": 51.149059226751, 
-      "lon": 2.722387323295, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
@@ -684,6 +685,18 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I laan"
+    }, 
+    {
+      "hnrlbls": [
+        "129"
+      ], 
+      "housenumber": "129", 
+      "lat": 51.14930196519, 
+      "lon": 2.722044554584, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -718,14 +731,14 @@
     }, 
     {
       "hnrlbls": [
-        "123-133"
+        "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.149059226751, 
-      "lon": 2.722387323295, 
+      "lat": 51.149364459926, 
+      "lon": 2.721942001558, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -763,14 +776,14 @@
     }, 
     {
       "hnrlbls": [
-        "123-133"
+        "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.149059226751, 
-      "lon": 2.722387323295, 
+      "lat": 51.149425011628, 
+      "lon": 2.72183551419, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -839,22 +852,20 @@
       "street": "Albert I laan"
     }, 
     {
-      "hnrlbls": [
-        "137B"
-      ], 
-      "housenumber": "137B", 
-      "lat": 51.149782679387, 
-      "lon": 2.72168166952, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Albert I laan"
-    }, 
-    {
       "busnrs": [
-        "303", 
-        "401", 
-        "501"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "138"
@@ -877,18 +888,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "10-139A"
-      ], 
-      "housenumber": "139A", 
-      "lat": 51.149587287456, 
-      "lon": 2.721441685346, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Albert I laan"
     }, 
     {
@@ -1047,6 +1046,7 @@
     }, 
     {
       "busnrs": [
+        "0302", 
         "101", 
         "202", 
         "205", 
@@ -1068,7 +1068,7 @@
       "lon": 2.720686262593, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1133,39 +1133,40 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "156-160"
+        "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.148726173001, 
-      "lon": 2.716340830711, 
+      "lat": 51.148753578014, 
+      "lon": 2.716493815294, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "13", 
-        "2", 
-        "201", 
-        "9"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0601"
       ], 
       "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.150020972154, 
-      "lon": 2.720550103348, 
+      "lat": 51.150012111374, 
+      "lon": 2.72055942189, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Albert I laan"
     }, 
     {
@@ -1187,18 +1188,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "156-160"
-      ], 
-      "housenumber": "158", 
-      "lat": 51.148726173001, 
-      "lon": 2.716340830711, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Albert I laan"
     }, 
     {
@@ -1237,17 +1226,28 @@
     }, 
     {
       "busnrs": [
-        "401"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "156-160"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.148726173001, 
-      "lon": 2.716340830711, 
+      "lat": 51.148699477785, 
+      "lon": 2.716367076611, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1268,22 +1268,28 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "103", 
-        "202", 
-        "303", 
-        "401", 
-        "403"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
-        "162-174"
+        "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.148712309163, 
-      "lon": 2.715966943059, 
+      "lat": 51.148608413907, 
+      "lon": 2.716162453387, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1300,34 +1306,37 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "202", 
-        "204", 
-        "205", 
-        "305", 
-        "403"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "162-174"
+        "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.148712309163, 
-      "lon": 2.715966943059, 
+      "lat": 51.148544511638, 
+      "lon": 2.716009903064, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "162-174"
-      ], 
-      "housenumber": "164A", 
-      "lat": 51.148712309163, 
-      "lon": 2.715966943059, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1344,14 +1353,14 @@
     }, 
     {
       "hnrlbls": [
-        "31-168"
+        "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.148546205654, 
-      "lon": 2.715745535137, 
+      "lat": 51.148503588778, 
+      "lon": 2.715873979511, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1371,14 +1380,14 @@
     }, 
     {
       "hnrlbls": [
-        "31-168"
+        "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.148546205654, 
-      "lon": 2.715745535137, 
+      "lat": 51.148407816709, 
+      "lon": 2.715834055574, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1407,14 +1416,14 @@
     }, 
     {
       "hnrlbls": [
-        "170-172"
+        "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.148616017558, 
-      "lon": 2.715909168803, 
+      "lat": 51.148262706266, 
+      "lon": 2.715403920793, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1425,7 +1434,7 @@
         "501"
       ], 
       "hnrlbls": [
-        "171"
+        "171-171A"
       ], 
       "housenumber": "171", 
       "lat": 51.149584433681, 
@@ -1437,31 +1446,32 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0301", 
         "101", 
-        "201", 
-        "301"
+        "201"
       ], 
       "hnrlbls": [
-        "171A"
+        "171-171A"
       ], 
       "housenumber": "171A", 
-      "lat": 51.149463545885, 
-      "lon": 2.719545970088, 
+      "lat": 51.149584433681, 
+      "lon": 2.71949166979, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "170-172"
+        "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.148616017558, 
-      "lon": 2.715909168803, 
+      "lat": 51.14822788877, 
+      "lon": 2.715318814006, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1574,10 +1584,13 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "401"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "173G"
@@ -1587,7 +1600,19 @@
       "lon": 2.718932790547, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I laan"
+    }, 
+    {
+      "hnrlbls": [
+        "173H"
+      ], 
+      "housenumber": "173H", 
+      "lat": 51.149427397949, 
+      "lon": 2.718831214712, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1599,11 +1624,11 @@
         "173I"
       ], 
       "housenumber": "173I", 
-      "lat": 51.149227182572, 
-      "lon": 2.718844862017, 
+      "lat": 51.149552221098, 
+      "lon": 2.719419045222, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1620,19 +1645,19 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "302", 
-        "502"
+        "0102", 
+        "0302", 
+        "0502"
       ], 
       "hnrlbls": [
-        "162-174"
+        "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.148712309163, 
-      "lon": 2.715966943059, 
+      "lat": 51.148185314556, 
+      "lon": 2.715219115586, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1659,22 +1684,30 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "401", 
-        "403", 
-        "501"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
-        "36-176"
+        "176"
       ], 
       "housenumber": "176", 
       "lat": 51.148099854093, 
       "lon": 2.714939681059, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1685,8 +1718,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.149055020009, 
-      "lon": 2.718138061614, 
+      "lat": 51.149052703513, 
+      "lon": 2.718139572947, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -1726,8 +1759,8 @@
         "177B"
       ], 
       "housenumber": "177B", 
-      "lat": 51.148927682156, 
-      "lon": 2.717968879848, 
+      "lat": 51.148920273366, 
+      "lon": 2.717972715352, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -1735,22 +1768,31 @@
     }, 
     {
       "busnrs": [
-        "103", 
-        "201", 
-        "203", 
-        "402", 
-        "403", 
-        "502"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "38-178"
+        "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.148144478103, 
-      "lon": 2.714717107854, 
+      "lat": 51.148053388819, 
+      "lon": 2.714818965151, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1793,42 +1835,30 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "303", 
-        "401", 
-        "403", 
-        "W1"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
-        "40-180"
+        "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.148074520425, 
-      "lon": 2.71454319068, 
+      "lat": 51.147974864378, 
+      "lon": 2.714649639852, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "39-180W"
-      ], 
-      "housenumber": "180W", 
-      "lat": 51.148165132337, 
-      "lon": 2.714445781002, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1861,33 +1891,50 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.148008904842, 
-      "lon": 2.714396851547, 
+      "lat": 51.147903434192, 
+      "lon": 2.714518230082, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302", 
-        "303", 
-        "403", 
-        "502", 
-        "601", 
-        "603", 
-        "604"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604"
       ], 
       "hnrlbls": [
         "183-185B"
@@ -1897,7 +1944,7 @@
       "lon": 2.717631974877, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1925,15 +1972,23 @@
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
       "hnrlbls": [
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.147899088717, 
-      "lon": 2.714394165163, 
+      "lat": 51.14784306947, 
+      "lon": 2.714457901013, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -1947,39 +2002,41 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.148722046441, 
-      "lon": 2.717453389832, 
+      "lat": 51.148742523703, 
+      "lon": 2.717483971361, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "301", 
-        "303"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503"
       ], 
       "hnrlbls": [
-        "188-188A"
+        "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.147858377711, 
-      "lon": 2.714318416934, 
+      "lat": 51.147830814322, 
+      "lon": 2.714346838429, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "188-188A"
-      ], 
-      "housenumber": "188A", 
-      "lat": 51.147858377711, 
-      "lon": 2.714318416934, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2008,14 +2065,14 @@
     }, 
     {
       "hnrlbls": [
-        "44-190"
+        "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.147901068955, 
-      "lon": 2.714137652515, 
+      "lat": 51.147795929997, 
+      "lon": 2.714257018397, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2032,14 +2089,14 @@
     }, 
     {
       "hnrlbls": [
-        "46-194"
+        "192"
       ], 
       "housenumber": "192", 
-      "lat": 51.147880140272, 
-      "lon": 2.714017176877, 
+      "lat": 51.147766277965, 
+      "lon": 2.714174875102, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2059,22 +2116,30 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "201", 
-        "202", 
-        "501", 
-        "601", 
-        "602"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "46-194"
+        "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.147880140272, 
-      "lon": 2.714017176877, 
+      "lat": 51.147746590144, 
+      "lon": 2.714130116207, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2090,6 +2155,12 @@
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -2098,67 +2169,41 @@
       "lon": 2.714052254617, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "197-201"
-      ], 
-      "housenumber": "197", 
-      "lat": 51.148558657104, 
-      "lon": 2.716982296235, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "302", 
-        "401"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
-        "48-198"
+        "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.147778616687, 
-      "lon": 2.713881259557, 
+      "lat": 51.147675480084, 
+      "lon": 2.713976683157, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "198A"
-      ], 
-      "housenumber": "198A", 
-      "lat": 51.147676872093, 
-      "lon": 2.713979778613, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "2-198B"
+        "198B"
       ], 
       "housenumber": "198B", 
-      "lat": 51.147730297961, 
-      "lon": 2.713782338652, 
+      "lat": 51.147629033044, 
+      "lon": 2.713889417457, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2187,10 +2232,18 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "302"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "2"
@@ -2224,44 +2277,44 @@
     }, 
     {
       "hnrlbls": [
-        "5-200"
+        "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.14752301355, 
-      "lon": 2.713586702509, 
+      "lat": 51.147497818076, 
+      "lon": 2.713598030083, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "197-201"
-      ], 
-      "housenumber": "201", 
-      "lat": 51.148558657104, 
-      "lon": 2.716982296235, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "203", 
-        "401", 
-        "501"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "54-202"
+        "202"
       ], 
       "housenumber": "202", 
       "lat": 51.147474329108, 
       "lon": 2.713487366571, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2273,30 +2326,37 @@
       "lon": 2.716772640139, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "103", 
-        "201", 
-        "3", 
-        "301", 
-        "303", 
-        "401", 
-        "403", 
-        "501", 
-        "6"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "55-204"
+        "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.147467252236, 
-      "lon": 2.713258336342, 
+      "lat": 51.147429901975, 
+      "lon": 2.713383877568, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2304,23 +2364,23 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.148390859641, 
-      "lon": 2.716729640241, 
+      "lat": 51.148423392024, 
+      "lon": 2.716696469828, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "207-209"
+        "207"
       ], 
       "housenumber": "207", 
       "lat": 51.148387738607, 
       "lon": 2.716602957572, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2328,23 +2388,23 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.147338870883, 
-      "lon": 2.713226864354, 
+      "lat": 51.14736813362, 
+      "lon": 2.713249127015, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "207-209"
+        "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.148387738607, 
-      "lon": 2.716602957572, 
+      "lat": 51.148469106296, 
+      "lon": 2.716513025571, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2352,73 +2412,64 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.138593237733, 
-      "lon": 2.737940576822, 
+      "lat": 51.139067195036, 
+      "lon": 2.737430114688, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "0101"
       ], 
       "busnrs": [
-        "301", 
-        "401"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
-        "210-212"
+        "210"
       ], 
       "housenumber": "210", 
       "lat": 51.147307501482, 
       "lon": 2.713208249949, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.148340259802, 
-      "lon": 2.716563897223, 
+      "lat": 51.14835796846, 
+      "lon": 2.716525104357, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "210-212"
-      ], 
-      "housenumber": "212", 
-      "lat": 51.147307501482, 
-      "lon": 2.713208249949, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.148291872345, 
-      "lon": 2.716524154363, 
+      "lat": 51.148323449254, 
+      "lon": 2.71643555472, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2435,26 +2486,25 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
-        "57-216"
+        "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.147427192502, 
-      "lon": 2.712979015653, 
+      "lat": 51.147295505862, 
+      "lon": 2.713122194707, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "217"
       ], 
@@ -2463,12 +2513,12 @@
       "lon": 2.716239094904, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "218-220"
+        "218"
       ], 
       "housenumber": "218", 
       "lat": 51.147273014113, 
@@ -2480,59 +2530,75 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "203"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "219-221"
+        "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.148193988584, 
-      "lon": 2.716069905378, 
+      "lat": 51.148208177838, 
+      "lon": 2.716107283913, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "203", 
-        "401", 
-        "403"
+        "0001", 
+        "0101", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "218-220"
+        "220"
       ], 
       "housenumber": "220", 
-      "lat": 51.147273014113, 
-      "lon": 2.713037798005, 
+      "lat": 51.147239390049, 
+      "lon": 2.712973807925, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "102"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
-        "219-221"
+        "221"
       ], 
       "housenumber": "221", 
-      "lat": 51.148193988584, 
-      "lon": 2.716069905378, 
+      "lat": 51.14818586433, 
+      "lon": 2.716041889625, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "401", 
-        "501", 
-        "601"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "222"
@@ -2542,7 +2608,7 @@
       "lon": 2.712903810966, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2550,131 +2616,141 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 51.147933879327, 
-      "lon": 2.715754909355, 
+      "lat": 51.148024190504, 
+      "lon": 2.715648793362, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "302", 
-        "402", 
-        "502"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "60-226"
+        "224"
       ], 
       "housenumber": "224", 
-      "lat": 51.147296916302, 
-      "lon": 2.712697032959, 
+      "lat": 51.147176197035, 
+      "lon": 2.712788793225, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "102", 
-        "104", 
-        "202", 
-        "203", 
-        "204", 
-        "401", 
-        "404", 
-        "501"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "55-225"
+        "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.147753062166, 
-      "lon": 2.715644951149, 
+      "lat": 51.147911421024, 
+      "lon": 2.715480107009, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "225C"
-      ], 
-      "housenumber": "225C", 
-      "lat": 51.147842195543, 
-      "lon": 2.715313453844, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "60-226"
-      ], 
-      "housenumber": "226", 
-      "lat": 51.147296916302, 
-      "lon": 2.712697032959, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "102", 
-        "103", 
-        "106", 
-        "203", 
-        "206", 
-        "301", 
-        "303", 
-        "401", 
-        "402", 
-        "403"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503"
       ], 
       "hnrlbls": [
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.147785391779, 
-      "lon": 2.715250567746, 
+      "lat": 51.147830547218, 
+      "lon": 2.715316296185, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "202", 
-        "302", 
-        "401", 
-        "402", 
-        "501"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
-        "63-228"
+        "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.147249267215, 
-      "lon": 2.712549775917, 
+      "lat": 51.147130275354, 
+      "lon": 2.712681356125, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "2-229"
+        "229"
       ], 
       "housenumber": "229", 
       "lat": 51.14772858598, 
@@ -2689,52 +2765,16 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.138526993878, 
-      "lon": 2.738378064622, 
+      "lat": 51.138691587048, 
+      "lon": 2.737978875423, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "230"
-      ], 
-      "housenumber": "230", 
-      "lat": 51.147161169312, 
-      "lon": 2.712569909421, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "64-232"
-      ], 
-      "housenumber": "230A", 
-      "lat": 51.147153582467, 
-      "lon": 2.7125225786, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "64-232"
-      ], 
-      "housenumber": "230B", 
-      "lat": 51.147153582467, 
-      "lon": 2.7125225786, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-231"
+        "231"
       ], 
       "housenumber": "231", 
       "lat": 51.147588213342, 
@@ -2746,105 +2786,141 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "3", 
-        "303", 
-        "501"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "64-232"
+        "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.147153582467, 
-      "lon": 2.7125225786, 
+      "lat": 51.147085757956, 
+      "lon": 2.712584304222, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "301", 
-        "303", 
-        "402"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0301", 
+        "0303", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
-        "3-233"
+        "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.147384877937, 
-      "lon": 2.714848208482, 
+      "lat": 51.147560096277, 
+      "lon": 2.714750949984, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "103", 
-        "203", 
-        "302", 
-        "401", 
-        "402", 
-        "501", 
-        "D"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
-        "66-234"
+        "234"
       ], 
       "housenumber": "234", 
-      "lat": 51.147132767202, 
-      "lon": 2.71230775963, 
+      "lat": 51.147005454001, 
+      "lon": 2.712435775743, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "402", 
-        "501", 
-        "502"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
-        "235-237"
+        "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.147499398227, 
-      "lon": 2.714692491127, 
+      "lat": 51.147518280513, 
+      "lon": 2.714654085502, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "67-236"
+        "236"
       ], 
       "housenumber": "236", 
-      "lat": 51.147094743429, 
-      "lon": 2.712205760708, 
+      "lat": 51.146985520422, 
+      "lon": 2.712322271981, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "103", 
-        "201", 
-        "302", 
-        "401", 
-        "601"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "236A"
@@ -2854,94 +2930,104 @@
       "lon": 2.712214121977, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "235-237"
+        "237"
       ], 
       "housenumber": "237", 
-      "lat": 51.147499398227, 
-      "lon": 2.714692491127, 
+      "lat": 51.147477802828, 
+      "lon": 2.714562891538, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "238"
-      ], 
-      "housenumber": "238", 
-      "lat": 51.146944366406, 
-      "lon": 2.712048425489, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "301"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
       "hnrlbls": [
-        "61-239"
+        "239"
       ], 
       "housenumber": "239", 
-      "lat": 51.147303094206, 
-      "lon": 2.714606671956, 
+      "lat": 51.147463981215, 
+      "lon": 2.714423439574, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "5-240A"
+        "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.146810732375, 
-      "lon": 2.7119373822, 
+      "lat": 51.146789695948, 
+      "lon": 2.71200802655, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "5-240A"
+        "240A"
       ], 
       "housenumber": "240A", 
-      "lat": 51.146810732375, 
-      "lon": 2.7119373822, 
+      "lat": 51.146760068401, 
+      "lon": 2.711927743763, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.147425050345, 
-      "lon": 2.714372072249, 
+      "lat": 51.147443541689, 
+      "lon": 2.714350690632, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
+      ], 
       "hnrlbls": [
         "242"
       ], 
@@ -2950,7 +3036,7 @@
       "lon": 2.711845976517, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -2963,19 +3049,19 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.147359031443, 
-      "lon": 2.714119971928, 
+      "lat": 51.147406525544, 
+      "lon": 2.714230642921, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "243A"
@@ -2985,29 +3071,19 @@
       "lon": 2.713884346889, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "243B"
-      ], 
-      "housenumber": "243B", 
-      "lat": 51.147376062258, 
-      "lon": 2.714135521252, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "302", 
-        "401"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "245"
@@ -3017,72 +3093,82 @@
       "lon": 2.713777058224, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "246"
-      ], 
-      "housenumber": "246", 
-      "lat": 51.146706088801, 
-      "lon": 2.711617760963, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "202", 
-        "297"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 51.147112420835, 
-      "lon": 2.713658713001, 
+      "lat": 51.147131602928, 
+      "lon": 2.713635305575, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "301", 
-        "403", 
-        "501", 
-        "504", 
-        "601"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "248-252"
+        "248"
       ], 
       "housenumber": "248", 
-      "lat": 51.146605377719, 
-      "lon": 2.711456665788, 
+      "lat": 51.146630911945, 
+      "lon": 2.711539952046, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "-0101", 
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.14704786429, 
-      "lon": 2.713555937862, 
+      "lat": 51.147066141262, 
+      "lon": 2.713570585074, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3090,23 +3176,23 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.138689747749, 
-      "lon": 2.738926468259, 
+      "lat": 51.138587489923, 
+      "lon": 2.738370665847, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "248-252"
+        "250"
       ], 
       "housenumber": "250", 
-      "lat": 51.146605377719, 
-      "lon": 2.711456665788, 
+      "lat": 51.146612216524, 
+      "lon": 2.711476291933, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3128,44 +3214,57 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "302", 
-        "303"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601"
       ], 
       "hnrlbls": [
-        "248-252"
+        "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.146605377719, 
-      "lon": 2.711456665788, 
+      "lat": 51.146584877326, 
+      "lon": 2.711398930343, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
-      "apptnrs": [
-        "A4"
-      ], 
       "busnrs": [
+        "0001", 
         "0002", 
         "0003", 
-        "1001", 
-        "102", 
-        "103", 
-        "201", 
-        "203", 
-        "204", 
-        "301", 
-        "302", 
-        "303", 
-        "4", 
-        "401", 
-        "402", 
-        "403", 
-        "5", 
-        "501", 
-        "51"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "253"
@@ -3175,32 +3274,29 @@
       "lon": 2.713252751057, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "254-260"
-      ], 
-      "housenumber": "254", 
-      "lat": 51.146546536279, 
-      "lon": 2.711280792307, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "103", 
-        "301", 
-        "302", 
-        "402", 
-        "403", 
-        "404", 
-        "406", 
-        "501"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
         "255"
@@ -3246,70 +3342,54 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "301", 
-        "302", 
-        "601", 
-        "602"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "254-260"
+        "256"
       ], 
       "housenumber": "256", 
-      "lat": 51.146546536279, 
-      "lon": 2.711280792307, 
+      "lat": 51.146548162136, 
+      "lon": 2.711319757387, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "257-259"
-      ], 
-      "housenumber": "257", 
-      "lat": 51.146512235307, 
-      "lon": 2.711790019539, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "254-260"
+        "258"
       ], 
       "housenumber": "258", 
-      "lat": 51.146546536279, 
-      "lon": 2.711280792307, 
+      "lat": 51.146520073369, 
+      "lon": 2.711265864821, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "257-259"
-      ], 
-      "housenumber": "259", 
-      "lat": 51.146512235307, 
-      "lon": 2.711790019539, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "201", 
-        "202", 
-        "302", 
-        "401", 
-        "402"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "259A"
@@ -3319,7 +3399,7 @@
       "lon": 2.712123521203, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3329,21 +3409,28 @@
         "502"
       ], 
       "hnrlbls": [
-        "254-260"
+        "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.146546536279, 
-      "lon": 2.711280792307, 
+      "lat": 51.146460482868, 
+      "lon": 2.711190362543, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "302", 
-        "501", 
-        "9"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "261"
@@ -3353,7 +3440,7 @@
       "lon": 2.71197872014, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3362,20 +3449,24 @@
         "301"
       ], 
       "hnrlbls": [
-        "77-262"
+        "262"
       ], 
       "housenumber": "262", 
-      "lat": 51.146565620024, 
-      "lon": 2.711026252719, 
+      "lat": 51.14643106741, 
+      "lon": 2.711093206354, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "201", 
-        "601"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "263"
@@ -3385,70 +3476,54 @@
       "lon": 2.711904021312, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "264-266"
-      ], 
-      "housenumber": "264", 
-      "lat": 51.146471435319, 
-      "lon": 2.710977850511, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "102", 
-        "201"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0503", 
+        "0601"
       ], 
       "hnrlbls": [
-        "265-267"
+        "265"
       ], 
       "housenumber": "265", 
-      "lat": 51.146260852019, 
-      "lon": 2.711770919662, 
+      "lat": 51.146281313314, 
+      "lon": 2.711774625044, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "264-266"
-      ], 
-      "housenumber": "266", 
-      "lat": 51.146471435319, 
-      "lon": 2.710977850511, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "265-267"
-      ], 
-      "housenumber": "267", 
-      "lat": 51.146260852019, 
-      "lon": 2.711770919662, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "103", 
-        "202", 
-        "203", 
-        "402", 
-        "403", 
-        "501"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "268"
@@ -3458,146 +3533,174 @@
       "lon": 2.710939832, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "201", 
-        "203", 
-        "303", 
-        "501"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0203", 
+        "0303", 
+        "0501"
       ], 
       "hnrlbls": [
-        "269-271"
+        "269"
       ], 
       "housenumber": "269", 
-      "lat": 51.146058468955, 
-      "lon": 2.711578841026, 
+      "lat": 51.146265654514, 
+      "lon": 2.711414829574, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.138621578336, 
-      "lon": 2.738651590822, 
+      "lat": 51.138818445174, 
+      "lon": 2.738883677634, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201"
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
-        "269-271"
+        "271"
       ], 
       "housenumber": "271", 
-      "lat": 51.146058468955, 
-      "lon": 2.711578841026, 
+      "lat": 51.146211496641, 
+      "lon": 2.711284388948, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "202", 
-        "302", 
-        "401", 
-        "601"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
-        "1B-274"
+        "272"
       ], 
       "housenumber": "272", 
-      "lat": 51.145945245563, 
-      "lon": 2.709860874731, 
+      "lat": 51.14595513144, 
+      "lon": 2.709956578543, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "273-275"
+        "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.145950898723, 
-      "lon": 2.711531198955, 
+      "lat": 51.14615218096, 
+      "lon": 2.711606391639, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "301", 
-        "302", 
-        "401", 
-        "402", 
-        "501"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
-        "1B-274"
+        "274"
       ], 
       "housenumber": "274", 
-      "lat": 51.145945245563, 
-      "lon": 2.709860874731, 
+      "lat": 51.145908876128, 
+      "lon": 2.709799987899, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
-        "273-275"
+        "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.145950898723, 
-      "lon": 2.711531198955, 
+      "lat": 51.146103928256, 
+      "lon": 2.711473883418, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "2A", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.145905283322, 
-      "lon": 2.709550687563, 
+      "lat": 51.145842829503, 
+      "lon": 2.709629806593, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0402"
+      ], 
       "hnrlbls": [
         "277"
       ], 
@@ -3606,19 +3709,7 @@
       "lon": 2.71131777693, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "92-278"
-      ], 
-      "housenumber": "278", 
-      "lat": 51.145857552952, 
-      "lon": 2.709410730729, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3641,10 +3732,16 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "301", 
-        "401", 
-        "61"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "282"
@@ -3683,7 +3780,16 @@
     }, 
     {
       "busnrs": [
-        "501"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "286"
@@ -3716,11 +3822,16 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "202", 
-        "301", 
-        "402"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "288"
@@ -3752,31 +3863,19 @@
       "street": "Albert I laan"
     }, 
     {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.138892456497, 
-      "lon": 2.7388783805, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
       "busnrs": [
-        "201", 
-        "501"
+        "0201", 
+        "0501"
       ], 
       "hnrlbls": [
-        "290-294"
+        "290"
       ], 
       "housenumber": "290", 
       "lat": 51.145627920208, 
       "lon": 2.709154452205, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3833,18 +3932,6 @@
       "street": "Albert I laan"
     }, 
     {
-      "hnrlbls": [
-        "290-294"
-      ], 
-      "housenumber": "294", 
-      "lat": 51.145627920208, 
-      "lon": 2.709154452205, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
       "busnrs": [
         "101", 
         "102", 
@@ -3884,13 +3971,22 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "2", 
-        "203", 
-        "402"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
       ], 
       "hnrlbls": [
-        "297-297A"
+        "297"
       ], 
       "housenumber": "297", 
       "lat": 51.145236536645, 
@@ -3898,21 +3994,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "297-297A"
-      ], 
-      "housenumber": "297A", 
-      "lat": 51.145236536645, 
-      "lon": 2.709275272525, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -3944,35 +4025,23 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.137857444533, 
-      "lon": 2.740136673786, 
+      "lat": 51.137894308, 
+      "lon": 2.740227996408, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "302-304"
+        "31"
       ], 
-      "housenumber": "302", 
-      "lat": 51.145388902515, 
-      "lon": 2.708595197111, 
+      "housenumber": "31", 
+      "lat": 51.13877912395, 
+      "lon": 2.738829312191, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "302-304"
-      ], 
-      "housenumber": "304", 
-      "lat": 51.145388902515, 
-      "lon": 2.708595197111, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -3995,23 +4064,46 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "1001", 
-        "201", 
-        "203", 
-        "301", 
-        "302", 
-        "404", 
-        "43", 
-        "501", 
-        "502", 
-        "503", 
-        "601", 
-        "603", 
-        "703", 
-        "704", 
-        "804", 
-        "902"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "1001"
       ], 
       "hnrlbls": [
         "315"
@@ -4029,32 +4121,56 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 51.145288909236, 
-      "lon": 2.707686384832, 
+      "lat": 51.145088307881, 
+      "lon": 2.707998543279, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "103", 
-        "104", 
-        "2", 
-        "202", 
-        "203", 
-        "3", 
-        "4", 
-        "403", 
-        "501", 
-        "504", 
-        "603", 
-        "701", 
-        "901", 
-        "903", 
-        "904", 
-        "93"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "1001"
       ], 
       "hnrlbls": [
         "317"
@@ -4069,21 +4185,50 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "104", 
-        "105", 
-        "127", 
-        "2", 
-        "203", 
-        "302", 
-        "304", 
-        "305", 
-        "404", 
-        "503", 
-        "505", 
-        "705", 
-        "804", 
-        "805"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0605", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0901"
       ], 
       "hnrlbls": [
         "319"
@@ -4098,12 +4243,22 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "203", 
-        "302", 
-        "402", 
-        "403", 
-        "601"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "326"
@@ -4113,21 +4268,28 @@
       "lon": 2.707471506103, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "apptnrs": [
-        "3.00"
+        "0301"
       ], 
       "busnrs": [
-        "101", 
-        "103", 
-        "201", 
-        "302", 
-        "303", 
-        "402", 
-        "501"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "326A"
@@ -4142,13 +4304,21 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "103", 
-        "203", 
-        "301", 
-        "502", 
-        "6", 
-        "601"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "328"
@@ -4162,17 +4332,81 @@
       "street": "Albert I laan"
     }, 
     {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.139070960916, 
+      "lon": 2.738464270046, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Albert I laan"
+    }, 
+    {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604", 
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "1001", 
+        "1002", 
+        "1003", 
         "1004", 
+        "1101", 
+        "1102", 
+        "1103", 
+        "1104", 
+        "1201", 
+        "1202", 
+        "1203", 
+        "1204", 
+        "1301", 
+        "1302", 
+        "1303", 
+        "1304", 
         "1401", 
+        "1402", 
+        "1403", 
+        "1404", 
+        "1501", 
         "1502", 
-        "2", 
-        "201", 
-        "502", 
-        "602", 
-        "8", 
-        "803", 
-        "904"
+        "1503", 
+        "1504"
       ], 
       "hnrlbls": [
         "342"
@@ -4182,19 +4416,7 @@
       "lon": 2.706199811321, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "342A"
-      ], 
-      "housenumber": "342A", 
-      "lat": 51.144529529068, 
-      "lon": 2.706280323242, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -4202,23 +4424,23 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.138988109473, 
-      "lon": 2.738278654367, 
+      "lat": 51.139021276966, 
+      "lon": 2.738375680488, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "39"
+        "37"
       ], 
-      "housenumber": "39", 
-      "lat": 51.138810060555, 
-      "lon": 2.738061633189, 
+      "housenumber": "37", 
+      "lat": 51.13933800087, 
+      "lon": 2.737879281437, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -4240,75 +4462,6 @@
     }, 
     {
       "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.139247350108, 
-      "lon": 2.73828118415, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 51.139217689496, 
-      "lon": 2.738099571318, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.139210987174, 
-      "lon": 2.737874711041, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.139477709681, 
-      "lon": 2.737846107202, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.139508208046, 
-      "lon": 2.737710842764, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -4324,11 +4477,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.139388258448, 
-      "lon": 2.737358593754, 
+      "lat": 51.139549540919, 
+      "lon": 2.737286076775, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -4341,23 +4494,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.13959633826, 
-      "lon": 2.737360903932, 
+      "lat": 51.139752685945, 
+      "lon": 2.737425760832, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "54"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.141001904923, 
-      "lon": 2.736790587359, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Albert I laan"
     }, 
     {
@@ -4374,18 +4515,6 @@
     }, 
     {
       "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.141068824911, 
-      "lon": 2.736695064295, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
         "57-59"
       ], 
       "housenumber": "57", 
@@ -4398,18 +4527,6 @@
     }, 
     {
       "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.141114310533, 
-      "lon": 2.736616440012, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
         "57-59"
       ], 
       "housenumber": "59", 
@@ -4418,18 +4535,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.14115467379, 
-      "lon": 2.736551000513, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Albert I laan"
     }, 
     {
@@ -4525,60 +4630,45 @@
       "street": "Albert I laan"
     }, 
     {
-      "apptnrs": [
-        "E102", 
-        "E104", 
-        "E105", 
-        "E2", 
-        "E201", 
-        "E203", 
-        "E205", 
-        "E3", 
-        "E301", 
-        "E302", 
-        "E304", 
-        "E305", 
-        "E401", 
-        "E402", 
-        "E403", 
-        "E405", 
-        "E501", 
-        "V1", 
-        "V101", 
-        "V102", 
-        "V2", 
-        "V201", 
-        "V301", 
-        "V401", 
-        "V403"
-      ], 
       "busnrs": [
-        "1", 
-        "101", 
-        "103", 
-        "104", 
-        "2", 
-        "201", 
-        "206", 
-        "3", 
-        "303", 
-        "304", 
-        "306", 
-        "402", 
-        "403", 
-        "404", 
-        "406", 
-        "5.1", 
-        "503", 
-        "506", 
-        "601"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.141878595685, 
-      "lon": 2.735444338197, 
+      "lat": 51.141918154523, 
+      "lon": 2.735509272619, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4586,44 +4676,71 @@
     }, 
     {
       "apptnrs": [
-        "F5"
+        "0004"
       ], 
       "busnrs": [
-        "1", 
-        "101", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "107", 
-        "108", 
-        "11", 
-        "111", 
-        "203", 
-        "205", 
-        "206", 
-        "208", 
-        "210", 
-        "3", 
-        "302", 
-        "306", 
-        "309", 
-        "402", 
-        "403", 
-        "404", 
-        "405", 
-        "406", 
-        "407", 
-        "410", 
-        "5", 
-        "502", 
-        "503", 
-        "505", 
-        "506", 
-        "6", 
-        "604", 
-        "7", 
-        "8"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0111", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0210", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0309", 
+        "0310", 
+        "0311", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0410", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604"
       ], 
       "hnrlbls": [
         "64A"
@@ -4633,7 +4750,7 @@
       "lon": 2.735046979027, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -4670,11 +4787,23 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "103", 
-        "2", 
-        "302", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401"
       ], 
       "hnrlbls": [
         "64C"
@@ -4721,13 +4850,34 @@
       "street": "Albert I laan"
     }, 
     {
-      "apptnrs": [
-        "5.0", 
-        "5.1"
-      ], 
       "busnrs": [
-        "3", 
-        "501"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "64E"
@@ -4963,6 +5113,79 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 51.144742801656, 
+      "lon": 2.730596218239, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0403"
+      ], 
+      "hnrlbls": [
+        "68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.144677759931, 
+      "lon": 2.730710130358, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
+      ], 
+      "hnrlbls": [
+        "68B"
+      ], 
+      "housenumber": "68B", 
+      "lat": 51.144594924898, 
+      "lon": 2.730824665986, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I laan"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "302"
       ], 
@@ -5127,12 +5350,17 @@
     }, 
     {
       "apptnrs": [
-        "202"
+        "0202"
       ], 
       "busnrs": [
-        "101", 
-        "102", 
-        "201"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0203"
       ], 
       "hnrlbls": [
         "70A"
@@ -5147,16 +5375,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "70B"
       ], 
       "housenumber": "70B", 
-      "lat": 51.146025910353, 
-      "lon": 2.729056520747, 
+      "lat": 51.146047985178, 
+      "lon": 2.728988707908, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -5176,9 +5405,12 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "70C-70E"
@@ -5192,6 +5424,10 @@
       "street": "Albert I laan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "70C-70E"
       ], 
@@ -5330,12 +5566,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "2", 
-        "203", 
-        "3", 
-        "301"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "75A"
@@ -5350,22 +5594,40 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "106", 
-        "108", 
-        "2", 
-        "203", 
-        "204", 
-        "205", 
-        "3", 
-        "304", 
-        "305", 
-        "306", 
-        "307", 
-        "4", 
-        "401", 
-        "402", 
-        "404"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406"
       ], 
       "hnrlbls": [
         "75B"
@@ -5380,10 +5642,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "303", 
-        "402"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403"
       ], 
       "hnrlbls": [
         "75C"
@@ -5398,36 +5670,57 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "2", 
-        "206", 
-        "405", 
-        "502", 
-        "6", 
-        "603", 
-        "701"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0701"
       ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.149413522226, 
-      "lon": 2.723197649762, 
+      "lat": 51.149389464995, 
+      "lon": 2.723090713887, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Albert I laan"
-    }, 
-    {
-      "hnrlbls": [
-        "76E"
-      ], 
-      "housenumber": "76E", 
-      "lat": 51.149451083165, 
-      "lon": 2.723299392767, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -5461,31 +5754,33 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.149518231192, 
-      "lon": 2.722969388108, 
+      "lat": 51.149485479347, 
+      "lon": 2.722528972449, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "4-78A"
+        "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.149585286439, 
-      "lon": 2.722639242787, 
+      "lat": 51.149536307181, 
+      "lon": 2.722453705317, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "401", 
-        "601"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "78B"
@@ -5495,7 +5790,7 @@
       "lon": 2.722524696602, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -5589,8 +5884,31 @@
     }, 
     {
       "busnrs": [
-        "301", 
-        "407"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407"
       ], 
       "hnrlbls": [
         "8"
@@ -5742,11 +6060,11 @@
         "303"
       ], 
       "hnrlbls": [
-        "89"
+        "89-89B"
       ], 
       "housenumber": "89", 
-      "lat": 51.143481015297, 
-      "lon": 2.731353683656, 
+      "lat": 51.143485263423, 
+      "lon": 2.731348818069, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -5754,26 +6072,26 @@
     }, 
     {
       "hnrlbls": [
-        "89A"
+        "89-89B"
       ], 
       "housenumber": "89A", 
-      "lat": 51.143492464221, 
-      "lon": 2.73129753957, 
+      "lat": 51.143485263423, 
+      "lon": 2.731348818069, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "hnrlbls": [
-        "89B"
+        "89-89B"
       ], 
       "housenumber": "89B", 
-      "lat": 51.143437036205, 
-      "lon": 2.731385097423, 
+      "lat": 51.143485263423, 
+      "lon": 2.731348818069, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Albert I laan"
     }, 
     {
@@ -5810,8 +6128,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.143562776189, 
-      "lon": 2.731278352335, 
+      "lat": 51.143570641804, 
+      "lon": 2.731210184629, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -5855,9 +6173,14 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205"
       ], 
       "hnrlbls": [
         "95"
@@ -5867,20 +6190,26 @@
       "lon": 2.730686128036, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I laan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "202", 
-        "203", 
-        "204", 
-        "3", 
-        "301", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "95A"
@@ -5895,14 +6224,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "103", 
-        "104", 
-        "3", 
-        "301", 
-        "302", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "95B"
@@ -5917,12 +6252,24 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "202", 
-        "203", 
-        "204", 
-        "302", 
-        "401"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "97"

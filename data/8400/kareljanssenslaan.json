@@ -235,52 +235,49 @@
     }, 
     {
       "busnrs": [
-        "0701", 
-        "1", 
-        "2", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.229125540214, 
-      "lon": 2.912701582721, 
+      "lat": 51.229061555195, 
+      "lon": 2.912762000066, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Janssenslaan"
     }, 
     {
       "busnrs": [
-        "006A", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "2", 
-        "2A", 
-        "3", 
-        "4", 
-        "5", 
-        "6A", 
-        "7", 
-        "8", 
-        "9"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.229072588134, 
-      "lon": 2.912577375985, 
+      "lat": 51.229022907759, 
+      "lon": 2.912645937918, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -300,21 +297,27 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
+        "0202", 
         "0301", 
+        "0302", 
         "0401", 
         "0402", 
         "0501", 
-        "0601"
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702", 
+        "0801"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.229049094515, 
-      "lon": 2.912341280983, 
+      "lat": 51.228968197076, 
+      "lon": 2.912510331622, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -346,15 +349,16 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.228925315102, 
-      "lon": 2.912393543034, 
+      "lat": 51.228925470154, 
+      "lon": 2.912413440904, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Janssenslaan"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -371,8 +375,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.229040303238, 
-      "lon": 2.912094560828, 
+      "lat": 51.22887097594, 
+      "lon": 2.912280835276, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -455,7 +459,6 @@
     {
       "busnrs": [
         "0101", 
-        "0102", 
         "0201", 
         "0202", 
         "0301", 
@@ -463,7 +466,8 @@
         "0401", 
         "0402", 
         "0501", 
-        "0502"
+        "0601", 
+        "0801"
       ], 
       "hnrlbls": [
         "3A"
@@ -478,15 +482,12 @@
     }, 
     {
       "busnrs": [
-        "004C", 
+        "0101", 
         "0201", 
         "0301", 
-        "0601", 
-        "2", 
-        "3", 
-        "4C", 
-        "5", 
-        "6"
+        "0401", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "4"
@@ -501,13 +502,21 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
+        "0302", 
         "0401", 
+        "0402", 
         "0501", 
+        "0502", 
         "0601", 
-        "0701"
+        "0602", 
+        "0701", 
+        "0702"
       ], 
       "hnrlbls": [
         "41"
@@ -648,31 +657,36 @@
       "street": "Karel Janssenslaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
-        "53-128"
+        "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.228410496357, 
-      "lon": 2.91095186925, 
+      "lat": 51.228363586813, 
+      "lon": 2.911011754365, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Janssenslaan"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
+        "0202", 
         "0301", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "4", 
-        "5", 
-        "7", 
-        "9"
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701"
       ], 
       "hnrlbls": [
         "55"
@@ -687,24 +701,25 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0801", 
-        "10", 
-        "2", 
-        "3", 
-        "5", 
-        "8", 
-        "9"
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.229655299224, 
-      "lon": 2.913905140591, 
+      "lat": 51.22955976473, 
+      "lon": 2.914002624219, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Janssenslaan"
     }, 
     {
@@ -721,7 +736,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -734,11 +748,11 @@
         "0801"
       ], 
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.229609946118, 
-      "lon": 2.913813913427, 
+      "lat": 51.229509092463, 
+      "lon": 2.913873618608, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -746,11 +760,11 @@
     }, 
     {
       "hnrlbls": [
-        "9-9A"
+        "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.229609946118, 
-      "lon": 2.913813913427, 
+      "lat": 51.229537408285, 
+      "lon": 2.913939173921, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

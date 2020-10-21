@@ -25,6 +25,12 @@
       "street": "Edmond Boonenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -114,14 +120,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.056715959753, 
-      "lon": 3.712909554431, 
+      "lat": 51.056848959985, 
+      "lon": 3.710723498399, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edmond Boonenstraat"
     }
   ]

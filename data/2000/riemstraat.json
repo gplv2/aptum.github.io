@@ -110,11 +110,11 @@
         "15-17"
       ], 
       "housenumber": "15", 
-      "lat": 51.213581158973, 
-      "lon": 4.393628705287, 
+      "lat": 51.213661268143, 
+      "lon": 4.393524850922, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Riemstraat"
     }, 
     {
@@ -181,11 +181,11 @@
         "15-17"
       ], 
       "housenumber": "17", 
-      "lat": 51.213581158973, 
-      "lon": 4.393628705287, 
+      "lat": 51.213661268143, 
+      "lon": 4.393524850922, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Riemstraat"
     }, 
     {
@@ -202,18 +202,14 @@
     }, 
     {
       "busnrs": [
-        "01", 
         "11", 
         "12", 
-        "2", 
         "21", 
         "22", 
         "31", 
         "32", 
         "41", 
-        "42", 
-        "51", 
-        "B"
+        "42"
       ], 
       "hnrlbls": [
         "19-21"
@@ -440,15 +436,19 @@
       "street": "Riemstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "3-7"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.213803176747, 
-      "lon": 4.393610222585, 
+      "lat": 51.213901958574, 
+      "lon": 4.393613997602, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Riemstraat"
     }, 
     {
@@ -687,21 +687,17 @@
         "4"
       ], 
       "hnrlbls": [
-        "3-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.213803176747, 
-      "lon": 4.393610222585, 
+      "lat": 51.213825214629, 
+      "lon": 4.393534815113, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Riemstraat"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "8"
-      ], 
       "hnrlbls": [
         "8"
       ], 

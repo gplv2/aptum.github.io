@@ -621,6 +621,10 @@
       "street": "Sint Huybrechtstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -766,27 +770,27 @@
     }, 
     {
       "apptnrs": [
-        "0001", 
-        "0011", 
-        "0012", 
-        "0021"
+        "B001", 
+        "B011", 
+        "B012", 
+        "B021"
       ], 
       "hnrlbls": [
         "4B"
       ], 
       "housenumber": "4B", 
-      "lat": 50.983067349043, 
-      "lon": 4.224312439822, 
+      "lat": 50.983106528596, 
+      "lon": 4.224301639144, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint Huybrechtstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "C001", 
+        "C002", 
+        "C003"
       ], 
       "hnrlbls": [
         "4C"
@@ -940,8 +944,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.982122500711, 
-      "lon": 4.218545844497, 
+      "lat": 50.982122231037, 
+      "lon": 4.218545845357, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -1127,8 +1131,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.982808450801, 
-      "lon": 4.223790034387, 
+      "lat": 50.982805951834, 
+      "lon": 4.223804709892, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 

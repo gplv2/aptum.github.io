@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.209149028921, 
-      "lon": 4.419824429424, 
+      "lat": 51.209702922678, 
+      "lon": 4.419763225655, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Brialmontlei"
     }, 
     {
@@ -311,10 +311,11 @@
       "street": "Brialmontlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "33"
@@ -332,8 +333,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.209408871317, 
-      "lon": 4.420870045556, 
+      "lat": 51.209409050765, 
+      "lon": 4.420870761247, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -492,8 +493,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.209398210837, 
-      "lon": 4.421191430551, 
+      "lat": 51.209420229067, 
+      "lon": 4.421199039807, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -516,8 +517,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.209413442741, 
-      "lon": 4.421299057286, 
+      "lat": 51.209409218697, 
+      "lon": 4.421297907683, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -905,81 +906,6 @@
       "street": "Brialmontlei"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "6L-6_3"
-      ], 
-      "housenumber": "6L", 
-      "lat": 51.209636822769, 
-      "lon": 4.4196375121, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brialmontlei"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "6L-6_3"
-      ], 
-      "housenumber": "6R", 
-      "lat": 51.209636822769, 
-      "lon": 4.4196375121, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brialmontlei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "6L-6_3"
-      ], 
-      "housenumber": "6_1", 
-      "lat": 51.209636822769, 
-      "lon": 4.4196375121, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brialmontlei"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "6L-6_3"
-      ], 
-      "housenumber": "6_2", 
-      "lat": 51.209636822769, 
-      "lon": 4.4196375121, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brialmontlei"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "6L-6_3"
-      ], 
-      "housenumber": "6_3", 
-      "lat": 51.209636822769, 
-      "lon": 4.4196375121, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brialmontlei"
-    }, 
-    {
       "hnrlbls": [
         "5-7"
       ], 
@@ -1112,6 +1038,18 @@
       "housenumber": "85", 
       "lat": 51.20964769636, 
       "lon": 4.42225464896, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brialmontlei"
+    }, 
+    {
+      "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.209645431797, 
+      "lon": 4.422292710475, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

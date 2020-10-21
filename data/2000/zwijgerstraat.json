@@ -155,7 +155,7 @@
       "lon": 4.396895743659, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zwijgerstraat"
     }, 
     {
@@ -260,7 +260,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "26-32"
+        "26"
       ], 
       "housenumber": "26", 
       "lat": 51.209498983954, 
@@ -280,20 +280,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.209460734685, 
-      "lon": 4.396566674769, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zwijgerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26-32"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.209498983954, 
-      "lon": 4.395987151979, 
+      "lat": 51.209456507882, 
+      "lon": 4.396575973536, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -325,35 +313,11 @@
     }, 
     {
       "hnrlbls": [
-        "26-32"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.209498983954, 
-      "lon": 4.395987151979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zwijgerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 51.209378064938, 
       "lon": 4.396467886999, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zwijgerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.209498983954, 
-      "lon": 4.395987151979, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -528,15 +492,21 @@
       "street": "Zwijgerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.209130797361, 
-      "lon": 4.396074220489, 
+      "lat": 51.209177713557, 
+      "lon": 4.396088558353, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zwijgerstraat"
     }, 
     {

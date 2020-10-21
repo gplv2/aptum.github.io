@@ -13,9 +13,6 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -88,27 +85,23 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "hnrlbls": [
-        "111"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
-      "housenumber": "111", 
-      "lat": 51.201357862634, 
-      "lon": 4.424312850067, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boomgaardstraat"
-    }, 
-    {
       "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.201355057208, 
-      "lon": 4.424352764014, 
+      "lat": 51.201174024464, 
+      "lon": 4.424363705189, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -160,6 +153,10 @@
       "street": "Boomgaardstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -332,8 +329,8 @@
         "145C"
       ], 
       "housenumber": "145C", 
-      "lat": 51.20133474479, 
-      "lon": 4.42602325759, 
+      "lat": 51.201315691447, 
+      "lon": 4.426018798659, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -344,8 +341,8 @@
         "145D"
       ], 
       "housenumber": "145D", 
-      "lat": 51.201312048667, 
-      "lon": 4.426115368231, 
+      "lat": 51.201296770196, 
+      "lon": 4.426111486254, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -594,26 +591,26 @@
     }, 
     {
       "hnrlbls": [
-        "181-183"
+        "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.20092091608, 
-      "lon": 4.428005571849, 
+      "lat": 51.200873296502, 
+      "lon": 4.427967596734, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomgaardstraat"
     }, 
     {
       "hnrlbls": [
-        "181-183"
+        "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.20092091608, 
-      "lon": 4.428005571849, 
+      "lat": 51.20121919167, 
+      "lon": 4.428283372649, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -825,8 +822,8 @@
         "213-215"
       ], 
       "housenumber": "213", 
-      "lat": 51.200751112784, 
-      "lon": 4.428907130288, 
+      "lat": 51.200752008094, 
+      "lon": 4.428913998865, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -845,8 +842,8 @@
         "213-215"
       ], 
       "housenumber": "215", 
-      "lat": 51.200751112784, 
-      "lon": 4.428907130288, 
+      "lat": 51.200752008094, 
+      "lon": 4.428913998865, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -937,27 +934,32 @@
       "street": "Boomgaardstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.20035218365, 
-      "lon": 4.429469589591, 
+      "lat": 51.200393904053, 
+      "lon": 4.429442747367, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
       "hnrlbls": [
-        "35-229A"
+        "229A"
       ], 
       "housenumber": "229A", 
-      "lat": 51.200905326931, 
-      "lon": 4.429827138091, 
+      "lat": 51.20094703151, 
+      "lon": 4.430002456052, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -973,38 +975,15 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "0401", 
-        "0501", 
-        "0601", 
-        "0701", 
-        "0801", 
-        "0901", 
-        "1001", 
-        "1101", 
-        "1201", 
-        "1301", 
-        "1401", 
-        "1501", 
-        "1601", 
-        "1701", 
-        "1801", 
-        "1911", 
-        "1921", 
-        "1931"
-      ], 
       "hnrlbls": [
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 51.200353261595, 
-      "lon": 4.429470878639, 
+      "lat": 51.200394134597, 
+      "lon": 4.429518002453, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -1012,8 +991,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.2003854733, 
-      "lon": 4.429580226449, 
+      "lat": 51.200388888764, 
+      "lon": 4.429580517093, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1060,8 +1039,8 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.200368169971, 
-      "lon": 4.429839732335, 
+      "lat": 51.200353882067, 
+      "lon": 4.429832559922, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1089,8 +1068,8 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.200376916823, 
-      "lon": 4.429957919637, 
+      "lat": 51.20045564182, 
+      "lon": 4.42998449207, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1452,6 +1431,7 @@
         "19", 
         "2", 
         "20", 
+        "21", 
         "3", 
         "4", 
         "5", 
@@ -1473,26 +1453,10 @@
     }, 
     {
       "busnrs": [
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "43B-43S"
-      ], 
-      "housenumber": "43B", 
-      "lat": 51.200457529843, 
-      "lon": 4.420913419979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Boomgaardstraat"
-    }, 
-    {
-      "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "43B-43S"
+        "43S"
       ], 
       "housenumber": "43S", 
       "lat": 51.200457529843, 
@@ -1503,11 +1467,6 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1520,11 +1479,6 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "45A"
       ], 
@@ -1546,18 +1500,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Boomgaardstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "45C"
-      ], 
-      "housenumber": "45C", 
-      "lat": 51.200233391364, 
-      "lon": 4.421438373878, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomgaardstraat"
     }, 
     {

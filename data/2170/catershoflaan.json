@@ -115,6 +115,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -824,6 +825,9 @@
       "street": "Catershoflaan"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1206,9 +1210,10 @@
       "street": "Catershoflaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "53"
@@ -1261,15 +1266,18 @@
       "street": "Catershoflaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.25328341898, 
-      "lon": 4.450992977088, 
+      "lat": 51.253283059751, 
+      "lon": 4.450992546751, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1484,14 +1492,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "78-119"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.254779677762, 
-      "lon": 4.450891936803, 
+      "lat": 51.254742785452, 
+      "lon": 4.451205846388, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Catershoflaan"
     }, 
     {
@@ -1507,6 +1515,11 @@
       "street": "Catershoflaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1539,8 +1552,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.254111147079, 
-      "lon": 4.451634710423, 
+      "lat": 51.254112317778, 
+      "lon": 4.451631561355, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

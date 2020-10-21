@@ -73,16 +73,12 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0201"
-      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.215200821781, 
-      "lon": 2.933691025423, 
+      "lat": 51.215202531205, 
+      "lon": 2.933572594369, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -117,14 +113,18 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.215154001332, 
-      "lon": 2.933699909083, 
+      "lat": 51.215156622016, 
+      "lon": 2.933589895487, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -222,18 +222,21 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "5"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.214546316924, 
-      "lon": 2.933659199078, 
+      "lat": 51.214541850595, 
+      "lon": 2.933587480184, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -319,8 +322,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.214254527431, 
-      "lon": 2.933298589818, 
+      "lat": 51.214254676312, 
+      "lon": 2.933273822165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

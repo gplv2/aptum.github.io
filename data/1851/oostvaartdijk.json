@@ -539,18 +539,6 @@
     }, 
     {
       "hnrlbls": [
-        "360A"
-      ], 
-      "housenumber": "360A", 
-      "lat": 50.976425415376, 
-      "lon": 4.392569705684, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
         "361"
       ], 
       "housenumber": "361", 
@@ -642,8 +630,8 @@
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 50.977077432406, 
-      "lon": 4.39197315491, 
+      "lat": 50.977078872206, 
+      "lon": 4.391965609066, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -654,8 +642,8 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 50.977184683702, 
-      "lon": 4.39192109539, 
+      "lat": 50.977187473433, 
+      "lon": 4.391905861228, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
       "source": "afgeleidVanGebouw", 
@@ -666,11 +654,11 @@
         "372"
       ], 
       "housenumber": "372", 
-      "lat": 50.97724052865, 
-      "lon": 4.391811199681, 
+      "lat": 50.977240258831, 
+      "lon": 4.391811911488, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Oostvaartdijk"
     }, 
     {
@@ -822,30 +810,6 @@
     }, 
     {
       "hnrlbls": [
-        "391A"
-      ], 
-      "housenumber": "391A", 
-      "lat": 50.978806704255, 
-      "lon": 4.390467086305, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
-        "391B"
-      ], 
-      "housenumber": "391B", 
-      "lat": 50.978747545329, 
-      "lon": 4.390520882714, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
         "393"
       ], 
       "housenumber": "393", 
@@ -858,26 +822,14 @@
     }, 
     {
       "hnrlbls": [
-        "394"
-      ], 
-      "housenumber": "394", 
-      "lat": 50.978965299958, 
-      "lon": 4.390325195282, 
-      "municipality": "Grimbergen", 
-      "pcode": "1851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
         "395"
       ], 
       "housenumber": "395", 
-      "lat": 50.979015018292, 
-      "lon": 4.390281361494, 
+      "lat": 50.979015468288, 
+      "lon": 4.390278513824, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostvaartdijk"
     }, 
     {
@@ -990,14 +942,62 @@
     }, 
     {
       "hnrlbls": [
-        "410"
+        "417"
       ], 
-      "housenumber": "410", 
-      "lat": 50.980128199731, 
-      "lon": 4.389505252978, 
+      "housenumber": "417", 
+      "lat": 50.980869059886, 
+      "lon": 4.389151443623, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostvaartdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "418"
+      ], 
+      "housenumber": "418", 
+      "lat": 50.980927406039, 
+      "lon": 4.389114873083, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostvaartdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "420"
+      ], 
+      "housenumber": "420", 
+      "lat": 50.981105763483, 
+      "lon": 4.389044037739, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostvaartdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "421"
+      ], 
+      "housenumber": "421", 
+      "lat": 50.981167881999, 
+      "lon": 4.38902455665, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostvaartdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "422"
+      ], 
+      "housenumber": "422", 
+      "lat": 50.981223258621, 
+      "lon": 4.389005214898, 
+      "municipality": "Grimbergen", 
+      "pcode": "1851", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostvaartdijk"
     }, 
     {

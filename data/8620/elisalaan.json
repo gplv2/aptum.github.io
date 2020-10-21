@@ -17,18 +17,6 @@
       "street": "Elisalaan"
     }, 
     {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.149066995918, 
-      "lon": 2.721996659098, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Elisalaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "101", 
@@ -36,7 +24,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.14880743561, 
@@ -44,57 +32,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "12-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 51.14880743561, 
-      "lon": 2.721822979968, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "13B-13D"
-      ], 
-      "housenumber": "13B", 
-      "lat": 51.149007835913, 
-      "lon": 2.721848363745, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "13B-13D"
-      ], 
-      "housenumber": "13C", 
-      "lat": 51.149007835913, 
-      "lon": 2.721848363745, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "13B-13D"
-      ], 
-      "housenumber": "13D", 
-      "lat": 51.149007835913, 
-      "lon": 2.721848363745, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Elisalaan"
     }, 
     {
@@ -130,14 +67,14 @@
         "502"
       ], 
       "hnrlbls": [
-        "15-25"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
+      "lat": 51.149098395124, 
+      "lon": 2.721495377523, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
@@ -164,23 +101,30 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "201", 
-        "203", 
-        "302", 
-        "303", 
-        "502", 
-        "503"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0502", 
+        "0503", 
+        "0601"
       ], 
       "hnrlbls": [
-        "15-25"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
+      "lat": 51.149047827237, 
+      "lon": 2.721357214857, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
@@ -212,52 +156,73 @@
         "601"
       ], 
       "hnrlbls": [
-        "15-25"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
+      "lat": 51.148979972, 
+      "lon": 2.721191501523, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
       "busnrs": [
-        "501"
-      ], 
-      "hnrlbls": [
-        "15-25"
-      ], 
-      "housenumber": "19C", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "busnrs": [
-        "102", 
-        "106", 
-        "109", 
-        "201", 
-        "207", 
-        "208", 
-        "209", 
-        "301", 
-        "302", 
-        "305", 
-        "307", 
-        "309", 
-        "310", 
-        "402", 
-        "501", 
-        "502", 
-        "505", 
-        "7", 
-        "8"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0210", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0307", 
+        "0308", 
+        "0309", 
+        "0310", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0407", 
+        "0408", 
+        "0409", 
+        "0410", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506"
       ], 
       "hnrlbls": [
         "2"
@@ -267,16 +232,23 @@
       "lon": 2.722851049395, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "202", 
-        "204"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
       ], 
       "hnrlbls": [
         "20"
@@ -286,19 +258,7 @@
       "lon": 2.720841433759, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "15-25"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
@@ -319,35 +279,11 @@
     }, 
     {
       "hnrlbls": [
-        "15-25"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 51.147938105811, 
       "lon": 2.719870561059, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "15-25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.149381186717, 
-      "lon": 2.720969074336, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -395,38 +331,11 @@
         "56"
       ], 
       "hnrlbls": [
-        "2A"
+        "2A-13"
       ], 
       "housenumber": "2A", 
-      "lat": 51.149750837673, 
-      "lon": 2.723015513831, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-46"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.146684249664, 
-      "lon": 2.71698281884, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "busnrs": [
-        "204"
-      ], 
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.148171481907, 
-      "lon": 2.719231363629, 
+      "lat": 51.14999826627, 
+      "lon": 2.722686587255, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -453,7 +362,7 @@
       "lon": 2.719079837347, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
@@ -488,7 +397,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "4-78A"
+        "4-4_2"
       ], 
       "housenumber": "4", 
       "lat": 51.149585286439, 
@@ -524,13 +433,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "202", 
-        "401", 
-        "402", 
-        "502"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "45"
@@ -545,25 +460,34 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "103", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
       ], 
       "hnrlbls": [
-        "30-46"
+        "46"
       ], 
       "housenumber": "46", 
       "lat": 51.146684249664, 
       "lon": 2.71698281884, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
       "busnrs": [
-        "502"
+        "0101", 
+        "0502"
       ], 
       "hnrlbls": [
         "47"
@@ -594,9 +518,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "102", 
-        "301"
+        "0001", 
+        "0102", 
+        "0301"
       ], 
       "hnrlbls": [
         "49"
@@ -614,7 +538,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "4-78A"
+        "4-4_2"
       ], 
       "housenumber": "4_2", 
       "lat": 51.149585286439, 
@@ -647,7 +571,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "51"
@@ -685,12 +609,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "402", 
-        "501", 
-        "502"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0402", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "53"
@@ -723,6 +647,32 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.147010839248, 
+      "lon": 2.716593762136, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Elisalaan"
+    }, 
+    {
+      "busnrs": [
         "105"
       ], 
       "hnrlbls": [
@@ -734,6 +684,35 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Elisalaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.146913032837, 
+      "lon": 2.716324917783, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Elisalaan"
     }, 
     {
@@ -750,18 +729,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.149375965181, 
-      "lon": 2.723096192679, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
       "street": "Elisalaan"
     }, 
     {
@@ -838,18 +805,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.149185131654, 
-      "lon": 2.72229297151, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -877,18 +832,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elisalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.14912606388, 
-      "lon": 2.722144815117, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Elisalaan"
     }
   ]

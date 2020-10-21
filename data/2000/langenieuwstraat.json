@@ -66,12 +66,6 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -162,9 +156,13 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "123"
@@ -232,10 +230,26 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "128"
+        "128-128A"
       ], 
       "housenumber": "128", 
+      "lat": 51.219433033869, 
+      "lon": 4.413705946203, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lange Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "128-128A"
+      ], 
+      "housenumber": "128A", 
       "lat": 51.219433033869, 
       "lon": 4.413705946203, 
       "municipality": "Antwerpen", 
@@ -388,9 +402,11 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "143"
@@ -548,11 +564,6 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "18", 
-        "5"
-      ], 
       "hnrlbls": [
         "16-18"
       ], 
@@ -596,9 +607,6 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "16-18"
       ], 
@@ -671,11 +679,11 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "22-24"
       ], 
       "housenumber": "22", 
-      "lat": 51.219487502453, 
-      "lon": 4.406643467561, 
+      "lat": 51.219590380126, 
+      "lon": 4.406764067137, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -695,11 +703,11 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "22-24"
       ], 
       "housenumber": "24", 
-      "lat": 51.219580853417, 
-      "lon": 4.406761053525, 
+      "lat": 51.219590380126, 
+      "lon": 4.406764067137, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1350,14 +1358,15 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "61-65"
+        "61-63"
       ], 
       "housenumber": "61", 
       "lat": 51.219740964719, 
@@ -1388,8 +1397,11 @@
       "street": "Lange Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
-        "61-65"
+        "61-63"
       ], 
       "housenumber": "63", 
       "lat": 51.219740964719, 
@@ -1414,18 +1426,6 @@
       "housenumber": "64", 
       "lat": 51.219462122253, 
       "lon": 4.409911211175, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "61-65"
-      ], 
-      "housenumber": "65", 
-      "lat": 51.219740964719, 
-      "lon": 4.409847482672, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1696,8 +1696,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.219394413365, 
-      "lon": 4.411723725927, 
+      "lat": 51.219392980825, 
+      "lon": 4.411708552996, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

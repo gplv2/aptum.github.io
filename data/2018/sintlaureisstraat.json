@@ -80,8 +80,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.20276639568, 
-      "lon": 4.396647571401, 
+      "lat": 51.202766575691, 
+      "lon": 4.396646569972, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -324,6 +324,12 @@
       "street": "Sint-Laureisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -451,8 +457,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.204292333724, 
-      "lon": 4.397863557691, 
+      "lat": 51.20429287368, 
+      "lon": 4.397860982563, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -513,8 +519,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.204201733746, 
-      "lon": 4.397849477807, 
+      "lat": 51.204200834, 
+      "lon": 4.397853054272, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -610,7 +616,8 @@
     }, 
     {
       "apptnrs": [
-        "3.0"
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "35"
@@ -702,8 +709,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.204859201134, 
-      "lon": 4.397640137176, 
+      "lat": 51.204861453113, 
+      "lon": 4.397620679235, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -726,8 +733,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.204822985338, 
-      "lon": 4.397609637428, 
+      "lat": 51.20482073379, 
+      "lon": 4.397627378352, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -750,8 +757,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.204787756617, 
-      "lon": 4.397585720187, 
+      "lat": 51.204785326163, 
+      "lon": 4.397600026985, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -798,8 +805,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.204643817642, 
-      "lon": 4.397361131961, 
+      "lat": 51.204662644077, 
+      "lon": 4.39755931372, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -822,8 +829,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.204695185808, 
-      "lon": 4.397545025993, 
+      "lat": 51.204678639539, 
+      "lon": 4.397575206053, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -846,8 +853,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.204650076559, 
-      "lon": 4.397493916866, 
+      "lat": 51.204646648576, 
+      "lon": 4.397543564481, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -866,10 +873,10 @@
       "street": "Sint-Laureisstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "54"
@@ -980,8 +987,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.204467444646, 
-      "lon": 4.39744057497, 
+      "lat": 51.204520793371, 
+      "lon": 4.397249879538, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1004,11 +1011,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.204406409489, 
-      "lon": 4.397455130908, 
+      "lat": 51.204540561334, 
+      "lon": 4.397276648357, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Laureisstraat"
     }, 
     {
@@ -1382,6 +1389,21 @@
       "street": "Sint-Laureisstraat"
     }, 
     {
+      "apptnrs": [
+        "1001", 
+        "1101", 
+        "1201", 
+        "1301", 
+        "2001", 
+        "3001", 
+        "4001", 
+        "5001", 
+        "6001", 
+        "7101", 
+        "7201", 
+        "7301", 
+        "7401"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1511,8 +1533,11 @@
       "street": "Sint-Laureisstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "87"

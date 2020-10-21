@@ -49,11 +49,11 @@
     }, 
     {
       "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
         "0022", 
-        "11", 
-        "12", 
-        "21", 
-        "31"
+        "0031"
       ], 
       "hnrlbls": [
         "3"
@@ -68,26 +68,26 @@
     }, 
     {
       "hnrlbls": [
-        "1-54"
+        "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.827360490726, 
-      "lon": 3.260682001306, 
+      "lat": 50.827221728976, 
+      "lon": 3.260659008201, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Louis Robbeplein"
     }, 
     {
       "hnrlbls": [
-        "1-54"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.827360490726, 
-      "lon": 3.260682001306, 
+      "lat": 50.827220836179, 
+      "lon": 3.260754845703, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Louis Robbeplein"
     }, 
     {
@@ -119,11 +119,18 @@
       "street": "Louis Robbeplein"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "22", 
-        "42"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "8"

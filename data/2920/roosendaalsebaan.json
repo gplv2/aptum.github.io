@@ -27,7 +27,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "2-10"
+        "6-10"
       ], 
       "housenumber": "10", 
       "lat": 51.397436532325, 
@@ -42,8 +42,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.405541871162, 
-      "lon": 4.498410494078, 
+      "lat": 51.405546437361, 
+      "lon": 4.498426457828, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -57,11 +57,23 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.404038591664, 
-      "lon": 4.498160983083, 
+      "lat": 51.403989655996, 
+      "lon": 4.498199787954, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Roosendaalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "101A"
+      ], 
+      "housenumber": "101A", 
+      "lat": 51.404074632105, 
+      "lon": 4.498161227748, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Roosendaalsebaan"
     }, 
     {
@@ -72,11 +84,23 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.404215260357, 
-      "lon": 4.4981060106, 
+      "lat": 51.404173260026, 
+      "lon": 4.498131327505, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Roosendaalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "103A"
+      ], 
+      "housenumber": "103A", 
+      "lat": 51.404245363575, 
+      "lon": 4.498111124331, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Roosendaalsebaan"
     }, 
     {
@@ -491,11 +515,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.407803978214, 
-      "lon": 4.497182814133, 
+      "lat": 51.407736881646, 
+      "lon": 4.496813583185, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Roosendaalsebaan"
     }, 
     {
@@ -527,8 +551,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.408087113996, 
-      "lon": 4.497078549462, 
+      "lat": 51.40808433516, 
+      "lon": 4.497071787374, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -763,18 +787,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-10"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.397436532325, 
-      "lon": 4.500471638199, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Roosendaalsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "20-22"
       ], 
       "housenumber": "20", 
@@ -930,8 +942,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.39896736592, 
-      "lon": 4.500433041628, 
+      "lat": 51.398974297345, 
+      "lon": 4.500423291023, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -966,11 +978,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.403495191402, 
-      "lon": 4.498818449481, 
+      "lat": 51.399115531585, 
+      "lon": 4.500067217973, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roosendaalsebaan"
     }, 
     {
@@ -1251,7 +1263,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "2-10"
+        "6-10"
       ], 
       "housenumber": "6", 
       "lat": 51.397436532325, 
@@ -1474,7 +1486,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "2-10"
+        "6-10"
       ], 
       "housenumber": "8", 
       "lat": 51.397436532325, 

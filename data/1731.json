@@ -41,6 +41,9 @@
       "l": 4.272666848625, 
       "name": "Alo\u00efs De Deckerstraat", 
       "numOfAddr": 28, 
+      "otherPCs": [
+        "1730"
+      ], 
       "r": 4.275217578286, 
       "sanName": "alosdedeckerstraat", 
       "t": 50.887512266943
@@ -49,7 +52,7 @@
       "b": 50.885294968569, 
       "l": 4.273431314833, 
       "name": "Baron J. Greindllaan", 
-      "numOfAddr": 31, 
+      "numOfAddr": 33, 
       "r": 4.275219411319, 
       "sanName": "baronjgreindllaan", 
       "t": 50.886141721973
@@ -130,7 +133,7 @@
       "b": 50.873703230206, 
       "l": 4.24195499377, 
       "name": "Brusselsesteenweg", 
-      "numOfAddr": 303, 
+      "numOfAddr": 304, 
       "otherPCs": [
         "1730"
       ], 
@@ -193,7 +196,7 @@
       "b": 50.899004122933, 
       "l": 4.276901453701, 
       "name": "Dorpsstraat", 
-      "numOfAddr": 63, 
+      "numOfAddr": 64, 
       "r": 4.282820036459, 
       "sanName": "dorpsstraat", 
       "t": 50.901296131403
@@ -229,7 +232,7 @@
       "b": 50.875910054889, 
       "l": 4.287670100204, 
       "name": "Fran\u00e7ois Jacobslaan", 
-      "numOfAddr": 26, 
+      "numOfAddr": 27, 
       "r": 4.290136235689, 
       "sanName": "franoisjacobslaan", 
       "t": 50.877070979894
@@ -265,11 +268,14 @@
       "t": 50.888137111908
     }, 
     {
-      "b": 50.888128523386, 
+      "b": 50.888085253484, 
       "l": 4.271080972693, 
       "name": "Galgenberg", 
-      "numOfAddr": 3, 
-      "r": 4.27175151574, 
+      "numOfAddr": 4, 
+      "otherPCs": [
+        "1730"
+      ], 
+      "r": 4.2718665636, 
       "sanName": "galgenberg", 
       "t": 50.888272036368
     }, 
@@ -358,7 +364,7 @@
       "b": 50.878119667154, 
       "l": 4.286158201097, 
       "name": "Hortensialaan", 
-      "numOfAddr": 35, 
+      "numOfAddr": 39, 
       "otherPCs": [
         "1730"
       ], 
@@ -487,22 +493,22 @@
       "t": 50.888156702696
     }, 
     {
-      "b": 50.920208991786, 
-      "l": 4.182010645275, 
+      "b": 50.920208543446, 
+      "l": 4.182010787491, 
       "name": "Kelestraat", 
       "numOfAddr": 3, 
       "otherPCs": [
         "1730"
       ], 
-      "r": 4.18219766837, 
+      "r": 4.182198381226, 
       "sanName": "kelestraat", 
-      "t": 50.920219624985
+      "t": 50.920219984106
     }, 
     {
       "b": 50.884640545807, 
       "l": 4.260423856625, 
       "name": "Kerklaan", 
-      "numOfAddr": 71, 
+      "numOfAddr": 72, 
       "r": 4.272683635075, 
       "sanName": "kerklaan", 
       "t": 50.886931557801
@@ -577,7 +583,7 @@
       "b": 50.889561175421, 
       "l": 4.276872809541, 
       "name": "Landerijenstraat", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.279460165464, 
       "sanName": "landerijenstraat", 
       "t": 50.890616892867
@@ -613,7 +619,7 @@
       "b": 50.875489251237, 
       "l": 4.285417848097, 
       "name": "Leon Gillardlaan", 
-      "numOfAddr": 70, 
+      "numOfAddr": 71, 
       "r": 4.290713822414, 
       "sanName": "leongillardlaan", 
       "t": 50.879840975493
@@ -739,7 +745,7 @@
       "b": 50.891543028428, 
       "l": 4.284170840358, 
       "name": "Neerzellikstraat", 
-      "numOfAddr": 11, 
+      "numOfAddr": 15, 
       "r": 4.284923853052, 
       "sanName": "neerzellikstraat", 
       "t": 50.892659598331
@@ -856,7 +862,10 @@
       "b": 50.892879583506, 
       "l": 4.273649609731, 
       "name": "Poverstraat", 
-      "numOfAddr": 106, 
+      "numOfAddr": 125, 
+      "otherPCs": [
+        "1730"
+      ], 
       "r": 4.281602381587, 
       "sanName": "poverstraat", 
       "t": 50.898991640389
@@ -883,7 +892,7 @@
       "b": 50.900829417829, 
       "l": 4.283154883652, 
       "name": "Reekstraat", 
-      "numOfAddr": 54, 
+      "numOfAddr": 57, 
       "r": 4.292176208776, 
       "sanName": "reekstraat", 
       "t": 50.904334453037
@@ -893,15 +902,15 @@
       "l": 4.27624851801, 
       "name": "Relegemsestraat", 
       "numOfAddr": 25, 
-      "r": 4.278233139566, 
+      "r": 4.277144208008, 
       "sanName": "relegemsestraat", 
-      "t": 50.891827824307
+      "t": 50.891551786118
     }, 
     {
-      "b": 50.89019247629, 
-      "l": 4.264692468743, 
+      "b": 50.890033020637, 
+      "l": 4.263695105694, 
       "name": "Romeinsebaan", 
-      "numOfAddr": 12, 
+      "numOfAddr": 21, 
       "r": 4.266613233119, 
       "sanName": "romeinsebaan", 
       "t": 50.890481003938
@@ -910,7 +919,7 @@
       "b": 50.888406709546, 
       "l": 4.271531497858, 
       "name": "Roodaarde", 
-      "numOfAddr": 25, 
+      "numOfAddr": 26, 
       "otherPCs": [
         "1730"
       ], 
@@ -931,7 +940,7 @@
       "b": 50.892549772218, 
       "l": 4.277277503922, 
       "name": "Schapenbaan", 
-      "numOfAddr": 35, 
+      "numOfAddr": 36, 
       "r": 4.285187222479, 
       "sanName": "schapenbaan", 
       "t": 50.893638114402
@@ -956,7 +965,7 @@
     }, 
     {
       "b": 50.9003571722, 
-      "l": 4.278379196897, 
+      "l": 4.278380617787, 
       "name": "Sint-Jansstraat", 
       "numOfAddr": 15, 
       "r": 4.280734142502, 
@@ -976,7 +985,7 @@
       "b": 50.891337419575, 
       "l": 4.246236209324, 
       "name": "Sleutelbloemstraat", 
-      "numOfAddr": 25, 
+      "numOfAddr": 27, 
       "r": 4.251496364798, 
       "sanName": "sleutelbloemstraat", 
       "t": 50.892013054859
@@ -994,7 +1003,7 @@
       "b": 50.878508623369, 
       "l": 4.285902734194, 
       "name": "Spildoorn", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.287599662196, 
       "sanName": "spildoorn", 
       "t": 50.879236474468
@@ -1147,7 +1156,10 @@
       "b": 50.890795995177, 
       "l": 4.26018607929, 
       "name": "Z. 3 Doornveld", 
-      "numOfAddr": 41, 
+      "numOfAddr": 42, 
+      "otherPCs": [
+        "1730"
+      ], 
       "r": 4.271957941612, 
       "sanName": "z3doornveld", 
       "t": 50.893588672178

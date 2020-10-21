@@ -113,8 +113,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.21300550166, 
-      "lon": 2.909670812316, 
+      "lat": 51.213006305165, 
+      "lon": 2.909670357777, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.212921662651, 
-      "lon": 2.909659407105, 
+      "lat": 51.212953117182, 
+      "lon": 2.909709522904, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -170,18 +170,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0302"
       ], 
       "hnrlbls": [
         "26"
@@ -259,8 +254,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.212534811954, 
-      "lon": 2.909812064394, 
+      "lat": 51.212532045343, 
+      "lon": 2.909806425522, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -271,8 +266,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.212502754783, 
-      "lon": 2.910303446173, 
+      "lat": 51.212500916862, 
+      "lon": 2.910300211533, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -353,18 +348,17 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.212274683922, 
-      "lon": 2.910245879482, 
+      "lat": 51.212300992736, 
+      "lon": 2.910286995261, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schapenstraat"
     }, 
     {
@@ -372,11 +366,23 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.210871599278, 
-      "lon": 2.912172182845, 
+      "lat": 51.210645426992, 
+      "lon": 2.912531484132, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schapenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 51.210663073743, 
+      "lon": 2.911891290216, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schapenstraat"
     }, 
     {

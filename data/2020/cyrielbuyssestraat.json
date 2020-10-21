@@ -166,8 +166,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.180433814977, 
-      "lon": 4.385937269515, 
+      "lat": 51.180441457128, 
+      "lon": 4.385924687676, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -186,8 +186,10 @@
       "street": "Cyriel Buyssestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "12"
@@ -249,8 +251,10 @@
       "street": "Cyriel Buyssestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "13"
@@ -444,10 +448,6 @@
       "street": "Cyriel Buyssestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1110,6 +1110,10 @@
       "street": "Cyriel Buyssestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "77"
       ], 

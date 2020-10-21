@@ -1,6 +1,33 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.234708872715, 
+      "lon": 5.310064538363, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kapelstraat"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -850,12 +877,15 @@
       "street": "Kapelstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.234688145815, 
-      "lon": 5.309980784853, 
+      "lat": 51.234660197791, 
+      "lon": 5.309912063282, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 

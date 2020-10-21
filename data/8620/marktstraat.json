@@ -33,9 +33,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "11"
@@ -45,7 +45,7 @@
       "lon": 2.751996969551, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.131607667475, 
-      "lon": 2.752436113362, 
+      "lat": 51.131607722329, 
+      "lon": 2.752446685553, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -125,20 +125,21 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.131457772714, 
-      "lon": 2.751922740427, 
+      "lat": 51.131458687391, 
+      "lon": 2.751943571106, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -158,11 +159,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.131442278188, 
-      "lon": 2.751795816311, 
+      "lat": 51.131401466214, 
+      "lon": 2.751934119422, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -429,6 +430,18 @@
     }, 
     {
       "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 51.130906022744, 
+      "lon": 2.752028993148, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -507,11 +520,11 @@
         "40B"
       ], 
       "housenumber": "40B", 
-      "lat": 51.13040224429, 
-      "lon": 2.752447511894, 
+      "lat": 51.1303659125, 
+      "lon": 2.752276158211, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -531,11 +544,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.130355673445, 
-      "lon": 2.752388537551, 
+      "lat": 51.130338199185, 
+      "lon": 2.752307409315, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -730,8 +743,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.129936088132, 
-      "lon": 2.752245301398, 
+      "lat": 51.129935818534, 
+      "lon": 2.752245310724, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

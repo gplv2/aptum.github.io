@@ -41,6 +41,9 @@
       "street": "Vaartstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -53,6 +56,11 @@
       "street": "Vaartstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -262,38 +270,42 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.22502534449, 
-      "lon": 2.925658006481, 
+      "lat": 51.225059671434, 
+      "lon": 2.925597814092, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.225355914452, 
-      "lon": 2.925931118683, 
+      "lat": 51.225307519191, 
+      "lon": 2.925972990682, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.22502534449, 
-      "lon": 2.925658006481, 
+      "lat": 51.225079423434, 
+      "lon": 2.925669361946, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {

@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.947228539504, 
-      "lon": 5.49549608308, 
+      "lat": 50.947244265474, 
+      "lon": 5.495590530716, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenstraat"
     }, 
     {
@@ -44,14 +44,14 @@
         "BU05"
       ], 
       "hnrlbls": [
-        "12-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.947228539504, 
-      "lon": 5.49549608308, 
+      "lat": 50.947170260416, 
+      "lon": 5.495498382346, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenstraat"
     }, 
     {
@@ -67,13 +67,13 @@
       "street": "Havenstraat"
     }, 
     {
-      "busnrs": [
-        "BU01", 
-        "BU02", 
-        "BU11", 
-        "BU12", 
-        "BU21", 
-        "BU22"
+      "apptnrs": [
+        "BUS 1", 
+        "BUS 11", 
+        "BUS 12", 
+        "BUS 2", 
+        "BUS 21", 
+        "BUS 22"
       ], 
       "hnrlbls": [
         "18"
@@ -111,6 +111,17 @@
       "street": "Havenstraat"
     }, 
     {
+      "apptnrs": [
+        "BUS 1", 
+        "BUS 11", 
+        "BUS 12", 
+        "BUS 2", 
+        "BUS 21", 
+        "BUS 22", 
+        "BUS 3", 
+        "BUS 31", 
+        "BUS 32"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -119,7 +130,7 @@
       "lon": 5.495169751216, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenstraat"
     }, 
     {
@@ -135,7 +146,7 @@
       "lon": 5.495094075131, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenstraat"
     }, 
     {
@@ -191,8 +202,8 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 50.947476823009, 
-      "lon": 5.496716708279, 
+      "lat": 50.947473322889, 
+      "lon": 5.496678625994, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -207,11 +218,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.946361196265, 
-      "lon": 5.49470447594, 
+      "lat": 50.946392056383, 
+      "lon": 5.494664516126, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Havenstraat"
     }, 
     {
@@ -279,8 +290,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.945043964201, 
-      "lon": 5.491960173537, 
+      "lat": 50.945048858405, 
+      "lon": 5.491927844735, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -291,8 +302,8 @@
         "46-48"
       ], 
       "housenumber": "46", 
-      "lat": 50.944579800673, 
-      "lon": 5.491038009381, 
+      "lat": 50.944577184414, 
+      "lon": 5.491029550698, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -303,8 +314,8 @@
         "46-48"
       ], 
       "housenumber": "48", 
-      "lat": 50.944579800673, 
-      "lon": 5.491038009381, 
+      "lat": 50.944577184414, 
+      "lon": 5.491029550698, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -315,8 +326,8 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.947476823009, 
-      "lon": 5.496716708279, 
+      "lat": 50.947473322889, 
+      "lon": 5.496678625994, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

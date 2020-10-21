@@ -1,15 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.17131210446, 
-      "lon": 3.862998388498, 
+      "lat": 51.17110496143, 
+      "lon": 3.86309371201, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenhoek"
     }, 
     {
@@ -173,11 +182,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.171005484171, 
-      "lon": 3.864532054364, 
+      "lat": 51.17109429967, 
+      "lon": 3.864470328359, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenhoek"
     }, 
     {

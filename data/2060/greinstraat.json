@@ -255,10 +255,6 @@
       "street": "Greinstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "5"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -283,12 +279,19 @@
       "street": "Greinstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.221299580988, 
-      "lon": 4.424867220356, 
+      "lat": 51.221289560448, 
+      "lon": 4.42477044954, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -307,6 +310,12 @@
       "street": "Greinstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -348,8 +357,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.221166745484, 
-      "lon": 4.424840435657, 
+      "lat": 51.221163258224, 
+      "lon": 4.424802500994, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -445,6 +454,10 @@
       "street": "Greinstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -461,8 +474,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.220988922532, 
-      "lon": 4.424908350473, 
+      "lat": 51.220990445051, 
+      "lon": 4.424919802979, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -698,9 +711,9 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
-        "201", 
-        "301"
+        "201"
       ], 
       "hnrlbls": [
         "6"
@@ -783,17 +796,6 @@
       "street": "Greinstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -995,8 +997,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.220761640285, 
-      "lon": 4.425396154904, 
+      "lat": 51.220761818942, 
+      "lon": 4.425398445242, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1055,8 +1057,9 @@
       "street": "Greinstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "9"

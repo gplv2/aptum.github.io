@@ -1,8 +1,8 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "1"
@@ -56,11 +56,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.925312017198, 
-      "lon": 4.426746067173, 
+      "lat": 50.925369217721, 
+      "lon": 4.42668896167, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koepoortstraat"
     }, 
     {
@@ -84,8 +84,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.925225043466, 
-      "lon": 4.42666033536, 
+      "lat": 50.925308524793, 
+      "lon": 4.426719181102, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -119,11 +119,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.925137998746, 
-      "lon": 4.426716834498, 
+      "lat": 50.925195831631, 
+      "lon": 4.426653471801, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koepoortstraat"
     }, 
     {
@@ -176,6 +176,7 @@
     }, 
     {
       "busnrs": [
+        "01/1", 
         "02/1"
       ], 
       "hnrlbls": [

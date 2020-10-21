@@ -23,8 +23,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.030513177915, 
-      "lon": 4.098179184165, 
+      "lat": 51.030513078551, 
+      "lon": 4.098175050738, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -39,11 +39,11 @@
         "13-15"
       ], 
       "housenumber": "13", 
-      "lat": 51.030157934342, 
-      "lon": 4.09818108924, 
+      "lat": 51.030150878158, 
+      "lon": 4.098200801897, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ridderstraat"
     }, 
     {
@@ -63,23 +63,11 @@
         "13-15"
       ], 
       "housenumber": "15", 
-      "lat": 51.030157934342, 
-      "lon": 4.09818108924, 
+      "lat": 51.030150878158, 
+      "lon": 4.098200801897, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ridderstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.030401159315, 
-      "lon": 4.097976694132, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ridderstraat"
     }, 
     {
@@ -96,7 +84,7 @@
     }, 
     {
       "hnrlbls": [
-        "18-18A"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.030373634201, 
@@ -107,15 +95,19 @@
       "street": "Ridderstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "18-18A"
+        "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.030373634201, 
-      "lon": 4.098046988143, 
+      "lat": 51.030343937657, 
+      "lon": 4.098071963308, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ridderstraat"
     }, 
     {
@@ -133,6 +125,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -140,14 +133,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "2-4"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.030410741611, 
-      "lon": 4.098667300413, 
+      "lat": 51.030369439612, 
+      "lon": 4.098648863831, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ridderstraat"
     }, 
     {
@@ -377,8 +370,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.030018743274, 
-      "lon": 4.097654170639, 
+      "lat": 51.030014981009, 
+      "lon": 4.097659894375, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -397,18 +390,6 @@
       "street": "Ridderstraat"
     }, 
     {
-      "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.030410741611, 
-      "lon": 4.098667300413, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ridderstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -418,8 +399,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.029979721926, 
-      "lon": 4.097611203315, 
+      "lat": 51.029968460019, 
+      "lon": 4.097639208177, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -430,8 +411,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.029652750022, 
-      "lon": 4.097711450809, 
+      "lat": 51.02964765643, 
+      "lon": 4.097724594735, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -451,7 +432,7 @@
     }, 
     {
       "hnrlbls": [
-        "5-9"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.030245050464, 
@@ -469,38 +450,38 @@
         "4"
       ], 
       "hnrlbls": [
-        "6-11"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.030506514227, 
-      "lon": 4.098645081516, 
+      "lat": 51.030497613237, 
+      "lon": 4.098487185485, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ridderstraat"
     }, 
     {
       "hnrlbls": [
-        "5-9"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.030245050464, 
-      "lon": 4.098304036185, 
+      "lat": 51.030261241869, 
+      "lon": 4.098191185099, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ridderstraat"
     }, 
     {
       "hnrlbls": [
-        "5-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.030245050464, 
-      "lon": 4.098304036185, 
+      "lat": 51.030263492373, 
+      "lon": 4.098192597638, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ridderstraat"
     }
   ]

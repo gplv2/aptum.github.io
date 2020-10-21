@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -18,10 +14,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "101"
@@ -82,30 +78,19 @@
       "street": "Leffingestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.218412394572, 
-      "lon": 2.909360969449, 
+      "lat": 51.218582741817, 
+      "lon": 2.909177557208, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leffingestraat"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "116"
-      ], 
-      "housenumber": "116", 
-      "lat": 51.218406873603, 
-      "lon": 2.908833480956, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -134,6 +119,34 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leffingestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 51.218348925337, 
+      "lon": 2.908712755921, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -189,23 +202,6 @@
       "street": "Leffingestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "128"
-      ], 
-      "housenumber": "128", 
-      "lat": 51.218211305279, 
-      "lon": 2.908634178257, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Leffingestraat"
-    }, 
-    {
       "hnrlbls": [
         "129"
       ], 
@@ -246,11 +242,11 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.218196412655, 
-      "lon": 2.908432799849, 
+      "lat": 51.21824881909, 
+      "lon": 2.908381342212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -308,20 +304,17 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
         "0501", 
+        "0502", 
         "0601", 
-        "0602", 
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0602"
       ], 
       "hnrlbls": [
         "135F"
@@ -529,6 +522,7 @@
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
         "0301", 
@@ -628,19 +622,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.217409986379, 
-      "lon": 2.906557964366, 
+      "lat": 51.217452860848, 
+      "lon": 2.906506374809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -660,8 +654,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.217328718949, 
-      "lon": 2.906456441971, 
+      "lat": 51.217342862661, 
+      "lon": 2.90644426033, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -951,8 +945,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.216005214891, 
-      "lon": 2.903306212198, 
+      "lat": 51.216004143584, 
+      "lon": 2.903306818435, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1068,12 +1062,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "5"
+        "0301"
       ], 
       "hnrlbls": [
         "217"
@@ -1100,18 +1092,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.216521252262, 
-      "lon": 2.903676498627, 
+      "lat": 51.216462126104, 
+      "lon": 2.903736902714, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -1190,8 +1183,8 @@
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 51.215762895721, 
-      "lon": 2.90268684969, 
+      "lat": 51.215759902935, 
+      "lon": 2.902699254208, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1254,26 +1247,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
         "0201", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.216313667326, 
-      "lon": 2.903233680993, 
+      "lat": 51.216268350138, 
+      "lon": 2.903283917617, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leffingestraat"
     }, 
     {
@@ -1368,8 +1358,8 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 51.21506383547, 
-      "lon": 2.901122367169, 
+      "lat": 51.215059423132, 
+      "lon": 2.901121790269, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1800,8 +1790,8 @@
         "297"
       ], 
       "housenumber": "297", 
-      "lat": 51.21520179236, 
-      "lon": 2.900184732775, 
+      "lat": 51.215104915508, 
+      "lon": 2.900180482217, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1856,8 +1846,8 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.214892268352, 
-      "lon": 2.899931953633, 
+      "lat": 51.214901520283, 
+      "lon": 2.899924075782, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1889,14 +1879,12 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0401", 
-        "0501"
+        "0401"
       ], 
       "hnrlbls": [
         "52"
@@ -1911,16 +1899,16 @@
     }, 
     {
       "busnrs": [
-        "0104", 
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
         "0301", 
         "0302", 
         "0401", 
         "0402", 
-        "1", 
-        "3", 
-        "33", 
-        "34", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "54"
@@ -1935,18 +1923,15 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
         "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "4R", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "56"
@@ -2202,8 +2187,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.219387604867, 
-      "lon": 2.911187761349, 
+      "lat": 51.219384135338, 
+      "lon": 2.911190732877, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2349,8 +2334,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.219191678524, 
-      "lon": 2.910776729444, 
+      "lat": 51.219188386975, 
+      "lon": 2.910779552272, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

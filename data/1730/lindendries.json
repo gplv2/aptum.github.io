@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.906236920513, 
+      "lon": 4.210552962772, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lindendries"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -573,11 +590,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.906262895887, 
-      "lon": 4.210550032148, 
+      "lat": 50.906078615374, 
+      "lon": 4.210752536446, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lindendries"
     }, 
     {
@@ -590,6 +607,18 @@
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindendries"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.905606572863, 
+      "lon": 4.214342534909, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lindendries"
     }, 
     {

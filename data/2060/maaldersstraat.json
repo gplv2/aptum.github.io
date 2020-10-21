@@ -200,16 +200,17 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.225146493188, 
-      "lon": 4.423403230924, 
+      "lat": 51.225147654774, 
+      "lon": 4.423417976328, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Maaldersstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "23"
@@ -239,11 +240,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.22505165807, 
-      "lon": 4.423802494527, 
+      "lat": 51.225029584578, 
+      "lon": 4.423722020356, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Maaldersstraat"
     }, 
     {
@@ -259,19 +260,22 @@
       "street": "Maaldersstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "5"
+      "apptnrs": [
+        "1001", 
+        "2101", 
+        "2102", 
+        "3001", 
+        "4001"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.225041432245, 
-      "lon": 4.424138444911, 
+      "lat": 51.22498804935, 
+      "lon": 4.423741009104, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Maaldersstraat"
     }, 
     {
@@ -372,12 +376,16 @@
       "street": "Maaldersstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.22495014349, 
-      "lon": 4.423496328566, 
+      "lat": 51.22495525988, 
+      "lon": 4.423511221759, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -603,8 +611,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.224526179593, 
-      "lon": 4.424031039765, 
+      "lat": 51.224525911839, 
+      "lon": 4.424027031412, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

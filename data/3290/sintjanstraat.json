@@ -26,11 +26,11 @@
     }, 
     {
       "apptnrs": [
-        "15", 
-        "A1", 
-        "A2", 
-        "B1", 
-        "B2"
+        "0015", 
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
         "15"
@@ -224,45 +224,23 @@
       "street": "Sint-Janstraat"
     }, 
     {
+      "apptnrs": [
+        "0003", 
+        "0031", 
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.98327237737, 
-      "lon": 5.056904675152, 
+      "lat": 50.983285070214, 
+      "lon": 5.056870967351, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Janstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31A-31B"
-      ], 
-      "housenumber": "31A", 
-      "lat": 50.983293519986, 
-      "lon": 5.056840330268, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Janstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31A-31B"
-      ], 
-      "housenumber": "31B", 
-      "lat": 50.983293519986, 
-      "lon": 5.056840330268, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Janstraat"
     }, 
     {

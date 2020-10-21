@@ -782,7 +782,7 @@
     }, 
     {
       "hnrlbls": [
-        "152-154B"
+        "152-154A"
       ], 
       "housenumber": "152", 
       "lat": 51.047395761224, 
@@ -806,7 +806,7 @@
     }, 
     {
       "hnrlbls": [
-        "152-154B"
+        "152-154A"
       ], 
       "housenumber": "154", 
       "lat": 51.047395761224, 
@@ -818,21 +818,9 @@
     }, 
     {
       "hnrlbls": [
-        "152-154B"
+        "152-154A"
       ], 
       "housenumber": "154A", 
-      "lat": 51.047395761224, 
-      "lon": 3.744489817594, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Eendrachtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "152-154B"
-      ], 
-      "housenumber": "154B", 
       "lat": 51.047395761224, 
       "lon": 3.744489817594, 
       "municipality": "Gent", 
@@ -1736,7 +1724,7 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "51-53A"
       ], 
       "housenumber": "51", 
       "lat": 51.048894626469, 
@@ -1756,6 +1744,30 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Eendrachtstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51-53A"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.048894626469, 
+      "lon": 3.742809845867, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Eendrachtstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51-53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.048894626469, 
+      "lon": 3.742809845867, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {
@@ -2087,7 +2099,9 @@
         "0001", 
         "0002", 
         "0101", 
-        "0301"
+        "0102", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "77"

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "203"
       ], 
@@ -10,6 +15,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kruishofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "203A"
+      ], 
+      "housenumber": "203A", 
+      "lat": 51.183824939665, 
+      "lon": 4.394839218589, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kruishofstraat"
     }, 
     {
@@ -174,6 +191,11 @@
       "street": "Kruishofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "229"
       ], 
@@ -242,8 +264,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.182767700524, 
-      "lon": 4.393666883029, 
+      "lat": 51.182763293329, 
+      "lon": 4.393679895052, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -625,26 +647,30 @@
     }, 
     {
       "hnrlbls": [
-        "293-295"
+        "293"
       ], 
       "housenumber": "293", 
-      "lat": 51.181356113572, 
-      "lon": 4.392096270979, 
+      "lat": 51.181377683116, 
+      "lon": 4.392110583247, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kruishofstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "293-295"
+        "295"
       ], 
       "housenumber": "295", 
-      "lat": 51.181356113572, 
-      "lon": 4.392096270979, 
+      "lat": 51.181337421458, 
+      "lon": 4.392076525769, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kruishofstraat"
     }, 
     {

@@ -971,9 +971,6 @@
       "street": "Zeedijk-Duinbergen"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "389-392"
       ], 
@@ -989,9 +986,6 @@
       "apptnrs": [
         "1"
       ], 
-      "busnrs": [
-        "12"
-      ], 
       "hnrlbls": [
         "389-392"
       ], 
@@ -1005,6 +999,7 @@
     }, 
     {
       "apptnrs": [
+        "-11", 
         "11", 
         "12", 
         "13", 
@@ -1031,9 +1026,6 @@
         "83", 
         "91", 
         "92"
-      ], 
-      "busnrs": [
-        "2"
       ], 
       "hnrlbls": [
         "389-392"
@@ -1662,21 +1654,6 @@
       "municipality": "Knokke-Heist", 
       "pcode": "8301", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Zeedijk-Duinbergen"
-    }, 
-    {
-      "busnrs": [
-        "72"
-      ], 
-      "hnrlbls": [
-        "438"
-      ], 
-      "housenumber": "438", 
-      "lat": 51.345024612317, 
-      "lon": 3.259632851123, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8301", 
-      "source": "afgeleidVanStraat", 
       "street": "Zeedijk-Duinbergen"
     }
   ]

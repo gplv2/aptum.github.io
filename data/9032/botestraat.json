@@ -119,11 +119,11 @@
         "106A"
       ], 
       "housenumber": "106A", 
-      "lat": 51.085967711507, 
-      "lon": 3.703096139654, 
+      "lat": 51.085974345481, 
+      "lon": 3.703013264497, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -131,11 +131,11 @@
         "106B"
       ], 
       "housenumber": "106B", 
-      "lat": 51.086015891325, 
-      "lon": 3.703047926906, 
+      "lat": 51.086036944959, 
+      "lon": 3.702987539969, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -147,7 +147,7 @@
       "lon": 3.70291940985, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -155,11 +155,11 @@
         "106D"
       ], 
       "housenumber": "106D", 
-      "lat": 51.086170433528, 
-      "lon": 3.702859899759, 
+      "lat": 51.086201808945, 
+      "lon": 3.702860452538, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -191,11 +191,11 @@
         "108A"
       ], 
       "housenumber": "108A", 
-      "lat": 51.086117037141, 
-      "lon": 3.702509410608, 
+      "lat": 51.086102042504, 
+      "lon": 3.702623947507, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -203,11 +203,11 @@
         "108B"
       ], 
       "housenumber": "108B", 
-      "lat": 51.08607115814, 
-      "lon": 3.702471527579, 
+      "lat": 51.086073101464, 
+      "lon": 3.702560989041, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -215,11 +215,11 @@
         "108C"
       ], 
       "housenumber": "108C", 
-      "lat": 51.085927252546, 
-      "lon": 3.702505403538, 
+      "lat": 51.085945928333, 
+      "lon": 3.702533397387, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -227,11 +227,11 @@
         "108D"
       ], 
       "housenumber": "108D", 
-      "lat": 51.085873256677, 
-      "lon": 3.70254242423, 
+      "lat": 51.085884652249, 
+      "lon": 3.702554679157, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
@@ -613,6 +613,18 @@
       "housenumber": "15", 
       "lat": 51.087662229004, 
       "lon": 3.708787835697, 
+      "municipality": "Gent", 
+      "pcode": "9032", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Botestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 51.084366821846, 
+      "lon": 3.696183389642, 
       "municipality": "Gent", 
       "pcode": "9032", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1582,23 +1594,42 @@
     }, 
     {
       "hnrlbls": [
-        "61-61B"
+        "61-61A"
       ], 
       "housenumber": "61", 
-      "lat": 51.086365739597, 
-      "lon": 3.706480953215, 
+      "lat": 51.086399835132, 
+      "lon": 3.706453638218, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Botestraat"
     }, 
     {
       "hnrlbls": [
-        "61-61B"
+        "61-61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 51.086399835132, 
+      "lon": 3.706453638218, 
+      "municipality": "Gent", 
+      "pcode": "9032", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Botestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "61B"
       ], 
       "housenumber": "61B", 
-      "lat": 51.086365739597, 
-      "lon": 3.706480953215, 
+      "lat": 51.086329920861, 
+      "lon": 3.706217273034, 
       "municipality": "Gent", 
       "pcode": "9032", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1892,6 +1923,13 @@
       "street": "Botestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -167,14 +167,10 @@
       "street": "Achterstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
-        "26-26B"
+        "26A-26B"
       ], 
-      "housenumber": "26", 
+      "housenumber": "26A", 
       "lat": 50.967070832948, 
       "lon": 4.377635886776, 
       "municipality": "Grimbergen", 
@@ -184,14 +180,14 @@
     }, 
     {
       "hnrlbls": [
-        "26-26B"
+        "26A-26B"
       ], 
       "housenumber": "26B", 
       "lat": 50.967070832948, 
       "lon": 4.377635886776, 
       "municipality": "Grimbergen", 
       "pcode": "1851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Achterstraat"
     }, 
     {

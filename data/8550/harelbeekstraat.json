@@ -1,12 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.813189055032, 
-      "lon": 3.332510353213, 
+      "lat": 50.813270936019, 
+      "lon": 3.332375584453, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -454,6 +462,18 @@
     }, 
     {
       "hnrlbls": [
+        "125"
+      ], 
+      "housenumber": "125", 
+      "lat": 50.819836286886, 
+      "lon": 3.325972634704, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Harelbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
@@ -502,47 +522,11 @@
     }, 
     {
       "hnrlbls": [
-        "131"
-      ], 
-      "housenumber": "131", 
-      "lat": 50.820434689939, 
-      "lon": 3.325507334919, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Harelbeekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
       "lat": 50.819525030952, 
       "lon": 3.327236705326, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Harelbeekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "133"
-      ], 
-      "housenumber": "133", 
-      "lat": 50.820401322643, 
-      "lon": 3.325374520361, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Harelbeekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "133A"
-      ], 
-      "housenumber": "133A", 
-      "lat": 50.820372744203, 
-      "lon": 3.325254515242, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -589,8 +573,8 @@
         "135B"
       ], 
       "housenumber": "135B", 
-      "lat": 50.820792220556, 
-      "lon": 3.325555613389, 
+      "lat": 50.820792997709, 
+      "lon": 3.325562124903, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -613,8 +597,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.82090367357, 
-      "lon": 3.325330029749, 
+      "lat": 50.820907023371, 
+      "lon": 3.325332652141, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -709,8 +693,8 @@
         "145A"
       ], 
       "housenumber": "145A", 
-      "lat": 50.82137257956, 
-      "lon": 3.324820746367, 
+      "lat": 50.821372677025, 
+      "lon": 3.324821595791, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1019,8 +1003,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.820678688289, 
-      "lon": 3.326376633275, 
+      "lat": 50.820678150228, 
+      "lon": 3.326376787121, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1175,8 +1159,8 @@
         "176A"
       ], 
       "housenumber": "176A", 
-      "lat": 50.82177450682, 
-      "lon": 3.325766608002, 
+      "lat": 50.821774595446, 
+      "lon": 3.325766464106, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1475,7 +1459,7 @@
     }, 
     {
       "hnrlbls": [
-        "32"
+        "32-36"
       ], 
       "housenumber": "32", 
       "lat": 50.814469661706, 
@@ -1499,11 +1483,11 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "32-36"
       ], 
       "housenumber": "34", 
-      "lat": 50.814508999993, 
-      "lon": 3.331804525344, 
+      "lat": 50.814469661706, 
+      "lon": 3.331687039125, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1529,11 +1513,11 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "32-36"
       ], 
       "housenumber": "36", 
-      "lat": 50.814446973758, 
-      "lon": 3.331571598671, 
+      "lat": 50.814469661706, 
+      "lon": 3.331687039125, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1680,6 +1664,18 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.814746335971, 
+      "lon": 3.331548966184, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Harelbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -1688,6 +1684,35 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Harelbeekstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.815098504249, 
+      "lon": 3.331550288134, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Harelbeekstraat"
     }, 
     {
@@ -1700,6 +1725,30 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Harelbeekstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.815135053548, 
+      "lon": 3.33163704238, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Harelbeekstraat"
     }, 
     {
@@ -1822,8 +1871,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.816916227108, 
-      "lon": 3.329553049509, 
+      "lat": 50.816913188532, 
+      "lon": 3.329534809263, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1870,8 +1919,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.816290062549, 
-      "lon": 3.330651818137, 
+      "lat": 50.816290420842, 
+      "lon": 3.330651668319, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1894,8 +1943,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.816364162175, 
-      "lon": 3.330653873621, 
+      "lat": 50.81636355934, 
+      "lon": 3.330656867145, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2137,8 +2186,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.817862452047, 
-      "lon": 3.328333782783, 
+      "lat": 50.817862541934, 
+      "lon": 3.328333780796, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2221,8 +2270,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.818372293782, 
-      "lon": 3.330788402301, 
+      "lat": 50.818282819534, 
+      "lon": 3.330928465092, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 

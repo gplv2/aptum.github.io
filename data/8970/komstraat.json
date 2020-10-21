@@ -65,8 +65,8 @@
         "101C"
       ], 
       "housenumber": "101C", 
-      "lat": 50.860121835239, 
-      "lon": 2.736641574378, 
+      "lat": 50.860087117406, 
+      "lon": 2.736711966973, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -209,11 +209,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.85888659138, 
-      "lon": 2.733440275658, 
+      "lat": 50.858886685211, 
+      "lon": 2.733440556523, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Komstraat"
     }, 
     {
@@ -245,8 +245,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.859078881559, 
-      "lon": 2.733650235685, 
+      "lat": 50.859153456519, 
+      "lon": 2.733568795392, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -357,7 +357,7 @@
       "lon": 2.734303141388, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Komstraat"
     }, 
     {
@@ -365,23 +365,11 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.859491279299, 
-      "lon": 2.734350200873, 
+      "lat": 50.859608382881, 
+      "lon": 2.734236311684, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Komstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "144"
-      ], 
-      "housenumber": "144", 
-      "lat": 50.859520296232, 
-      "lon": 2.73439351673, 
-      "municipality": "Poperinge", 
-      "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Komstraat"
     }, 
     {
@@ -581,8 +569,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.860754868364, 
-      "lon": 2.737742516895, 
+      "lat": 50.860779834334, 
+      "lon": 2.737649731238, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -797,8 +785,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.858000924874, 
-      "lon": 2.732641301641, 
+      "lat": 50.85801843854, 
+      "lon": 2.732588271203, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -965,8 +953,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.856125591677, 
-      "lon": 2.729205589123, 
+      "lat": 50.856234444025, 
+      "lon": 2.729048513516, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1145,8 +1133,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.857720281838, 
-      "lon": 2.731718437726, 
+      "lat": 50.857720922834, 
+      "lon": 2.731719267771, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1262,6 +1250,18 @@
     }, 
     {
       "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.858189384676, 
+      "lon": 2.732118629155, 
+      "municipality": "Poperinge", 
+      "pcode": "8970", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Komstraat"
+    }, 
+    {
+      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
@@ -1289,8 +1289,8 @@
         "93-99A"
       ], 
       "housenumber": "93", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1301,8 +1301,8 @@
         "93-99A"
       ], 
       "housenumber": "93A", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1313,8 +1313,8 @@
         "93-99A"
       ], 
       "housenumber": "95", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1325,8 +1325,8 @@
         "93-99A"
       ], 
       "housenumber": "95A", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1349,8 +1349,8 @@
         "93-99A"
       ], 
       "housenumber": "97", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1361,8 +1361,8 @@
         "93-99A"
       ], 
       "housenumber": "97A", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1385,8 +1385,8 @@
         "93-99A"
       ], 
       "housenumber": "99", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1397,8 +1397,8 @@
         "93-99A"
       ], 
       "housenumber": "99A", 
-      "lat": 50.859309522127, 
-      "lon": 2.734515492047, 
+      "lat": 50.859309524104, 
+      "lon": 2.734515634045, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

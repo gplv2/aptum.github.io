@@ -722,6 +722,11 @@
       "street": "Uitbreidingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "338"
       ], 
@@ -968,38 +973,38 @@
     }, 
     {
       "hnrlbls": [
-        "376"
+        "376-380"
       ], 
       "housenumber": "376", 
-      "lat": 51.19735317805, 
-      "lon": 4.430164922071, 
+      "lat": 51.197527417401, 
+      "lon": 4.430083466119, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Uitbreidingstraat"
     }, 
     {
       "hnrlbls": [
-        "378"
+        "376-380"
       ], 
       "housenumber": "378", 
-      "lat": 51.197384067154, 
-      "lon": 4.430224333382, 
+      "lat": 51.197527417401, 
+      "lon": 4.430083466119, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Uitbreidingstraat"
     }, 
     {
       "hnrlbls": [
-        "380"
+        "376-380"
       ], 
       "housenumber": "380", 
-      "lat": 51.197417929276, 
-      "lon": 4.430270730204, 
+      "lat": 51.197527417401, 
+      "lon": 4.430083466119, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Uitbreidingstraat"
     }, 
     {
@@ -1039,8 +1044,8 @@
         "384"
       ], 
       "housenumber": "384", 
-      "lat": 51.197545743513, 
-      "lon": 4.430274191055, 
+      "lat": 51.197446776751, 
+      "lon": 4.430281212118, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1171,8 +1176,8 @@
         "426"
       ], 
       "housenumber": "426", 
-      "lat": 51.198269969075, 
-      "lon": 4.431244411542, 
+      "lat": 51.198263669578, 
+      "lon": 4.431258566286, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1771,7 +1776,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "522"
@@ -1813,8 +1819,8 @@
         "526"
       ], 
       "housenumber": "526", 
-      "lat": 51.202064769435, 
-      "lon": 4.434908839409, 
+      "lat": 51.202064139677, 
+      "lon": 4.434909840032, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2035,11 +2041,11 @@
     }, 
     {
       "hnrlbls": [
-        "562-564"
+        "562"
       ], 
       "housenumber": "562", 
-      "lat": 51.203025161762, 
-      "lon": 4.43589745402, 
+      "lat": 51.202992627369, 
+      "lon": 4.435890825121, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -2059,14 +2065,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "562-564"
+        "564"
       ], 
       "housenumber": "564", 
-      "lat": 51.203025161762, 
-      "lon": 4.43589745402, 
+      "lat": 51.203033664224, 
+      "lon": 4.435961136111, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Uitbreidingstraat"
     }, 
     {

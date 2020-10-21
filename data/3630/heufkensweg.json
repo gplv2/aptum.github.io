@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.991854945839, 
-      "lon": 5.700758201249, 
+      "lat": 50.990705251814, 
+      "lon": 5.699295420586, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -17,14 +17,19 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.99060513816, 
-      "lon": 5.699831900564, 
+      "lat": 50.99083254566, 
+      "lon": 5.699931955532, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heufkensweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -33,7 +38,7 @@
       "lon": 5.700699370519, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heufkensweg"
     }, 
     {
@@ -67,7 +72,7 @@
       "lon": 5.700564931527, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heufkensweg"
     }, 
     {
@@ -79,10 +84,13 @@
       "lon": 5.70100916604, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heufkensweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -91,7 +99,7 @@
       "lon": 5.701910358148, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heufkensweg"
     }
   ]

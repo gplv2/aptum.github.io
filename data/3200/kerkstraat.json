@@ -61,6 +61,11 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -180,8 +185,44 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.005202822303, 
-      "lon": 4.83392448283, 
+      "lat": 51.005569894186, 
+      "lon": 4.833936966777, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 51.005196886879, 
+      "lon": 4.834129447541, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 51.005228710049, 
+      "lon": 4.834015640359, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28C"
+      ], 
+      "housenumber": "28C", 
+      "lat": 51.005246473315, 
+      "lon": 4.833865646611, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 
@@ -192,11 +233,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.005853941837, 
-      "lon": 4.834394155621, 
+      "lat": 51.005932737707, 
+      "lon": 4.834290788013, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {

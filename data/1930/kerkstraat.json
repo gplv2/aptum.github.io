@@ -86,7 +86,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "13-13A"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 50.88098769838, 
@@ -94,18 +94,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13-13A"
-      ], 
-      "housenumber": "13A", 
-      "lat": 50.88098769838, 
-      "lon": 4.471704774751, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -309,6 +297,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.881205261582, 
+      "lon": 4.472797418411, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -420,18 +420,19 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.881230790076, 
-      "lon": 4.472091533115, 
+      "lat": 50.881179617, 
+      "lon": 4.472117707862, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -614,26 +615,26 @@
     }, 
     {
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.881361983978, 
-      "lon": 4.468539509237, 
+      "lat": 50.881346498094, 
+      "lon": 4.468567611558, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "58-60"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.881361983978, 
-      "lon": 4.468539509237, 
+      "lat": 50.881352480982, 
+      "lon": 4.468509364086, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -684,7 +685,9 @@
       "apptnrs": [
         "001", 
         "011", 
-        "012"
+        "012", 
+        "X021", 
+        "X022"
       ], 
       "hnrlbls": [
         "65"
@@ -919,21 +922,18 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.881594269004, 
-      "lon": 4.467273620195, 
+      "lat": 50.881455593187, 
+      "lon": 4.467236807977, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

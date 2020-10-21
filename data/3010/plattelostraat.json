@@ -791,11 +791,11 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.873993070671, 
-      "lon": 4.72829531201, 
+      "lat": 50.874145471529, 
+      "lon": 4.728051822327, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -860,7 +860,10 @@
     }, 
     {
       "busnrs": [
-        "102"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "208"
@@ -966,11 +969,11 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.875248883289, 
-      "lon": 4.728918590687, 
+      "lat": 50.875083557025, 
+      "lon": 4.729155164061, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -1014,11 +1017,11 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.875308516346, 
-      "lon": 4.729083437027, 
+      "lat": 50.875138073904, 
+      "lon": 4.729288144643, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -1050,11 +1053,11 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.874647808034, 
-      "lon": 4.729105070672, 
+      "lat": 50.874756566742, 
+      "lon": 4.72910988473, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -3125,6 +3128,10 @@
       "street": "Platte Lostraat"
     }, 
     {
+      "busnrs": [
+        "01K1", 
+        "01K2"
+      ], 
       "hnrlbls": [
         "435"
       ], 
@@ -3306,8 +3313,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "454"
@@ -4206,11 +4213,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.873352999737, 
-      "lon": 4.722514038788, 
+      "lat": 50.873366300732, 
+      "lon": 4.722544969534, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -4890,11 +4897,11 @@
         "628"
       ], 
       "housenumber": "628", 
-      "lat": 50.886135975653, 
-      "lon": 4.752326044378, 
+      "lat": 50.886073039328, 
+      "lon": 4.752109231541, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -4962,11 +4969,11 @@
         "642"
       ], 
       "housenumber": "642", 
-      "lat": 50.886606642031, 
-      "lon": 4.753184153786, 
+      "lat": 50.886644216482, 
+      "lon": 4.753266889176, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -4974,11 +4981,11 @@
         "644"
       ], 
       "housenumber": "644", 
-      "lat": 50.886583888601, 
-      "lon": 4.753597950638, 
+      "lat": 50.886670201087, 
+      "lon": 4.753374968406, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Platte Lostraat"
     }, 
     {
@@ -5309,6 +5316,10 @@
       "street": "Platte Lostraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "78"
       ], 

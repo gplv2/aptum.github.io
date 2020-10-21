@@ -484,8 +484,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.219516585379, 
-      "lon": 4.318514942955, 
+      "lat": 51.219515235442, 
+      "lon": 4.318510936789, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -523,8 +523,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.21968214361, 
-      "lon": 4.316602276097, 
+      "lat": 51.219680346181, 
+      "lon": 4.316602850596, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -535,8 +535,8 @@
         "145A"
       ], 
       "housenumber": "145A", 
-      "lat": 51.219563800198, 
-      "lon": 4.315858996055, 
+      "lat": 51.219476698349, 
+      "lon": 4.315849217697, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -547,8 +547,8 @@
         "145B"
       ], 
       "housenumber": "145B", 
-      "lat": 51.21957012875, 
-      "lon": 4.315738617689, 
+      "lat": 51.219477728556, 
+      "lon": 4.315739723265, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -659,8 +659,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.21993362271, 
-      "lon": 4.324626144901, 
+      "lat": 51.219933354951, 
+      "lon": 4.324631297826, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -990,21 +990,20 @@
     }, 
     {
       "apptnrs": [
-        "V1", 
-        "V2"
-      ], 
-      "busnrs": [
-        "4"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "41-43"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.219192068024, 
-      "lon": 4.323865253749, 
+      "lat": 51.219137347117, 
+      "lon": 4.323914541442, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp West"
     }, 
     {
@@ -1020,18 +1019,15 @@
       "street": "Dorp West"
     }, 
     {
-      "apptnrs": [
-        "V2"
-      ], 
       "hnrlbls": [
-        "41-43"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.219192068024, 
-      "lon": 4.323865253749, 
+      "lat": 51.219136071152, 
+      "lon": 4.323867453732, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp West"
     }, 
     {
@@ -1112,18 +1108,6 @@
     }, 
     {
       "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.219138207198, 
-      "lon": 4.323571321082, 
-      "municipality": "Zwijndrecht", 
-      "pcode": "2070", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp West"
-    }, 
-    {
-      "hnrlbls": [
         "5-5B"
       ], 
       "housenumber": "5", 
@@ -1139,8 +1123,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.218930032321, 
-      "lon": 4.32308646304, 
+      "lat": 51.21892760551, 
+      "lon": 4.323086608508, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1151,11 +1135,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.219140696028, 
-      "lon": 4.323497178702, 
+      "lat": 51.219180255301, 
+      "lon": 4.323524621386, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorp West"
     }, 
     {
@@ -1306,6 +1290,10 @@
       "street": "Dorp West"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1393,8 +1381,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.219215561281, 
-      "lon": 4.322766297353, 
+      "lat": 51.219220504622, 
+      "lon": 4.322765576913, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1431,17 +1419,19 @@
     }, 
     {
       "apptnrs": [
-        "V1"
+        "0101", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.219186326573, 
-      "lon": 4.322707786575, 
+      "lat": 51.219157384504, 
+      "lon": 4.322709245998, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp West"
     }, 
     {
@@ -1460,19 +1450,15 @@
       "street": "Dorp West"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "V1"
-      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.219291977152, 
-      "lon": 4.322569994791, 
+      "lat": 51.219157974836, 
+      "lon": 4.322608054296, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp West"
     }, 
     {
@@ -1523,8 +1509,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.218931354235, 
-      "lon": 4.321394846312, 
+      "lat": 51.218932253413, 
+      "lon": 4.321395704173, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1564,8 +1550,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.218924287168, 
-      "lon": 4.321252871636, 
+      "lat": 51.218927524859, 
+      "lon": 4.321257591569, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1627,8 +1613,8 @@
         "86-88"
       ], 
       "housenumber": "86", 
-      "lat": 51.218944585129, 
-      "lon": 4.320986635366, 
+      "lat": 51.218939730144, 
+      "lon": 4.320983491477, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1639,8 +1625,8 @@
         "86-88"
       ], 
       "housenumber": "88", 
-      "lat": 51.218944585129, 
-      "lon": 4.320986635366, 
+      "lat": 51.218939730144, 
+      "lon": 4.320983491477, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1660,8 +1646,9 @@
     }, 
     {
       "apptnrs": [
-        "V1", 
-        "V2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "9"

@@ -253,7 +253,7 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "24-26"
       ], 
       "housenumber": "24", 
       "lat": 51.031935990435, 
@@ -277,14 +277,14 @@
     }, 
     {
       "hnrlbls": [
-        "26"
+        "24-26"
       ], 
       "housenumber": "26", 
-      "lat": 51.031839551951, 
-      "lon": 4.097451346969, 
+      "lat": 51.031935990435, 
+      "lon": 4.097562553523, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -558,8 +558,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.031451362378, 
-      "lon": 4.09606767493, 
+      "lat": 51.031448138541, 
+      "lon": 4.096072968177, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -845,27 +845,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.031458986172, 
-      "lon": 4.094895404033, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "70-72"
       ], 
       "housenumber": "70", 
-      "lat": 51.031885924698, 
-      "lon": 4.09495478239, 
+      "lat": 51.031832973544, 
+      "lon": 4.094952382699, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -905,8 +893,8 @@
         "70-72"
       ], 
       "housenumber": "72", 
-      "lat": 51.031885924698, 
-      "lon": 4.09495478239, 
+      "lat": 51.031832973544, 
+      "lon": 4.094952382699, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1010,18 +998,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.03170901005, 
-      "lon": 4.098382702859, 
+      "lat": 51.031600820373, 
+      "lon": 4.098399577287, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1085,18 +1070,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.031834501552, 
-      "lon": 4.092752025462, 
+      "lat": 51.031828278851, 
+      "lon": 4.092743366151, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1116,8 +1098,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.031529819391, 
-      "lon": 4.09443054711, 
+      "lat": 51.03152613558, 
+      "lon": 4.094431281413, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1148,6 +1130,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.03160198284, 
+      "lon": 4.098357659413, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1215,8 +1209,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.031210627518, 
-      "lon": 4.093585072326, 
+      "lat": 51.031249371284, 
+      "lon": 4.093701169257, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1243,11 +1237,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.031342389179, 
-      "lon": 4.093384581364, 
+      "lat": 51.031601344296, 
+      "lon": 4.093491689139, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

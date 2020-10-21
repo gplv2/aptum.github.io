@@ -221,8 +221,9 @@
       "street": "Frans Adriaenssensstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "13"
@@ -264,8 +265,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.254523451886, 
-      "lon": 4.442173268866, 
+      "lat": 51.254522734889, 
+      "lon": 4.442169973294, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -315,8 +316,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.254659815743, 
-      "lon": 4.44215443531, 
+      "lat": 51.254662586225, 
+      "lon": 4.442179792591, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -327,8 +328,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.254708257805, 
-      "lon": 4.442161960655, 
+      "lat": 51.254707093906, 
+      "lon": 4.442154653731, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -400,9 +401,6 @@
       "street": "Frans Adriaenssensstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -412,6 +410,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
+      "street": "Frans Adriaenssensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "152A"
+      ], 
+      "housenumber": "152A", 
+      "lat": 51.254985585289, 
+      "lon": 4.441955280189, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans Adriaenssensstraat"
     }, 
     {
@@ -565,18 +575,6 @@
     }, 
     {
       "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.251597387507, 
-      "lon": 4.442920557398, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Adriaenssensstraat"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -594,7 +592,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "30-32"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.251597387507, 
@@ -823,12 +821,15 @@
       "street": "Frans Adriaenssensstraat"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "52"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "50-52"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.252301175195, 
@@ -845,18 +846,6 @@
       "housenumber": "51", 
       "lat": 51.252809511843, 
       "lon": 4.442262640136, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Adriaenssensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50-52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.252301175195, 
-      "lon": 4.442769865029, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1003,8 +992,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.252794279761, 
-      "lon": 4.442899993124, 
+      "lat": 51.252799592985, 
+      "lon": 4.442883959802, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1166,8 +1155,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.253898132348, 
-      "lon": 4.441750306157, 
+      "lat": 51.253897915726, 
+      "lon": 4.441809461553, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1222,6 +1211,11 @@
       "street": "Frans Adriaenssensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -1270,8 +1264,10 @@
       "street": "Frans Adriaenssensstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "87"

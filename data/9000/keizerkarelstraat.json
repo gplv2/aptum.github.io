@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-3A"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.053780581006, 
@@ -654,9 +654,9 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
-        "0201", 
-        "0301"
+        "0201"
       ], 
       "hnrlbls": [
         "140"
@@ -1133,7 +1133,7 @@
     }, 
     {
       "hnrlbls": [
-        "168-174"
+        "168-174A"
       ], 
       "housenumber": "168", 
       "lat": 51.050854258614, 
@@ -1141,6 +1141,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Keizer Karelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "168-174A"
+      ], 
+      "housenumber": "168A", 
+      "lat": 51.050854258614, 
+      "lon": 3.733157671765, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Keizer Karelstraat"
     }, 
     {
@@ -1241,7 +1253,7 @@
     }, 
     {
       "hnrlbls": [
-        "168-174"
+        "168-174A"
       ], 
       "housenumber": "170", 
       "lat": 51.050854258614, 
@@ -1265,7 +1277,7 @@
     }, 
     {
       "hnrlbls": [
-        "168-174"
+        "168-174A"
       ], 
       "housenumber": "172", 
       "lat": 51.050854258614, 
@@ -1289,7 +1301,7 @@
     }, 
     {
       "hnrlbls": [
-        "168-174"
+        "168-174A"
       ], 
       "housenumber": "174", 
       "lat": 51.050854258614, 
@@ -1297,6 +1309,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Keizer Karelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "168-174A"
+      ], 
+      "housenumber": "174A", 
+      "lat": 51.050854258614, 
+      "lon": 3.733157671765, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Keizer Karelstraat"
     }, 
     {
@@ -1630,11 +1654,11 @@
         "0402"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.053402997329, 
-      "lon": 3.731194507691, 
+      "lat": 51.053431336114, 
+      "lon": 3.731198686055, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2094,18 +2118,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-3A"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.053780581006, 
-      "lon": 3.731733205466, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Keizer Karelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17-73"
       ], 
       "housenumber": "31", 
@@ -2166,23 +2178,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.053780581006, 
-      "lon": 3.731733205466, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Keizer Karelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-6"
+        "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 51.053402997329, 
-      "lon": 3.731194507691, 
+      "lat": 51.053410794152, 
+      "lon": 3.731223354616, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2310,11 +2310,11 @@
     }, 
     {
       "hnrlbls": [
-        "2-6"
+        "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 51.053402997329, 
-      "lon": 3.731194507691, 
+      "lat": 51.053410794152, 
+      "lon": 3.731223354616, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

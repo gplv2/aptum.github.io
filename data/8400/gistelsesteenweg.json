@@ -49,8 +49,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.211280034882, 
-      "lon": 2.929597733254, 
+      "lat": 51.211288290771, 
+      "lon": 2.929618661851, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -157,8 +157,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.210494359919, 
-      "lon": 2.929669200713, 
+      "lat": 51.21049231078, 
+      "lon": 2.929655953039, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -454,10 +454,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "0301", 
-        "1"
+        "0301"
       ], 
       "hnrlbls": [
         "14"
@@ -519,15 +519,19 @@
       "street": "Gistelsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.209349470335, 
-      "lon": 2.930977460532, 
+      "lat": 51.209333776491, 
+      "lon": 2.930914110793, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gistelsesteenweg"
     }, 
     {
@@ -772,8 +776,39 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.216473796299, 
+      "lon": 2.925908520838, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gistelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.2163467369, 
+      "lon": 2.926016660901, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gistelsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "1C"
       ], 
@@ -782,7 +817,7 @@
       "lon": 2.926435653701, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gistelsesteenweg"
     }, 
     {
@@ -1061,6 +1096,18 @@
       "housenumber": "256", 
       "lat": 51.205462411105, 
       "lon": 2.932989750365, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gistelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "260"
+      ], 
+      "housenumber": "260", 
+      "lat": 51.205206545607, 
+      "lon": 2.933277978591, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1443,8 +1490,8 @@
         "381"
       ], 
       "housenumber": "381", 
-      "lat": 51.20521628397, 
-      "lon": 2.934139638921, 
+      "lat": 51.205214592106, 
+      "lon": 2.93414097894, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1467,8 +1514,8 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 51.204849491406, 
-      "lon": 2.934399355444, 
+      "lat": 51.204849805756, 
+      "lon": 2.934395624914, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1633,8 +1680,8 @@
         "409"
       ], 
       "housenumber": "409", 
-      "lat": 51.202863295944, 
-      "lon": 2.935718436203, 
+      "lat": 51.202862445232, 
+      "lon": 2.935707586417, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1678,14 +1725,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-44"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.213714731066, 
-      "lon": 2.92719105668, 
+      "lat": 51.213749702711, 
+      "lon": 2.92715419159, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gistelsesteenweg"
     }, 
     {
@@ -1714,14 +1761,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.213714731066, 
-      "lon": 2.92719105668, 
+      "lat": 51.213725980507, 
+      "lon": 2.927273156412, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gistelsesteenweg"
     }, 
     {
@@ -2308,8 +2355,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.212039133994, 
-      "lon": 2.92901953539, 
+      "lat": 51.212037814885, 
+      "lon": 2.92901456646, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2320,8 +2367,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.21198500433, 
-      "lon": 2.929055700718, 
+      "lat": 51.211984914463, 
+      "lon": 2.929055703492, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

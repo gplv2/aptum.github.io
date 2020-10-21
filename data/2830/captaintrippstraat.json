@@ -22,11 +22,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.059495598075, 
-      "lon": 4.358425911196, 
+      "lat": 51.059519766327, 
+      "lon": 4.358280984854, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Captain Trippstraat"
     }, 
     {
@@ -310,8 +310,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.056595116907, 
-      "lon": 4.357108747733, 
+      "lat": 51.056596015336, 
+      "lon": 4.357103755465, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -634,6 +634,22 @@
       "street": "Captain Trippstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.059659929485, 
+      "lon": 4.358598328596, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Captain Trippstraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -790,6 +806,11 @@
       "street": "Captain Trippstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -1141,8 +1162,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.05790935083, 
-      "lon": 4.357693811026, 
+      "lat": 51.057911686782, 
+      "lon": 4.357680545524, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1179,6 +1200,22 @@
       "housenumber": "86", 
       "lat": 51.057780895169, 
       "lon": 4.357649195093, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Captain Trippstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 51.056172208435, 
+      "lon": 4.35733291677, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

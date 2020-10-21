@@ -501,6 +501,7 @@
         "1", 
         "101", 
         "102", 
+        "201", 
         "202", 
         "203"
       ], 
@@ -532,7 +533,11 @@
     }, 
     {
       "apptnrs": [
+        "1", 
+        "102", 
         "103", 
+        "2", 
+        "201", 
         "202", 
         "3"
       ], 
@@ -560,6 +565,25 @@
       "street": "Ezaart"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "202", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 51.177923642254, 
+      "lon": 5.093559375754, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
       "hnrlbls": [
         "143"
       ], 
@@ -569,6 +593,26 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "3"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "144"
+      ], 
+      "housenumber": "144", 
+      "lat": 51.177717586581, 
+      "lon": 5.093607941196, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ezaart"
     }, 
     {
@@ -641,6 +685,18 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ezaart"
+    }, 
+    {
+      "hnrlbls": [
+        "154"
+      ], 
+      "housenumber": "154", 
+      "lat": 51.178406081209, 
+      "lon": 5.092563236289, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ezaart"
     }, 
     {
@@ -1685,11 +1741,11 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.176361974645, 
-      "lon": 5.084800909231, 
+      "lat": 51.176578787733, 
+      "lon": 5.084741746299, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ezaart"
     }, 
     {
@@ -1726,6 +1782,24 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Ezaart"
+    }, 
+    {
+      "apptnrs": [
+        "102"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.179965455793, 
+      "lon": 5.101236796593, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ezaart"
     }, 
     {
@@ -2057,6 +2131,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "101", 
         "201"
       ], 
@@ -3103,6 +3178,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "101"
       ], 
       "hnrlbls": [

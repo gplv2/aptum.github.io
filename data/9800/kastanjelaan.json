@@ -40,35 +40,35 @@
       "street": "Kastanjelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "20", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "0001", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020"
       ], 
       "hnrlbls": [
-        "13-19"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.971818051248, 
-      "lon": 3.530100521233, 
+      "lat": 50.97207773473, 
+      "lon": 3.530083634541, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -76,8 +76,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.972519146463, 
-      "lon": 3.530426434666, 
+      "lat": 50.97252004431, 
+      "lon": 3.53042627624, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -103,14 +103,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "13-19"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.971818051248, 
-      "lon": 3.530100521233, 
+      "lat": 50.971999996137, 
+      "lon": 3.529859775922, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -126,32 +126,31 @@
       "street": "Kastanjelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "20", 
-        "5", 
-        "9"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020"
       ], 
       "hnrlbls": [
-        "13-19"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.971818051248, 
-      "lon": 3.530100521233, 
+      "lat": 50.971772144676, 
+      "lon": 3.530470821105, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -186,14 +185,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "13-19"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.971818051248, 
-      "lon": 3.530100521233, 
+      "lat": 50.971720532363, 
+      "lon": 3.530115932947, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -222,7 +221,7 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 50.971123461781, 
@@ -239,18 +238,6 @@
       "housenumber": "22", 
       "lat": 50.972256213095, 
       "lon": 3.530630753317, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kastanjelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "21-23"
-      ], 
-      "housenumber": "23", 
-      "lat": 50.971123461781, 
-      "lon": 3.529426383861, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -342,21 +329,9 @@
     }, 
     {
       "hnrlbls": [
-        "38-40"
+        "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.971094342472, 
-      "lon": 3.531623672983, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kastanjelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "38-40"
-      ], 
-      "housenumber": "40", 
       "lat": 50.971094342472, 
       "lon": 3.531623672983, 
       "municipality": "Deinze", 
@@ -399,11 +374,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.970877132451, 
-      "lon": 3.531874005595, 
+      "lat": 50.970890901432, 
+      "lon": 3.531888709748, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {

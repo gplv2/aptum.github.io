@@ -82,6 +82,7 @@
         "0901", 
         "0902", 
         "0903", 
+        "0904", 
         "1001", 
         "1002", 
         "1003", 
@@ -149,8 +150,6 @@
         "0102", 
         "0103", 
         "0104", 
-        "0105", 
-        "0106", 
         "0201", 
         "0202", 
         "0203", 
@@ -161,30 +160,26 @@
         "0303", 
         "0304", 
         "0305", 
-        "0306", 
         "0401", 
         "0402", 
         "0403", 
+        "0404", 
         "0405", 
-        "0406", 
         "0501", 
         "0502", 
         "0503", 
         "0504", 
         "0505", 
-        "0506", 
         "0601", 
         "0602", 
         "0603", 
         "0604", 
         "0605", 
-        "0606", 
         "0701", 
         "0702", 
         "0703", 
         "0704", 
-        "0705", 
-        "0706"
+        "0705"
       ], 
       "hnrlbls": [
         "14"
@@ -401,8 +396,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
-        "0002", 
         "0003", 
         "0101", 
         "0102", 
@@ -580,17 +573,18 @@
         "1303", 
         "1304", 
         "1401", 
-        "1402"
+        "1402", 
+        "1403"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.23289960297, 
-      "lon": 2.935372214091, 
+      "lat": 51.232927173599, 
+      "lon": 2.9353846839, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrik Baelskaai"
     }, 
     {
@@ -922,6 +916,9 @@
       "street": "Hendrik Baelskaai"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -976,18 +973,6 @@
       "housenumber": "5B", 
       "lat": 51.235373792076, 
       "lon": 2.931899933555, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hendrik Baelskaai"
-    }, 
-    {
-      "hnrlbls": [
-        "5C"
-      ], 
-      "housenumber": "5C", 
-      "lat": 51.235334237635, 
-      "lon": 2.931959293171, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -193,9 +193,6 @@
       "street": "Spaansemolenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -208,16 +205,24 @@
       "street": "Spaansemolenstraat"
     }, 
     {
-      "busnrs": [
-        "0", 
-        "1"
+      "hnrlbls": [
+        "26_1"
       ], 
+      "housenumber": "26_1", 
+      "lat": 51.360395187553, 
+      "lon": 4.308715118361, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spaansemolenstraat"
+    }, 
+    {
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.360395187553, 
-      "lon": 4.308715118361, 
+      "lat": 51.360406648221, 
+      "lon": 4.308807270779, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 

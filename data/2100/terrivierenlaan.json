@@ -49,6 +49,18 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
+      "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.223837353977, 
+      "lon": 4.469479625996, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ter Rivierenlaan"
+    }, 
+    {
       "busnrs": [
         "201"
       ], 
@@ -1607,8 +1619,8 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 51.227408439011, 
-      "lon": 4.469581446033, 
+      "lat": 51.22740870559, 
+      "lon": 4.469585025436, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2362,9 +2374,13 @@
         "1", 
         "10", 
         "11", 
+        "12", 
+        "13", 
+        "2", 
         "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
         "8", 
         "9"
@@ -2405,13 +2421,13 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "62"
@@ -2422,22 +2438,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ter Rivierenlaan"
-    }, 
-    {
-      "busnrs": [
-        "B", 
-        "a"
-      ], 
-      "hnrlbls": [
-        "62_2"
-      ], 
-      "housenumber": "62_2", 
-      "lat": 51.222573744994, 
-      "lon": 4.469400012274, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Rivierenlaan"
     }, 
     {
@@ -2506,8 +2506,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.22244113477, 
-      "lon": 4.468700210305, 
+      "lat": 51.22244159235, 
+      "lon": 4.468690621069, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

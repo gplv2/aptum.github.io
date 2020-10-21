@@ -776,11 +776,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.242914452421, 
-      "lon": 4.43997558274, 
+      "lat": 51.242914093933, 
+      "lon": 4.439973863782, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Houthulststraat"
     }, 
     {
@@ -1171,8 +1171,10 @@
       "street": "Houthulststraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "181"
@@ -1223,6 +1225,10 @@
       "street": "Houthulststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1235,9 +1241,6 @@
       "street": "Houthulststraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "2-2A"
       ], 
@@ -1286,6 +1289,11 @@
       "street": "Houthulststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1363,6 +1371,11 @@
       "street": "Houthulststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "29"
       ], 

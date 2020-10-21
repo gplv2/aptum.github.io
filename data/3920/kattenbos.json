@@ -1096,6 +1096,12 @@
       "street": "Kattenbos"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -1241,7 +1247,7 @@
     }, 
     {
       "hnrlbls": [
-        "81"
+        "81-87"
       ], 
       "housenumber": "81", 
       "lat": 51.206285154259, 
@@ -1285,6 +1291,18 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kattenbos"
+    }, 
+    {
+      "hnrlbls": [
+        "81-87"
+      ], 
+      "housenumber": "87", 
+      "lat": 51.206285154259, 
+      "lon": 5.308819607059, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kattenbos"
     }, 
     {

@@ -1242,27 +1242,20 @@
       "street": "Hofstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "241-243"
+        "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.044691100318, 
-      "lon": 3.730774591199, 
+      "lat": 51.044684834898, 
+      "lon": 3.730762983371, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "241-243"
-      ], 
-      "housenumber": "243", 
-      "lat": 51.044691100318, 
-      "lon": 3.730774591199, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hofstraat"
     }, 
     {

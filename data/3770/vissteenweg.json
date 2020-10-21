@@ -448,8 +448,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.799778790368, 
-      "lon": 5.610911075031, 
+      "lat": 50.799790438341, 
+      "lon": 5.610931812227, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1098,6 +1098,17 @@
       "street": "Vis\u00e9steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1481,6 +1492,10 @@
       "street": "Vis\u00e9steenweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "209"
       ], 
@@ -1657,11 +1672,11 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.79494345661, 
-      "lon": 5.620470224492, 
+      "lat": 50.795111842318, 
+      "lon": 5.620631317189, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vis\u00e9steenweg"
     }, 
     {
@@ -1669,11 +1684,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.810246792393, 
-      "lon": 5.597982438297, 
+      "lat": 50.810274915013, 
+      "lon": 5.597975652733, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vis\u00e9steenweg"
     }, 
     {
@@ -1693,11 +1708,11 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.794916574401, 
-      "lon": 5.620663569762, 
+      "lat": 50.795094967016, 
+      "lon": 5.620880963314, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vis\u00e9steenweg"
     }, 
     {
@@ -1717,11 +1732,11 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 50.794768978763, 
-      "lon": 5.620769579935, 
+      "lat": 50.794982350015, 
+      "lon": 5.621095858102, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vis\u00e9steenweg"
     }, 
     {
@@ -2119,9 +2134,6 @@
       "street": "Vis\u00e9steenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "259"
       ], 
@@ -2270,8 +2282,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.808905063891, 
-      "lon": 5.601517532133, 
+      "lat": 50.80891348636, 
+      "lon": 5.601528821083, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -3161,11 +3173,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.808484288822, 
-      "lon": 5.601338492722, 
+      "lat": 50.80848110609, 
+      "lon": 5.601230850939, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vis\u00e9steenweg"
     }, 
     {
@@ -3374,6 +3386,18 @@
     }, 
     {
       "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.806183331408, 
+      "lon": 5.603414337334, 
+      "municipality": "Riemst", 
+      "pcode": "3770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Vis\u00e9steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -3433,18 +3457,6 @@
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Vis\u00e9steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "98"
-      ], 
-      "housenumber": "98", 
-      "lat": 50.804371245974, 
-      "lon": 5.605372020021, 
-      "municipality": "Riemst", 
-      "pcode": "3770", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Vis\u00e9steenweg"
     }, 
     {

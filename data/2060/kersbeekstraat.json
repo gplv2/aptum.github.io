@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.220700860979, 
-      "lon": 4.438110230682, 
+      "lat": 51.220698383545, 
+      "lon": 4.438195533777, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kersbeekstraat"
     }, 
     {
@@ -144,6 +149,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Kersbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.220654401044, 
+      "lon": 4.438093271295, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kersbeekstraat"
     }, 
     {

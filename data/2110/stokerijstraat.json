@@ -571,8 +571,8 @@
         "21-31"
       ], 
       "housenumber": "21", 
-      "lat": 51.223534767131, 
-      "lon": 4.545088266302, 
+      "lat": 51.223532327847, 
+      "lon": 4.545096559235, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanPerceelGrb", 
@@ -872,12 +872,22 @@
       "street": "Stokerijstraat"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4", 
+        "bus5", 
+        "bus6", 
+        "bus7", 
+        "bus8"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.222935347236, 
-      "lon": 4.546452685929, 
+      "lat": 51.223201904956, 
+      "lon": 4.546716225067, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanPerceelGrb", 
@@ -892,7 +902,7 @@
       "lon": 4.546187571854, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stokerijstraat"
     }, 
     {
@@ -1264,11 +1274,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.222391730329, 
-      "lon": 4.546511010188, 
+      "lat": 51.221887582592, 
+      "lon": 4.547216316874, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stokerijstraat"
     }, 
     {

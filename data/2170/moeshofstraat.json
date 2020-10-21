@@ -199,10 +199,12 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "116"
@@ -552,6 +554,14 @@
       "street": "Moeshofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -619,8 +629,12 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "152"
@@ -913,8 +927,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.255815407627, 
-      "lon": 4.445568252978, 
+      "lat": 51.255813777823, 
+      "lon": 4.445586441763, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -972,8 +986,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.251241888388, 
-      "lon": 4.443365276115, 
+      "lat": 51.251241078167, 
+      "lon": 4.44336727997, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1197,8 +1211,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.256312188892, 
-      "lon": 4.44556850645, 
+      "lat": 51.256311917274, 
+      "lon": 4.445571514073, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1603,10 +1617,6 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -1690,8 +1700,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.252159677018, 
-      "lon": 4.443795157023, 
+      "lat": 51.252166766473, 
+      "lon": 4.443812785703, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1704,18 +1714,6 @@
       "housenumber": "55", 
       "lat": 51.252057600316, 
       "lon": 4.444168388018, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeshofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.252188032131, 
-      "lon": 4.443729461009, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1872,7 +1870,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "101", 
         "201"
       ], 
@@ -1900,6 +1897,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
+      "street": "Moeshofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.252583839344, 
+      "lon": 4.444066981219, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moeshofstraat"
     }, 
     {

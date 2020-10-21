@@ -3,7 +3,7 @@
     {
       "busnrs": [
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -69,11 +69,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.211326370643, 
-      "lon": 2.90611613598, 
+      "lat": 51.211403572673, 
+      "lon": 2.906136044138, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
@@ -247,15 +247,19 @@
       "street": "Molenaarsstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.211304055953, 
-      "lon": 2.906725285867, 
+      "lat": 51.211338332698, 
+      "lon": 2.90673451716, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
@@ -323,35 +327,36 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "2"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.211162887805, 
-      "lon": 2.906963442081, 
+      "lat": 51.21125991876, 
+      "lon": 2.906987453608, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
       "busnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.211446083233, 
-      "lon": 2.90749489026, 
+      "lat": 51.21139235642, 
+      "lon": 2.907483118702, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
@@ -473,21 +478,19 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0002", 
+        "0101"
       ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.211322082277, 
-      "lon": 2.908657277173, 
+      "lat": 51.211271638481, 
+      "lon": 2.908649266099, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
@@ -520,46 +523,35 @@
         "0201"
       ], 
       "hnrlbls": [
-        "60-110"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.211099632888, 
-      "lon": 2.90806495198, 
+      "lat": 51.211187419243, 
+      "lon": 2.908126612299, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0102", 
-        "0202", 
-        "0301", 
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
-        "61-61B"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.211292133954, 
-      "lon": 2.908962224627, 
+      "lat": 51.21124204372, 
+      "lon": 2.908931873759, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
-      "busnrs": [
-        "0302"
-      ], 
       "hnrlbls": [
-        "61-61B"
+        "61B"
       ], 
       "housenumber": "61B", 
       "lat": 51.211292133954, 
@@ -631,8 +623,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.211208822148, 
-      "lon": 2.909292171341, 
+      "lat": 51.211208724464, 
+      "lon": 2.909262403212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
@@ -640,18 +632,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.211052448352, 
-      "lon": 2.908502833421, 
+      "lat": 51.211146402089, 
+      "lon": 2.908517927174, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {
@@ -667,17 +659,12 @@
       "street": "Molenaarsstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.211129616191, 
-      "lon": 2.908680190002, 
+      "lat": 51.211134407399, 
+      "lon": 2.908682330146, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -709,11 +696,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.211225083012, 
-      "lon": 2.909589947129, 
+      "lat": 51.211174470136, 
+      "lon": 2.909582799137, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenaarsstraat"
     }, 
     {

@@ -463,11 +463,16 @@
       "street": "Wagenmakersstraat"
     }, 
     {
+      "apptnrs": [
+        "F000", 
+        "G000"
+      ], 
       "busnrs": [
         "A000", 
         "B000", 
         "C000", 
-        "D000"
+        "D000", 
+        "E000"
       ], 
       "hnrlbls": [
         "37"
@@ -749,11 +754,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.819096890413, 
-      "lon": 3.274113119096, 
+      "lat": 50.818695357791, 
+      "lon": 3.274294612477, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Wagenmakersstraat"
     }, 
     {
@@ -797,8 +802,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.819271275201, 
-      "lon": 3.272877429325, 
+      "lat": 50.819259398313, 
+      "lon": 3.272876428552, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -992,11 +997,14 @@
       "street": "Wagenmakersstraat"
     }, 
     {
+      "apptnrs": [
+        "0000", 
+        "0001"
+      ], 
       "busnrs": [
-        "11", 
-        "21", 
-        "22", 
-        "31"
+        "0011", 
+        "0021", 
+        "0031"
       ], 
       "hnrlbls": [
         "83A"

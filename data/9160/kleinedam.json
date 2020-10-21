@@ -1,6 +1,30 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.103723471361, 
+      "lon": 3.987155562568, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
       "busnrs": [
         "1", 
         "101", 
@@ -57,6 +81,23 @@
       "street": "Kleine Dam"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.103245616477, 
+      "lon": 3.98712618975, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
       "busnrs": [
         "1", 
         "101", 
@@ -82,6 +123,7 @@
     {
       "apptnrs": [
         "B001", 
+        "B002", 
         "B003", 
         "B004", 
         "B005", 
@@ -147,18 +189,6 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.102922179221, 
-      "lon": 3.985898546451, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kleine Dam"
-    }, 
-    {
-      "hnrlbls": [
         "1B"
       ], 
       "housenumber": "1B", 
@@ -215,6 +245,18 @@
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.102951782584, 
+      "lon": 3.986796492852, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kleine Dam"
     }, 
     {
@@ -314,8 +356,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.103030685344, 
-      "lon": 3.98626244646, 
+      "lat": 51.102911087078, 
+      "lon": 3.985887500802, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanGebouw", 
@@ -347,6 +389,30 @@
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.102165261299, 
+      "lon": 3.983228774159, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 51.102156977175, 
+      "lon": 3.983141751949, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleine Dam"
     }, 
     {
@@ -426,8 +492,20 @@
         "3C"
       ], 
       "housenumber": "3C", 
-      "lat": 51.103063384668, 
-      "lon": 3.986256182894, 
+      "lat": 51.10292653932, 
+      "lon": 3.985607538456, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kleine Dam"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.103598615969, 
+      "lon": 3.98748981797, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -438,8 +516,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.102045294462, 
-      "lon": 3.985117334515, 
+      "lat": 51.102045384813, 
+      "lon": 3.985117476545, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 

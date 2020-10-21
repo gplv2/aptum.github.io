@@ -14,7 +14,7 @@
       "lon": 5.511046523502, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sledderloweg"
     }, 
     {
@@ -130,8 +130,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.951050872256, 
-      "lon": 5.512775389024, 
+      "lat": 50.951044805643, 
+      "lon": 5.512789046584, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -170,11 +170,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.953829075903, 
-      "lon": 5.511128784215, 
+      "lat": 50.953845118644, 
+      "lon": 5.51118938278, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sledderloweg"
     }, 
     {
@@ -370,6 +370,12 @@
       "street": "Sledderloweg"
     }, 
     {
+      "apptnrs": [
+        "BUS 1", 
+        "BUS 11", 
+        "BUS 12", 
+        "BUS 2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -406,6 +412,12 @@
       "street": "Sledderloweg"
     }, 
     {
+      "apptnrs": [
+        "BUS 1", 
+        "BUS 11", 
+        "BUS 12", 
+        "BUS 2"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -515,6 +527,18 @@
     }, 
     {
       "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.947005873489, 
+      "lon": 5.515051885682, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sledderloweg"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -578,11 +602,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.946871920853, 
-      "lon": 5.511591815242, 
+      "lat": 50.946863902291, 
+      "lon": 5.511565861015, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Sledderloweg"
     }
   ]

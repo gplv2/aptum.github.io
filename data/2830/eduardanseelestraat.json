@@ -65,8 +65,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.065149801882, 
-      "lon": 4.352527763131, 
+      "lat": 51.065159061146, 
+      "lon": 4.352533038342, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -89,11 +89,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.065130376715, 
-      "lon": 4.3524585813, 
+      "lat": 51.065107097593, 
+      "lon": 4.352474709211, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Eduard Anseelestraat"
     }, 
     {
@@ -113,8 +113,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.065173700082, 
-      "lon": 4.352434885894, 
+      "lat": 51.065183498797, 
+      "lon": 4.352441016847, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +161,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.065208648248, 
-      "lon": 4.352294785553, 
+      "lat": 51.065217098579, 
+      "lon": 4.352300488966, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -233,8 +233,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.065246735845, 
-      "lon": 4.352106466004, 
+      "lat": 51.065272626042, 
+      "lon": 4.352122434723, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.065269020658, 
-      "lon": 4.352049966363, 
+      "lat": 51.065288438234, 
+      "lon": 4.352061372257, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -329,8 +329,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.06569392724, 
-      "lon": 4.351410285295, 
+      "lat": 51.065694546322, 
+      "lon": 4.351338670774, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -821,6 +821,11 @@
       "street": "Eduard Anseelestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -957,8 +962,17 @@
       "street": "Eduard Anseelestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.063562731523, 
@@ -1179,18 +1193,6 @@
       "housenumber": "89", 
       "lat": 51.06488754847, 
       "lon": 4.353568950085, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Eduard Anseelestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.063562731523, 
-      "lon": 4.357493131654, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

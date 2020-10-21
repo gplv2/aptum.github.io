@@ -25,14 +25,10 @@
       "street": "Rubensstraat"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "1/1", 
-        "2", 
-        "3"
-      ], 
       "busnrs": [
-        "O/01"
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "102"
@@ -46,11 +42,10 @@
       "street": "Rubensstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "104"
@@ -216,7 +211,7 @@
       "lon": 4.409653114564, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rubensstraat"
     }, 
     {
@@ -244,7 +239,7 @@
       "lon": 4.409556562935, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rubensstraat"
     }, 
     {
@@ -276,7 +271,7 @@
       "lon": 4.409411519014, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rubensstraat"
     }, 
     {
@@ -405,7 +400,14 @@
     }, 
     {
       "busnrs": [
-        "03/1"
+        "00/1", 
+        "00/2", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2"
       ], 
       "hnrlbls": [
         "82"

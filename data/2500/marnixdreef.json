@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.138259403457, 
-      "lon": 4.591883796704, 
+      "lat": 51.138229323528, 
+      "lon": 4.591866792719, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -221,11 +221,23 @@
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.144390543344, 
-      "lon": 4.599462246512, 
+      "lat": 51.144357204308, 
+      "lon": 4.599457651468, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Marnixdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.144353209425, 
+      "lon": 4.599569664418, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marnixdreef"
     }, 
     {
@@ -233,11 +245,11 @@
         "29C"
       ], 
       "housenumber": "29C", 
-      "lat": 51.144401525029, 
-      "lon": 4.599775106948, 
+      "lat": 51.144391737105, 
+      "lon": 4.599815927509, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Marnixdreef"
     }, 
     {
@@ -470,6 +482,18 @@
     }, 
     {
       "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.139202964318, 
+      "lon": 4.594232886896, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Marnixdreef"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -506,7 +530,7 @@
     }, 
     {
       "busnrs": [
-        "AB 2"
+        "2"
       ], 
       "hnrlbls": [
         "6"

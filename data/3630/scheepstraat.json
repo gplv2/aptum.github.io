@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.948420591559, 
-      "lon": 5.696214515346, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Scheepstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -21,7 +9,7 @@
       "lon": 5.697947893072, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -29,11 +17,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.950399756503, 
-      "lon": 5.695199531846, 
+      "lat": 50.950651506764, 
+      "lon": 5.695548819158, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -41,11 +29,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.951314020717, 
-      "lon": 5.698070637586, 
+      "lat": 50.951594852967, 
+      "lon": 5.698876097991, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -57,7 +45,7 @@
       "lon": 5.696360008659, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -69,7 +57,7 @@
       "lon": 5.69739552558, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -81,10 +69,13 @@
       "lon": 5.696611843944, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -93,7 +84,7 @@
       "lon": 5.69804173867, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -101,11 +92,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.948972672827, 
-      "lon": 5.695947206299, 
+      "lat": 50.949013934055, 
+      "lon": 5.696242135043, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -117,11 +108,11 @@
       "lon": 5.696141511791, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -132,7 +123,7 @@
       "lon": 5.697662490199, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -144,7 +135,7 @@
       "lon": 5.696398872073, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }, 
     {
@@ -152,11 +143,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.950068276351, 
-      "lon": 5.696225737448, 
+      "lat": 50.950069817703, 
+      "lon": 5.696351884622, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Scheepstraat"
     }
   ]

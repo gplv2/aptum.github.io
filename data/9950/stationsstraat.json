@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.151586558741, 
-      "lon": 3.606881487568, 
+      "lat": 51.151582608561, 
+      "lon": 3.606882266597, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -242,14 +242,14 @@
         "301"
       ], 
       "hnrlbls": [
-        "116"
+        "116-118"
       ], 
       "housenumber": "116", 
-      "lat": 51.152480825976, 
-      "lon": 3.613566207801, 
+      "lat": 51.152646033725, 
+      "lon": 3.613634718076, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -269,14 +269,14 @@
         "001"
       ], 
       "hnrlbls": [
-        "118"
+        "116-118"
       ], 
       "housenumber": "118", 
-      "lat": 51.15266008683, 
-      "lon": 3.613653500859, 
+      "lat": 51.152646033725, 
+      "lon": 3.613634718076, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -680,8 +680,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.15182564482, 
-      "lon": 3.608161517874, 
+      "lat": 51.151825999746, 
+      "lon": 3.608160797456, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -740,8 +740,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.151903309653, 
-      "lon": 3.608301038911, 
+      "lat": 51.151902767605, 
+      "lon": 3.608300618944, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -869,23 +869,27 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.151565081232, 
-      "lon": 3.608794926057, 
+      "lat": 51.151567321837, 
+      "lon": 3.608793889131, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.151504486367, 
-      "lon": 3.608933407619, 
+      "lat": 51.15163439077, 
+      "lon": 3.608851399101, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -893,8 +897,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.15199327798, 
-      "lon": 3.609095690085, 
+      "lat": 51.152003788607, 
+      "lon": 3.609094661681, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1013,8 +1017,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.151263945553, 
-      "lon": 3.607077553621, 
+      "lat": 51.151267486859, 
+      "lon": 3.60708307006, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1120,18 +1124,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "46"
+        "1"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.151683585225, 
-      "lon": 3.609554377354, 
+      "lat": 51.15167747143, 
+      "lon": 3.609330365405, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1163,14 +1166,14 @@
     }, 
     {
       "hnrlbls": [
-        "49-53"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.152215121857, 
-      "lon": 3.610130040192, 
+      "lat": 51.152118733826, 
+      "lon": 3.610070145005, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1194,31 +1197,31 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.151609596543, 
-      "lon": 3.609371202183, 
+      "lat": 51.151717855703, 
+      "lon": 3.609543815719, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "hnrlbls": [
-        "49-53"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.152215121857, 
-      "lon": 3.610130040192, 
+      "lat": 51.152132312513, 
+      "lon": 3.610126953454, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1235,22 +1238,22 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "hnrlbls": [
-        "49-53"
+        "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.152215121857, 
-      "lon": 3.610130040192, 
+      "lat": 51.152211691088, 
+      "lon": 3.610337772755, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1763,21 +1766,6 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "92"
-      ], 
-      "housenumber": "92", 
-      "lat": 51.152289483435, 
-      "lon": 3.612040092359, 
-      "municipality": "Lievegem", 
-      "pcode": "9950", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

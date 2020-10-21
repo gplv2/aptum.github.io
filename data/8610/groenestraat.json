@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.017389011649, 
@@ -163,6 +163,30 @@
       "housenumber": "15", 
       "lat": 51.01373144856, 
       "lon": 3.007354064761, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groenestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.013562775197, 
+      "lon": 3.007430939577, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groenestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 51.013384896816, 
+      "lon": 3.007489268268, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -374,14 +398,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.017389011649, 
-      "lon": 3.007449333388, 
+      "lat": 51.019025439413, 
+      "lon": 3.004734724064, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groenestraat"
     }, 
     {
@@ -1076,11 +1100,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.016086432731, 
-      "lon": 3.006622871005, 
+      "lat": 51.016062621231, 
+      "lon": 3.006398649675, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenestraat"
     }, 
     {
@@ -1112,11 +1136,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.997887324149, 
-      "lon": 3.015853555688, 
+      "lat": 50.997883775856, 
+      "lon": 3.015990719188, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Groenestraat"
     }, 
     {

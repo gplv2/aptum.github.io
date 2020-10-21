@@ -445,12 +445,18 @@
       "street": "Meidoornstraat"
     }, 
     {
+      "apptnrs": [
+        "000A", 
+        "000B", 
+        "00A1", 
+        "00B1"
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.976829889243, 
-      "lon": 5.064255482381, 
+      "lat": 50.976835362873, 
+      "lon": 5.0640901021, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanPerceel", 
@@ -503,11 +509,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.977384266613, 
-      "lon": 5.063740412912, 
+      "lat": 50.976428592802, 
+      "lon": 5.064863091829, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meidoornstraat"
     }, 
     {
@@ -545,11 +551,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.977265191112, 
-      "lon": 5.063871073102, 
+      "lat": 50.976344397231, 
+      "lon": 5.064765867852, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meidoornstraat"
     }, 
     {
@@ -565,6 +571,20 @@
       "street": "Meidoornstraat"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B000", 
+        "B001", 
+        "B002", 
+        "C000", 
+        "C001", 
+        "C002", 
+        "D000", 
+        "D001", 
+        "D002"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -725,8 +745,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.976182559868, 
-      "lon": 5.065937625448, 
+      "lat": 50.976166649234, 
+      "lon": 5.065952624494, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

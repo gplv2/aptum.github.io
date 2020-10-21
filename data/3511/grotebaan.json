@@ -101,11 +101,23 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.94161120332, 
-      "lon": 5.301516326782, 
+      "lat": 50.941522353192, 
+      "lon": 5.30145209275, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "109A"
+      ], 
+      "housenumber": "109A", 
+      "lat": 50.941511969614, 
+      "lon": 5.301491727776, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -331,8 +343,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.941891762706, 
-      "lon": 5.300306730107, 
+      "lat": 50.941785788533, 
+      "lon": 5.3002478494, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -405,18 +417,6 @@
       "housenumber": "131", 
       "lat": 50.941815528888, 
       "lon": 5.299785136229, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "133"
-      ], 
-      "housenumber": "133", 
-      "lat": 50.941833465468, 
-      "lon": 5.299677207909, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -694,7 +694,7 @@
       "lon": 5.296804446961, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -931,6 +931,18 @@
     }, 
     {
       "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.940385434118, 
+      "lon": 5.30687512526, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -1042,6 +1054,18 @@
     }, 
     {
       "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.940419130404, 
+      "lon": 5.306404398276, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -1053,36 +1077,24 @@
       "street": "Grote Baan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02", 
+        "4.01", 
+        "4.02"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.940677226153, 
-      "lon": 5.304105615648, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.940700189709, 
-      "lon": 5.304021696392, 
+      "lat": 50.940686776717, 
+      "lon": 5.304069095628, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -1656,8 +1668,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.941105683502, 
-      "lon": 5.303417511419, 
+      "lat": 50.941105773388, 
+      "lon": 5.303417513211, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 

@@ -1,18 +1,6 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.100529699882, 
-      "lon": 3.999168367761, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Krekelstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -20,11 +8,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "11W"
+        "11"
       ], 
-      "housenumber": "11W", 
-      "lat": 51.100563101025, 
-      "lon": 3.999185093372, 
+      "housenumber": "11", 
+      "lat": 51.10056308093, 
+      "lon": 3.999178669055, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -127,29 +115,29 @@
       "street": "Krekelstraat"
     }, 
     {
-      "hnrlbls": [
-        "26A"
+      "apptnrs": [
+        "W001", 
+        "W002", 
+        "W003"
       ], 
-      "housenumber": "26A", 
-      "lat": 51.100203823789, 
-      "lon": 3.999302996787, 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.100275832051, 
+      "lon": 3.999305284108, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
       "street": "Krekelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "26W"
+        "26A"
       ], 
-      "housenumber": "26W", 
-      "lat": 51.100275832051, 
-      "lon": 3.999305284108, 
+      "housenumber": "26A", 
+      "lat": 51.100203823789, 
+      "lon": 3.999302996787, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -338,8 +326,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.100755473078, 
-      "lon": 3.999274375118, 
+      "lat": 51.100763012554, 
+      "lon": 3.999242050359, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -470,8 +458,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.100692788199, 
-      "lon": 3.999235323277, 
+      "lat": 51.100704385651, 
+      "lon": 3.999178410689, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -530,8 +518,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.098881428666, 
-      "lon": 3.999061168542, 
+      "lat": 51.098880857528, 
+      "lon": 3.99907973198, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -624,8 +612,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.100628629259, 
-      "lon": 3.999213557897, 
+      "lat": 51.10062862792, 
+      "lon": 3.999213129608, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -684,11 +672,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.098827937307, 
-      "lon": 3.997625273919, 
+      "lat": 51.098793387136, 
+      "lon": 3.998072959831, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krekelstraat"
     }
   ]

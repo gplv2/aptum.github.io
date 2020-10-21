@@ -228,8 +228,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.062120714145, 
-      "lon": 3.104046318535, 
+      "lat": 51.062111452232, 
+      "lon": 3.104012613848, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -240,11 +240,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.062236698922, 
-      "lon": 3.104659225779, 
+      "lat": 51.062189565627, 
+      "lon": 3.104447352665, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -333,11 +333,11 @@
     }, 
     {
       "hnrlbls": [
-        "34-34"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.063339688857, 
-      "lon": 3.103199443263, 
+      "lat": 51.061871056784, 
+      "lon": 3.104809198614, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -372,11 +372,29 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.061694675194, 
-      "lon": 3.104952347509, 
+      "lat": 51.061670708307, 
+      "lon": 3.104830016161, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lichterveldestraat"
+    }, 
+    {
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4"
+      ], 
+      "hnrlbls": [
+        "36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 51.061662928027, 
+      "lon": 3.104926098009, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -392,13 +410,6 @@
       "street": "Lichterveldestraat"
     }, 
     {
-      "apptnrs": [
-        "V1", 
-        "V2", 
-        "V3", 
-        "V4", 
-        "V5"
-      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -423,8 +434,8 @@
         "39-39A"
       ], 
       "housenumber": "39", 
-      "lat": 51.061351145848, 
-      "lon": 3.104322338358, 
+      "lat": 51.061352040019, 
+      "lon": 3.104321886209, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -443,8 +454,8 @@
         "39-39A"
       ], 
       "housenumber": "39A", 
-      "lat": 51.061351145848, 
-      "lon": 3.104322338358, 
+      "lat": 51.061352040019, 
+      "lon": 3.104321886209, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +466,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.06274968641, 
-      "lon": 3.104181981643, 
+      "lat": 51.062735545498, 
+      "lon": 3.104087345685, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -642,40 +653,16 @@
     }, 
     {
       "apptnrs": [
-        "V30"
-      ], 
-      "busnrs": [
-        "11", 
-        "AV01", 
-        "AV02", 
-        "AV03", 
-        "AV04", 
-        "AV05", 
-        "AV06", 
-        "AV07", 
-        "AV08", 
-        "AV09", 
-        "AV10", 
-        "AV11", 
-        "AV12", 
-        "AV13", 
-        "AV14", 
-        "AV15", 
-        "AV16", 
-        "AV17", 
-        "AV18", 
-        "AV19", 
-        "AV20", 
-        "AV21", 
-        "AV22", 
-        "AV23", 
-        "AV24", 
-        "AV25", 
-        "AV26", 
-        "AV27", 
-        "AV28", 
-        "AV29", 
-        "AV30"
+        "V1", 
+        "V10", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8", 
+        "V9"
       ], 
       "hnrlbls": [
         "53"
@@ -690,17 +677,46 @@
     }, 
     {
       "apptnrs": [
-        "15"
+        "V1", 
+        "V10", 
+        "V11", 
+        "V12", 
+        "V13", 
+        "V14", 
+        "V15", 
+        "V16", 
+        "V17", 
+        "V18", 
+        "V19", 
+        "V2", 
+        "V20", 
+        "V21", 
+        "V22", 
+        "V23", 
+        "V24", 
+        "V25", 
+        "V26", 
+        "V27", 
+        "V28", 
+        "V29", 
+        "V3", 
+        "V30", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8", 
+        "V9"
       ], 
       "hnrlbls": [
         "53A"
       ], 
       "housenumber": "53A", 
-      "lat": 51.059884199178, 
-      "lon": 3.104254109249, 
+      "lat": 51.059891703632, 
+      "lon": 3.104232935381, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {

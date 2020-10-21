@@ -9,20 +9,16 @@
       "lon": 4.396844539434, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Karel Rogierstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.210362222247, 
-      "lon": 4.396407096375, 
+      "lat": 51.21030278402, 
+      "lon": 4.396510092453, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -196,8 +192,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.210374252714, 
-      "lon": 4.396837120706, 
+      "lat": 51.210363375538, 
+      "lon": 4.396841979411, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -277,6 +273,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -357,6 +354,10 @@
       "street": "Karel Rogierstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "301"
+      ], 
       "hnrlbls": [
         "30"
       ], 

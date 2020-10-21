@@ -25,8 +25,15 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E"
+      ], 
       "hnrlbls": [
-        "11-11E"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.162240976996, 
@@ -37,69 +44,6 @@
       "street": "Markt"
     }, 
     {
-      "hnrlbls": [
-        "11A-11B"
-      ], 
-      "housenumber": "11A", 
-      "lat": 51.16223980852, 
-      "lon": 4.989629033128, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "11A-11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 51.16223980852, 
-      "lon": 4.989629033128, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "3-11C"
-      ], 
-      "housenumber": "11C", 
-      "lat": 51.162239798739, 
-      "lon": 4.989630891452, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "11D"
-      ], 
-      "housenumber": "11D", 
-      "lat": 51.162240706595, 
-      "lon": 4.989629188043, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11E"
-      ], 
-      "housenumber": "11E", 
-      "lat": 51.162240976996, 
-      "lon": 4.989629048685, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "13"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -365,7 +309,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-11C"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.162239798739, 
@@ -688,6 +632,14 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -939,78 +891,6 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.162240251914, 
-      "lon": 4.989630182695, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 51.162242779165, 
-      "lon": 4.98962821493, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5C"
-      ], 
-      "housenumber": "5C", 
-      "lat": 51.162238993556, 
-      "lon": 4.989630165942, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5D"
-      ], 
-      "housenumber": "5D", 
-      "lat": 51.162238998823, 
-      "lon": 4.989629165306, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5E"
-      ], 
-      "housenumber": "5E", 
-      "lat": 51.162240262449, 
-      "lon": 4.989628181424, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "5F"
-      ], 
-      "housenumber": "5F", 
-      "lat": 51.162239617468, 
-      "lon": 4.989631174954, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {
@@ -1393,6 +1273,18 @@
     }, 
     {
       "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 51.160698886504, 
+      "lon": 4.989569063482, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -1416,6 +1308,14 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "8"
       ], 

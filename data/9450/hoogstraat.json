@@ -1,27 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "58"
-      ], 
-      "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.901202972484, 
-      "lon": 4.006336848586, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.901219431467, 
-      "lon": 4.00526142414, 
+      "lat": 50.901216108952, 
+      "lon": 4.005262587093, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -135,7 +120,7 @@
       "lon": 4.001322020771, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -275,8 +260,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.901176523635, 
-      "lon": 4.005165087026, 
+      "lat": 50.9011775085, 
+      "lon": 4.005163799976, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -285,7 +270,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "A"
       ], 
       "hnrlbls": [
         "120"
@@ -626,11 +612,11 @@
         "2-2A"
       ], 
       "housenumber": "2", 
-      "lat": 50.90133830559, 
-      "lon": 4.00567973628, 
+      "lat": 50.901306248612, 
+      "lon": 4.00572035719, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -638,8 +624,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.900998507272, 
-      "lon": 4.004866364714, 
+      "lat": 50.900886184137, 
+      "lon": 4.004939165984, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -678,7 +664,7 @@
       "lon": 4.00522633867, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -722,11 +708,23 @@
         "2-2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.90133830559, 
-      "lon": 4.00567973628, 
+      "lat": 50.901306248612, 
+      "lon": 4.00572035719, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.901351115205, 
+      "lon": 4.00581070923, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -778,7 +776,7 @@
       "lon": 4.004953531185, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -790,7 +788,7 @@
       "lon": 4.004807642409, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -976,8 +974,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.901140688977, 
-      "lon": 4.006107882699, 
+      "lat": 50.901156307513, 
+      "lon": 4.006100369991, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1063,13 +1061,16 @@
       "lon": 4.004031637175, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "busnrs": [
-        "3", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
       "hnrlbls": [
         "56"
@@ -1127,7 +1128,7 @@
       "lon": 4.005510817518, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1224,12 +1225,20 @@
       "street": "Hoogstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.898262573873, 
-      "lon": 4.003421381606, 
+      "lat": 50.898234476741, 
+      "lon": 4.003434251229, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1341,18 +1350,6 @@
     }, 
     {
       "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.901265722513, 
-      "lon": 4.005318072637, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -1384,7 +1381,7 @@
       "lon": 4.002683686622, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1396,7 +1393,7 @@
       "lon": 4.003222061072, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1428,8 +1425,8 @@
         "9-9A"
       ], 
       "housenumber": "9", 
-      "lat": 50.90103362357, 
-      "lon": 4.005874429437, 
+      "lat": 50.901044464187, 
+      "lon": 4.005862546584, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1457,6 +1454,28 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.897416792325, 
+      "lon": 4.002422391506, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1564,8 +1583,8 @@
         "9-9A"
       ], 
       "housenumber": "9A", 
-      "lat": 50.90103362357, 
-      "lon": 4.005874429437, 
+      "lat": 50.901044464187, 
+      "lon": 4.005862546584, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 

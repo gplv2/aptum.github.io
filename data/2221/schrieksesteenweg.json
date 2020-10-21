@@ -598,7 +598,7 @@
       "lon": 4.748531397655, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schrieksesteenweg"
     }, 
     {
@@ -1141,7 +1141,7 @@
       "lon": 4.758435413568, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schrieksesteenweg"
     }, 
     {
@@ -1381,6 +1381,11 @@
       "street": "Schrieksesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -2000,11 +2005,9 @@
       "street": "Schrieksesteenweg"
     }, 
     {
-      "apptnrs": [
-        "10"
-      ], 
       "busnrs": [
         "1", 
+        "10", 
         "2", 
         "3", 
         "4", 

@@ -286,15 +286,20 @@
       "street": "Sint-Jansplein"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.224917850361, 
-      "lon": 4.418953578238, 
+      "lat": 51.224946727904, 
+      "lon": 4.418895779078, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jansplein"
     }, 
     {
@@ -302,8 +307,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.224518219886, 
-      "lon": 4.418970605565, 
+      "lat": 51.22460549697, 
+      "lon": 4.418970700868, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -314,8 +319,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.224513922841, 
-      "lon": 4.418930234285, 
+      "lat": 51.224551226983, 
+      "lon": 4.41892469237, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +358,8 @@
         "31-32"
       ], 
       "housenumber": "31", 
-      "lat": 51.224487267474, 
-      "lon": 4.418627169685, 
+      "lat": 51.224553866959, 
+      "lon": 4.418637405146, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -378,8 +383,8 @@
         "31-32"
       ], 
       "housenumber": "32", 
-      "lat": 51.224487267474, 
-      "lon": 4.418627169685, 
+      "lat": 51.224553866959, 
+      "lon": 4.418637405146, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -426,11 +431,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.224555671591, 
-      "lon": 4.418198956869, 
+      "lat": 51.224594247539, 
+      "lon": 4.418161637725, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Jansplein"
     }, 
     {
@@ -628,10 +633,11 @@
     {
       "apptnrs": [
         "101", 
-        "102", 
         "201", 
         "202", 
-        "301"
+        "301", 
+        "302", 
+        "303"
       ], 
       "hnrlbls": [
         "5"
@@ -740,6 +746,10 @@
       "street": "Sint-Jansplein"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -914,6 +924,7 @@
       "apptnrs": [
         "001", 
         "101", 
+        "102", 
         "201", 
         "202", 
         "301", 

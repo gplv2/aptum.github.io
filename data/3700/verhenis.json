@@ -77,11 +77,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.805412672131, 
-      "lon": 5.472721302186, 
+      "lat": 50.805410068107, 
+      "lon": 5.472720957274, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Verhenis"
     }, 
     {
@@ -149,22 +149,6 @@
       "street": "Verhenis"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "20B-22B"
-      ], 
-      "housenumber": "20B", 
-      "lat": 50.806245898519, 
-      "lon": 5.472170481273, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Verhenis"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
@@ -180,41 +164,21 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
-        "5"
+        "5", 
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.806286377705, 
-      "lon": 5.472158661437, 
+      "lat": 50.806351879645, 
+      "lon": 5.472172400979, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Verhenis"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "busnrs": [
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "20B-22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 50.806245898519, 
-      "lon": 5.472170481273, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Verhenis"
     }, 
     {

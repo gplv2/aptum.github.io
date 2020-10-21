@@ -258,12 +258,11 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
+        "001", 
+        "102"
       ], 
       "busnrs": [
         "101", 
-        "2", 
         "201", 
         "202"
       ], 
@@ -316,14 +315,12 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "103", 
         "201", 
         "202"
-      ], 
-      "busnrs": [
-        "1"
       ], 
       "hnrlbls": [
         "126"
@@ -333,7 +330,7 @@
       "lon": 4.273937919334, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Baron R. de Vironlaan"
     }, 
     {
@@ -518,6 +515,22 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Baron R. de Vironlaan"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "141"
+      ], 
+      "housenumber": "141", 
+      "lat": 50.845174923292, 
+      "lon": 4.274649178569, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Baron R. de Vironlaan"
     }, 
     {
@@ -977,8 +990,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.846944110438, 
-      "lon": 4.268269980875, 
+      "lat": 50.846945729515, 
+      "lon": 4.268271113392, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 

@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.026878747622, 
-      "lon": 5.409123579536, 
+      "lat": 51.026538521194, 
+      "lon": 5.409474677424, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -61,18 +61,22 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
+      "apptnrs": [
+        "1-1"
+      ], 
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.021694617775, 
-      "lon": 5.467620677341, 
+      "lat": 51.021814511503, 
+      "lon": 5.467845569769, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -1019,16 +1023,14 @@
       ], 
       "busnrs": [
         "1", 
-        "11", 
-        "12", 
         "2"
       ], 
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.019944944665, 
-      "lon": 5.473881748776, 
+      "lat": 51.019945045255, 
+      "lon": 5.473880610876, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1051,8 +1053,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.019868157639, 
-      "lon": 5.474112693819, 
+      "lat": 51.019863078811, 
+      "lon": 5.474117420024, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1335,19 +1337,22 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
+      "apptnrs": [
+        "1-1"
+      ], 
       "busnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "1A-2A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.028358446295, 
-      "lon": 5.406888807676, 
+      "lat": 51.028338460202, 
+      "lon": 5.406810527525, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -1585,18 +1590,6 @@
       "street": "Weg naar Zwartberg"
     }, 
     {
-      "hnrlbls": [
-        "1A-2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.028358446295, 
-      "lon": 5.406888807676, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Weg naar Zwartberg"
-    }, 
-    {
       "apptnrs": [
         "01-1"
       ], 
@@ -1828,7 +1821,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "48-48C"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 51.023641229677, 
@@ -1846,8 +1839,8 @@
         "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 51.023551660724, 
-      "lon": 5.460215876084, 
+      "lat": 51.023567469277, 
+      "lon": 5.460149533728, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1863,18 +1856,6 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
-      "street": "Weg naar Zwartberg"
-    }, 
-    {
-      "hnrlbls": [
-        "48-48C"
-      ], 
-      "housenumber": "48C", 
-      "lat": 51.023641229677, 
-      "lon": 5.459825110479, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -2280,8 +2261,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.02232041309, 
-      "lon": 5.465192497236, 
+      "lat": 51.022395094967, 
+      "lon": 5.465301295752, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2292,8 +2273,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.024047019803, 
-      "lon": 5.462625062493, 
+      "lat": 51.024075327462, 
+      "lon": 5.462481181907, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2304,11 +2285,11 @@
         "75B"
       ], 
       "housenumber": "75B", 
-      "lat": 51.023938900034, 
-      "lon": 5.462902210839, 
+      "lat": 51.023892209544, 
+      "lon": 5.462857357495, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {
@@ -2328,8 +2309,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.023458684424, 
-      "lon": 5.463043933332, 
+      "lat": 51.023415911098, 
+      "lon": 5.463022549223, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2372,8 +2353,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.023322639844, 
-      "lon": 5.46375204847, 
+      "lat": 51.023350840778, 
+      "lon": 5.46376468209, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2398,6 +2379,29 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Weg naar Zwartberg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2", 
+        "2-1", 
+        "2-2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.022283723881, 
+      "lon": 5.465714336467, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Weg naar Zwartberg"
     }, 
     {

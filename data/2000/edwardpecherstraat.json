@@ -60,11 +60,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.207483912233, 
-      "lon": 4.389289256878, 
+      "lat": 51.207482923557, 
+      "lon": 4.389288970244, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edward Pecherstraat"
     }, 
     {
@@ -87,9 +87,11 @@
       "street": "Edward Pecherstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "14"
@@ -139,9 +141,6 @@
       "street": "Edward Pecherstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "17-19"
       ], 
@@ -154,6 +153,12 @@
       "street": "Edward Pecherstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17-19"
       ], 
@@ -184,6 +189,10 @@
       "street": "Edward Pecherstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -720,11 +729,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.206831333737, 
-      "lon": 4.389389981122, 
+      "lat": 51.206847135317, 
+      "lon": 4.389489864944, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edward Pecherstraat"
     }, 
     {

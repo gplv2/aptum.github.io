@@ -2,17 +2,20 @@
   "addresses": [
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.800484555047, 
-      "lon": 3.10511319219, 
+      "lat": 50.800472221923, 
+      "lon": 3.105053368499, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -20,26 +23,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.800351761785, 
-      "lon": 3.10447974224, 
+      "lat": 50.800404605435, 
+      "lon": 3.104510954145, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.800674781293, 
-      "lon": 3.104585844112, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -47,26 +35,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.800385183894, 
-      "lon": 3.104394145791, 
+      "lat": 50.800429901735, 
+      "lon": 3.104430541459, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.800695828328, 
-      "lon": 3.104461563844, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -74,26 +47,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.800440152627, 
-      "lon": 3.104222278396, 
+      "lat": 50.800462252441, 
+      "lon": 3.104237290948, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.800720279305, 
-      "lon": 3.104386138967, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -101,26 +59,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.800440759855, 
-      "lon": 3.104111883858, 
+      "lat": 50.800490692936, 
+      "lon": 3.104156651674, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.800769305064, 
-      "lon": 3.104280118248, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -128,8 +71,32 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.800459321566, 
-      "lon": 3.104048960491, 
+      "lat": 50.800513553364, 
+      "lon": 3.104083823433, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kersenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.800303199805, 
+      "lon": 3.104820550649, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kersenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.800537111388, 
+      "lon": 3.104008990134, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -140,53 +107,14 @@
         "0101"
       ], 
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.800825479228, 
-      "lon": 3.104119992595, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.800276465201, 
-      "lon": 3.104792609924, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.800490462611, 
-      "lon": 3.103960303579, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.800861428425, 
-      "lon": 3.104001979494, 
+      "lat": 50.800814037322, 
+      "lon": 3.103976154503, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -194,11 +122,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.800534366014, 
-      "lon": 3.103912872901, 
+      "lat": 50.800561258756, 
+      "lon": 3.103930452182, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -209,11 +137,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.800867888855, 
-      "lon": 3.10386744971, 
+      "lat": 50.80083174174, 
+      "lon": 3.103892114163, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -221,11 +149,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.800537559247, 
-      "lon": 3.103792193669, 
+      "lat": 50.800592315532, 
+      "lon": 3.103833994148, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -236,11 +164,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.80087746448, 
-      "lon": 3.103821650336, 
+      "lat": 50.800850064146, 
+      "lon": 3.103798693365, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -248,11 +176,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.800724673938, 
-      "lon": 3.103085450991, 
+      "lat": 50.800745344954, 
+      "lon": 3.103101352769, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -263,11 +191,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.800916670173, 
-      "lon": 3.103697164947, 
+      "lat": 50.800875957242, 
+      "lon": 3.10369031398, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -275,11 +203,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.800737796259, 
-      "lon": 3.10299344677, 
+      "lat": 50.800765773863, 
+      "lon": 3.103011563938, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -290,26 +218,29 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.800944723643, 
-      "lon": 3.103505729906, 
+      "lat": 50.800914085716, 
+      "lon": 3.103507688364, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.800518995916, 
-      "lon": 3.105005294313, 
+      "lat": 50.800516543606, 
+      "lon": 3.104902926733, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -317,11 +248,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.800752992916, 
-      "lon": 3.102918695505, 
+      "lat": 50.800782790687, 
+      "lon": 3.102930521175, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -332,11 +263,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.800989217063, 
-      "lon": 3.103413024037, 
+      "lat": 50.800938316244, 
+      "lon": 3.103395238953, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -344,11 +275,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.800770597502, 
-      "lon": 3.102833806289, 
+      "lat": 50.800800812531, 
+      "lon": 3.102842641305, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -359,11 +290,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.800983928896, 
-      "lon": 3.103322933046, 
+      "lat": 50.800955265962, 
+      "lon": 3.103307955303, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -371,11 +302,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.800851969727, 
-      "lon": 3.102609440885, 
+      "lat": 50.800875192267, 
+      "lon": 3.102620166349, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -386,11 +317,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.801006033137, 
-      "lon": 3.103221748738, 
+      "lat": 50.800977329308, 
+      "lon": 3.10321131218, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -398,11 +329,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.800864657579, 
-      "lon": 3.102518866715, 
+      "lat": 50.80089272667, 
+      "lon": 3.102537123067, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -428,11 +359,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.800880376378, 
-      "lon": 3.102442540409, 
+      "lat": 50.800909641025, 
+      "lon": 3.102454947655, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -458,11 +389,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.800304392781, 
-      "lon": 3.104714396944, 
+      "lat": 50.800330263395, 
+      "lon": 3.104737253376, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -470,11 +401,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.800898244139, 
-      "lon": 3.102357076192, 
+      "lat": 50.800927115552, 
+      "lon": 3.102366372699, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -521,17 +452,20 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.800547106121, 
-      "lon": 3.104918989303, 
+      "lat": 50.800561252509, 
+      "lon": 3.104763398631, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -539,26 +473,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.800301870941, 
-      "lon": 3.104630617186, 
+      "lat": 50.800354461726, 
+      "lon": 3.104663396632, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.800571558923, 
-      "lon": 3.104843706735, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }, 
     {
@@ -566,26 +485,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.800352929365, 
-      "lon": 3.104562990952, 
+      "lat": 50.800378660012, 
+      "lon": 3.104589539811, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kersenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.800621907699, 
-      "lon": 3.10474361006, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kersenlaan"
     }
   ]

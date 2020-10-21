@@ -265,20 +265,39 @@
       "street": "Oostdorp"
     }, 
     {
-      "busnrs": [
-        "0001A", 
-        "0002A", 
-        "0003A"
-      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.809240917772, 
-      "lon": 3.478734074427, 
+      "lat": 50.809261704327, 
+      "lon": 3.478724742368, 
       "municipality": "Anzegem", 
       "pcode": "8573", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostdorp"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 50.809306274948, 
+      "lon": 3.47906557253, 
+      "municipality": "Anzegem", 
+      "pcode": "8573", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostdorp"
     }, 
     {
@@ -498,22 +517,28 @@
       "street": "Oostdorp"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "001", 
         "002", 
         "003", 
+        "101", 
+        "102", 
         "103", 
-        "203"
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.808758622823, 
-      "lon": 3.475604605686, 
+      "lat": 50.808805958109, 
+      "lon": 3.475705158514, 
       "municipality": "Anzegem", 
       "pcode": "8573", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostdorp"
     }, 
     {

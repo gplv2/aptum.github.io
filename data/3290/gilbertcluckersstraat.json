@@ -2,14 +2,14 @@
   "addresses": [
     {
       "apptnrs": [
-        "1A", 
-        "1A1", 
-        "1B", 
-        "1B1", 
-        "1B2", 
-        "1C", 
-        "1C1", 
-        "1C2"
+        "1000A", 
+        "1000B", 
+        "1000C", 
+        "1A001", 
+        "1B001", 
+        "1B002", 
+        "1C001", 
+        "1C002"
       ], 
       "hnrlbls": [
         "1"
@@ -23,15 +23,29 @@
       "street": "Gilbert Cluckersstraat"
     }, 
     {
-      "hnrlbls": [
-        "1-7"
+      "apptnrs": [
+        "3/4", 
+        "3A", 
+        "3A1", 
+        "3A2", 
+        "3A3", 
+        "3B", 
+        "3B1", 
+        "3B2", 
+        "3B3", 
+        "3C1", 
+        "3C2", 
+        "3C3"
       ], 
-      "housenumber": "4B", 
-      "lat": 50.99637322322, 
-      "lon": 5.076856962149, 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.992077992631, 
+      "lon": 5.050422058404, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGemeente", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gilbert Cluckersstraat"
     }
   ]

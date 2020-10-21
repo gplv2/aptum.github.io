@@ -1,19 +1,21 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.224869314328, 
-      "lon": 4.410022564862, 
+      "lat": 51.22490061046, 
+      "lon": 4.409975784582, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vekestraat"
     }, 
     {
@@ -45,8 +47,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.224521172032, 
-      "lon": 4.410086093716, 
+      "lat": 51.224548779301, 
+      "lon": 4.410049616876, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -129,11 +131,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.224379356102, 
-      "lon": 4.410280497903, 
+      "lat": 51.224377647596, 
+      "lon": 4.410282500365, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vekestraat"
     }, 
     {
@@ -214,11 +216,8 @@
       "street": "Vekestraat"
     }, 
     {
-      "busnrs": [
-        "22"
-      ], 
       "hnrlbls": [
-        "20-22"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.224245771803, 
@@ -242,18 +241,6 @@
     }, 
     {
       "hnrlbls": [
-        "20-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.224245771803, 
-      "lon": 4.410328186726, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vekestraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -269,8 +256,8 @@
         "24-28"
       ], 
       "housenumber": "24", 
-      "lat": 51.224212577153, 
-      "lon": 4.410405167561, 
+      "lat": 51.224234051212, 
+      "lon": 4.41042794681, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +304,8 @@
         "24-28"
       ], 
       "housenumber": "28", 
-      "lat": 51.224212577153, 
-      "lon": 4.410405167561, 
+      "lat": 51.224234051212, 
+      "lon": 4.41042794681, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -338,7 +325,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.224869314328, 
@@ -349,10 +336,6 @@
       "street": "Vekestraat"
     }, 
     {
-      "busnrs": [
-        "41", 
-        "43"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -362,6 +345,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vekestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.224197072694, 
+      "lon": 4.410529115267, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vekestraat"
     }, 
     {
@@ -378,18 +373,17 @@
     }, 
     {
       "busnrs": [
-        "13", 
-        "9"
+        "13"
       ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.223724356292, 
-      "lon": 4.410075355573, 
+      "lat": 51.224172971562, 
+      "lon": 4.410563304459, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Vekestraat"
     }, 
     {

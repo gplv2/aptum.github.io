@@ -21,7 +21,7 @@
         "022"
       ], 
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.88563628267, 
@@ -38,18 +38,6 @@
       "housenumber": "11", 
       "lat": 50.886522585701, 
       "lon": 4.472204012595, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Onderwijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.88563628267, 
-      "lon": 4.472951257682, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -116,14 +104,14 @@
       "street": "Onderwijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "X001", 
+        "X031", 
+        "X032"
       ], 
       "hnrlbls": [
         "19"
@@ -232,10 +220,10 @@
       "street": "Onderwijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "011", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "29"
@@ -243,18 +231,6 @@
       "housenumber": "29", 
       "lat": 50.887110300725, 
       "lon": 4.472016017689, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Onderwijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.885750857694, 
-      "lon": 4.472391025612, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -505,14 +481,14 @@
     }, 
     {
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.888148622458, 
-      "lon": 4.47186454333, 
+      "lat": 50.888212340501, 
+      "lon": 4.471781970903, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onderwijsstraat"
     }, 
     {
@@ -553,7 +529,7 @@
         "X021"
       ], 
       "hnrlbls": [
-        "58-60"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 50.888148622458, 

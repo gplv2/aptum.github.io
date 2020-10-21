@@ -114,12 +114,17 @@
       "street": "Roomstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "14-19"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.103181520002, 
-      "lon": 3.987374996465, 
+      "lat": 51.103136216026, 
+      "lon": 3.987514284597, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -130,8 +135,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.103397668743, 
-      "lon": 3.988284425664, 
+      "lat": 51.103437558642, 
+      "lon": 3.988277962272, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -154,32 +159,18 @@
         "0001", 
         "0101", 
         "0201", 
-        "0301"
+        "0301", 
+        "B004"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.103051221549, 
-      "lon": 3.987498985818, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Roomstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
       "lat": 51.103055084371, 
       "lon": 3.987498240503, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Roomstraat"
     }, 
     {
@@ -199,8 +190,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.102955901052, 
-      "lon": 3.98754287941, 
+      "lat": 51.102957248891, 
+      "lon": 3.987542725665, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -235,8 +226,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.102883995608, 
-      "lon": 3.987433243692, 
+      "lat": 51.102883737928, 
+      "lon": 3.987436957897, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -244,6 +235,7 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
         "B002"
       ], 
       "hnrlbls": [
@@ -258,12 +250,24 @@
       "street": "Roomstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.102798861176, 
-      "lon": 3.987569571285, 
+      "lat": 51.102797215641, 
+      "lon": 3.987533177547, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -291,8 +295,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.10267708693, 
-      "lon": 3.987549574841, 
+      "lat": 51.102676906697, 
+      "lon": 3.987549433535, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -475,8 +479,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.102248283642, 
-      "lon": 3.987595182658, 
+      "lat": 51.102248730312, 
+      "lon": 3.987594322395, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -583,6 +587,12 @@
       "street": "Roomstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -614,8 +624,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.101872405186, 
-      "lon": 3.987746151711, 
+      "lat": 51.101880536531, 
+      "lon": 3.987731094682, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 

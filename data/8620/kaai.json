@@ -14,48 +14,39 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.13342745684, 
-      "lon": 2.753122672856, 
+      "lat": 51.133446213221, 
+      "lon": 2.753107020016, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.133438702313, 
       "lon": 2.752972097574, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "11-11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 51.133438702313, 
-      "lon": 2.752972097574, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -72,29 +63,18 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.133393847913, 
-      "lon": 2.752650983636, 
+      "lat": 51.133418401587, 
+      "lon": 2.752717296818, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "13A"
-      ], 
-      "housenumber": "13A", 
-      "lat": 51.133413226455, 
-      "lon": 2.752713617525, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -123,31 +103,20 @@
     }, 
     {
       "busnrs": [
-        "201", 
-        "301", 
-        "304"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.133356075025, 
-      "lon": 2.75224302888, 
+      "lat": 51.133292456981, 
+      "lon": 2.752068464465, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kaai"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.133301066471, 
-      "lon": 2.752066880524, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -155,11 +124,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.133184155695, 
-      "lon": 2.751782414297, 
+      "lat": 51.133298629511, 
+      "lon": 2.751915206873, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -172,21 +141,17 @@
         "302"
       ], 
       "hnrlbls": [
-        "3-18A"
+        "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.133147645865, 
-      "lon": 2.751735949751, 
+      "lat": 51.133291248715, 
+      "lon": 2.751809574641, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "2"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -195,46 +160,55 @@
       "lon": 2.754389883206, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
       "hnrlbls": [
-        "20-21"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.133196759141, 
-      "lon": 2.751540766414, 
+      "lat": 51.133267275134, 
+      "lon": 2.751667505988, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kaai"
     }, 
     {
       "hnrlbls": [
-        "20-21"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.133196759141, 
-      "lon": 2.751540766414, 
+      "lat": 51.133187778744, 
+      "lon": 2.751554652508, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kaai"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.13327588075, 
-      "lon": 2.751403132285, 
+      "lat": 51.13328780577, 
+      "lon": 2.751499175878, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kaai"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.133283186951, 
+      "lon": 2.751391733351, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -333,7 +307,8 @@
     }, 
     {
       "busnrs": [
-        "301"
+        "0101", 
+        "0301"
       ], 
       "hnrlbls": [
         "3"
@@ -343,7 +318,7 @@
       "lon": 2.754168047306, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -454,11 +429,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.133089285015, 
-      "lon": 2.748928457598, 
+      "lat": 51.133115781325, 
+      "lon": 2.74891996556, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -475,22 +450,23 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.133534432558, 
-      "lon": 2.754002089637, 
+      "lat": 51.133542479483, 
+      "lon": 2.754044824153, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -513,8 +489,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.133051090359, 
-      "lon": 2.748307319378, 
+      "lat": 51.133061954278, 
+      "lon": 2.748306228165, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -574,14 +550,14 @@
         "305"
       ], 
       "hnrlbls": [
-        "1-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.132846881302, 
-      "lon": 2.747238099955, 
+      "lat": 51.132919062172, 
+      "lon": 2.747125707287, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -646,17 +622,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.133539607461, 
-      "lon": 2.753894022131, 
+      "lat": 51.133543399492, 
+      "lon": 2.753941190636, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -748,7 +724,7 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
         "6"
@@ -758,7 +734,7 @@
       "lon": 2.753841978678, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {
@@ -775,17 +751,19 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "1-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.133489073191, 
-      "lon": 2.753348180327, 
+      "lat": 51.13353948788, 
+      "lon": 2.75335958424, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kaai"
     }, 
     {

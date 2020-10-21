@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.213146511155, 
-      "lon": 4.394705505386, 
+      "lat": 51.213155496019, 
+      "lon": 4.394721252514, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Willem Lepelstraat"
     }, 
     {
@@ -148,23 +152,11 @@
         "1304"
       ], 
       "hnrlbls": [
-        "15"
+        "13-17"
       ], 
       "housenumber": "15", 
-      "lat": 51.213504644123, 
-      "lon": 4.396110192635, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Willem Lepelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-20"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.213051719074, 
-      "lon": 4.394944872112, 
+      "lat": 51.213564949059, 
+      "lon": 4.396140997622, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -264,22 +256,28 @@
       "street": "Willem Lepelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.213087498001, 
-      "lon": 4.394922710871, 
+      "lat": 51.213051719074, 
+      "lon": 4.394944872112, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Willem Lepelstraat"
     }, 
     {
       "apptnrs": [
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
         "103", 
@@ -307,18 +305,6 @@
       "housenumber": "2", 
       "lat": 51.213145419802, 
       "lon": 4.394361041383, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Willem Lepelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.213051719074, 
-      "lon": 4.394944872112, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -555,11 +541,11 @@
         "402"
       ], 
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.213357155157, 
-      "lon": 4.394901829083, 
+      "lat": 51.213372460977, 
+      "lon": 4.394789210556, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -615,11 +601,16 @@
       "apptnrs": [
         "001", 
         "002", 
+        "201", 
         "202", 
+        "301", 
         "302", 
         "401", 
+        "402", 
         "501", 
+        "502", 
         "601", 
+        "602", 
         "701"
       ], 
       "hnrlbls": [
@@ -707,11 +698,11 @@
         "402"
       ], 
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.213357155157, 
-      "lon": 4.394901829083, 
+      "lat": 51.21334184923, 
+      "lon": 4.395014447536, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

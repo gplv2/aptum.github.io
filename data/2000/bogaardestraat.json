@@ -25,20 +25,24 @@
       "street": "Bogaardestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "14-16"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.21538128482, 
-      "lon": 4.400188692647, 
+      "lat": 51.215399855469, 
+      "lon": 4.40031851159, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bogaardestraat"
     }, 
     {
       "hnrlbls": [
-        "14-16"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.21538128482, 
@@ -65,8 +69,8 @@
         "18-20"
       ], 
       "housenumber": "18", 
-      "lat": 51.215279707867, 
-      "lon": 4.400217961353, 
+      "lat": 51.215274760389, 
+      "lon": 4.40023212638, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -106,8 +110,8 @@
         "18-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.215279707867, 
-      "lon": 4.400217961353, 
+      "lat": 51.215274760389, 
+      "lon": 4.40023212638, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -127,6 +131,9 @@
     }, 
     {
       "busnrs": [
+        "01", 
+        "02", 
+        "03", 
         "11", 
         "12", 
         "13", 
@@ -477,11 +484,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.215521876603, 
-      "lon": 4.400140416202, 
+      "lat": 51.215523575035, 
+      "lon": 4.400174908401, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bogaardestraat"
     }
   ]

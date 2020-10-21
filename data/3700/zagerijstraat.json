@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.785425421234, 
@@ -109,23 +114,6 @@
       "street": "Zagerijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.785425421234, 
-      "lon": 5.472483090202, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zagerijstraat"
-    }, 
-    {
       "hnrlbls": [
         "20-20B"
       ], 
@@ -220,6 +208,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.785584810003, 
+      "lon": 5.47235124589, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Zagerijstraat"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -259,37 +259,27 @@
       "street": "Zagerijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.785647118646, 
-      "lon": 5.472265060038, 
+      "lat": 50.785530618921, 
+      "lon": 5.47222488525, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zagerijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.785680098135, 
-      "lon": 5.472047423351, 
+      "lat": 50.785529490206, 
+      "lon": 5.47202034787, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zagerijstraat"
     }, 
     {
@@ -302,6 +292,23 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Zagerijstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.785538822998, 
+      "lon": 5.471964971566, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zagerijstraat"
     }
   ]

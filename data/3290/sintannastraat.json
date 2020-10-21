@@ -28,44 +28,20 @@
       "street": "Sint-Annastraat"
     }, 
     {
+      "apptnrs": [
+        "A000", 
+        "A001", 
+        "A002", 
+        "B000", 
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.980847233463, 
-      "lon": 5.055128122521, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Annastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "11A"
-      ], 
-      "housenumber": "11A", 
-      "lat": 50.980810434414, 
-      "lon": 5.055118184318, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Annastraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.980844500439, 
-      "lon": 5.05519586762, 
+      "lat": 50.980814732329, 
+      "lon": 5.055105715617, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -483,8 +459,10 @@
     }, 
     {
       "apptnrs": [
+        "A000", 
         "A001", 
         "A002", 
+        "B000", 
         "B001", 
         "B002"
       ], 

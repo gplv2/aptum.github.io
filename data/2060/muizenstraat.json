@@ -160,7 +160,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -175,6 +174,12 @@
       "street": "Muizenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -211,6 +216,11 @@
       "street": "Muizenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -235,8 +245,14 @@
       "street": "Muizenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
-        "3"
+        "3-3A"
       ], 
       "housenumber": "3", 
       "lat": 51.222229827979, 
@@ -261,6 +277,18 @@
       "housenumber": "32", 
       "lat": 51.222433003471, 
       "lon": 4.421818912791, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Muizenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3-3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.222229827979, 
+      "lon": 4.420906323825, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

@@ -128,6 +128,9 @@
       "street": "Brusselstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "110-116"
       ], 
@@ -688,18 +691,6 @@
     }, 
     {
       "hnrlbls": [
-        "43-45"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.829080635371, 
-      "lon": 4.023164255197, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselstraat"
-    }, 
-    {
-      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -711,8 +702,12 @@
       "street": "Brusselstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "43-45"
+        "45"
       ], 
       "housenumber": "45", 
       "lat": 50.829080635371, 

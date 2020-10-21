@@ -209,6 +209,10 @@
       "street": "Verbindingsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -217,7 +221,7 @@
       "lon": 3.820157854605, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Verbindingsstraat"
     }, 
     {
@@ -307,7 +311,7 @@
       "lon": 3.819280968858, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verbindingsstraat"
     }, 
     {
@@ -351,8 +355,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.196942756722, 
-      "lon": 3.820635665412, 
+      "lat": 51.196942751421, 
+      "lon": 3.820634520969, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -375,8 +379,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.196903492798, 
-      "lon": 3.820697500202, 
+      "lat": 51.196904301738, 
+      "lon": 3.820697490711, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 

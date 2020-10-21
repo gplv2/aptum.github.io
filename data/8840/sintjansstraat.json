@@ -149,8 +149,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.970153888424, 
-      "lon": 3.022646908206, 
+      "lat": 50.970153166149, 
+      "lon": 3.022646644154, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanPerceelGrb", 
@@ -161,8 +161,8 @@
         "110A"
       ], 
       "housenumber": "110A", 
-      "lat": 50.96977642513, 
-      "lon": 3.022274571325, 
+      "lat": 50.96977854308, 
+      "lon": 3.022271093174, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanPerceelGrb", 
@@ -592,8 +592,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.963333158672, 
-      "lon": 3.035835295392, 
+      "lat": 50.963345504154, 
+      "lon": 3.035837791987, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -676,23 +676,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.965167780763, 
-      "lon": 3.027221715648, 
+      "lat": 50.965165639939, 
+      "lon": 3.027223200628, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint Jansstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.973773905645, 
-      "lon": 3.015938838153, 
-      "municipality": "Staden", 
-      "pcode": "8840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Sint Jansstraat"
     }, 
     {
@@ -1327,8 +1315,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.972751115734, 
-      "lon": 3.016735585122, 
+      "lat": 50.972709236377, 
+      "lon": 3.016737077222, 
       "municipality": "Staden", 
       "pcode": "8840", 
       "source": "afgeleidVanGebouw", 
@@ -1575,7 +1563,7 @@
       "lon": 3.017483695044, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint Jansstraat"
     }, 
     {
@@ -1595,11 +1583,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.974129000164, 
-      "lon": 3.015654184609, 
+      "lat": 50.974160791331, 
+      "lon": 3.015940351911, 
       "municipality": "Staden", 
       "pcode": "8840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint Jansstraat"
     }, 
     {
@@ -1615,6 +1603,13 @@
       "street": "Sint Jansstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "61"
       ], 

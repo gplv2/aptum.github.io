@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.212406677021, 
-      "lon": 2.881018187526, 
+      "lat": 51.212402249641, 
+      "lon": 2.880987840865, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.212461823833, 
-      "lon": 2.880992525253, 
+      "lat": 51.212461733966, 
+      "lon": 2.880992528118, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -221,18 +221,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.213302943962, 
-      "lon": 2.880970710936, 
+      "lat": 51.213266186195, 
+      "lon": 2.880843058905, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
@@ -250,14 +252,15 @@
     {
       "busnrs": [
         "0101", 
-        "0102"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.21335357376, 
-      "lon": 2.880929017534, 
+      "lat": 51.21332011039, 
+      "lon": 2.88079882697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -277,22 +280,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.213398346987, 
-      "lon": 2.880843424166, 
+      "lat": 51.213377201635, 
+      "lon": 2.880763368498, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
@@ -384,23 +385,11 @@
     }, 
     {
       "hnrlbls": [
-        "42-42B"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.214456560888, 
-      "lon": 2.879648649474, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wilgenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "42-42B"
+        "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.214456560888, 
-      "lon": 2.879648649474, 
+      "lat": 51.214472598397, 
+      "lon": 2.879708543407, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -408,11 +397,11 @@
     }, 
     {
       "hnrlbls": [
-        "42-42B"
+        "42B"
       ], 
       "housenumber": "42B", 
-      "lat": 51.214456560888, 
-      "lon": 2.879648649474, 
+      "lat": 51.214449545547, 
+      "lon": 2.879577016234, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -480,39 +469,23 @@
     }, 
     {
       "hnrlbls": [
-        "48A-48B"
+        "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 51.214642583671, 
-      "lon": 2.879528483871, 
+      "lat": 51.214662088179, 
+      "lon": 2.879585261339, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
       "hnrlbls": [
-        "48A-48B"
+        "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 51.214642583671, 
-      "lon": 2.879528483871, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wilgenlaan"
-    }, 
-    {
-      "busnrs": [
-        "000A", 
-        "000B"
-      ], 
-      "hnrlbls": [
-        "49-49B"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.214563286376, 
-      "lon": 2.8802494456, 
+      "lat": 51.21463661985, 
+      "lon": 2.879461826774, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -520,11 +493,11 @@
     }, 
     {
       "hnrlbls": [
-        "49-49B"
+        "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.214563286376, 
-      "lon": 2.8802494456, 
+      "lat": 51.2145529053, 
+      "lon": 2.880188941455, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -532,11 +505,11 @@
     }, 
     {
       "hnrlbls": [
-        "49-49B"
+        "49B"
       ], 
       "housenumber": "49B", 
-      "lat": 51.214563286376, 
-      "lon": 2.8802494456, 
+      "lat": 51.214560809548, 
+      "lon": 2.880316944558, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -556,26 +529,26 @@
     }, 
     {
       "hnrlbls": [
-        "50A-50B"
+        "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.214836410866, 
-      "lon": 2.879656850627, 
+      "lat": 51.214795101317, 
+      "lon": 2.879660459541, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
       "hnrlbls": [
-        "50A-50B"
+        "50B"
       ], 
       "housenumber": "50B", 
-      "lat": 51.214836410866, 
-      "lon": 2.879656850627, 
+      "lat": 51.214866234274, 
+      "lon": 2.879612096865, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
@@ -628,50 +601,50 @@
     }, 
     {
       "hnrlbls": [
-        "55A-55B"
+        "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 51.214750659554, 
-      "lon": 2.880129382189, 
+      "lat": 51.214752577457, 
+      "lon": 2.880067483344, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
       "hnrlbls": [
-        "55A-55B"
+        "55B"
       ], 
       "housenumber": "55B", 
-      "lat": 51.214750659554, 
-      "lon": 2.880129382189, 
+      "lat": 51.214782901154, 
+      "lon": 2.880176735603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
       "hnrlbls": [
-        "56A-56B"
+        "56A"
       ], 
       "housenumber": "56A", 
-      "lat": 51.214911356826, 
-      "lon": 2.879947042978, 
+      "lat": 51.21488320852, 
+      "lon": 2.879996323685, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {
       "hnrlbls": [
-        "56A-56B"
+        "56B"
       ], 
       "housenumber": "56B", 
-      "lat": 51.214911356826, 
-      "lon": 2.879947042978, 
+      "lat": 51.214948050989, 
+      "lon": 2.879948162192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgenlaan"
     }, 
     {

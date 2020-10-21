@@ -383,8 +383,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.225166824095, 
-      "lon": 4.419791826297, 
+      "lat": 51.225186522771, 
+      "lon": 4.41975949716, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -441,8 +441,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.225264241661, 
-      "lon": 4.419829295557, 
+      "lat": 51.225269098514, 
+      "lon": 4.419822143638, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -475,8 +475,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.225298374827, 
-      "lon": 4.419881009285, 
+      "lat": 51.225298464961, 
+      "lon": 4.4198804368, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -638,22 +638,6 @@
       "street": "Oudesteenweg"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "39"
-      ], 
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.22574150725, 
-      "lon": 4.419868045949, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oudesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "36"
       ], 
@@ -662,40 +646,56 @@
       "lon": 4.420043861565, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oudesteenweg"
     }, 
     {
+      "apptnrs": [
+        "1001", 
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "2001", 
+        "2002", 
+        "2003", 
+        "2004", 
+        "2005", 
+        "2101", 
+        "2102", 
+        "2103", 
+        "2104", 
+        "2105", 
+        "2201", 
+        "2202", 
+        "2203", 
+        "2204", 
+        "2205", 
+        "3001"
+      ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.22579438298, 
-      "lon": 4.419812992781, 
+      "lat": 51.225913728975, 
+      "lon": 4.41965208351, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Oudesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.225504471996, 
-      "lon": 4.420099823784, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.22579438298, 
-      "lon": 4.419812992781, 
+      "lat": 51.225499692343, 
+      "lon": 4.420135748334, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -726,8 +726,10 @@
       "street": "Oudesteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "42"
@@ -987,9 +989,6 @@
       "street": "Oudesteenweg"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -1126,6 +1125,11 @@
       "street": "Oudesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1420,18 +1424,6 @@
     }, 
     {
       "hnrlbls": [
-        "90-92"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.226623883003, 
-      "lon": 4.421312555189, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "85-91"
       ], 
       "housenumber": "91", 
@@ -1444,7 +1436,7 @@
     }, 
     {
       "hnrlbls": [
-        "90-92"
+        "92"
       ], 
       "housenumber": "92", 
       "lat": 51.226623883003, 

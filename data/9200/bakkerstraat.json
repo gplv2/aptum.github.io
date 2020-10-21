@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.042594138643, 
-      "lon": 4.103265530631, 
+      "lat": 51.042287878219, 
+      "lon": 4.103023866171, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bakkerstraat"
     }, 
     {
@@ -353,8 +353,8 @@
         "134A"
       ], 
       "housenumber": "134A", 
-      "lat": 51.049520875563, 
-      "lon": 4.100986942663, 
+      "lat": 51.049521861755, 
+      "lon": 4.100985796159, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +365,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.048584881597, 
-      "lon": 4.101993953456, 
+      "lat": 51.048481679739, 
+      "lon": 4.10199040455, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -629,8 +629,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.050616852597, 
-      "lon": 4.100765628097, 
+      "lat": 51.050622694404, 
+      "lon": 4.100765166894, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -949,7 +949,7 @@
       "street": "Bakkerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -958,18 +958,18 @@
         "6"
       ], 
       "hnrlbls": [
-        "1-1C"
+        "1B-1C"
       ], 
       "housenumber": "1B", 
-      "lat": 51.042594138643, 
-      "lon": 4.103265530631, 
+      "lat": 51.042613132627, 
+      "lon": 4.10323761842, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Bakkerstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -978,11 +978,11 @@
         "6"
       ], 
       "hnrlbls": [
-        "1-1C"
+        "1B-1C"
       ], 
       "housenumber": "1C", 
-      "lat": 51.042594138643, 
-      "lon": 4.103265530631, 
+      "lat": 51.042613132627, 
+      "lon": 4.10323761842, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -990,7 +990,7 @@
     }, 
     {
       "hnrlbls": [
-        "1D"
+        "1D-1E"
       ], 
       "housenumber": "1D", 
       "lat": 51.042886048217, 
@@ -998,6 +998,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Bakkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1D-1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 51.042886048217, 
+      "lon": 4.103241492789, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bakkerstraat"
     }, 
     {
@@ -1113,8 +1125,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.058790638234, 
-      "lon": 4.094850244663, 
+      "lat": 51.058789025201, 
+      "lon": 4.094852393649, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1213,8 +1225,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.059129692001, 
-      "lon": 4.094806899721, 
+      "lat": 51.059175837743, 
+      "lon": 4.094898347159, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1258,7 +1270,7 @@
     }, 
     {
       "hnrlbls": [
-        "218"
+        "218-218A"
       ], 
       "housenumber": "218", 
       "lat": 51.059232592368, 
@@ -1345,8 +1357,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.060157084538, 
-      "lon": 4.094166856002, 
+      "lat": 51.060158806678, 
+      "lon": 4.09417297953, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2269,8 +2281,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.044726063866, 
-      "lon": 4.102825257306, 
+      "lat": 51.044726243965, 
+      "lon": 4.102825398881, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2557,8 +2569,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.045415448913, 
-      "lon": 4.102673192447, 
+      "lat": 51.045416921192, 
+      "lon": 4.10268829939, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2593,8 +2605,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.042649099401, 
-      "lon": 4.102802947346, 
+      "lat": 51.042656994872, 
+      "lon": 4.102796343525, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2677,8 +2689,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.045837819256, 
-      "lon": 4.102543029499, 
+      "lat": 51.045851761056, 
+      "lon": 4.102546943167, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -2701,8 +2713,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.045974931314, 
-      "lon": 4.102596011436, 
+      "lat": 51.045968665223, 
+      "lon": 4.102527884769, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2845,8 +2857,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.046377216369, 
-      "lon": 4.102448277808, 
+      "lat": 51.046401945817, 
+      "lon": 4.102452558075, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

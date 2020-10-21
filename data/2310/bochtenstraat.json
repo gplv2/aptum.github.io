@@ -106,15 +106,18 @@
         "0301", 
         "0302"
       ], 
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.347975203761, 
-      "lon": 4.761557768818, 
+      "lat": 51.347931928004, 
+      "lon": 4.761516641253, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bochtenstraat"
     }, 
     {
@@ -192,11 +195,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.347589758653, 
-      "lon": 4.762299687575, 
+      "lat": 51.347583908313, 
+      "lon": 4.762275095238, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bochtenstraat"
     }, 
     {
@@ -497,28 +500,59 @@
       "street": "Bochtenstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.348193294185, 
+      "lon": 4.761708021003, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bochtenstraat"
+    }, 
+    {
+      "busnrs": [
         "0101", 
         "0102", 
         "0201", 
         "0202", 
-        "0301"
-      ], 
-      "busnrs": [
-        "302"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "6"
+        "6B"
       ], 
-      "housenumber": "6", 
-      "lat": 51.348132333595, 
-      "lon": 4.76184988315, 
+      "housenumber": "6B", 
+      "lat": 51.348194656277, 
+      "lon": 4.761757979806, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bochtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6C"
+      ], 
+      "housenumber": "6C", 
+      "lat": 51.348193378316, 
+      "lon": 4.761845089654, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bochtenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6D"
+      ], 
+      "housenumber": "6D", 
+      "lat": 51.348185193287, 
+      "lon": 4.761955105249, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bochtenstraat"
     }, 
     {

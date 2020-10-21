@@ -141,19 +141,15 @@
       "street": "Hellingstraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.930691064348, 
-      "lon": 4.423160616976, 
+      "lat": 50.930693221711, 
+      "lon": 4.423160761757, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hellingstraat"
     }, 
     {
@@ -209,8 +205,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.930350849613, 
-      "lon": 4.424423793316, 
+      "lat": 50.93034994891, 
+      "lon": 4.424427490643, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -446,10 +442,12 @@
         "1", 
         "1/1", 
         "1/2", 
-        "2", 
         "3", 
         "4", 
         "5"
+      ], 
+      "busnrs": [
+        "02/1"
       ], 
       "hnrlbls": [
         "7"

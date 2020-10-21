@@ -349,10 +349,11 @@
     {
       "busnrs": [
         "0001", 
-        "0101"
+        "0101", 
+        "B001"
       ], 
       "hnrlbls": [
-        "269-269B"
+        "269"
       ], 
       "housenumber": "269", 
       "lat": 50.94969873718, 
@@ -360,21 +361,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1852", 
       "source": "afgeleidVanGebouw", 
-      "street": "Beigemsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "269-269B"
-      ], 
-      "housenumber": "269B", 
-      "lat": 50.94969873718, 
-      "lon": 4.366120138261, 
-      "municipality": "Grimbergen", 
-      "pcode": "1852", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {
@@ -454,6 +440,18 @@
     }, 
     {
       "hnrlbls": [
+        "276"
+      ], 
+      "housenumber": "276", 
+      "lat": 50.95088497292, 
+      "lon": 4.368311786287, 
+      "municipality": "Grimbergen", 
+      "pcode": "1852", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Beigemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "277"
       ], 
       "housenumber": "277", 
@@ -469,11 +467,11 @@
         "278"
       ], 
       "housenumber": "278", 
-      "lat": 50.951010012785, 
-      "lon": 4.368464057727, 
+      "lat": 50.951025923768, 
+      "lon": 4.368454096221, 
       "municipality": "Grimbergen", 
       "pcode": "1852", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {
@@ -546,18 +544,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1852", 
       "source": "afgeleidVanGebouw", 
-      "street": "Beigemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "285"
-      ], 
-      "housenumber": "285", 
-      "lat": 50.950819422071, 
-      "lon": 4.365916875242, 
-      "municipality": "Grimbergen", 
-      "pcode": "1852", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {
@@ -1109,26 +1095,50 @@
     }, 
     {
       "hnrlbls": [
-        "336"
+        "336A-336B"
       ], 
-      "housenumber": "336", 
-      "lat": 50.954765784203, 
-      "lon": 4.365885384217, 
+      "housenumber": "336A", 
+      "lat": 50.954787359294, 
+      "lon": 4.365937187913, 
       "municipality": "Grimbergen", 
       "pcode": "1852", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "338"
+        "336A-336B"
       ], 
-      "housenumber": "338", 
-      "lat": 50.9548414729, 
-      "lon": 4.365853785495, 
+      "housenumber": "336B", 
+      "lat": 50.954787359294, 
+      "lon": 4.365937187913, 
       "municipality": "Grimbergen", 
       "pcode": "1852", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Beigemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "338A-338B"
+      ], 
+      "housenumber": "338A", 
+      "lat": 50.95486259859, 
+      "lon": 4.365908151056, 
+      "municipality": "Grimbergen", 
+      "pcode": "1852", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Beigemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "338A-338B"
+      ], 
+      "housenumber": "338B", 
+      "lat": 50.95486259859, 
+      "lon": 4.365908151056, 
+      "municipality": "Grimbergen", 
+      "pcode": "1852", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {
@@ -1400,18 +1410,6 @@
     }, 
     {
       "hnrlbls": [
-        "384"
-      ], 
-      "housenumber": "384", 
-      "lat": 50.958449604717, 
-      "lon": 4.363935695785, 
-      "municipality": "Grimbergen", 
-      "pcode": "1852", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Beigemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "385"
       ], 
       "housenumber": "385", 
@@ -1595,11 +1593,11 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.959564252527, 
-      "lon": 4.363533643398, 
+      "lat": 50.959452862564, 
+      "lon": 4.363193047082, 
       "municipality": "Grimbergen", 
       "pcode": "1852", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beigemsesteenweg"
     }, 
     {

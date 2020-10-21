@@ -53,8 +53,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.849617310999, 
-      "lon": 4.539909086478, 
+      "lat": 50.849618739953, 
+      "lon": 4.539915481817, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -329,8 +329,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.853071478268, 
-      "lon": 4.539702731459, 
+      "lat": 50.853068969736, 
+      "lon": 4.539696899767, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -367,6 +367,18 @@
       "housenumber": "144", 
       "lat": 50.851201790421, 
       "lon": 4.539550488558, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moorselstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "148"
+      ], 
+      "housenumber": "148", 
+      "lat": 50.851641964749, 
+      "lon": 4.539641133926, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -413,11 +425,11 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.853849951809, 
-      "lon": 4.53959267213, 
+      "lat": 50.854095274488, 
+      "lon": 4.539347453593, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Moorselstraat"
     }, 
     {
@@ -707,11 +719,11 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.855469641306, 
-      "lon": 4.53720682093, 
+      "lat": 50.855611343, 
+      "lon": 4.537561814411, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Moorselstraat"
     }, 
     {
@@ -755,8 +767,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.855648487673, 
-      "lon": 4.536988468578, 
+      "lat": 50.855649026018, 
+      "lon": 4.536989180616, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -779,8 +791,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.85605030794, 
-      "lon": 4.537120857073, 
+      "lat": 50.856053376639, 
+      "lon": 4.537112346793, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -815,8 +827,8 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.856127832422, 
-      "lon": 4.536721911536, 
+      "lat": 50.856126934905, 
+      "lon": 4.53672091416, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +839,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.856199373861, 
-      "lon": 4.536732393883, 
+      "lat": 50.856199372227, 
+      "lon": 4.536733530057, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -839,8 +851,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.856329283878, 
-      "lon": 4.53672433874, 
+      "lat": 50.85632955397, 
+      "lon": 4.536724055663, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -899,8 +911,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.856857554409, 
-      "lon": 4.536316068072, 
+      "lat": 50.856865296397, 
+      "lon": 4.53637105924, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -931,15 +943,28 @@
       "street": "Moorselstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "21", 
+        "22", 
+        "23"
+      ], 
       "hnrlbls": [
-        "211-213"
+        "211"
       ], 
       "housenumber": "211", 
-      "lat": 50.857159906821, 
-      "lon": 4.536228810758, 
+      "lat": 50.857115843475, 
+      "lon": 4.53630179606, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Moorselstraat"
     }, 
     {
@@ -955,15 +980,22 @@
       "street": "Moorselstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
-        "211-213"
+        "213"
       ], 
       "housenumber": "213", 
-      "lat": 50.857159906821, 
-      "lon": 4.536228810758, 
+      "lat": 50.857284477698, 
+      "lon": 4.536119896715, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Moorselstraat"
     }, 
     {
@@ -980,6 +1012,25 @@
       "housenumber": "214", 
       "lat": 50.854901677101, 
       "lon": 4.536961925309, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moorselstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 50.857419610077, 
+      "lon": 4.536043117735, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -1240,11 +1291,11 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 50.856088336747, 
-      "lon": 4.536305787139, 
+      "lat": 50.856090293041, 
+      "lon": 4.536320706461, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Moorselstraat"
     }, 
     {
@@ -1564,11 +1615,11 @@
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 50.860047231257, 
-      "lon": 4.535232689568, 
+      "lat": 50.860491968381, 
+      "lon": 4.533756535547, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Moorselstraat"
     }, 
     {
@@ -1616,8 +1667,8 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 50.858471320323, 
-      "lon": 4.535016028421, 
+      "lat": 50.858480727439, 
+      "lon": 4.535101563478, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -1640,8 +1691,8 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 50.858579898844, 
-      "lon": 4.535026356216, 
+      "lat": 50.858580166102, 
+      "lon": 4.535028061521, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -1736,8 +1787,8 @@
         "300"
       ], 
       "housenumber": "300", 
-      "lat": 50.859072461629, 
-      "lon": 4.534880393831, 
+      "lat": 50.85907032496, 
+      "lon": 4.534865757046, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -1748,8 +1799,8 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 50.859118329629, 
-      "lon": 4.534802013378, 
+      "lat": 50.859116267908, 
+      "lon": 4.534797887158, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 

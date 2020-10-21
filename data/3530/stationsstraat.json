@@ -125,11 +125,11 @@
         "107A"
       ], 
       "housenumber": "107A", 
-      "lat": 51.02638315447, 
-      "lon": 5.356918610345, 
+      "lat": 51.026314569219, 
+      "lon": 5.357014096318, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -137,8 +137,8 @@
         "107B"
       ], 
       "housenumber": "107B", 
-      "lat": 51.026344985904, 
-      "lon": 5.356817733668, 
+      "lat": 51.026362733935, 
+      "lon": 5.35686671826, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1182,6 +1182,42 @@
     }, 
     {
       "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.029319487585, 
+      "lon": 5.364214256379, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.029274484082, 
+      "lon": 5.364008155309, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.029221111388, 
+      "lon": 5.363781775743, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -1293,23 +1329,11 @@
         "66B"
       ], 
       "housenumber": "66B", 
-      "lat": 51.029045971038, 
-      "lon": 5.361474581484, 
+      "lat": 51.02895831349, 
+      "lon": 5.361464738322, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.028925046149, 
-      "lon": 5.362657961556, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1377,8 +1401,8 @@
         "73-77"
       ], 
       "housenumber": "73", 
-      "lat": 51.028700283358, 
-      "lon": 5.362308766824, 
+      "lat": 51.028714027664, 
+      "lon": 5.362288672884, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1413,11 +1437,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.028745813803, 
-      "lon": 5.362282505063, 
+      "lat": 51.02858344234, 
+      "lon": 5.362348197645, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1437,8 +1461,8 @@
         "73-77"
       ], 
       "housenumber": "77", 
-      "lat": 51.028700283358, 
-      "lon": 5.362308766824, 
+      "lat": 51.028714027664, 
+      "lon": 5.362288672884, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1578,7 +1602,7 @@
     }, 
     {
       "hnrlbls": [
-        "83-83B"
+        "83"
       ], 
       "housenumber": "83", 
       "lat": 51.02840132917, 
@@ -1602,14 +1626,14 @@
     }, 
     {
       "hnrlbls": [
-        "83-83B"
+        "83B"
       ], 
       "housenumber": "83B", 
-      "lat": 51.02840132917, 
-      "lon": 5.360896948182, 
+      "lat": 51.028344594749, 
+      "lon": 5.360780701722, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

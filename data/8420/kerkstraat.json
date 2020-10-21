@@ -63,8 +63,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.300604827195, 
-      "lon": 3.079421483541, 
+      "lat": 51.300656103221, 
+      "lon": 3.07949090327, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -94,8 +94,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.300576178906, 
-      "lon": 3.079498421827, 
+      "lat": 51.300615750661, 
+      "lon": 3.079549667081, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -137,8 +137,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.300560882241, 
-      "lon": 3.079621021583, 
+      "lat": 51.300579324166, 
+      "lon": 3.079605740913, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -254,23 +254,11 @@
     }, 
     {
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.300291349245, 
-      "lon": 3.079891045753, 
-      "municipality": "De Haan", 
-      "pcode": "8420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.300253338707, 
-      "lon": 3.07994200042, 
+      "lat": 51.300266249292, 
+      "lon": 3.079905793495, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -343,8 +331,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.300169099595, 
-      "lon": 3.080164447963, 
+      "lat": 51.300148817873, 
+      "lon": 3.080101483836, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -384,8 +372,11 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "0301"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0401"
       ], 
       "hnrlbls": [
         "31"
@@ -422,12 +413,16 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
+        "0302", 
         "0401", 
         "0402", 
+        "0501", 
         "0502"
       ], 
       "hnrlbls": [
@@ -464,8 +459,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.299970151211, 
-      "lon": 3.080378309674, 
+      "lat": 51.299993591038, 
+      "lon": 3.080376227201, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -651,8 +646,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.300761932635, 
-      "lon": 3.079270005292, 
+      "lat": 51.300815560899, 
+      "lon": 3.07934079396, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -863,6 +858,27 @@
     }, 
     {
       "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.299117686361, 
+      "lon": 3.081296821348, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
         "0001", 
         "0101", 
         "0201", 
@@ -970,8 +986,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.300715993068, 
-      "lon": 3.079352298307, 
+      "lat": 51.300761183814, 
+      "lon": 3.079391199016, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -984,6 +1000,18 @@
       "housenumber": "70", 
       "lat": 51.299555588481, 
       "lon": 3.082507740969, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.298818994503, 
+      "lon": 3.081613806136, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1157,6 +1185,7 @@
     }, 
     {
       "apptnrs": [
+        "0101", 
         "0201", 
         "0301"
       ], 
@@ -1164,8 +1193,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.298409061835, 
-      "lon": 3.081620834482, 
+      "lat": 51.298405145031, 
+      "lon": 3.081682314793, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1246,17 +1275,14 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.300689315547, 
-      "lon": 3.079469907787, 
+      "lat": 51.300707686301, 
+      "lon": 3.079456349783, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -1269,7 +1295,7 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
         "0101", 
         "0201", 

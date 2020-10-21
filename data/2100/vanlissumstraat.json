@@ -95,10 +95,10 @@
       "street": "Van Lissumstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "11"
@@ -166,12 +166,6 @@
       "street": "Van Lissumstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -389,6 +383,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Lissumstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.207669406055, 
+      "lon": 4.455948574696, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Lissumstraat"
     }, 
     {
@@ -945,8 +951,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.206043392959, 
-      "lon": 4.455953952958, 
+      "lat": 51.206046166604, 
+      "lon": 4.455971128663, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1003,8 +1009,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.208251993114, 
-      "lon": 4.455765081149, 
+      "lat": 51.208251527235, 
+      "lon": 4.455787259855, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

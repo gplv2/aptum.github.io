@@ -137,11 +137,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.047270088446, 
-      "lon": 4.329960684749, 
+      "lat": 51.04727835584, 
+      "lon": 4.329953120121, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -269,11 +269,11 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.047405660556, 
-      "lon": 4.330018328297, 
+      "lat": 51.04732986961, 
+      "lon": 4.329974896286, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -1039,11 +1039,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.049123538563, 
-      "lon": 4.330859171701, 
+      "lat": 51.04909486665, 
+      "lon": 4.330868178756, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Schaafstraat"
     }, 
     {
@@ -1063,11 +1063,11 @@
         "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.046295643356, 
-      "lon": 4.329555356406, 
+      "lat": 51.046286482261, 
+      "lon": 4.329578750151, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -1160,11 +1160,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.04653180294, 
-      "lon": 4.328797815765, 
+      "lat": 51.046522599335, 
+      "lon": 4.328963238964, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -1375,15 +1375,19 @@
       "street": "Schaafstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "46B"
       ], 
       "housenumber": "46B", 
-      "lat": 51.048898722665, 
-      "lon": 4.331425784557, 
+      "lat": 51.049015277728, 
+      "lon": 4.331324157038, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -1922,11 +1926,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.047108804331, 
-      "lon": 4.329892082194, 
+      "lat": 51.04708623535, 
+      "lon": 4.329871423415, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -2054,11 +2058,11 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.047191514178, 
-      "lon": 4.329927379939, 
+      "lat": 51.047139187602, 
+      "lon": 4.329893911235, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schaafstraat"
     }
   ]

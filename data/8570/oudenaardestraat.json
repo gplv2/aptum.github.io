@@ -514,15 +514,21 @@
       "street": "Oudenaardestraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
-        "40"
+        "8A-40"
       ], 
       "housenumber": "40", 
-      "lat": 50.838846880707, 
-      "lon": 3.407098513711, 
+      "lat": 50.838163323367, 
+      "lon": 3.407797678425, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oudenaardestraat"
     }, 
     {
@@ -538,15 +544,22 @@
       "street": "Oudenaardestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.838332416909, 
-      "lon": 3.407565494948, 
+      "lat": 50.838872685747, 
+      "lon": 3.407252462246, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oudenaardestraat"
     }, 
     {
@@ -559,18 +572,6 @@
       "municipality": "Anzegem", 
       "pcode": "8570", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Oudenaardestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.838753872882, 
-      "lon": 3.407290101758, 
-      "municipality": "Anzegem", 
-      "pcode": "8570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oudenaardestraat"
     }, 
     {

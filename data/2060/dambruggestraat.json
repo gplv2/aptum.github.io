@@ -13,6 +13,12 @@
       "street": "Dambruggestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -430,22 +436,22 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304"
       ], 
       "hnrlbls": [
-        "115-117"
+        "115"
       ], 
       "housenumber": "115", 
       "lat": 51.221890927763, 
@@ -468,24 +474,6 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "hnrlbls": [
-        "115-117"
-      ], 
-      "housenumber": "117", 
-      "lat": 51.221890927763, 
-      "lon": 4.422182854867, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dambruggestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "6"
-      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -526,8 +514,8 @@
         "12-12A"
       ], 
       "housenumber": "12", 
-      "lat": 51.219018312755, 
-      "lon": 4.4237642234, 
+      "lat": 51.219023149217, 
+      "lon": 4.42380086971, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -747,8 +735,8 @@
         "12-12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.219018312755, 
-      "lon": 4.4237642234, 
+      "lat": 51.219023149217, 
+      "lon": 4.42380086971, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1266,11 +1254,8 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "16"
+        "16-16A"
       ], 
       "housenumber": "16", 
       "lat": 51.219127969496, 
@@ -1406,6 +1391,18 @@
       "housenumber": "169", 
       "lat": 51.224284520772, 
       "lon": 4.42161878629, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dambruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16-16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.219127969496, 
+      "lon": 4.423767789457, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1661,12 +1658,6 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "10", 
-        "4", 
-        "6", 
-        "7"
-      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -1904,8 +1895,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.219224368074, 
-      "lon": 4.423867235245, 
+      "lat": 51.219220465218, 
+      "lon": 4.423756879131, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2006,6 +1997,12 @@
       "street": "Dambruggestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "207"
       ], 
@@ -2046,11 +2043,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.219360293704, 
-      "lon": 4.423247796333, 
+      "lat": 51.219380641636, 
+      "lon": 4.423367046185, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dambruggestraat"
     }, 
     {
@@ -2106,8 +2103,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.224270883217, 
-      "lon": 4.421959880829, 
+      "lat": 51.224271062071, 
+      "lon": 4.42196188504, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2171,6 +2168,12 @@
       "street": "Dambruggestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -2180,6 +2183,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dambruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.219356730647, 
+      "lon": 4.42337102541, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dambruggestraat"
     }, 
     {
@@ -2193,8 +2208,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.219268966492, 
-      "lon": 4.423833367326, 
+      "lat": 51.219268246341, 
+      "lon": 4.42383565651, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2355,8 +2370,10 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "230"
@@ -2520,8 +2537,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.219313999605, 
-      "lon": 4.42383070176, 
+      "lat": 51.219314088882, 
+      "lon": 4.423831990018, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -3010,12 +3027,6 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "275"
       ], 
@@ -3846,11 +3857,11 @@
         "328"
       ], 
       "housenumber": "328", 
-      "lat": 51.228940456748, 
-      "lon": 4.421704446704, 
+      "lat": 51.228857674467, 
+      "lon": 4.421504790217, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dambruggestraat"
     }, 
     {
@@ -4379,9 +4390,6 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "2-4"
       ], 
@@ -4524,6 +4532,10 @@
       "street": "Dambruggestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -4634,18 +4646,16 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "55"
@@ -4698,6 +4708,12 @@
       "street": "Dambruggestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -5025,10 +5041,11 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "79"
@@ -5058,8 +5075,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.218917810544, 
-      "lon": 4.4237895799, 
+      "lat": 51.218915934179, 
+      "lon": 4.423765818618, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -5216,14 +5233,14 @@
       "street": "Dambruggestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "9"
+        "9-9A"
       ], 
       "housenumber": "9", 
       "lat": 51.219071730965, 
@@ -5389,6 +5406,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dambruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9-9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.219071730965, 
+      "lon": 4.423323312234, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dambruggestraat"
     }
   ]

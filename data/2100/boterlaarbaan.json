@@ -221,6 +221,11 @@
       "street": "Boterlaarbaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -339,11 +344,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.208990422984, 
-      "lon": 4.466135804386, 
+      "lat": 51.208656194088, 
+      "lon": 4.465857210398, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boterlaarbaan"
     }, 
     {
@@ -358,11 +363,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.209186634202, 
-      "lon": 4.466251696247, 
+      "lat": 51.209149908288, 
+      "lon": 4.466207401996, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
@@ -442,8 +447,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.208900821698, 
-      "lon": 4.466336093603, 
+      "lat": 51.208901544698, 
+      "lon": 4.466331372955, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -826,10 +831,6 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4"
-      ], 
       "hnrlbls": [
         "188"
       ], 
@@ -948,8 +949,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.208783795855, 
-      "lon": 4.468787792561, 
+      "lat": 51.20877660768, 
+      "lon": 4.468784772026, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -996,8 +997,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.209573048246, 
-      "lon": 4.461367568085, 
+      "lat": 51.209580686708, 
+      "lon": 4.461369729839, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1109,13 +1110,13 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "208"
@@ -1643,8 +1644,8 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.20922650592, 
-      "lon": 4.470323608243, 
+      "lat": 51.209197291331, 
+      "lon": 4.470326119932, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1733,13 +1734,8 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "6", 
-        "7", 
-        "9"
-      ], 
       "hnrlbls": [
-        "252"
+        "252-252I"
       ], 
       "housenumber": "252", 
       "lat": 51.208761845794, 
@@ -1751,50 +1747,110 @@
     }, 
     {
       "hnrlbls": [
-        "252A-252D"
+        "252-252I"
       ], 
       "housenumber": "252A", 
-      "lat": 51.208760497531, 
-      "lon": 4.472333223875, 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
       "hnrlbls": [
-        "252A-252D"
+        "252-252I"
       ], 
       "housenumber": "252B", 
-      "lat": 51.208760497531, 
-      "lon": 4.472333223875, 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
       "hnrlbls": [
-        "252A-252D"
+        "252-252I"
       ], 
       "housenumber": "252C", 
-      "lat": 51.208760497531, 
-      "lon": 4.472333223875, 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
       "hnrlbls": [
-        "252A-252D"
+        "252-252I"
       ], 
       "housenumber": "252D", 
-      "lat": 51.208760497531, 
-      "lon": 4.472333223875, 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "252-252I"
+      ], 
+      "housenumber": "252E", 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "252-252I"
+      ], 
+      "housenumber": "252F", 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "252-252I"
+      ], 
+      "housenumber": "252G", 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "252-252I"
+      ], 
+      "housenumber": "252H", 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "252-252I"
+      ], 
+      "housenumber": "252I", 
+      "lat": 51.208761845794, 
+      "lon": 4.472333226889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
@@ -2367,8 +2423,8 @@
         "304"
       ], 
       "housenumber": "304", 
-      "lat": 51.208448156777, 
-      "lon": 4.475239208811, 
+      "lat": 51.208444921465, 
+      "lon": 4.475238628997, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3445,14 +3501,35 @@
       "apptnrs": [
         "001", 
         "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "411"
+      ], 
+      "housenumber": "411", 
+      "lat": 51.208604078563, 
+      "lon": 4.477331046773, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boterlaarbaan"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
         "201"
       ], 
       "hnrlbls": [
         "412"
       ], 
       "housenumber": "412", 
-      "lat": 51.207980539474, 
-      "lon": 4.479842161325, 
+      "lat": 51.207975146557, 
+      "lon": 4.479842005307, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3475,8 +3552,8 @@
         "414"
       ], 
       "housenumber": "414", 
-      "lat": 51.207968869012, 
-      "lon": 4.47992183631, 
+      "lat": 51.207963016788, 
+      "lon": 4.479932124988, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4314,8 +4391,8 @@
         "569"
       ], 
       "housenumber": "569", 
-      "lat": 51.206221690655, 
-      "lon": 4.483110366863, 
+      "lat": 51.206217202848, 
+      "lon": 4.483103773749, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4574,6 +4651,7 @@
     {
       "apptnrs": [
         "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
@@ -4585,8 +4663,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.209509697031, 
-      "lon": 4.463929610267, 
+      "lat": 51.209517343802, 
+      "lon": 4.4639214694, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

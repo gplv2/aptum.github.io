@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.022366476856, 
-      "lon": 4.482257737309, 
+      "lat": 51.022379429064, 
+      "lon": 4.482249502375, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -29,19 +29,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.021969564526, 
-      "lon": 4.482490367798, 
+      "lat": 51.021936685889, 
+      "lon": 4.482283341403, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Graaf van Egmontstraat"
     }, 
     {
@@ -128,6 +127,18 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.021814351082, 
+      "lon": 4.482923832998, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Graaf van Egmontstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -185,8 +196,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.021497386096, 
-      "lon": 4.482381323765, 
+      "lat": 51.021503895618, 
+      "lon": 4.482435356068, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +232,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.021378349329, 
-      "lon": 4.482311196847, 
+      "lat": 51.02137320788, 
+      "lon": 4.482329427263, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -233,8 +244,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.022266112092, 
-      "lon": 4.482306236403, 
+      "lat": 51.022264958179, 
+      "lon": 4.482291125849, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -260,8 +271,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.022190784786, 
-      "lon": 4.482305340009, 
+      "lat": 51.022193857787, 
+      "lon": 4.482288101906, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -322,15 +333,32 @@
       "street": "Graaf van Egmontstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.022036741147, 
-      "lon": 4.482368530426, 
+      "lat": 51.022065064607, 
+      "lon": 4.482267691702, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Graaf van Egmontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.022003394111, 
+      "lon": 4.482273527356, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Graaf van Egmontstraat"
     }
   ]

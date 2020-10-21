@@ -1235,12 +1235,8 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "188"
+        "188-190"
       ], 
       "housenumber": "188", 
       "lat": 51.189521920454, 
@@ -1288,12 +1284,21 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
-        "190"
+        "188-190"
       ], 
       "housenumber": "190", 
-      "lat": 51.189566006071, 
-      "lon": 3.557232467706, 
+      "lat": 51.189521920454, 
+      "lon": 3.557305328547, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2456,12 +2461,21 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.187163406849, 
-      "lon": 3.561354371464, 
+      "lat": 51.187142852049, 
+      "lon": 3.561227137197, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2484,35 +2498,11 @@
     }, 
     {
       "hnrlbls": [
-        "78"
-      ], 
-      "housenumber": "78", 
-      "lat": 51.187181143575, 
-      "lon": 3.561305861072, 
-      "municipality": "Eeklo", 
-      "pcode": "9900", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
       "lat": 51.187120471733, 
       "lon": 3.560424939948, 
-      "municipality": "Eeklo", 
-      "pcode": "9900", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.18720486223, 
-      "lon": 3.561225063683, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

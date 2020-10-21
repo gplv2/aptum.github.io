@@ -19,15 +19,17 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0301", 
+        "0401", 
         "0501"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.23298218082, 
-      "lon": 2.917610395761, 
+      "lat": 51.233028178043, 
+      "lon": 2.91753450174, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -38,8 +40,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.233360955713, 
-      "lon": 2.916762329861, 
+      "lat": 51.233362203301, 
+      "lon": 2.916761431823, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -141,11 +143,6 @@
       "street": "Louisastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -165,8 +162,8 @@
         "18B"
       ], 
       "housenumber": "18B", 
-      "lat": 51.233617450898, 
-      "lon": 2.91663119191, 
+      "lat": 51.233637911067, 
+      "lon": 2.916613514058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -185,16 +182,12 @@
       "street": "Louisastraat"
     }, 
     {
-      "busnrs": [
-        "0301", 
-        "2"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.232594965345, 
-      "lon": 2.917682587707, 
+      "lat": 51.232616444915, 
+      "lon": 2.917726023728, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -214,6 +207,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -240,8 +234,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.234077902164, 
-      "lon": 2.916058370628, 
+      "lat": 51.234087652952, 
+      "lon": 2.916076396551, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -261,27 +255,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.232650026623, 
-      "lon": 2.917649371193, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Louisastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.232694433076, 
-      "lon": 2.917605030454, 
+      "lat": 51.232691084665, 
+      "lon": 2.917654537391, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -347,15 +338,16 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.234154891646, 
-      "lon": 2.916361419682, 
+      "lat": 51.234125056277, 
+      "lon": 2.916303779822, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Louisastraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
@@ -363,8 +355,7 @@
         "0501", 
         "0601", 
         "0701", 
-        "0801", 
-        "0901"
+        "0801"
       ], 
       "hnrlbls": [
         "35"
@@ -558,8 +549,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.232922815972, 
-      "lon": 2.917886465476, 
+      "lat": 51.232878952265, 
+      "lon": 2.917777138989, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -579,44 +570,58 @@
     }, 
     {
       "hnrlbls": [
-        "8A-8B"
+        "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.23321418187, 
-      "lon": 2.916933582439, 
+      "lat": 51.233267109968, 
+      "lon": 2.917056230579, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Louisastraat"
     }, 
     {
       "hnrlbls": [
-        "8A-8B"
+        "8B"
       ], 
       "housenumber": "8B", 
-      "lat": 51.23321418187, 
-      "lon": 2.916933582439, 
+      "lat": 51.233330376962, 
+      "lon": 2.916981086668, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Louisastraat"
     }, 
     {
       "busnrs": [
-        "0102", 
+        "0101", 
+        "0201", 
         "0202", 
+        "0301", 
         "0302", 
         "0401", 
         "0402", 
-        "0502", 
-        "0503"
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.232929138864, 
-      "lon": 2.917683644902, 
+      "lat": 51.232916298408, 
+      "lon": 2.917648245203, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Louisastraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.23298142632, 
+      "lon": 2.917578199862, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

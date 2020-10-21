@@ -849,7 +849,7 @@
       "lon": 2.682254465931, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Albert I Laan"
     }, 
     {
@@ -1190,11 +1190,11 @@
     }, 
     {
       "hnrlbls": [
-        "8-167"
+        "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.13987309375, 
-      "lon": 2.698061005916, 
+      "lat": 51.139852133406, 
+      "lon": 2.698072903224, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1202,11 +1202,11 @@
     }, 
     {
       "hnrlbls": [
-        "10-169"
+        "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.139953476068, 
-      "lon": 2.698328109213, 
+      "lat": 51.139926840276, 
+      "lon": 2.698351928839, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1957,6 +1957,43 @@
     }, 
     {
       "hnrlbls": [
+        "55-55A"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.132039613508, 
+      "lon": 2.670757459066, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I Laan"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601"
+      ], 
+      "hnrlbls": [
+        "55-55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 51.132039613508, 
+      "lon": 2.670757459066, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albert I Laan"
+    }, 
+    {
+      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -1964,7 +2001,7 @@
       "lon": 2.67040438678, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I Laan"
     }, 
     {
@@ -2049,11 +2086,11 @@
         "56B"
       ], 
       "housenumber": "56B", 
-      "lat": 51.131577794264, 
-      "lon": 2.670835971157, 
+      "lat": 51.131655730119, 
+      "lon": 2.670878580542, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albert I Laan"
     }, 
     {
@@ -2318,6 +2355,9 @@
       "street": "Albert I Laan"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -2448,7 +2488,8 @@
         "001", 
         "101", 
         "201", 
-        "301"
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "76"

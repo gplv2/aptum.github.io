@@ -73,6 +73,22 @@
       "street": "Klauwaartslaan"
     }, 
     {
+      "busnrs": [
+        "B002", 
+        "B003"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.904017706118, 
+      "lon": 4.353403084369, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Klauwaartslaan"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -109,8 +125,16 @@
       "street": "Klauwaartslaan"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
+      ], 
       "hnrlbls": [
-        "18-45"
+        "18-37"
       ], 
       "housenumber": "29", 
       "lat": 50.902323311914, 
@@ -122,32 +146,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "29B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "busnrs": [
         "B001", 
         "B002", 
         "B003", 
         "B004", 
-        "B005", 
-        "B006", 
         "B007"
       ], 
       "hnrlbls": [
@@ -163,11 +165,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "201"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B006"
       ], 
       "hnrlbls": [
-        "18-45"
+        "18-37"
       ], 
       "housenumber": "31", 
       "lat": 50.902323311914, 
@@ -179,30 +184,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "B002", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "31B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "busnrs": [
-        "10"
-      ], 
-      "hnrlbls": [
-        "32-32B"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 50.903091356266, 
@@ -214,31 +205,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B005", 
+        "B006"
       ], 
       "hnrlbls": [
-        "32-32B"
-      ], 
-      "housenumber": "32B", 
-      "lat": 50.903091356266, 
-      "lon": 4.352059071813, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-45"
+        "18-37"
       ], 
       "housenumber": "33", 
       "lat": 50.902323311914, 
@@ -250,50 +224,35 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "33B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.902895740711, 
-      "lon": 4.35200838619, 
+      "lat": 50.902957849509, 
+      "lon": 4.351951926047, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klauwaartslaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "202"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
       ], 
       "hnrlbls": [
-        "18-45"
+        "18-37"
       ], 
       "housenumber": "35", 
       "lat": 50.902323311914, 
@@ -305,33 +264,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0101", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "35B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "busnrs": [
-        "101", 
-        "102", 
-        "3", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "18-45"
+        "18-37"
       ], 
       "housenumber": "37", 
       "lat": 50.902323311914, 
@@ -343,31 +283,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "37B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-45"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.902323311914, 
-      "lon": 4.352112502028, 
+      "lat": 50.902462133964, 
+      "lon": 4.352306505985, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -375,31 +303,20 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "39B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-45"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.902323311914, 
-      "lon": 4.352112502028, 
+      "lat": 50.90269104664, 
+      "lon": 4.352632976848, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -407,32 +324,25 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B008", 
+        "B009", 
+        "B010", 
+        "B011", 
+        "B012", 
+        "B013"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "41B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-45"
+        "43-45"
       ], 
       "housenumber": "43", 
-      "lat": 50.902323311914, 
-      "lon": 4.352112502028, 
+      "lat": 50.902630315621, 
+      "lon": 4.352918032617, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -440,62 +350,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "8", 
-        "9"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008"
       ], 
       "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "43B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-45"
+        "43-45"
       ], 
       "housenumber": "45", 
-      "lat": 50.902323311914, 
-      "lon": 4.352112502028, 
+      "lat": 50.902630315621, 
+      "lon": 4.352918032617, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Klauwaartslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "18B-45B"
-      ], 
-      "housenumber": "45B", 
-      "lat": 50.902051317881, 
-      "lon": 4.351636640249, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Klauwaartslaan"
     }, 
     {

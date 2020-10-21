@@ -97,13 +97,10 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "B1"
-      ], 
       "hnrlbls": [
-        "18"
+        "18A-18B"
       ], 
-      "housenumber": "18", 
+      "housenumber": "18A", 
       "lat": 51.298749256033, 
       "lon": 4.781502784661, 
       "municipality": "Beerse", 
@@ -113,9 +110,21 @@
     }, 
     {
       "hnrlbls": [
-        "18_1"
+        "18A-18B"
       ], 
-      "housenumber": "18_1", 
+      "housenumber": "18B", 
+      "lat": 51.298749256033, 
+      "lon": 4.781502784661, 
+      "municipality": "Beerse", 
+      "pcode": "2340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18C"
+      ], 
+      "housenumber": "18C", 
       "lat": 51.298840019044, 
       "lon": 4.781430756493, 
       "municipality": "Beerse", 

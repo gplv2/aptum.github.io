@@ -149,11 +149,11 @@
         "21-21A"
       ], 
       "housenumber": "21", 
-      "lat": 50.960141555079, 
-      "lon": 3.889610909274, 
+      "lat": 50.960130086412, 
+      "lon": 3.889576010706, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stichelendries"
     }, 
     {
@@ -161,11 +161,11 @@
         "21-21A"
       ], 
       "housenumber": "21A", 
-      "lat": 50.960141555079, 
-      "lon": 3.889610909274, 
+      "lat": 50.960130086412, 
+      "lon": 3.889576010706, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stichelendries"
     }, 
     {
@@ -401,11 +401,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.957724123384, 
-      "lon": 3.88624279376, 
+      "lat": 50.957711171712, 
+      "lon": 3.886197238106, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stichelendries"
     }, 
     {
@@ -415,6 +415,18 @@
       "housenumber": "48A", 
       "lat": 50.957534485641, 
       "lon": 3.886296123999, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stichelendries"
+    }, 
+    {
+      "hnrlbls": [
+        "49A"
+      ], 
+      "housenumber": "49A", 
+      "lat": 50.958316876691, 
+      "lon": 3.885977655033, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -541,7 +553,7 @@
       "street": "Stichelendries"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2"
       ], 
@@ -637,7 +649,7 @@
       "lon": 3.884842338519, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stichelendries"
     }, 
     {
@@ -690,11 +702,11 @@
     }, 
     {
       "hnrlbls": [
-        "74"
+        "74-76"
       ], 
       "housenumber": "74", 
-      "lat": 50.956505534038, 
-      "lon": 3.885085370821, 
+      "lat": 50.956506718503, 
+      "lon": 3.885023587909, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -702,11 +714,11 @@
     }, 
     {
       "hnrlbls": [
-        "76"
+        "74-76"
       ], 
       "housenumber": "76", 
-      "lat": 50.956492562449, 
-      "lon": 3.885013201388, 
+      "lat": 50.956506718503, 
+      "lon": 3.885023587909, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -717,11 +729,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.95800610686, 
-      "lon": 3.884815708747, 
+      "lat": 50.958032322267, 
+      "lon": 3.884895003007, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stichelendries"
     }, 
     {
@@ -729,8 +741,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.956481229897, 
-      "lon": 3.884946138944, 
+      "lat": 50.956492774278, 
+      "lon": 3.884933495082, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -777,8 +789,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.957648817479, 
-      "lon": 3.885416189884, 
+      "lat": 50.957647295278, 
+      "lon": 3.885439548046, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -789,8 +801,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.956427353404, 
-      "lon": 3.884632717087, 
+      "lat": 50.956445541611, 
+      "lon": 3.884530622278, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 

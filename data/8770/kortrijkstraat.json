@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.912357165174, 
-      "lon": 3.256811131903, 
+      "lat": 50.912368196764, 
+      "lon": 3.256865336369, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -233,11 +233,11 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.912389013912, 
-      "lon": 3.25704160808, 
+      "lat": 50.912361134495, 
+      "lon": 3.256850571729, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -416,8 +416,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.912329613988, 
-      "lon": 3.2570253803, 
+      "lat": 50.912329521414, 
+      "lon": 3.257025098076, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -440,11 +440,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.906481606972, 
-      "lon": 3.263156384116, 
+      "lat": 50.906387478973, 
+      "lon": 3.262029613764, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -464,11 +464,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.905855337724, 
-      "lon": 3.263032064281, 
+      "lat": 50.906043209267, 
+      "lon": 3.262074267366, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -488,11 +488,23 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.905797846608, 
-      "lon": 3.262788712265, 
+      "lat": 50.905799086357, 
+      "lon": 3.263044621217, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "125A"
+      ], 
+      "housenumber": "125A", 
+      "lat": 50.905831183466, 
+      "lon": 3.263121215938, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -512,11 +524,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.905737665382, 
-      "lon": 3.262536608546, 
+      "lat": 50.905585704977, 
+      "lon": 3.262629622875, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -554,18 +566,6 @@
       "housenumber": "130", 
       "lat": 50.904766787735, 
       "lon": 3.262172871357, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kortrijkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "131"
-      ], 
-      "housenumber": "131", 
-      "lat": 50.905440826566, 
-      "lon": 3.26242444636, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "manueleAanduidingVanPerceel", 
@@ -837,8 +837,8 @@
         "155A"
       ], 
       "housenumber": "155A", 
-      "lat": 50.903752121449, 
-      "lon": 3.264464712428, 
+      "lat": 50.903934476235, 
+      "lon": 3.264439240593, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -928,8 +928,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.912198561385, 
-      "lon": 3.25708522309, 
+      "lat": 50.912196473893, 
+      "lon": 3.257083139387, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1164,8 +1164,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.912159134652, 
-      "lon": 3.257137066484, 
+      "lat": 50.912158909384, 
+      "lon": 3.257141764656, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1455,8 +1455,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.912089567381, 
-      "lon": 3.257129469521, 
+      "lat": 50.912088913095, 
+      "lon": 3.25714583882, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1491,8 +1491,8 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 50.897120342839, 
-      "lon": 3.267756099411, 
+      "lat": 50.897156746311, 
+      "lon": 3.267966356233, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1603,8 +1603,8 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.911927140861, 
-      "lon": 3.2572846216, 
+      "lat": 50.911927485603, 
+      "lon": 3.257283049169, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1699,11 +1699,11 @@
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 50.910500180427, 
-      "lon": 3.258776672756, 
+      "lat": 50.910506513899, 
+      "lon": 3.258780931352, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1767,15 +1767,19 @@
       "street": "Kortrijkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.911297377623, 
-      "lon": 3.257694568977, 
+      "lat": 50.911307756421, 
+      "lon": 3.25772731495, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijkstraat"
     }, 
     {
@@ -1807,8 +1811,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.91024304728, 
-      "lon": 3.259480247269, 
+      "lat": 50.910223498768, 
+      "lon": 3.25963798364, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 

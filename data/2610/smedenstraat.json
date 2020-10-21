@@ -236,8 +236,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.182258923293, 
-      "lon": 4.379512622912, 
+      "lat": 51.182255509207, 
+      "lon": 4.379496604476, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -483,8 +483,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.181419038447, 
-      "lon": 4.379485387573, 
+      "lat": 51.181418139913, 
+      "lon": 4.379482098084, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -543,8 +543,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.181441726772, 
-      "lon": 4.380017253936, 
+      "lat": 51.18144388325, 
+      "lon": 4.380024834114, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -611,8 +611,12 @@
       "street": "Smedenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "52"
@@ -626,18 +630,10 @@
       "street": "Smedenstraat"
     }, 
     {
-      "hnrlbls": [
-        "52A"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
-      "housenumber": "52A", 
-      "lat": 51.181197274303, 
-      "lon": 4.379662523944, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Smedenstraat"
-    }, 
-    {
       "hnrlbls": [
         "53"
       ], 
@@ -962,6 +958,11 @@
       "street": "Smedenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "80"
       ], 

@@ -60,12 +60,12 @@
       "street": "Zomerlaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "A", 
         "B"
       ], 
       "hnrlbls": [
-        "12-12B"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 51.118504705774, 
@@ -73,30 +73,6 @@
       "municipality": "Lievegem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zomerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12A", 
-      "lat": 51.118504705774, 
-      "lon": 3.557574375854, 
-      "municipality": "Lievegem", 
-      "pcode": "9930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zomerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12B", 
-      "lat": 51.118504705774, 
-      "lon": 3.557574375854, 
-      "municipality": "Lievegem", 
-      "pcode": "9930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zomerlaan"
     }, 
     {
@@ -336,6 +312,18 @@
     }, 
     {
       "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 51.118697707175, 
+      "lon": 3.556045193724, 
+      "municipality": "Lievegem", 
+      "pcode": "9930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zomerlaan"
+    }, 
+    {
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -371,15 +359,14 @@
       "street": "Zomerlaan"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104"
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "102", 
+        "103", 
+        "104"
       ], 
       "hnrlbls": [
         "28A"

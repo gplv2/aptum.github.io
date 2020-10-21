@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -96,6 +93,11 @@
       "street": "Korte Beeldekensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -398,11 +400,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.221101895096, 
-      "lon": 4.433613149937, 
+      "lat": 51.221101084078, 
+      "lon": 4.433616870267, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Korte Beeldekensstraat"
     }
   ]

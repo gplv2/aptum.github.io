@@ -13,6 +13,11 @@
       "street": "Sijselestraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -130,18 +135,6 @@
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sijselestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10A"
-      ], 
-      "housenumber": "10A", 
-      "lat": 51.170579299055, 
-      "lon": 3.339082427084, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijselestraat"
     }, 
     {
@@ -346,8 +339,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.171297308671, 
-      "lon": 3.338703535476, 
+      "lat": 51.171296501345, 
+      "lon": 3.338683105074, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -466,11 +459,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.171074840299, 
-      "lon": 3.33928356255, 
+      "lat": 51.171032857595, 
+      "lon": 3.339231723235, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sijselestraat"
     }, 
     {
@@ -626,8 +619,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.172053267086, 
-      "lon": 3.338780097664, 
+      "lat": 51.172058412998, 
+      "lon": 3.338751670823, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -650,11 +643,23 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.172088403267, 
-      "lon": 3.338582702131, 
+      "lat": 51.17208072075, 
+      "lon": 3.33861919278, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sijselestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 51.172140226125, 
+      "lon": 3.338659921483, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijselestraat"
     }, 
     {
@@ -913,8 +918,8 @@
         "48G"
       ], 
       "housenumber": "48G", 
-      "lat": 51.174011661444, 
-      "lon": 3.338775519885, 
+      "lat": 51.17401543378, 
+      "lon": 3.338775150687, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
@@ -1066,7 +1071,7 @@
     }, 
     {
       "hnrlbls": [
-        "59"
+        "59-59A"
       ], 
       "housenumber": "59", 
       "lat": 51.175827371075, 
@@ -1078,14 +1083,14 @@
     }, 
     {
       "hnrlbls": [
-        "59A"
+        "59-59A"
       ], 
       "housenumber": "59A", 
-      "lat": 51.175805567993, 
-      "lon": 3.337937970912, 
+      "lat": 51.175827371075, 
+      "lon": 3.337541642541, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Sijselestraat"
     }, 
     {
@@ -1177,8 +1182,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.177630384558, 
-      "lon": 3.338924245594, 
+      "lat": 51.177658730757, 
+      "lon": 3.338989549937, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1405,8 +1410,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.188337840849, 
-      "lon": 3.331851010224, 
+      "lat": 51.188376513159, 
+      "lon": 3.331863311693, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
@@ -1549,8 +1554,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.179528632929, 
-      "lon": 3.335766842923, 
+      "lat": 51.179535199014, 
+      "lon": 3.335777567182, 
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 

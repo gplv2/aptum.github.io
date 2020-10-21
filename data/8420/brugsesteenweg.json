@@ -141,7 +141,7 @@
       "lon": 3.08489461546, 
       "municipality": "De Haan", 
       "pcode": "8420", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -370,18 +370,6 @@
       "street": "Brugsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "38G"
-      ], 
-      "housenumber": "38G", 
-      "lat": 51.29634846077, 
-      "lon": 3.085106006598, 
-      "municipality": "De Haan", 
-      "pcode": "8420", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brugsesteenweg"
-    }, 
-    {
       "apptnrs": [
         "0001", 
         "0201"
@@ -403,7 +391,8 @@
         "0002", 
         "0101", 
         "0102", 
-        "0201"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "42"
@@ -420,6 +409,7 @@
       "apptnrs": [
         "0001", 
         "0002", 
+        "0101", 
         "0102", 
         "0201", 
         "0202"
@@ -438,7 +428,9 @@
     {
       "apptnrs": [
         "0001", 
-        "0101"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "47"
@@ -476,11 +468,6 @@
       "street": "Brugsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -624,8 +611,10 @@
       "street": "Brugsesteenweg"
     }, 
     {
-      "busnrs": [
-        "0001"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "65"
@@ -791,7 +780,73 @@
     }, 
     {
       "apptnrs": [
-        "0201"
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 51.295090658636, 
+      "lon": 3.085595912938, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "80B"
+      ], 
+      "housenumber": "80B", 
+      "lat": 51.295108013338, 
+      "lon": 3.085803912743, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "80C"
+      ], 
+      "housenumber": "80C", 
+      "lat": 51.295141567998, 
+      "lon": 3.086163165137, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "81"
@@ -805,12 +860,112 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 51.295170384107, 
+      "lon": 3.08645845649, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "82B"
+      ], 
+      "housenumber": "82B", 
+      "lat": 51.295203727579, 
+      "lon": 3.086814991327, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
       "lat": 51.295097242736, 
       "lon": 3.084942338208, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 51.295238754434, 
+      "lon": 3.08720259437, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 51.295254146352, 
+      "lon": 3.087428858969, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "84C"
+      ], 
+      "housenumber": "84C", 
+      "lat": 51.295272686458, 
+      "lon": 3.087713537289, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 

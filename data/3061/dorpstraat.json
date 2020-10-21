@@ -548,11 +548,23 @@
         "296"
       ], 
       "housenumber": "296", 
-      "lat": 50.854954764401, 
-      "lon": 4.607928498827, 
+      "lat": 50.854967557008, 
+      "lon": 4.608002982104, 
       "municipality": "Bertem", 
       "pcode": "3061", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "296A"
+      ], 
+      "housenumber": "296A", 
+      "lat": 50.85494037183, 
+      "lon": 4.607889086115, 
+      "municipality": "Bertem", 
+      "pcode": "3061", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -1072,6 +1084,18 @@
     }, 
     {
       "hnrlbls": [
+        "342"
+      ], 
+      "housenumber": "342", 
+      "lat": 50.853243581483, 
+      "lon": 4.603189569027, 
+      "municipality": "Bertem", 
+      "pcode": "3061", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
         "343"
       ], 
       "housenumber": "343", 
@@ -1080,6 +1104,18 @@
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "344"
+      ], 
+      "housenumber": "344", 
+      "lat": 50.853208889686, 
+      "lon": 4.603095950452, 
+      "municipality": "Bertem", 
+      "pcode": "3061", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -1477,8 +1513,8 @@
         "373A"
       ], 
       "housenumber": "373A", 
-      "lat": 50.853536858144, 
-      "lon": 4.604824347431, 
+      "lat": 50.853555783903, 
+      "lon": 4.604889769565, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2374,8 +2410,8 @@
         "440"
       ], 
       "housenumber": "440", 
-      "lat": 50.850686117409, 
-      "lon": 4.597897557756, 
+      "lat": 50.850685667379, 
+      "lon": 4.597897839568, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "afgeleidVanGebouw", 
@@ -2555,11 +2591,11 @@
         "458"
       ], 
       "housenumber": "458", 
-      "lat": 50.849583632765, 
-      "lon": 4.596520562696, 
+      "lat": 50.849573117861, 
+      "lon": 4.596519091564, 
       "municipality": "Bertem", 
       "pcode": "3061", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpstraat"
     }, 
     {
@@ -3311,20 +3347,15 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101", 
-        "02/01"
-      ], 
       "hnrlbls": [
         "504"
       ], 
       "housenumber": "504", 
-      "lat": 50.848211518802, 
-      "lon": 4.592301932421, 
+      "lat": 50.848160695697, 
+      "lon": 4.592271728313, 
       "municipality": "Bertem", 
       "pcode": "3061", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -3368,8 +3399,8 @@
         "508"
       ], 
       "housenumber": "508", 
-      "lat": 50.848543610675, 
-      "lon": 4.592151435101, 
+      "lat": 50.848113606553, 
+      "lon": 4.592075120113, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3400,43 +3431,12 @@
       "street": "Dorpstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302"
-      ], 
       "hnrlbls": [
         "510"
       ], 
       "housenumber": "510", 
-      "lat": 50.848103044231, 
-      "lon": 4.5921455009, 
-      "municipality": "Bertem", 
-      "pcode": "3061", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Dorpstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301"
-      ], 
-      "hnrlbls": [
-        "510A"
-      ], 
-      "housenumber": "510A", 
-      "lat": 50.848024842537, 
-      "lon": 4.592000432155, 
+      "lat": 50.848028251593, 
+      "lon": 4.591956997006, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3504,6 +3504,7 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
         "0101"
       ], 
       "hnrlbls": [
@@ -4207,8 +4208,8 @@
         "577"
       ], 
       "housenumber": "577", 
-      "lat": 50.845312638009, 
-      "lon": 4.585776027055, 
+      "lat": 50.845312726059, 
+      "lon": 4.585777021391, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "afgeleidVanGebouw", 
@@ -4507,8 +4508,8 @@
         "609"
       ], 
       "housenumber": "609", 
-      "lat": 50.843344280014, 
-      "lon": 4.583832949931, 
+      "lat": 50.843336748467, 
+      "lon": 4.583871109002, 
       "municipality": "Bertem", 
       "pcode": "3061", 
       "source": "afgeleidVanGebouw", 

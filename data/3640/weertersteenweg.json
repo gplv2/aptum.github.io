@@ -1329,11 +1329,11 @@
         "274A-274B"
       ], 
       "housenumber": "274A", 
-      "lat": 51.16070644443, 
-      "lon": 5.742487355836, 
+      "lat": 51.160693379747, 
+      "lon": 5.742443507498, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weertersteenweg"
     }, 
     {
@@ -1341,11 +1341,11 @@
         "274A-274B"
       ], 
       "housenumber": "274B", 
-      "lat": 51.16070644443, 
-      "lon": 5.742487355836, 
+      "lat": 51.160693379747, 
+      "lon": 5.742443507498, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Weertersteenweg"
     }, 
     {
@@ -1401,8 +1401,8 @@
         "280A"
       ], 
       "housenumber": "280A", 
-      "lat": 51.161317315411, 
-      "lon": 5.742379952014, 
+      "lat": 51.161300063707, 
+      "lon": 5.742402320068, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2119,6 +2119,32 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "373"
+      ], 
+      "housenumber": "373", 
+      "lat": 51.170117928955, 
+      "lon": 5.736611715062, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Weertersteenweg"
+    }, 
+    {
+      "busnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -2130,21 +2156,6 @@
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Weertersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "375"
-      ], 
-      "housenumber": "375", 
-      "lat": 51.170249494564, 
-      "lon": 5.736561661067, 
-      "municipality": "Kinrooi", 
-      "pcode": "3640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Weertersteenweg"
     }, 
     {
@@ -2294,8 +2305,8 @@
         "392"
       ], 
       "housenumber": "392", 
-      "lat": 51.171814223531, 
-      "lon": 5.736522451841, 
+      "lat": 51.171828736891, 
+      "lon": 5.736449228984, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2430,8 +2441,8 @@
         "402"
       ], 
       "housenumber": "402", 
-      "lat": 51.172566597739, 
-      "lon": 5.73573908628, 
+      "lat": 51.172567952415, 
+      "lon": 5.735738553942, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3296,8 +3307,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.136119516237, 
-      "lon": 5.755300575136, 
+      "lat": 51.136006318734, 
+      "lon": 5.75507200661, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 

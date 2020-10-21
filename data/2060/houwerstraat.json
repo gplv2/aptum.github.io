@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "9-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.225653789237, 
-      "lon": 4.41579025096, 
+      "lat": 51.225598190559, 
+      "lon": 4.415915304737, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Houwerstraat"
     }, 
     {
@@ -146,6 +146,10 @@
       "street": "Houwerstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -289,6 +293,18 @@
       "street": "Houwerstraat"
     }, 
     {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.225263679715, 
+      "lon": 4.415602330028, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Houwerstraat"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "101"
@@ -352,12 +368,14 @@
       "street": "Houwerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.225653789237, 

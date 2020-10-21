@@ -126,8 +126,9 @@
       "street": "Vijfkampstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "17"
@@ -214,7 +215,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "21-23"
+        "21"
       ], 
       "housenumber": "21", 
       "lat": 51.181676678589, 
@@ -243,23 +244,6 @@
     }, 
     {
       "busnrs": [
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "21-23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.181676678589, 
-      "lon": 4.385802598829, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vijfkampstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -276,6 +260,10 @@
       "street": "Vijfkampstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 

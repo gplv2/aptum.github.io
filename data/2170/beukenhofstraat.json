@@ -441,8 +441,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.24001181823, 
-      "lon": 4.442505021787, 
+      "lat": 51.24001235834, 
+      "lon": 4.442503733926, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -658,30 +658,21 @@
       "street": "Beukenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.24039276365, 
-      "lon": 4.442615459089, 
+      "lat": 51.240345264729, 
+      "lon": 4.44267981977, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Beukenhofstraat"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "58_2"
-      ], 
-      "housenumber": "58_2", 
-      "lat": 51.240392765907, 
-      "lon": 4.442611879274, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Beukenhofstraat"
     }, 
     {
@@ -718,7 +709,7 @@
     }, 
     {
       "hnrlbls": [
-        "58-60"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 51.24039276365, 

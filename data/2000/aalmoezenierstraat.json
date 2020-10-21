@@ -160,6 +160,11 @@
       "street": "Aalmoezenierstraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -186,7 +191,7 @@
       "lon": 4.399140062155, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aalmoezenierstraat"
     }, 
     {
@@ -847,6 +852,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Aalmoezenierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.214464992478, 
+      "lon": 4.398891170799, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Aalmoezenierstraat"
     }, 
     {

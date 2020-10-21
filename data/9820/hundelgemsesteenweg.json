@@ -2558,8 +2558,8 @@
         "1340"
       ], 
       "housenumber": "1340", 
-      "lat": 50.935696203041, 
-      "lon": 3.733983826885, 
+      "lat": 50.9356971972, 
+      "lon": 3.733984809325, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -3996,15 +3996,24 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.015988154709, 
-      "lon": 3.752637808932, 
+      "lat": 51.015957701843, 
+      "lon": 3.752521492269, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hundelgemsesteenweg"
     }, 
     {
@@ -4020,18 +4029,27 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
       ], 
       "hnrlbls": [
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.015854871558, 
-      "lon": 3.752488641068, 
+      "lat": 51.015841885111, 
+      "lon": 3.75251503378, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hundelgemsesteenweg"
     }, 
     {
@@ -5132,6 +5150,18 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "318A"
+      ], 
+      "housenumber": "318A", 
+      "lat": 51.011265056489, 
+      "lon": 3.750305058167, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hundelgemsesteenweg"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -5563,11 +5593,11 @@
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 51.009567203612, 
-      "lon": 3.751207907455, 
+      "lat": 51.009576465492, 
+      "lon": 3.751225596985, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Hundelgemsesteenweg"
     }, 
     {
@@ -5575,11 +5605,11 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.009407074083, 
-      "lon": 3.750962365989, 
+      "lat": 51.009408561349, 
+      "lon": 3.75098884981, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Hundelgemsesteenweg"
     }, 
     {
@@ -6418,8 +6448,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.024832507553, 
-      "lon": 3.749054894223, 
+      "lat": 51.024830605685, 
+      "lon": 3.749052211134, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6475,9 +6505,27 @@
     }, 
     {
       "hnrlbls": [
-        "448"
+        "448-448A"
       ], 
       "housenumber": "448", 
+      "lat": 51.002743740524, 
+      "lon": 3.751315275181, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hundelgemsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "448-448A"
+      ], 
+      "housenumber": "448A", 
       "lat": 51.002743740524, 
       "lon": 3.751315275181, 
       "municipality": "Merelbeke", 
@@ -7600,12 +7648,23 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.016729413374, 
-      "lon": 3.753480158062, 
+      "lat": 51.016744413684, 
+      "lon": 3.753512311845, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -9268,18 +9327,18 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "3", 
-        "301", 
-        "302"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "656"
@@ -9329,8 +9388,8 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "660"
@@ -10121,12 +10180,12 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "734"
@@ -10224,13 +10283,13 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105"
       ], 
       "hnrlbls": [
         "744-746"
@@ -10405,8 +10464,8 @@
         "76-78"
       ], 
       "housenumber": "76", 
-      "lat": 51.023915001098, 
-      "lon": 3.749951313761, 
+      "lat": 51.023895790189, 
+      "lon": 3.750041934895, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -10609,8 +10668,8 @@
         "76-78"
       ], 
       "housenumber": "78", 
-      "lat": 51.023915001098, 
-      "lon": 3.749951313761, 
+      "lat": 51.023895790189, 
+      "lon": 3.750041934895, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -10777,8 +10836,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.02707278794, 
-      "lon": 3.747305469441, 
+      "lat": 51.027072882336, 
+      "lon": 3.747306323461, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -11121,7 +11180,7 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0101"
       ], 
       "hnrlbls": [
@@ -11220,16 +11279,16 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "84"
@@ -11582,8 +11641,8 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "87"
@@ -11982,13 +12041,13 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "90"
@@ -12270,9 +12329,9 @@
       "street": "Hundelgemsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "924"
@@ -12494,8 +12553,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.023606885214, 
-      "lon": 3.751055463503, 
+      "lat": 51.023609154055, 
+      "lon": 3.751059567115, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -12866,8 +12925,8 @@
         "996"
       ], 
       "housenumber": "996", 
-      "lat": 50.975142397687, 
-      "lon": 3.73872700315, 
+      "lat": 50.975108944701, 
+      "lon": 3.738724746904, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 

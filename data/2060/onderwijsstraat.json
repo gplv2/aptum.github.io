@@ -198,6 +198,10 @@
       "street": "Onderwijsstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -473,10 +477,6 @@
       "street": "Onderwijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -749,34 +749,38 @@
       "street": "Onderwijsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.226384050336, 
-      "lon": 4.436081463339, 
+      "lat": 51.226343279821, 
+      "lon": 4.436173878476, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Onderwijsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "23"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.226448652284, 
-      "lon": 4.436123929962, 
+      "lat": 51.226451339811, 
+      "lon": 4.436139537225, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Onderwijsstraat"
     }, 
     {

@@ -1,14 +1,16 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "1"
@@ -107,6 +109,28 @@
       "street": "Hendrik Marckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.179915381392, 
+      "lon": 4.424833005434, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hendrik Marckstraat"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -116,6 +140,28 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hendrik Marckstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.179874653375, 
+      "lon": 4.424478584501, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hendrik Marckstraat"
     }, 
     {
@@ -138,9 +184,22 @@
       "street": "Hendrik Marckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.180921502616, 
+      "lon": 4.425318891057, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hendrik Marckstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "2"
@@ -158,8 +217,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.180215837356, 
-      "lon": 4.424709525958, 
+      "lat": 51.180217546479, 
+      "lon": 4.42470681088, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -187,10 +246,12 @@
       "street": "Hendrik Marckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "3"
@@ -233,13 +294,13 @@
       "street": "Hendrik Marckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "6"

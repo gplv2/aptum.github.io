@@ -1,18 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "0501", 
-        "0502", 
-        "0601"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,14 +26,18 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.232406497279, 
-      "lon": 2.918258799754, 
+      "lat": 51.23234927545, 
+      "lon": 2.918115809192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -64,11 +56,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.232373787143, 
-      "lon": 2.918340579361, 
+      "lat": 51.232304792973, 
+      "lon": 2.918161297036, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wapenplein"
     }, 
     {
@@ -76,11 +68,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.232317135138, 
-      "lon": 2.918361386351, 
+      "lat": 51.232287092261, 
+      "lon": 2.918279410804, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wapenplein"
     }, 
     {
@@ -127,11 +119,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.232110618023, 
-      "lon": 2.918382128933, 
+      "lat": 51.232102581686, 
+      "lon": 2.918371925678, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wapenplein"
     }, 
     {
@@ -176,18 +168,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.231790677657, 
-      "lon": 2.917217892282, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wapenplein"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -215,8 +195,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.232156846409, 
-      "lon": 2.917020341509, 
+      "lat": 51.232156761812, 
+      "lon": 2.917020773727, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -274,32 +254,30 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
         "0501", 
-        "0801", 
-        "1", 
-        "10", 
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701", 
+        "0702"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.232379807579, 
-      "lon": 2.917372677744, 
+      "lat": 51.232330440057, 
+      "lon": 2.917437649728, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wapenplein"
     }, 
     {
@@ -307,8 +285,8 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.232461711917, 
-      "lon": 2.917431702713, 
+      "lat": 51.232381355798, 
+      "lon": 2.917550191851, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

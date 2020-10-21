@@ -424,7 +424,7 @@
       "lon": 4.400873466843, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -500,12 +500,38 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "hnrlbls": [
-        "133"
+      "busnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "02.01"
       ], 
-      "housenumber": "133", 
-      "lat": 51.079135624524, 
-      "lon": 4.399659011903, 
+      "hnrlbls": [
+        "133A-133B"
+      ], 
+      "housenumber": "133A", 
+      "lat": 51.079088851117, 
+      "lon": 4.399775707946, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "02.01", 
+        "02.02"
+      ], 
+      "hnrlbls": [
+        "133A-133B"
+      ], 
+      "housenumber": "133B", 
+      "lat": 51.079088851117, 
+      "lon": 4.399775707946, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -981,10 +1007,10 @@
     }, 
     {
       "busnrs": [
-        "60.00.01", 
-        "60.00.02", 
-        "60.01.01", 
-        "60.01.02"
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02"
       ], 
       "hnrlbls": [
         "60"
@@ -1322,6 +1348,108 @@
       "housenumber": "87", 
       "lat": 51.07992230247, 
       "lon": 4.403544302884, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "02.01", 
+        "02.02"
+      ], 
+      "hnrlbls": [
+        "87A-87B"
+      ], 
+      "housenumber": "87A", 
+      "lat": 51.07979119464, 
+      "lon": 4.40311153406, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "02.01", 
+        "02.02"
+      ], 
+      "hnrlbls": [
+        "87A-87B"
+      ], 
+      "housenumber": "87B", 
+      "lat": 51.07979119464, 
+      "lon": 4.40311153406, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "02.01", 
+        "02.02"
+      ], 
+      "hnrlbls": [
+        "87C-87D"
+      ], 
+      "housenumber": "87C", 
+      "lat": 51.07969911092, 
+      "lon": 4.402630849113, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "00.01", 
+        "01.01", 
+        "02.01"
+      ], 
+      "hnrlbls": [
+        "87C-87D"
+      ], 
+      "housenumber": "87D", 
+      "lat": 51.07969911092, 
+      "lon": 4.402630849113, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "01.03", 
+        "02.01", 
+        "02.02", 
+        "02.03", 
+        "03.01", 
+        "03.02", 
+        "03.03"
+      ], 
+      "hnrlbls": [
+        "87E"
+      ], 
+      "housenumber": "87E", 
+      "lat": 51.079465474939, 
+      "lon": 4.40268390352, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

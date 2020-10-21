@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.771495691562, 
-      "lon": 3.443505406174, 
+      "lat": 50.771494692698, 
+      "lon": 3.443504149791, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.771397480814, 
-      "lon": 3.443443960321, 
+      "lat": 50.771428613247, 
+      "lon": 3.443321987508, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -105,6 +105,13 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -211,11 +218,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.771743438619, 
-      "lon": 3.443012398366, 
+      "lat": 50.771758506581, 
+      "lon": 3.44296233811, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {

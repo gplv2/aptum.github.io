@@ -74,7 +74,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "137"
@@ -124,14 +125,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "GVLO"
-      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -180,9 +173,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -191,7 +181,7 @@
       "lon": 4.468837857326, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -223,8 +213,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.864924381729, 
-      "lon": 4.469407647939, 
+      "lat": 50.864922942312, 
+      "lon": 4.469408923272, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 

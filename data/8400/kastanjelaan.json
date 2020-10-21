@@ -308,21 +308,12 @@
         "0101", 
         "0102", 
         "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
         "0201", 
         "0202", 
         "0203", 
-        "0204", 
-        "0205", 
-        "0206", 
         "0301", 
         "0302", 
-        "0303", 
-        "0304", 
-        "0305", 
-        "0306"
+        "0303"
       ], 
       "hnrlbls": [
         "4"
@@ -348,15 +339,21 @@
       "street": "Kastanjelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.211250733741, 
-      "lon": 2.903550164643, 
+      "lat": 51.211214207762, 
+      "lon": 2.90353356353, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -373,20 +370,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.211259149854, 
-      "lon": 2.903460300277, 
+      "lat": 51.211215381887, 
+      "lon": 2.903446932437, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -403,18 +399,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.211267084652, 
-      "lon": 2.903367874635, 
+      "lat": 51.211219721894, 
+      "lon": 2.903376375697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {
@@ -536,11 +533,9 @@
         "0201", 
         "0202", 
         "0203", 
+        "0301", 
         "0302", 
-        "0303", 
-        "301D", 
-        "302D", 
-        "D"
+        "0303"
       ], 
       "hnrlbls": [
         "6"
@@ -661,20 +656,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.211365816613, 
-      "lon": 2.902006169947, 
+      "lat": 51.211355963615, 
+      "lon": 2.90207432401, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kastanjelaan"
     }, 
     {

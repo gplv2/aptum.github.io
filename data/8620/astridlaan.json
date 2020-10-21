@@ -2,21 +2,26 @@
   "addresses": [
     {
       "busnrs": [
-        "102", 
-        "2", 
-        "202", 
-        "203", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
-        "1-44"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.132846881302, 
-      "lon": 2.747238099955, 
+      "lat": 51.132883924634, 
+      "lon": 2.747290543919, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -45,8 +50,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.12826321679, 
-      "lon": 2.74759474195, 
+      "lat": 51.128185928199, 
+      "lon": 2.747557844416, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -57,8 +62,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.127801077228, 
-      "lon": 2.747476178126, 
+      "lat": 51.127646501895, 
+      "lon": 2.747402527116, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -84,14 +89,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "116"
@@ -221,11 +225,11 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.126778816638, 
-      "lon": 2.749047726662, 
+      "lat": 51.126837583254, 
+      "lon": 2.74887495007, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -257,11 +261,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.126629734061, 
-      "lon": 2.748935304671, 
+      "lat": 51.126707644902, 
+      "lon": 2.748657278025, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Astridlaan"
     }, 
     {
@@ -278,7 +282,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "16"
@@ -339,22 +344,22 @@
         "302"
       ], 
       "hnrlbls": [
-        "1-44"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.132846881302, 
-      "lon": 2.747238099955, 
+      "lat": 51.132848235554, 
+      "lon": 2.747245054921, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Astridlaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "20"
@@ -465,45 +470,48 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "201", 
-        "202", 
-        "301", 
-        "302"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "1-44"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.132846881302, 
-      "lon": 2.747238099955, 
+      "lat": 51.132756716341, 
+      "lon": 2.747297958654, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "3", 
-        "303"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.131476407487, 
-      "lon": 2.747997402606, 
+      "lat": 51.131545912414, 
+      "lon": 2.747991276804, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -520,26 +528,27 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
-        "30-32"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.131476407487, 
-      "lon": 2.747997402606, 
+      "lat": 51.131402063205, 
+      "lon": 2.747998123415, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -624,11 +633,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.132724546085, 
-      "lon": 2.747292644546, 
+      "lat": 51.132721153542, 
+      "lon": 2.747307480621, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -844,7 +853,7 @@
     }, 
     {
       "hnrlbls": [
-        "53-53B"
+        "53"
       ], 
       "housenumber": "53", 
       "lat": 51.130423255216, 
@@ -852,18 +861,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Astridlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "53-53B"
-      ], 
-      "housenumber": "53B", 
-      "lat": 51.130423255216, 
-      "lon": 2.747554675441, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -1184,8 +1181,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.132701756715, 
-      "lon": 2.747878739881, 
+      "lat": 51.132704393144, 
+      "lon": 2.747861215047, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -1265,8 +1262,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "85"

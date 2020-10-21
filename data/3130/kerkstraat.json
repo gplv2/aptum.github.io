@@ -169,9 +169,8 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0011"
       ], 
       "hnrlbls": [
         "24"
@@ -627,15 +626,22 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.019848506831, 
-      "lon": 4.784620148569, 
+      "lat": 51.019879992921, 
+      "lon": 4.784562565248, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Kerkstraat"
     }, 
     {

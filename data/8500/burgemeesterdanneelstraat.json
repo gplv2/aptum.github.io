@@ -271,11 +271,10 @@
       "street": "Burgemeester Danneelstraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "2", 
-        "21", 
-        "31"
+      "apptnrs": [
+        "0011", 
+        "0021", 
+        "0031"
       ], 
       "hnrlbls": [
         "29"
@@ -558,6 +557,30 @@
     }, 
     {
       "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.819707174343, 
+      "lon": 3.275559497567, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Burgemeester Danneelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 50.819676771949, 
+      "lon": 3.275606188176, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Burgemeester Danneelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -768,9 +791,9 @@
       "street": "Burgemeester Danneelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
+      "apptnrs": [
+        "0001", 
+        "0011"
       ], 
       "hnrlbls": [
         "64"
@@ -954,9 +977,9 @@
       "street": "Burgemeester Danneelstraat"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "21"
+      "apptnrs": [
+        "0011", 
+        "0021"
       ], 
       "hnrlbls": [
         "74"
@@ -1175,18 +1198,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Burgemeester Danneelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "90A"
-      ], 
-      "housenumber": "90A", 
-      "lat": 50.819232212901, 
-      "lon": 3.280587605062, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
       "street": "Burgemeester Danneelstraat"
     }, 
     {

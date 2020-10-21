@@ -77,8 +77,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.771799086447, 
-      "lon": 3.485596023493, 
+      "lat": 50.771797885818, 
+      "lon": 3.485591792672, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.771794636802, 
-      "lon": 3.485685568482, 
+      "lat": 50.771791871715, 
+      "lon": 3.485676546546, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.771852761661, 
-      "lon": 3.485691851579, 
+      "lat": 50.771853414553, 
+      "lon": 3.485683049129, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -230,8 +230,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.771796879908, 
-      "lon": 3.486293610038, 
+      "lat": 50.771797400035, 
+      "lon": 3.486291048302, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -392,11 +392,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.772632224611, 
-      "lon": 3.486145542532, 
+      "lat": 50.772510367176, 
+      "lon": 3.4861523621, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Grote Herreweg"
     }, 
     {
@@ -474,8 +474,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.772711120182, 
-      "lon": 3.485758422438, 
+      "lat": 50.772626946757, 
+      "lon": 3.485874558085, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -555,10 +555,11 @@
     }, 
     {
       "busnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "103", 
-        "2", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
@@ -665,8 +666,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.772997599567, 
-      "lon": 3.486982579277, 
+      "lat": 50.772998673987, 
+      "lon": 3.486981992046, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1256,11 +1257,11 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.776509783855, 
-      "lon": 3.490938056087, 
+      "lat": 50.776418621356, 
+      "lon": 3.490913948581, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Herreweg"
     }, 
     {
@@ -1893,16 +1894,17 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
         "0002", 
+        "0003", 
         "0101", 
+        "0102", 
+        "0103", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
         "0401"
-      ], 
-      "busnrs": [
-        "102", 
-        "203"
       ], 
       "hnrlbls": [
         "29"
@@ -1916,6 +1918,11 @@
       "street": "Grote Herreweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "29A"
       ], 
@@ -1944,8 +1951,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.769305776181, 
-      "lon": 3.479317399262, 
+      "lat": 50.769296891497, 
+      "lon": 3.479331318666, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -2232,8 +2239,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.769793050964, 
-      "lon": 3.481451645914, 
+      "lat": 50.769792133811, 
+      "lon": 3.481449253068, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -2480,11 +2487,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.771102363507, 
-      "lon": 3.48333613865, 
+      "lat": 50.770987527209, 
+      "lon": 3.483332200205, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Herreweg"
     }, 
     {
@@ -2513,11 +2520,11 @@
     }, 
     {
       "hnrlbls": [
-        "81-83"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.771115983327, 
-      "lon": 3.483568110962, 
+      "lat": 50.771019615915, 
+      "lon": 3.483485990411, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -2537,7 +2544,7 @@
     }, 
     {
       "hnrlbls": [
-        "81-83"
+        "83"
       ], 
       "housenumber": "83", 
       "lat": 50.771115983327, 

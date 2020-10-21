@@ -517,10 +517,6 @@
       "street": "Koningsstraat"
     }, 
     {
-      "apptnrs": [
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -653,6 +649,27 @@
       "street": "Koningsstraat"
     }, 
     {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "00.03", 
+        "01.01", 
+        "01.02", 
+        "01.03", 
+        "02.01"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.233229181796, 
+      "lon": 5.312668042148, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "afgeleidVanStraat", 
+      "street": "Koningsstraat"
+    }, 
+    {
       "hnrlbls": [
         "60"
       ], 
@@ -734,26 +751,6 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Koningsstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0002", 
-        "0003", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0201"
-      ], 
-      "hnrlbls": [
-        "6_0001"
-      ], 
-      "housenumber": "6_0001", 
-      "lat": 51.231803084821, 
-      "lon": 5.310513668595, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Koningsstraat"
     }, 
     {

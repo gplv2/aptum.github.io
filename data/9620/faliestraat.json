@@ -77,8 +77,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.831356847259, 
-      "lon": 3.80179523541, 
+      "lat": 50.831339408551, 
+      "lon": 3.801832778554, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -673,11 +673,11 @@
         "150-150A"
       ], 
       "housenumber": "150", 
-      "lat": 50.828706330044, 
-      "lon": 3.805407099844, 
+      "lat": 50.828479182773, 
+      "lon": 3.805468581788, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Faliestraat"
     }, 
     {
@@ -685,11 +685,11 @@
         "150-150A"
       ], 
       "housenumber": "150A", 
-      "lat": 50.828706330044, 
-      "lon": 3.805407099844, 
+      "lat": 50.828479182773, 
+      "lon": 3.805468581788, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Faliestraat"
     }, 
     {
@@ -1157,8 +1157,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.832522369089, 
-      "lon": 3.799064186528, 
+      "lat": 50.83252272866, 
+      "lon": 3.799064182177, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -1181,8 +1181,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.832468737836, 
-      "lon": 3.799164629558, 
+      "lat": 50.832468824973, 
+      "lon": 3.799164060685, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -1536,8 +1536,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.832767293544, 
-      "lon": 3.799424912598, 
+      "lat": 50.832767568041, 
+      "lon": 3.799425902967, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1750,7 +1750,7 @@
     {
       "busnrs": [
         "0001", 
-        "0101"
+        "0002"
       ], 
       "hnrlbls": [
         "70"
@@ -1924,11 +1924,11 @@
         "83-83A"
       ], 
       "housenumber": "83", 
-      "lat": 50.830653548696, 
-      "lon": 3.802125077293, 
+      "lat": 50.830584162527, 
+      "lon": 3.801997874534, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Faliestraat"
     }, 
     {
@@ -1936,11 +1936,11 @@
         "83-83A"
       ], 
       "housenumber": "83A", 
-      "lat": 50.830653548696, 
-      "lon": 3.802125077293, 
+      "lat": 50.830584162527, 
+      "lon": 3.801997874534, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Faliestraat"
     }, 
     {
@@ -1948,11 +1948,23 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.831948304886, 
-      "lon": 3.800794726015, 
+      "lat": 50.831946410268, 
+      "lon": 3.800793329342, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Faliestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 50.831865439457, 
+      "lon": 3.8007989906, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Faliestraat"
     }, 
     {
@@ -1984,8 +1996,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.830462231534, 
-      "lon": 3.802662525468, 
+      "lat": 50.830495668971, 
+      "lon": 3.802717483357, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 

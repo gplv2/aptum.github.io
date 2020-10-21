@@ -17,11 +17,11 @@
       "street": "Geldersstraat (Frans)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "03/1", 
+        "O000"
       ], 
       "hnrlbls": [
         "11"
@@ -31,7 +31,7 @@
       "lon": 4.423233586849, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Geldersstraat (Frans)"
     }, 
     {
@@ -83,11 +83,9 @@
       "street": "Geldersstraat (Frans)"
     }, 
     {
-      "apptnrs": [
-        "2"
-      ], 
       "busnrs": [
-        "01/1"
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "20"
@@ -317,11 +315,11 @@
       "street": "Geldersstraat (Frans)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3/4"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "03/4", 
+        "O000"
       ], 
       "hnrlbls": [
         "7"
@@ -331,7 +329,7 @@
       "lon": 4.423101619126, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Geldersstraat (Frans)"
     }
   ]

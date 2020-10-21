@@ -62,18 +62,6 @@
     }, 
     {
       "hnrlbls": [
-        "106"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.032054220474, 
-      "lon": 4.159432550071, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Rosstraat"
-    }, 
-    {
-      "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
@@ -133,7 +121,7 @@
       "street": "Rosstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -145,11 +133,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.030718148555, 
-      "lon": 4.159415124863, 
+      "lat": 51.030824646595, 
+      "lon": 4.159351927279, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosstraat"
     }, 
     {
@@ -165,7 +153,7 @@
       "street": "Rosstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -177,11 +165,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.030667334849, 
-      "lon": 4.159400668463, 
+      "lat": 51.030678612641, 
+      "lon": 4.159322642346, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosstraat"
     }, 
     {
@@ -197,21 +185,23 @@
       "street": "Rosstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
+        "3"
+      ], 
+      "busnrs": [
         "5"
       ], 
       "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.030599531227, 
-      "lon": 4.159385860161, 
+      "lat": 51.030570491544, 
+      "lon": 4.159382996003, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rosstraat"
     }, 
     {
@@ -372,18 +362,6 @@
     }, 
     {
       "hnrlbls": [
-        "7-13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.034865235925, 
-      "lon": 4.161913620646, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rosstraat"
-    }, 
-    {
-      "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
@@ -399,8 +377,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.029915531863, 
-      "lon": 4.159271447773, 
+      "lat": 51.029915712148, 
+      "lon": 4.159271732068, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -807,8 +785,8 @@
         "171A"
       ], 
       "housenumber": "171A", 
-      "lat": 51.027815465402, 
-      "lon": 4.1589927323, 
+      "lat": 51.027803508321, 
+      "lon": 4.158890582292, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1275,11 +1253,11 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.02472918686, 
-      "lon": 4.158500516698, 
+      "lat": 51.024723298603, 
+      "lon": 4.158475029513, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rosstraat"
     }, 
     {
@@ -1335,8 +1313,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.036622037344, 
-      "lon": 4.16123922776, 
+      "lat": 51.036623369663, 
+      "lon": 4.161230097399, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1371,8 +1349,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.036568769651, 
-      "lon": 4.161209238296, 
+      "lat": 51.036570469038, 
+      "lon": 4.161204383415, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1729,8 +1707,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.033622441266, 
-      "lon": 4.160446154684, 
+      "lat": 51.03362637167, 
+      "lon": 4.160381129525, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1777,8 +1755,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.035160628569, 
-      "lon": 4.160386299065, 
+      "lat": 51.035159638527, 
+      "lon": 4.160385590629, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1809,7 +1787,7 @@
       "street": "Rosstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1835,18 +1813,6 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Rosstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.033065726205, 
-      "lon": 4.160279548289, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
       "street": "Rosstraat"
     }, 
     {
@@ -1902,8 +1868,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.03282628674, 
-      "lon": 4.160193792858, 
+      "lat": 51.032848529796, 
+      "lon": 4.16016561009, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 

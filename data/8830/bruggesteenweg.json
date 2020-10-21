@@ -245,11 +245,11 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.004488778974, 
-      "lon": 3.115898071273, 
+      "lat": 51.004623705757, 
+      "lon": 3.115778048395, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggesteenweg"
     }, 
     {
@@ -569,8 +569,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.999287559313, 
-      "lon": 3.116656715859, 
+      "lat": 50.999287655251, 
+      "lon": 3.116657283201, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -620,8 +620,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.998869860102, 
-      "lon": 3.11653779365, 
+      "lat": 50.998868638168, 
+      "lon": 3.116541245687, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -692,8 +692,8 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.996306563712, 
-      "lon": 3.116254371658, 
+      "lat": 50.996284974835, 
+      "lon": 3.116278597981, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -704,11 +704,11 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.996245879947, 
-      "lon": 3.11632209761, 
+      "lat": 50.996243135381, 
+      "lon": 3.116258488287, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruggesteenweg"
     }, 
     {
@@ -716,8 +716,8 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 50.996174505757, 
-      "lon": 3.116272289134, 
+      "lat": 50.996169203981, 
+      "lon": 3.116280978779, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -896,8 +896,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.994356941125, 
-      "lon": 3.116409601843, 
+      "lat": 50.994339847408, 
+      "lon": 3.1163577753, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -968,8 +968,8 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 50.994009611443, 
-      "lon": 3.117150554683, 
+      "lat": 50.994008594008, 
+      "lon": 3.117147875108, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1004,8 +1004,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 50.993547189717, 
-      "lon": 3.117789005501, 
+      "lat": 50.993575800614, 
+      "lon": 3.117757186071, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1040,8 +1040,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 50.993676290362, 
-      "lon": 3.116562835474, 
+      "lat": 50.993577005028, 
+      "lon": 3.116568336571, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1103,11 +1103,11 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.993517951556, 
-      "lon": 3.116417483311, 
+      "lat": 50.993528330323, 
+      "lon": 3.116573340593, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggesteenweg"
     }, 
     {
@@ -1235,8 +1235,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 50.992651883267, 
-      "lon": 3.116491332612, 
+      "lat": 50.992651124847, 
+      "lon": 3.116487649018, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1306,6 +1306,9 @@
       "street": "Bruggesteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "245"
       ], 
@@ -1361,8 +1364,8 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.988258314351, 
-      "lon": 3.119337591055, 
+      "lat": 50.988257615663, 
+      "lon": 3.119331057323, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1399,6 +1402,18 @@
       "housenumber": "252", 
       "lat": 50.99124255437, 
       "lon": 3.11655105621, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bruggesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "254"
+      ], 
+      "housenumber": "254", 
+      "lat": 50.990279100009, 
+      "lon": 3.116648440266, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1445,11 +1460,11 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 50.989139106976, 
-      "lon": 3.116115229058, 
+      "lat": 50.989086328457, 
+      "lon": 3.116309082369, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggesteenweg"
     }, 
     {
@@ -1664,8 +1679,8 @@
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 50.986648704347, 
-      "lon": 3.117208309617, 
+      "lat": 50.986646422016, 
+      "lon": 3.117213498291, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1775,8 +1790,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.013378502239, 
-      "lon": 3.113506509041, 
+      "lat": 51.013378394137, 
+      "lon": 3.113504801709, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1920,18 +1935,6 @@
     }, 
     {
       "hnrlbls": [
-        "310"
-      ], 
-      "housenumber": "310", 
-      "lat": 50.984621131001, 
-      "lon": 3.117600560106, 
-      "municipality": "Hooglede", 
-      "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bruggesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "311"
       ], 
       "housenumber": "311", 
@@ -1943,6 +1946,23 @@
       "street": "Bruggesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11A", 
+        "11B", 
+        "12A", 
+        "12B", 
+        "2", 
+        "21A", 
+        "21B", 
+        "22A", 
+        "22B", 
+        "3", 
+        "31A", 
+        "31B", 
+        "32A", 
+        "32B"
+      ], 
       "hnrlbls": [
         "311A"
       ], 
@@ -1974,8 +1994,8 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 50.978442335895, 
-      "lon": 3.119204912332, 
+      "lat": 50.978440206015, 
+      "lon": 3.119207532509, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -2106,8 +2126,8 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.98183706793, 
-      "lon": 3.11804044193, 
+      "lat": 50.981837217422, 
+      "lon": 3.118037589485, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 

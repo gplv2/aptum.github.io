@@ -153,7 +153,7 @@
       "lon": 4.026189579024, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -173,8 +173,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.882618304856, 
-      "lon": 4.025254261388, 
+      "lat": 50.882591232626, 
+      "lon": 4.02528032178, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -369,7 +369,7 @@
       "lon": 4.026264817554, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -392,11 +392,11 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.883214459901, 
-      "lon": 4.026014436693, 
+      "lat": 50.883214641344, 
+      "lon": 4.026015003793, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -408,7 +408,7 @@
       "lon": 4.028579639435, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -416,8 +416,20 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.883369193875, 
-      "lon": 4.026454974445, 
+      "lat": 50.883364780175, 
+      "lon": 4.026174063582, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Eigenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "136A"
+      ], 
+      "housenumber": "136A", 
+      "lat": 50.883464071149, 
+      "lon": 4.026190109373, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -444,7 +456,7 @@
       "lon": 4.026555641129, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -464,8 +476,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.883889083219, 
-      "lon": 4.026618311524, 
+      "lat": 50.883898140939, 
+      "lon": 4.0266108561, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -504,7 +516,7 @@
       "lon": 4.027115386287, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -669,13 +681,11 @@
       "street": "Eigenstraat"
     }, 
     {
-      "apptnrs": [
-        "4"
-      ], 
       "busnrs": [
         "0001", 
         "0002", 
         "0003", 
+        "0004", 
         "0005", 
         "0006"
       ], 
@@ -751,7 +761,7 @@
       "lon": 4.029647370308, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -867,8 +877,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.877322932922, 
-      "lon": 4.020272954165, 
+      "lat": 50.877322103874, 
+      "lon": 4.020235875473, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -990,8 +1000,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.877913988034, 
-      "lon": 4.020270709612, 
+      "lat": 50.87790951863, 
+      "lon": 4.020279268056, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1090,7 +1100,7 @@
       "lon": 4.02007176598, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -1114,7 +1124,7 @@
       "lon": 4.019046803782, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {
@@ -1360,6 +1370,13 @@
       "street": "Eigenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1388,8 +1405,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.880797433807, 
-      "lon": 4.021596165121, 
+      "lat": 50.880789271555, 
+      "lon": 4.021602335536, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -1404,7 +1421,7 @@
       "lon": 4.021795387627, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eigenstraat"
     }, 
     {

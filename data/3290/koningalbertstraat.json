@@ -27,8 +27,10 @@
     {
       "apptnrs": [
         "0001", 
-        "0002", 
-        "0004"
+        "0002"
+      ], 
+      "busnrs": [
+        "0100"
       ], 
       "hnrlbls": [
         "100"
@@ -74,6 +76,9 @@
         "0001", 
         "0002"
       ], 
+      "busnrs": [
+        "0104"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -95,18 +100,6 @@
       "housenumber": "105", 
       "lat": 50.987298675328, 
       "lon": 5.055971151047, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "106"
-      ], 
-      "housenumber": "106", 
-      "lat": 50.987625805461, 
-      "lon": 5.056063117913, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -660,8 +653,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.986305118861, 
-      "lon": 5.053219921086, 
+      "lat": 50.9863044714, 
+      "lon": 5.053223044912, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -1058,7 +1051,11 @@
     {
       "apptnrs": [
         "0001", 
-        "0002"
+        "0002", 
+        "0003"
+      ], 
+      "busnrs": [
+        "0063"
       ], 
       "hnrlbls": [
         "63"
@@ -1084,6 +1081,9 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1217,20 +1217,19 @@
     }, 
     {
       "apptnrs": [
-        "74 /1", 
-        "74 A", 
-        "74/2"
+        "0001", 
+        "0002", 
+        "A000"
       ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0074"
       ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.987189347236, 
-      "lon": 5.055158577798, 
+      "lat": 50.987164586943, 
+      "lon": 5.0550421384, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1250,13 +1249,16 @@
     }, 
     {
       "apptnrs": [
-        "76 A", 
-        "76 A1", 
-        "76 A2", 
-        "76 B", 
-        "76 B1", 
-        "76 C", 
-        "76 C1"
+        "A000", 
+        "A001", 
+        "A002", 
+        "B000", 
+        "B001", 
+        "C000", 
+        "C001"
+      ], 
+      "busnrs": [
+        "0076"
       ], 
       "hnrlbls": [
         "76"
@@ -1267,21 +1269,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Koning Albertstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "76B"
-      ], 
-      "housenumber": "76B", 
-      "lat": 50.987251526443, 
-      "lon": 5.055040279482, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1623,7 +1610,9 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "0001", 
+        "000A", 
+        "000B"
       ], 
       "hnrlbls": [
         "98"
@@ -1637,6 +1626,12 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "apptnrs": [
+        "0002"
+      ], 
+      "busnrs": [
+        "99"
+      ], 
       "hnrlbls": [
         "99"
       ], 

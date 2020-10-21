@@ -41,8 +41,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.182358615423, 
-      "lon": 3.45346887728, 
+      "lat": 51.182353374679, 
+      "lon": 3.453407336031, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -98,8 +98,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.180601923121, 
-      "lon": 3.451702968604, 
+      "lat": 51.180629004552, 
+      "lon": 3.451532242798, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -122,8 +122,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.180235377044, 
-      "lon": 3.45138293865, 
+      "lat": 51.180231125012, 
+      "lon": 3.45136786216, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +245,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.181496225696, 
-      "lon": 3.45296260153, 
+      "lat": 51.181497901412, 
+      "lon": 3.452946836159, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -379,8 +379,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.181363612429, 
-      "lon": 3.45291328487, 
+      "lat": 51.181363086598, 
+      "lon": 3.452903426636, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -416,11 +416,11 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.181262597145, 
-      "lon": 3.452800276056, 
+      "lat": 51.181240871262, 
+      "lon": 3.453593187242, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -464,11 +464,11 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.181164045525, 
-      "lon": 3.453016884662, 
+      "lat": 51.181154548566, 
+      "lon": 3.452730884309, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -520,15 +520,21 @@
       "street": "Kleitkalseide"
     }, 
     {
+      "busnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02"
+      ], 
       "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.181046316491, 
-      "lon": 3.45269582163, 
+      "lat": 51.181049640856, 
+      "lon": 3.452591207735, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -560,11 +566,11 @@
         "129B"
       ], 
       "housenumber": "129B", 
-      "lat": 51.178610053575, 
-      "lon": 3.451176602156, 
+      "lat": 51.178695949799, 
+      "lon": 3.451252428326, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -716,8 +722,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.177754774409, 
-      "lon": 3.451332984269, 
+      "lat": 51.177754068698, 
+      "lon": 3.451334714268, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -992,8 +998,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.175237116134, 
-      "lon": 3.451280759954, 
+      "lat": 51.175225935675, 
+      "lon": 3.451276403454, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1396,15 +1402,25 @@
       "street": "Kleitkalseide"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "0-03", 
+        "0-04", 
+        "1-01", 
+        "1-02", 
+        "1-03", 
+        "2-01"
+      ], 
       "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.178744648873, 
-      "lon": 3.452083815549, 
+      "lat": 51.178668789397, 
+      "lon": 3.452050265982, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -1602,8 +1618,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.176246832347, 
-      "lon": 3.452120968454, 
+      "lat": 51.176246654808, 
+      "lon": 3.452121257952, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1842,8 +1858,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.170745164765, 
-      "lon": 3.450478302058, 
+      "lat": 51.170739160083, 
+      "lon": 3.450550058048, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -1854,8 +1870,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.170778789438, 
-      "lon": 3.45035166683, 
+      "lat": 51.170722596021, 
+      "lon": 3.450315594275, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2254,18 +2270,6 @@
     }, 
     {
       "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.185622684337, 
-      "lon": 3.453840729142, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleitkalseide"
-    }, 
-    {
-      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -2305,8 +2309,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.185260798458, 
-      "lon": 3.453970971889, 
+      "lat": 51.185263073934, 
+      "lon": 3.453986231988, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2341,11 +2345,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.185791838147, 
-      "lon": 3.454604802893, 
+      "lat": 51.185769331601, 
+      "lon": 3.454577208452, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -2509,8 +2513,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.185339408414, 
-      "lon": 3.454778721527, 
+      "lat": 51.185319101972, 
+      "lon": 3.454721762137, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -2564,11 +2568,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.185191046305, 
-      "lon": 3.454959559717, 
+      "lat": 51.185096297741, 
+      "lon": 3.454854567528, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kleitkalseide"
     }, 
     {
@@ -2834,6 +2838,23 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kleitkalseide"
+    }, 
+    {
+      "busnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01"
+      ], 
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 51.182645429944, 
+      "lon": 3.452919326795, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kleitkalseide"
     }, 
     {

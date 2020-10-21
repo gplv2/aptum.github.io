@@ -25,9 +25,6 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "7"
-      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -192,8 +189,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.213440816429, 
-      "lon": 4.424733284794, 
+      "lat": 51.213436680594, 
+      "lon": 4.424735712636, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -219,6 +216,11 @@
       "street": "Lange Kievitstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -311,11 +313,8 @@
         "302", 
         "303"
       ], 
-      "busnrs": [
-        "221"
-      ], 
       "hnrlbls": [
-        "13-19"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.213115008665, 
@@ -355,11 +354,11 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "132"
@@ -526,18 +525,6 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "hnrlbls": [
-        "13-19"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.213115008665, 
-      "lon": 4.417471827418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Kievitstraat"
-    }, 
-    {
       "apptnrs": [
         "1101", 
         "1102", 
@@ -585,7 +572,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "101", 
         "102", 
         "201", 
@@ -620,9 +606,6 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -665,35 +648,11 @@
     }, 
     {
       "hnrlbls": [
-        "13-19"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.213115008665, 
-      "lon": 4.417471827418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Kievitstraat"
-    }, 
-    {
-      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 51.212840800265, 
       "lon": 4.41825834519, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Kievitstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.213115008665, 
-      "lon": 4.417471827418, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -831,10 +790,6 @@
         "21", 
         "31"
       ], 
-      "busnrs": [
-        "2", 
-        "28"
-      ], 
       "hnrlbls": [
         "26-28"
       ], 
@@ -864,9 +819,6 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "21"
-      ], 
       "hnrlbls": [
         "26-28"
       ], 
@@ -1219,6 +1171,12 @@
       "street": "Lange Kievitstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1237,9 +1195,21 @@
         "301"
       ], 
       "hnrlbls": [
-        "59"
+        "59-59A"
       ], 
       "housenumber": "59", 
+      "lat": 51.213022187308, 
+      "lon": 4.419510884258, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lange Kievitstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59-59A"
+      ], 
+      "housenumber": "59A", 
       "lat": 51.213022187308, 
       "lon": 4.419510884258, 
       "municipality": "Antwerpen", 
@@ -1406,8 +1376,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.213125047531, 
-      "lon": 4.419847590037, 
+      "lat": 51.213021020557, 
+      "lon": 4.419918313299, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1415,23 +1385,11 @@
     }, 
     {
       "hnrlbls": [
-        "71B"
-      ], 
-      "housenumber": "71B", 
-      "lat": 51.213012078923, 
-      "lon": 4.420016475871, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Kievitstraat"
-    }, 
-    {
-      "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.213065059881, 
-      "lon": 4.419927235015, 
+      "lat": 51.213012729989, 
+      "lon": 4.419966674795, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1450,9 +1408,6 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1469,8 +1424,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.213144852548, 
-      "lon": 4.42018720976, 
+      "lat": 51.213009689357, 
+      "lon": 4.420135968904, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1498,8 +1453,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.213061021885, 
-      "lon": 4.420116277214, 
+      "lat": 51.213004186496, 
+      "lon": 4.420181185076, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1575,8 +1530,11 @@
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "87"
@@ -1608,19 +1566,20 @@
         "301"
       ], 
       "hnrlbls": [
-        "89-132"
+        "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.212987024356, 
-      "lon": 4.420574428182, 
+      "lat": 51.212989218862, 
+      "lon": 4.420490425932, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Lange Kievitstraat"
     }, 
     {
-      "busnrs": [
-        "11"
+      "apptnrs": [
+        "101", 
+        "301"
       ], 
       "hnrlbls": [
         "9-11"

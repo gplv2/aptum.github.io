@@ -30,6 +30,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "103", 
@@ -124,6 +125,11 @@
       "street": "Van Schoonbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -295,14 +301,15 @@
       "apptnrs": [
         "001", 
         "201", 
-        "301"
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.200684705377, 
-      "lon": 4.405526126983, 
+      "lat": 51.200698736255, 
+      "lon": 4.405498096369, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +480,8 @@
         "127A-131"
       ], 
       "housenumber": "127A", 
-      "lat": 51.199899685733, 
-      "lon": 4.404850786, 
+      "lat": 51.19989932624, 
+      "lon": 4.404850642648, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -526,8 +533,8 @@
         "127A-131"
       ], 
       "housenumber": "131", 
-      "lat": 51.199899685733, 
-      "lon": 4.404850786, 
+      "lat": 51.19989932624, 
+      "lon": 4.404850642648, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -757,8 +764,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.199063089913, 
-      "lon": 4.403808464006, 
+      "lat": 51.19903855176, 
+      "lon": 4.403807300676, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1040,8 +1047,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.199051800847, 
-      "lon": 4.402781958391, 
+      "lat": 51.199051171024, 
+      "lon": 4.402784103909, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1394,9 +1401,6 @@
       "street": "Van Schoonbekestraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "37"
       ], 

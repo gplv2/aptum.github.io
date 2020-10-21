@@ -78,12 +78,18 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.060620232207, 
-      "lon": 4.361485361126, 
+      "lat": 51.060585264352, 
+      "lon": 4.361467963669, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -659,6 +665,11 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -668,18 +679,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.060840793088, 
-      "lon": 4.361016462044, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }
   ]

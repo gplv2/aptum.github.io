@@ -481,6 +481,10 @@
       "street": "Dendermondesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -965,30 +969,6 @@
     }, 
     {
       "hnrlbls": [
-        "181-185"
-      ], 
-      "housenumber": "181", 
-      "lat": 51.052656918316, 
-      "lon": 3.765355501003, 
-      "municipality": "Destelbergen", 
-      "pcode": "9070", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "181-185"
-      ], 
-      "housenumber": "183", 
-      "lat": 51.052656918316, 
-      "lon": 3.765355501003, 
-      "municipality": "Destelbergen", 
-      "pcode": "9070", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "184"
       ], 
       "housenumber": "184", 
@@ -1001,7 +981,7 @@
     }, 
     {
       "hnrlbls": [
-        "181-185"
+        "185"
       ], 
       "housenumber": "185", 
       "lat": 51.052656918316, 
@@ -1421,7 +1401,7 @@
       "lon": 3.767777334472, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -2258,6 +2238,18 @@
     }, 
     {
       "hnrlbls": [
+        "293A"
+      ], 
+      "housenumber": "293A", 
+      "lat": 51.054440537818, 
+      "lon": 3.774094185531, 
+      "municipality": "Destelbergen", 
+      "pcode": "9070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dendermondesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "294"
       ], 
       "housenumber": "294", 
@@ -2314,6 +2306,18 @@
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dendermondesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "298A"
+      ], 
+      "housenumber": "298A", 
+      "lat": 51.05527321512, 
+      "lon": 3.782625769282, 
+      "municipality": "Destelbergen", 
+      "pcode": "9070", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -3630,6 +3634,18 @@
     }, 
     {
       "hnrlbls": [
+        "410A"
+      ], 
+      "housenumber": "410A", 
+      "lat": 51.055782502913, 
+      "lon": 3.795753245939, 
+      "municipality": "Destelbergen", 
+      "pcode": "9070", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dendermondesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "411"
       ], 
       "housenumber": "411", 
@@ -3798,10 +3814,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
+        "0101"
       ], 
       "hnrlbls": [
         "43"
@@ -3903,8 +3916,8 @@
         "438"
       ], 
       "housenumber": "438", 
-      "lat": 51.055972887319, 
-      "lon": 3.800023903184, 
+      "lat": 51.056044549492, 
+      "lon": 3.80000905528, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3939,12 +3952,32 @@
       "street": "Dendermondesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0102"
+      ], 
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "440"
       ], 
       "housenumber": "440", 
-      "lat": 51.056031054928, 
-      "lon": 3.800155988127, 
+      "lat": 51.05606212611, 
+      "lon": 3.800074880892, 
+      "municipality": "Destelbergen", 
+      "pcode": "9070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dendermondesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "440A"
+      ], 
+      "housenumber": "440A", 
+      "lat": 51.056058899172, 
+      "lon": 3.800151371225, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4347,8 +4380,8 @@
         "473"
       ], 
       "housenumber": "473", 
-      "lat": 51.056267120552, 
-      "lon": 3.798761021085, 
+      "lat": 51.05617036943, 
+      "lon": 3.798755351757, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4846,7 +4879,11 @@
       "street": "Dendermondesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0002"
+      ], 
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -4947,15 +4984,23 @@
       "street": "Dendermondesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "520"
       ], 
       "housenumber": "520", 
-      "lat": 51.057041098693, 
-      "lon": 3.80678142558, 
+      "lat": 51.057048937664, 
+      "lon": 3.806804153264, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -4968,18 +5013,6 @@
       "housenumber": "521", 
       "lat": 51.056516364071, 
       "lon": 3.801777126115, 
-      "municipality": "Destelbergen", 
-      "pcode": "9070", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "522"
-      ], 
-      "housenumber": "522", 
-      "lat": 51.057026879275, 
-      "lon": 3.806872312394, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5060,7 +5093,7 @@
       "lon": 3.802061838066, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -5090,7 +5123,7 @@
       "lon": 3.807111467135, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -5331,7 +5364,7 @@
     {
       "apptnrs": [
         "0101", 
-        "0102"
+        "0201"
       ], 
       "hnrlbls": [
         "550"
@@ -5363,18 +5396,6 @@
       "housenumber": "552", 
       "lat": 51.057215868975, 
       "lon": 3.808259464985, 
-      "municipality": "Destelbergen", 
-      "pcode": "9070", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "554"
-      ], 
-      "housenumber": "554", 
-      "lat": 51.057129369566, 
-      "lon": 3.808368047268, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6145,6 +6166,7 @@
         "0101", 
         "0102", 
         "0103", 
+        "0201", 
         "0301"
       ], 
       "hnrlbls": [
@@ -6445,7 +6467,7 @@
       "lon": 3.81882920007, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -6621,8 +6643,8 @@
         "675"
       ], 
       "housenumber": "675", 
-      "lat": 51.058091024921, 
-      "lon": 3.810964981045, 
+      "lat": 51.05798808537, 
+      "lon": 3.811000154557, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6808,6 +6830,18 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.051976079466, 
+      "lon": 3.759064276106, 
+      "municipality": "Destelbergen", 
+      "pcode": "9070", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dendermondesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "690"
       ], 
       "housenumber": "690", 
@@ -6851,7 +6885,7 @@
       "lon": 3.825319703327, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -8375,11 +8409,11 @@
         "828"
       ], 
       "housenumber": "828", 
-      "lat": 51.057563542034, 
-      "lon": 3.840211273617, 
+      "lat": 51.057543764547, 
+      "lon": 3.840170845248, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -8423,11 +8457,11 @@
         "830"
       ], 
       "housenumber": "830", 
-      "lat": 51.057558158979, 
-      "lon": 3.840334001963, 
+      "lat": 51.05755611782, 
+      "lon": 3.840279680376, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {
@@ -8459,11 +8493,11 @@
         "832"
       ], 
       "housenumber": "832", 
-      "lat": 51.057558801588, 
-      "lon": 3.840477487307, 
+      "lat": 51.057541311709, 
+      "lon": 3.840385826455, 
       "municipality": "Destelbergen", 
       "pcode": "9070", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondesteenweg"
     }, 
     {

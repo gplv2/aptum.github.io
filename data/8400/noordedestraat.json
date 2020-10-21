@@ -2,12 +2,10 @@
   "addresses": [
     {
       "busnrs": [
-        "0", 
         "0101", 
+        "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "2"
+        "0202"
       ], 
       "hnrlbls": [
         "1"
@@ -22,25 +20,25 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0301", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.228721600537, 
-      "lon": 2.941866270362, 
+      "lat": 51.228637106451, 
+      "lon": 2.941874725997, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noord-Edestraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "11"
@@ -70,8 +68,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.228388351582, 
-      "lon": 2.942202635288, 
+      "lat": 51.228393232017, 
+      "lon": 2.942204776921, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -174,8 +172,7 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "2"
@@ -214,9 +211,8 @@
     }, 
     {
       "busnrs": [
-        "000B", 
-        "2", 
-        "B"
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "22"
@@ -270,8 +266,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.228634326504, 
-      "lon": 2.943068384155, 
+      "lat": 51.228594944554, 
+      "lon": 2.943045533334, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -318,8 +314,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.228443179641, 
-      "lon": 2.941799188432, 
+      "lat": 51.228441639817, 
+      "lon": 2.941798233269, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -358,9 +354,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "33"
@@ -449,9 +446,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "0301", 
-        "0401"
+        "0201"
       ], 
       "hnrlbls": [
         "4"
@@ -570,8 +565,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.228177197763, 
-      "lon": 2.944323312376, 
+      "lat": 51.228182791927, 
+      "lon": 2.944325002876, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -657,20 +652,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.228700682544, 
-      "lon": 2.941704683811, 
+      "lat": 51.228641572665, 
+      "lon": 2.941693462855, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noord-Edestraat"
     }, 
     {
@@ -702,8 +696,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.22840832689, 
-      "lon": 2.94204753061, 
+      "lat": 51.228401744157, 
+      "lon": 2.942045870616, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

@@ -61,6 +61,12 @@
       "street": "Minderbroedersrui"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -70,6 +76,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Minderbroedersrui"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.223102156672, 
+      "lon": 4.403866258842, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minderbroedersrui"
     }, 
     {
@@ -238,11 +256,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.222998611065, 
-      "lon": 4.403566445718, 
+      "lat": 51.22301531336, 
+      "lon": 4.403619992539, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minderbroedersrui"
     }, 
     {
@@ -369,6 +387,7 @@
     {
       "apptnrs": [
         "001", 
+        "003", 
         "101", 
         "102"
       ], 
@@ -420,9 +439,10 @@
       "street": "Minderbroedersrui"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "34"
@@ -735,6 +755,10 @@
       "street": "Minderbroedersrui"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -820,11 +844,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.22134546949, 
-      "lon": 4.405313427728, 
+      "lat": 51.221345044803, 
+      "lon": 4.405234846723, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minderbroedersrui"
     }, 
     {
@@ -876,12 +900,6 @@
       "street": "Minderbroedersrui"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201", 
-        "301"
-      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -954,6 +972,14 @@
       "street": "Minderbroedersrui"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -968,11 +994,23 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.22344305594, 
-      "lon": 4.403965001393, 
+      "lat": 51.223319726596, 
+      "lon": 4.403696947884, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Minderbroedersrui"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.223269377786, 
+      "lon": 4.403743000508, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minderbroedersrui"
     }
   ]

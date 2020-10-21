@@ -746,15 +746,31 @@
       "street": "Hogeheerweg"
     }, 
     {
+      "busnrs": [
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.020861700833, 
-      "lon": 3.674045118871, 
+      "lat": 51.020861197598, 
+      "lon": 3.674005503649, 
       "municipality": "Gent", 
       "pcode": "9051", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hogeheerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.020841573844, 
+      "lon": 3.674061950348, 
+      "municipality": "Gent", 
+      "pcode": "9051", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hogeheerweg"
     }, 
     {

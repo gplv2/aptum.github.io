@@ -193,32 +193,20 @@
       "street": "Sint-Medardusstraat"
     }, 
     {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.752369010281, 
-      "lon": 5.496794427838, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Medardusstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "33b"
+        "33"
       ], 
-      "housenumber": "33b", 
+      "housenumber": "33", 
       "lat": 50.75238832017, 
       "lon": 5.496861784981, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Medardusstraat"
     }, 
     {
@@ -286,8 +274,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.751693289707, 
-      "lon": 5.497276392238, 
+      "lat": 50.751690956747, 
+      "lon": 5.497275911136, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

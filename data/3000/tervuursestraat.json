@@ -511,6 +511,16 @@
       "street": "Tervuursestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -1096,14 +1106,14 @@
     }, 
     {
       "hnrlbls": [
-        "23"
+        "23-29"
       ], 
       "housenumber": "23", 
-      "lat": 50.878753435948, 
-      "lon": 4.688737957164, 
+      "lat": 50.878744007787, 
+      "lon": 4.688701091098, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursestraat"
     }, 
     {
@@ -1195,7 +1205,7 @@
         "0002"
       ], 
       "hnrlbls": [
-        "27"
+        "23-29"
       ], 
       "housenumber": "27", 
       "lat": 50.878744007787, 
@@ -1226,14 +1236,14 @@
         "0304"
       ], 
       "hnrlbls": [
-        "29"
+        "23-29"
       ], 
       "housenumber": "29", 
-      "lat": 50.878701617045, 
-      "lon": 4.688653627409, 
+      "lat": 50.878744007787, 
+      "lon": 4.688701091098, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervuursestraat"
     }, 
     {

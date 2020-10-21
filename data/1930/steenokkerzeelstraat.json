@@ -357,9 +357,10 @@
       "street": "Steenokkerzeelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "129"
@@ -430,9 +431,6 @@
       "apptnrs": [
         "001", 
         "X011"
-      ], 
-      "busnrs": [
-        "11"
       ], 
       "hnrlbls": [
         "132A"
@@ -529,18 +527,6 @@
     }, 
     {
       "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 50.889294186004, 
-      "lon": 4.472828532374, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenokkerzeelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
@@ -568,11 +554,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.889349270197, 
-      "lon": 4.472751198525, 
+      "lat": 50.889323346895, 
+      "lon": 4.472789087409, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenokkerzeelstraat"
     }, 
     {
@@ -788,11 +774,9 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "161"
@@ -951,34 +935,18 @@
     }, 
     {
       "apptnrs": [
-        "33 1", 
-        "33 3", 
-        "33 4", 
-        "33 7", 
-        "33/2"
-      ], 
-      "busnrs": [
-        "3", 
-        "33", 
-        "5", 
-        "6"
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "X001", 
+        "X002", 
+        "X003"
       ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.885243950867, 
-      "lon": 4.477323959472, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenokkerzeelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
       "lat": 50.885243950867, 
       "lon": 4.477323959472, 
       "municipality": "Zaventem", 
@@ -1003,8 +971,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.885353827966, 
-      "lon": 4.477295650891, 
+      "lat": 50.885350961407, 
+      "lon": 4.477284843838, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1123,8 +1091,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.885965222582, 
-      "lon": 4.476882673597, 
+      "lat": 50.885970961175, 
+      "lon": 4.47689846135, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1188,18 +1156,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Steenokkerzeelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.88746719636, 
-      "lon": 4.475000690704, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanStraat", 
       "street": "Steenokkerzeelstraat"
     }, 
     {
@@ -1440,8 +1396,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.884536010239, 
-      "lon": 4.47954772215, 
+      "lat": 50.884529809573, 
+      "lon": 4.479545575814, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -1485,10 +1441,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "GVLO"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "86-86B"
@@ -1527,10 +1481,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "88"
@@ -1632,6 +1584,11 @@
       "street": "Steenokkerzeelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "94"
       ], 

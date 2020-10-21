@@ -17,12 +17,31 @@
       "street": "Strijpenplein"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.867610992942, 
-      "lon": 3.787781701996, 
+      "lat": 50.867713536993, 
+      "lon": 3.787739521942, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Strijpenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.867493458377, 
+      "lon": 3.787664817127, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -41,9 +60,6 @@
       "street": "Strijpenplein"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "12"
       ], 

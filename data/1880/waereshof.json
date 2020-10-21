@@ -2,50 +2,50 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.981792960056, 
-      "lon": 4.352074494878, 
+      "lat": 50.981807566026, 
+      "lon": 4.352398171107, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waereshof"
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.982047595981, 
-      "lon": 4.351879315403, 
+      "lat": 50.981765307176, 
+      "lon": 4.352324420726, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waereshof"
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.981792960056, 
-      "lon": 4.352074494878, 
+      "lat": 50.981675214292, 
+      "lon": 4.352163821246, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waereshof"
     }, 
     {
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.982047595981, 
-      "lon": 4.351879315403, 
+      "lat": 50.981641134569, 
+      "lon": 4.352083802803, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waereshof"
     }, 
     {
@@ -58,6 +58,18 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Waereshof"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.981793282241, 
+      "lon": 4.351801793787, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waereshof"
     }, 
     {
@@ -98,14 +110,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-4"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.999076962952, 
-      "lon": 4.354828807984, 
+      "lat": 50.982314387636, 
+      "lon": 4.351833653952, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Waereshof"
     }, 
     {
@@ -113,8 +125,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.982259753232, 
-      "lon": 4.351976504099, 
+      "lat": 50.982258673795, 
+      "lon": 4.351971093117, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanPerceelGrb", 
@@ -125,8 +137,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.982193784632, 
-      "lon": 4.352062681048, 
+      "lat": 50.982196571462, 
+      "lon": 4.352064104135, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanPerceelGrb", 
@@ -149,11 +161,35 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.982065268223, 
-      "lon": 4.352273054778, 
+      "lat": 50.982065717681, 
+      "lon": 4.352273054627, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Waereshof"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.981947108308, 
+      "lon": 4.352630241476, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Waereshof"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.981856930895, 
+      "lon": 4.352506950345, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waereshof"
     }
   ]

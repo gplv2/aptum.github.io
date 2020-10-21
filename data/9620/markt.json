@@ -102,32 +102,37 @@
       "street": "Markt"
     }, 
     {
-      "hnrlbls": [
-        "16"
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "16", 
-      "lat": 50.869059765274, 
-      "lon": 3.810605035871, 
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.869059239286, 
+      "lon": 3.810626778047, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 50.869180923872, 
-      "lon": 3.810297589698, 
+      "lat": 50.869102466287, 
+      "lon": 3.810453656139, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Markt"
     }, 
     {

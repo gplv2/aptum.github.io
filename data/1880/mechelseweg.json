@@ -1019,11 +1019,11 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.013464483298, 
-      "lon": 4.357057700922, 
+      "lat": 51.013262583216, 
+      "lon": 4.356995476608, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Mechelseweg"
     }, 
     {
@@ -1680,7 +1680,7 @@
     }, 
     {
       "hnrlbls": [
-        "216"
+        "22-216"
       ], 
       "housenumber": "216", 
       "lat": 51.011531540862, 
@@ -1755,18 +1755,6 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mechelseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "23-222"
-      ], 
-      "housenumber": "222", 
-      "lat": 51.011618204677, 
-      "lon": 4.36371257033, 
-      "municipality": "Kapelle-op-den-Bos", 
-      "pcode": "1880", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelseweg"
     }, 
     {
@@ -1861,6 +1849,11 @@
       "street": "Mechelseweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "231"
       ], 
@@ -2115,11 +2108,11 @@
         "255-257"
       ], 
       "housenumber": "255", 
-      "lat": 51.012288625233, 
-      "lon": 4.362041465603, 
+      "lat": 51.012358650202, 
+      "lon": 4.362045018992, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelseweg"
     }, 
     {
@@ -2129,18 +2122,6 @@
       "housenumber": "256", 
       "lat": 51.011937118423, 
       "lon": 4.366634385093, 
-      "municipality": "Kapelle-op-den-Bos", 
-      "pcode": "1880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mechelseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "255-257"
-      ], 
-      "housenumber": "257", 
-      "lat": 51.012288625233, 
-      "lon": 4.362041465603, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -2273,8 +2254,8 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 51.011901977604, 
-      "lon": 4.367336027269, 
+      "lat": 51.011917258529, 
+      "lon": 4.367261645072, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -2285,8 +2266,8 @@
         "264A"
       ], 
       "housenumber": "264A", 
-      "lat": 51.011915460665, 
-      "lon": 4.367254235405, 
+      "lat": 51.011898022403, 
+      "lon": 4.367333747425, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -2741,15 +2722,18 @@
       "street": "Mechelseweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 51.012120823806, 
-      "lon": 4.365004381505, 
+      "lat": 51.01252696984, 
+      "lon": 4.365921601965, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelseweg"
     }, 
     {
@@ -3290,8 +3274,8 @@
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 51.012116668273, 
-      "lon": 4.371827744561, 
+      "lat": 51.012127095785, 
+      "lon": 4.371821475627, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -3803,8 +3787,8 @@
         "392"
       ], 
       "housenumber": "392", 
-      "lat": 51.012572259436, 
-      "lon": 4.375167321467, 
+      "lat": 51.012601204133, 
+      "lon": 4.375168608325, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -4573,18 +4557,6 @@
     }, 
     {
       "hnrlbls": [
-        "76-78"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.013786780737, 
-      "lon": 4.352611486812, 
-      "municipality": "Kapelle-op-den-Bos", 
-      "pcode": "1880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mechelseweg"
-    }, 
-    {
-      "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
@@ -4597,14 +4569,17 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101", 
+        "102", 
+        "2"
       ], 
       "hnrlbls": [
-        "76-78"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.013786780737, 
-      "lon": 4.352611486812, 
+      "lat": 51.013777259451, 
+      "lon": 4.352665782392, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 

@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.000666470584, 
-      "lon": 4.359260573402, 
+      "lat": 51.000532445965, 
+      "lon": 4.35929806544, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nachtegalenlaan"
     }, 
     {
@@ -122,7 +122,7 @@
     }, 
     {
       "hnrlbls": [
-        "25"
+        "25-25B"
       ], 
       "housenumber": "25", 
       "lat": 51.000144184761, 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "25B"
+        "25-25B"
       ], 
       "housenumber": "25B", 
-      "lat": 51.000001799182, 
-      "lon": 4.359028206895, 
+      "lat": 51.000144184761, 
+      "lon": 4.359005813478, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Nachtegalenlaan"
     }, 
     {
@@ -218,14 +218,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.000397805793, 
-      "lon": 4.359522321318, 
+      "lat": 51.000588298452, 
+      "lon": 4.359713467549, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nachtegalenlaan"
     }, 
     {
@@ -254,14 +254,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.000397805793, 
-      "lon": 4.359522321318, 
+      "lat": 51.000572469319, 
+      "lon": 4.359596938354, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nachtegalenlaan"
     }, 
     {
@@ -274,6 +274,18 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nachtegalenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.000397805793, 
+      "lon": 4.359522321318, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "afgeleidVanStraat", 
       "street": "Nachtegalenlaan"
     }
   ]

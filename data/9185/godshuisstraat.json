@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -156,7 +160,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2B"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.170016099505, 
@@ -180,14 +184,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-2B"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.170016099505, 
-      "lon": 3.860104910553, 
+      "lat": 51.17027740015, 
+      "lon": 3.86060607487, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Godshuisstraat"
     }, 
     {
@@ -263,15 +267,27 @@
       "street": "Godshuisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.169616182273, 
-      "lon": 3.859852615206, 
+      "lat": 51.169734839473, 
+      "lon": 3.859895646941, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Godshuisstraat"
     }, 
     {

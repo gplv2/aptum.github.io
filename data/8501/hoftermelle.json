@@ -146,10 +146,36 @@
     }, 
     {
       "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0004", 
-        "0011"
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.845635514551, 
+      "lon": 3.233225960842, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hof ter Melle"
+    }, 
+    {
+      "apptnrs": [
+        "0004", 
+        "0011", 
+        "0012"
       ], 
       "busnrs": [
+        "0001", 
         "0002", 
         "0003", 
         "0013", 
@@ -157,8 +183,7 @@
         "0021", 
         "0022", 
         "0023", 
-        "0024", 
-        "1"
+        "0024"
       ], 
       "hnrlbls": [
         "21"
@@ -173,21 +198,23 @@
     }, 
     {
       "apptnrs": [
+        "0012", 
+        "0022", 
         "0031"
       ], 
       "busnrs": [
         "0001", 
+        "0002", 
+        "0003", 
         "0004", 
         "0011", 
         "0013", 
         "0014", 
         "0021", 
         "0023", 
+        "0024", 
         "0032", 
-        "0033", 
-        "2", 
-        "24", 
-        "3"
+        "0033"
       ], 
       "hnrlbls": [
         "22"
@@ -546,6 +573,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Hof ter Melle"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.847093497333, 
+      "lon": 3.231887097826, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hof ter Melle"
     }, 
     {

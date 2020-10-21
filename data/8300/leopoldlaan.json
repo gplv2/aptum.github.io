@@ -660,14 +660,15 @@
     }, 
     {
       "apptnrs": [
-        "11"
+        "11", 
+        "31"
       ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.351147841328, 
-      "lon": 3.287884947818, 
+      "lat": 51.351149900482, 
+      "lon": 3.287884038683, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1326,6 +1327,12 @@
       "street": "Leopoldlaan"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "51"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1914,12 +1921,16 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "11", 
+        "12", 
         "21", 
+        "22", 
         "31", 
+        "32", 
         "41", 
-        "51"
+        "42", 
+        "51", 
+        "52"
       ], 
       "hnrlbls": [
         "51"
@@ -1929,7 +1940,7 @@
       "lon": 3.287073142507, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -1950,23 +1961,6 @@
       "housenumber": "52", 
       "lat": 51.348314823754, 
       "lon": 3.2874905746, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "11", 
-        "21"
-      ], 
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.348426637657, 
-      "lon": 3.287075583935, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2027,7 +2021,14 @@
     {
       "apptnrs": [
         "11", 
-        "21"
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "41", 
+        "42", 
+        "51"
       ], 
       "hnrlbls": [
         "58"

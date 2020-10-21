@@ -7,7 +7,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "1"
+        "1-4"
       ], 
       "housenumber": "1", 
       "lat": 51.207966288705, 
@@ -30,12 +30,11 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "11"
@@ -50,14 +49,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.20746457127, 
-      "lon": 4.38986991368, 
+      "lat": 51.207485336529, 
+      "lon": 4.389859191518, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -74,19 +73,19 @@
     }, 
     {
       "apptnrs": [
-        "101", 
         "201", 
-        "301"
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "12-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.20746457127, 
-      "lon": 4.38986991368, 
+      "lat": 51.207465195969, 
+      "lon": 4.38989423954, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -94,8 +93,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.207706764763, 
-      "lon": 4.390111280584, 
+      "lat": 51.207691307916, 
+      "lon": 4.390093816019, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -118,8 +117,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.207833277088, 
-      "lon": 4.390350162125, 
+      "lat": 51.207802406908, 
+      "lon": 4.390083279652, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -170,9 +169,11 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20"
@@ -318,8 +319,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.207919694423, 
-      "lon": 4.389658635101, 
+      "lat": 51.20790963177, 
+      "lon": 4.389634590827, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -362,6 +363,10 @@
       "street": "Kasteelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -616,8 +621,8 @@
         "51-55"
       ], 
       "housenumber": "51", 
-      "lat": 51.206343578923, 
-      "lon": 4.392832744778, 
+      "lat": 51.206357518731, 
+      "lon": 4.392795835431, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -646,8 +651,8 @@
         "51-55"
       ], 
       "housenumber": "53", 
-      "lat": 51.206343578923, 
-      "lon": 4.392832744778, 
+      "lat": 51.206357518731, 
+      "lon": 4.392795835431, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -670,8 +675,8 @@
         "51-55"
       ], 
       "housenumber": "55", 
-      "lat": 51.206343578923, 
-      "lon": 4.392832744778, 
+      "lat": 51.206357518731, 
+      "lon": 4.392795835431, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -756,8 +761,8 @@
         "61-160"
       ], 
       "housenumber": "61", 
-      "lat": 51.20624033583, 
-      "lon": 4.393097688584, 
+      "lat": 51.206218492806, 
+      "lon": 4.393102971105, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -797,8 +802,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.207841895954, 
-      "lon": 4.389922605162, 
+      "lat": 51.207818618774, 
+      "lon": 4.389907140243, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

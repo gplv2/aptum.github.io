@@ -291,6 +291,10 @@
       "street": "Boekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -516,8 +520,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.167969852013, 
-      "lon": 4.391086583084, 
+      "lat": 51.167963829226, 
+      "lon": 4.391088867641, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -770,29 +774,50 @@
     }, 
     {
       "hnrlbls": [
-        "77"
+        "75-77B"
       ], 
-      "housenumber": "77", 
-      "lat": 51.167274012563, 
-      "lon": 4.389352748223, 
+      "housenumber": "75", 
+      "lat": 51.167174272763, 
+      "lon": 4.389166987199, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
       "street": "Boekstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
-        "77A"
+        "75-77B"
       ], 
-      "housenumber": "77A", 
-      "lat": 51.167560723521, 
-      "lon": 4.389487984951, 
+      "housenumber": "77", 
+      "lat": 51.167174272763, 
+      "lon": 4.389166987199, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75-77B"
+      ], 
+      "housenumber": "77A", 
+      "lat": 51.167174272763, 
+      "lon": 4.389166987199, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75-77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 51.167174272763, 
+      "lon": 4.389166987199, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boekstraat"
     }, 
     {
@@ -940,6 +965,12 @@
       "street": "Boekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
+      ], 
       "hnrlbls": [
         "92"
       ], 

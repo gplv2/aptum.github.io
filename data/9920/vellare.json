@@ -2,6 +2,24 @@
   "addresses": [
     {
       "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.09578198873, 
+      "lon": 3.60395542259, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vellare"
+    }, 
+    {
+      "busnrs": [
         "1001"
       ], 
       "hnrlbls": [
@@ -88,15 +106,21 @@
       "street": "Vellare"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.095871323163, 
-      "lon": 3.60398022998, 
+      "lat": 51.095897741276, 
+      "lon": 3.603826048206, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vellare"
     }, 
     {
@@ -344,8 +368,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.09661509429, 
-      "lon": 3.602967898808, 
+      "lat": 51.096608915542, 
+      "lon": 3.60295772121, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -412,12 +436,18 @@
       "street": "Vellare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "1001", 
+        "1002"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.095618342719, 
-      "lon": 3.604379229725, 
+      "lat": 51.095642775606, 
+      "lon": 3.604154416784, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 

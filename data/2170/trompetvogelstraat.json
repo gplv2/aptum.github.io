@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "8-10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.255599598551, 
-      "lon": 4.436535643167, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Trompetvogelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -322,9 +310,6 @@
       "street": "Trompetvogelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "16-18"
       ], 
@@ -334,36 +319,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Trompetvogelstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "16_1-16_2"
-      ], 
-      "housenumber": "16_1", 
-      "lat": 51.255814783084, 
-      "lon": 4.436526219097, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Trompetvogelstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "16_1-16_2"
-      ], 
-      "housenumber": "16_2", 
-      "lat": 51.255814783084, 
-      "lon": 4.436526219097, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Trompetvogelstraat"
     }, 
     {
@@ -420,6 +375,11 @@
       "street": "Trompetvogelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -432,6 +392,10 @@
       "street": "Trompetvogelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -473,6 +437,11 @@
       "street": "Trompetvogelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -628,6 +597,11 @@
       "street": "Trompetvogelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -649,8 +623,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.256453678398, 
-      "lon": 4.436974359744, 
+      "lat": 51.256472038446, 
+      "lon": 4.437087404947, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -706,17 +680,20 @@
       "street": "Trompetvogelstraat"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.255440216079, 
-      "lon": 4.436571075426, 
+      "lat": 51.255488949108, 
+      "lon": 4.436542356024, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -969,18 +946,6 @@
       "housenumber": "59", 
       "lat": 51.257521833465, 
       "lon": 4.436526865515, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Trompetvogelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.255488589412, 
-      "lon": 4.436542641973, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1283,13 +1248,16 @@
       "street": "Trompetvogelstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 51.255599598551, 

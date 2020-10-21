@@ -113,11 +113,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.050947944785, 
-      "lon": 4.78206946525, 
+      "lat": 51.050995041818, 
+      "lon": 4.782275675859, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoekstraat"
     }, 
     {
@@ -514,8 +514,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.047223191619, 
-      "lon": 4.779899456352, 
+      "lat": 51.04720321354, 
+      "lon": 4.78000865767, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
       "source": "manueleAanduidingVanGebouw", 
@@ -594,6 +594,13 @@
       "street": "Hoekstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -603,6 +610,28 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoekstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.051949153278, 
+      "lon": 4.781274525793, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2221", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hoekstraat"
     }, 
     {

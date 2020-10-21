@@ -498,18 +498,6 @@
     }, 
     {
       "hnrlbls": [
-        "179"
-      ], 
-      "housenumber": "179", 
-      "lat": 50.918627796935, 
-      "lon": 4.423670929787, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Harensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -1285,6 +1273,51 @@
       "street": "Harensesteenweg"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "01/4", 
+        "01/5", 
+        "01/6", 
+        "01/7", 
+        "01/8", 
+        "02/1", 
+        "02/2", 
+        "02/3", 
+        "02/4", 
+        "02/5", 
+        "02/6", 
+        "02/7", 
+        "02/8", 
+        "03/1", 
+        "03/2", 
+        "03/3", 
+        "03/4", 
+        "03/5", 
+        "04/1", 
+        "04/2", 
+        "04/3", 
+        "04/4", 
+        "04/5", 
+        "05/1", 
+        "05/2", 
+        "05/3", 
+        "05/4", 
+        "05/5"
+      ], 
+      "hnrlbls": [
+        "289"
+      ], 
+      "housenumber": "289", 
+      "lat": 50.915526303781, 
+      "lon": 4.419515111192, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Harensesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "295"
       ], 
@@ -1802,8 +1835,10 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "515"

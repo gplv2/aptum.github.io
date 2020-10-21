@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.88482281036, 
+      "lon": 4.471453320333, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorwegstraat"
+    }, 
+    {
       "apptnrs": [
         "2.0"
       ], 
@@ -80,24 +92,9 @@
       "street": "Spoorwegstraat"
     }, 
     {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.884767456479, 
-      "lon": 4.471837033727, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Spoorwegstraat"
-    }, 
-    {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "21"
@@ -119,9 +116,7 @@
         "013", 
         "021", 
         "022", 
-        "023", 
-        "031", 
-        "032"
+        "023"
       ], 
       "hnrlbls": [
         "23"
@@ -168,8 +163,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "7"

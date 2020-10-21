@@ -168,6 +168,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
@@ -226,7 +227,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201"
       ], 
@@ -288,8 +288,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.218606192832, 
-      "lon": 2.913663678065, 
+      "lat": 51.218605639548, 
+      "lon": 2.913662550099, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -331,8 +331,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.218509648756, 
-      "lon": 2.913876408689, 
+      "lat": 51.218498415511, 
+      "lon": 2.913869458246, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -441,18 +441,6 @@
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
-      "hnrlbls": [
-        "135"
-      ], 
-      "housenumber": "135", 
-      "lat": 51.218440596785, 
-      "lon": 2.914182761881, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Fr\u00e8re-Orbanstraat"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0002", 
@@ -486,8 +474,8 @@
         "137A"
       ], 
       "housenumber": "137A", 
-      "lat": 51.218158864034, 
-      "lon": 2.914798367593, 
+      "lat": 51.218138774796, 
+      "lon": 2.914780384028, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -510,8 +498,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.2180942937, 
-      "lon": 2.914972162137, 
+      "lat": 51.218094066477, 
+      "lon": 2.914968304125, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -650,18 +638,19 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.218652735711, 
-      "lon": 2.914355947443, 
+      "lat": 51.218601902043, 
+      "lon": 2.91430155948, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -729,21 +718,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
+        "0301", 
         "0302"
       ], 
       "hnrlbls": [
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 51.217377336296, 
-      "lon": 2.917212319285, 
+      "lat": 51.217408575312, 
+      "lon": 2.917281776744, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -979,17 +970,16 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "0101", 
         "0201", 
         "0301"
       ], 
       "hnrlbls": [
-        "18-18B"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.221344737723, 
-      "lon": 2.909225271815, 
+      "lat": 51.221321288273, 
+      "lon": 2.909175469472, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1062,11 +1052,11 @@
     }, 
     {
       "hnrlbls": [
-        "18-18B"
+        "18B"
       ], 
       "housenumber": "18B", 
-      "lat": 51.221344737723, 
-      "lon": 2.909225271815, 
+      "lat": 51.221306871751, 
+      "lon": 2.909209277269, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1156,14 +1146,14 @@
         "0402"
       ], 
       "hnrlbls": [
-        "2-124"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.221696600165, 
-      "lon": 2.908656212643, 
+      "lat": 51.221635384505, 
+      "lon": 2.908634936531, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -1212,8 +1202,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.217591940954, 
-      "lon": 2.918195094059, 
+      "lat": 51.217593643159, 
+      "lon": 2.918194611677, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1405,21 +1395,20 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.216906421724, 
-      "lon": 2.919872773966, 
+      "lat": 51.216946633843, 
+      "lon": 2.919882261093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -1627,8 +1616,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.216657336403, 
-      "lon": 2.921755163312, 
+      "lat": 51.216671811989, 
+      "lon": 2.921755286883, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1651,8 +1640,8 @@
         "265"
       ], 
       "housenumber": "265", 
-      "lat": 51.216651513672, 
-      "lon": 2.9218964868, 
+      "lat": 51.216656951204, 
+      "lon": 2.921900039971, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1745,14 +1734,14 @@
         "0302"
       ], 
       "hnrlbls": [
-        "279-281"
+        "279"
       ], 
       "housenumber": "279", 
-      "lat": 51.216552206057, 
-      "lon": 2.922523972423, 
+      "lat": 51.216657362458, 
+      "lon": 2.922462880968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -1769,20 +1758,19 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
-        "4", 
-        "6"
+        "0302"
       ], 
       "hnrlbls": [
-        "279-281"
+        "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.216552206057, 
-      "lon": 2.922523972423, 
+      "lat": 51.216650196922, 
+      "lon": 2.922656208294, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1895,8 +1883,8 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 51.216379458025, 
-      "lon": 2.923586461568, 
+      "lat": 51.216381155007, 
+      "lon": 2.92358555012, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1904,9 +1892,8 @@
     }, 
     {
       "busnrs": [
-        "-102", 
+        "0001", 
         "0101", 
-        "0102", 
         "0201", 
         "0301"
       ], 
@@ -1914,8 +1901,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.220871446825, 
-      "lon": 2.90948345395, 
+      "lat": 51.220897435364, 
+      "lon": 2.909535037615, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1935,23 +1922,15 @@
     }, 
     {
       "busnrs": [
-        "000C", 
-        "001C", 
-        "001D", 
-        "002C", 
-        "003C", 
-        "003D", 
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "1", 
-        "1C", 
-        "1D", 
-        "2", 
-        "2C", 
-        "2D", 
-        "3C", 
-        "4", 
-        "C", 
-        "D"
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "313"
@@ -1966,19 +1945,14 @@
     }, 
     {
       "busnrs": [
-        "000A", 
-        "003B", 
-        "00AB", 
+        "0001", 
+        "0101", 
         "0102", 
+        "0201", 
         "0202", 
         "0301", 
-        "0401", 
-        "1", 
-        "1B", 
-        "2", 
-        "3A", 
-        "3B", 
-        "A"
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "315"
@@ -2089,7 +2063,6 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -2340,8 +2313,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.220323100543, 
-      "lon": 2.910369581773, 
+      "lat": 51.220343084809, 
+      "lon": 2.910393580249, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2365,29 +2338,35 @@
     }, 
     {
       "busnrs": [
-        "0301"
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "50-50A"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.220571350548, 
-      "lon": 2.910693090874, 
+      "lat": 51.220522572815, 
+      "lon": 2.910601418945, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
-        "50-50A"
+        "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.220571350548, 
-      "lon": 2.910693090874, 
+      "lat": 51.220500425696, 
+      "lon": 2.910642625326, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
@@ -2438,7 +2417,7 @@
     }, 
     {
       "busnrs": [
-        "0002", 
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -2457,19 +2436,12 @@
       "street": "Fr\u00e8re-Orbanstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
         "53B"
       ], 
       "housenumber": "53B", 
-      "lat": 51.220142671769, 
-      "lon": 2.910894886765, 
+      "lat": 51.220144489076, 
+      "lon": 2.910801634064, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2477,8 +2449,7 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "54"
@@ -2608,8 +2579,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.220334630889, 
-      "lon": 2.911093460914, 
+      "lat": 51.220338514552, 
+      "lon": 2.911094914294, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2620,8 +2591,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.21991064086, 
-      "lon": 2.911165118714, 
+      "lat": 51.219908600309, 
+      "lon": 2.911160028814, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2672,8 +2643,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.21983722276, 
-      "lon": 2.911291673271, 
+      "lat": 51.219841954015, 
+      "lon": 2.911296249626, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2707,9 +2678,7 @@
       "busnrs": [
         "-101", 
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "7"
@@ -2872,8 +2841,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.219117948536, 
-      "lon": 2.912556445016, 
+      "lat": 51.219119744108, 
+      "lon": 2.912556245807, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2901,8 +2870,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.219081813164, 
-      "lon": 2.912629866228, 
+      "lat": 51.219087245665, 
+      "lon": 2.912640290098, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2949,8 +2918,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.219016839125, 
-      "lon": 2.912770611219, 
+      "lat": 51.219014904362, 
+      "lon": 2.912766806437, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

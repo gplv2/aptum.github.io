@@ -155,6 +155,10 @@
       "street": "Bolk"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -576,6 +580,18 @@
       "street": "Bolk"
     }, 
     {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.310651283373, 
+      "lon": 4.88849985045, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bolk"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -784,8 +800,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.303950582551, 
-      "lon": 4.886926623135, 
+      "lat": 51.303947498978, 
+      "lon": 4.886912392982, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1922,20 +1938,22 @@
       "street": "Bolk"
     }, 
     {
-      "apptnrs": [
-        "1e verd", 
-        "2e verd", 
-        "glvl"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.306398481941, 
-      "lon": 4.887822770264, 
+      "lat": 51.306514063498, 
+      "lon": 4.887558198238, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bolk"
     }, 
     {

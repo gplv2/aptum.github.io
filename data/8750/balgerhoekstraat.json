@@ -357,7 +357,7 @@
       "lon": 3.307334249971, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -381,7 +381,7 @@
       "lon": 3.307383435404, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -405,7 +405,7 @@
       "lon": 3.307833141742, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -709,12 +709,15 @@
       "street": "Balgerhoekstraat"
     }, 
     {
+      "busnrs": [
+        "9999"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.058998250553, 
-      "lon": 3.314058191561, 
+      "lat": 51.058945639845, 
+      "lon": 3.313804743263, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanLot", 
@@ -797,11 +800,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.06084847737, 
-      "lon": 3.313699953813, 
+      "lat": 51.060861479542, 
+      "lon": 3.313595806056, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -833,11 +836,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.060931881062, 
-      "lon": 3.313767833996, 
+      "lat": 51.060933670602, 
+      "lon": 3.31360616233, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -1046,6 +1049,18 @@
     }, 
     {
       "hnrlbls": [
+        "67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 51.062559632176, 
+      "lon": 3.315090872728, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Balgerhoekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -1054,6 +1069,18 @@
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Balgerhoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.062672613165, 
+      "lon": 3.315179063704, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "afgeleidVanGebouw", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -1245,7 +1272,7 @@
       "lon": 3.317245068008, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Balgerhoekstraat"
     }, 
     {

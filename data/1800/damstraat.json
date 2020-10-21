@@ -676,8 +676,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.951116750736, 
-      "lon": 4.460074372583, 
+      "lat": 50.951119448396, 
+      "lon": 4.460073239399, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -700,11 +700,11 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.951035283224, 
-      "lon": 4.459991388738, 
+      "lat": 50.951180053067, 
+      "lon": 4.460051300279, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Damstraat"
     }, 
     {
@@ -1458,9 +1458,11 @@
     {
       "apptnrs": [
         "0", 
-        "1", 
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "88"

@@ -205,10 +205,6 @@
       "street": "Kleine Amer"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -257,6 +253,10 @@
       "street": "Kleine Amer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13A"
       ], 
@@ -330,6 +330,18 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.076724777882, 
+      "lon": 4.298021994179, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kleine Amer"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -381,11 +393,11 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 51.077734374097, 
-      "lon": 4.297213971694, 
+      "lat": 51.077731856526, 
+      "lon": 4.297063432553, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Amer"
     }, 
     {
@@ -393,11 +405,11 @@
         "24B"
       ], 
       "housenumber": "24B", 
-      "lat": 51.077810063374, 
-      "lon": 4.297069592424, 
+      "lat": 51.077797480423, 
+      "lon": 4.296922921119, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Amer"
     }, 
     {
@@ -465,11 +477,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.079610159882, 
-      "lon": 4.297196860349, 
+      "lat": 51.079701173183, 
+      "lon": 4.297123945072, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kleine Amer"
     }, 
     {
@@ -669,8 +681,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.082162015066, 
-      "lon": 4.295438681188, 
+      "lat": 51.082170641982, 
+      "lon": 4.295434814669, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanPerceelGrb", 
@@ -909,8 +921,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.080903497792, 
-      "lon": 4.298743814528, 
+      "lat": 51.080924968719, 
+      "lon": 4.298722662444, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -1061,7 +1073,7 @@
       "lon": 4.30046219332, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kleine Amer"
     }, 
     {

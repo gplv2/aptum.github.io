@@ -138,8 +138,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.813851467592, 
-      "lon": 3.341081623793, 
+      "lat": 50.81384435355, 
+      "lon": 3.341059783409, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -171,8 +171,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.813893833712, 
-      "lon": 3.341237932787, 
+      "lat": 50.813892068669, 
+      "lon": 3.341231443553, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -337,11 +337,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.814512773308, 
-      "lon": 3.342422849397, 
+      "lat": 50.814442849202, 
+      "lon": 3.342486956165, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -462,7 +462,8 @@
         "5", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "134"
@@ -612,8 +613,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 50.815013783157, 
-      "lon": 3.343262399057, 
+      "lat": 50.815013957969, 
+      "lon": 3.343261827603, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -705,6 +706,18 @@
     }, 
     {
       "hnrlbls": [
+        "147A"
+      ], 
+      "housenumber": "147A", 
+      "lat": 50.814835617382, 
+      "lon": 3.343964623227, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "148B"
       ], 
       "housenumber": "148B", 
@@ -763,8 +776,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.814976769547, 
-      "lon": 3.344139790402, 
+      "lat": 50.814983454649, 
+      "lon": 3.344164053591, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -797,6 +810,7 @@
     {
       "busnrs": [
         "101", 
+        "103", 
         "2", 
         "3", 
         "4", 
@@ -903,11 +917,11 @@
         "159A"
       ], 
       "housenumber": "159A", 
-      "lat": 50.815119871851, 
-      "lon": 3.344445616692, 
+      "lat": 50.81502486064, 
+      "lon": 3.344509415697, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -927,8 +941,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.814803275169, 
-      "lon": 3.34474952519, 
+      "lat": 50.814803094156, 
+      "lon": 3.344749387218, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1288,18 +1302,6 @@
     }, 
     {
       "hnrlbls": [
-        "185"
-      ], 
-      "housenumber": "185", 
-      "lat": 50.815555767922, 
-      "lon": 3.34613965213, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Otegemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "186"
       ], 
       "housenumber": "186", 
@@ -1320,6 +1322,18 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "187A"
+      ], 
+      "housenumber": "187A", 
+      "lat": 50.815488243596, 
+      "lon": 3.346190504746, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -1351,11 +1365,11 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 50.812344479121, 
-      "lon": 3.334943574824, 
+      "lat": 50.812344396738, 
+      "lon": 3.334944428053, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -1371,6 +1385,9 @@
       "street": "Otegemstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1379,7 +1396,7 @@
       "lon": 3.335392164417, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -1504,6 +1521,18 @@
     }, 
     {
       "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.812924594669, 
+      "lon": 3.33540834464, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -1530,11 +1559,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.81274451593, 
-      "lon": 3.334847375662, 
+      "lat": 50.812745080271, 
+      "lon": 3.334850201359, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -1839,11 +1868,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.812780958829, 
-      "lon": 3.334912135181, 
+      "lat": 50.812780893958, 
+      "lon": 3.3349149747, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -2019,11 +2048,11 @@
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 50.816348185027, 
-      "lon": 3.348183185741, 
+      "lat": 50.816350474193, 
+      "lon": 3.348187961219, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -2036,11 +2065,11 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.816699028648, 
-      "lon": 3.351405589845, 
+      "lat": 50.816700676162, 
+      "lon": 3.351408960221, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -2057,7 +2086,7 @@
     }, 
     {
       "busnrs": [
-        "1A", 
+        "103", 
         "1B", 
         "1C", 
         "201", 
@@ -2066,7 +2095,7 @@
         "301", 
         "302", 
         "303", 
-        "9"
+        "401"
       ], 
       "hnrlbls": [
         "24"
@@ -2105,11 +2134,35 @@
     }, 
     {
       "hnrlbls": [
+        "242"
+      ], 
+      "housenumber": "242", 
+      "lat": 50.816897815748, 
+      "lon": 3.353149280881, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "243"
       ], 
       "housenumber": "243", 
       "lat": 50.816273703673, 
       "lon": 3.348436841581, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "244"
+      ], 
+      "housenumber": "244", 
+      "lat": 50.816895977319, 
+      "lon": 3.353217298627, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2129,6 +2182,18 @@
     }, 
     {
       "hnrlbls": [
+        "246"
+      ], 
+      "housenumber": "246", 
+      "lat": 50.816881744209, 
+      "lon": 3.35328671911, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "247"
       ], 
       "housenumber": "247", 
@@ -2137,6 +2202,18 @@
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Otegemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "248"
+      ], 
+      "housenumber": "248", 
+      "lat": 50.81682672448, 
+      "lon": 3.353286912728, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -2156,8 +2233,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.812968888329, 
-      "lon": 3.335670322726, 
+      "lat": 50.812968712304, 
+      "lon": 3.335670752305, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2372,8 +2449,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.812956710702, 
-      "lon": 3.335757577898, 
+      "lat": 50.812957066502, 
+      "lon": 3.335757144374, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2501,11 +2578,11 @@
     }, 
     {
       "hnrlbls": [
-        "275"
+        "275-277"
       ], 
       "housenumber": "275", 
-      "lat": 50.817258390117, 
-      "lon": 3.351154225914, 
+      "lat": 50.817291437666, 
+      "lon": 3.351274283548, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2525,7 +2602,7 @@
     }, 
     {
       "hnrlbls": [
-        "277"
+        "275-277"
       ], 
       "housenumber": "277", 
       "lat": 50.817291437666, 
@@ -2549,12 +2626,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "101", 
         "102", 
-        "2", 
-        "3", 
+        "201", 
+        "202", 
+        "301", 
         "302", 
-        "4"
+        "401"
       ], 
       "hnrlbls": [
         "28"
@@ -2632,8 +2710,8 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 50.817312889927, 
-      "lon": 3.353282668146, 
+      "lat": 50.817236745436, 
+      "lon": 3.353085910044, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2668,8 +2746,8 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 50.817035941426, 
-      "lon": 3.353651525211, 
+      "lat": 50.817061699594, 
+      "lon": 3.353656788287, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -2784,9 +2862,6 @@
       "street": "Otegemstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -2983,8 +3058,8 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 50.814446186337, 
-      "lon": 3.357901359693, 
+      "lat": 50.814452150101, 
+      "lon": 3.357873559333, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3293,8 +3368,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.812936938944, 
-      "lon": 3.336023800173, 
+      "lat": 50.812936668033, 
+      "lon": 3.336023664212, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -3557,8 +3632,8 @@
         "351"
       ], 
       "housenumber": "351", 
-      "lat": 50.815678296025, 
-      "lon": 3.359610209003, 
+      "lat": 50.815679555672, 
+      "lon": 3.359610323909, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -3590,7 +3665,7 @@
     }, 
     {
       "hnrlbls": [
-        "354"
+        "354-356"
       ], 
       "housenumber": "354", 
       "lat": 50.814846624929, 
@@ -3614,11 +3689,11 @@
     }, 
     {
       "hnrlbls": [
-        "356"
+        "354-356"
       ], 
       "housenumber": "356", 
-      "lat": 50.81485789352, 
-      "lon": 3.362065391155, 
+      "lat": 50.814846624929, 
+      "lon": 3.361967572182, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -4012,8 +4087,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.812903001063, 
-      "lon": 3.336396619816, 
+      "lat": 50.812903088452, 
+      "lon": 3.336396334089, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -4180,8 +4255,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.812964172027, 
-      "lon": 3.336441539321, 
+      "lat": 50.812964887379, 
+      "lon": 3.336441097917, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -4735,8 +4810,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.812589500881, 
-      "lon": 3.336539297669, 
+      "lat": 50.812648843919, 
+      "lon": 3.336519548791, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -4755,15 +4830,12 @@
       "street": "Otegemstraat"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "463"
       ], 
       "housenumber": "463", 
-      "lat": 50.815182190776, 
-      "lon": 3.370650039534, 
+      "lat": 50.815182011001, 
+      "lon": 3.370650043346, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -4846,11 +4918,11 @@
         "471A"
       ], 
       "housenumber": "471A", 
-      "lat": 50.815372576433, 
-      "lon": 3.371608163027, 
+      "lat": 50.81539233006, 
+      "lon": 3.371584045314, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -4882,8 +4954,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.812588137821, 
-      "lon": 3.336639795657, 
+      "lat": 50.812615001614, 
+      "lon": 3.336627570482, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -5061,7 +5133,7 @@
       "lon": 3.333736447752, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -5181,7 +5253,7 @@
       "lon": 3.33820127427, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -5193,7 +5265,7 @@
       "lon": 3.333780681308, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -5222,10 +5294,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205"
       ], 
       "hnrlbls": [
         "71"
@@ -5330,23 +5408,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
         "102", 
         "202", 
         "203", 
         "301", 
-        "6"
+        "302", 
+        "6", 
+        "B000"
       ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.812869893458, 
-      "lon": 3.338070263105, 
+      "lat": 50.812871076957, 
+      "lon": 3.33807194005, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Otegemstraat"
     }, 
     {
@@ -5472,8 +5551,8 @@
         "88A"
       ], 
       "housenumber": "88A", 
-      "lat": 50.81323453457, 
-      "lon": 3.339174254062, 
+      "lat": 50.813236326088, 
+      "lon": 3.339173505346, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5496,8 +5575,8 @@
         "88C"
       ], 
       "housenumber": "88C", 
-      "lat": 50.813019149601, 
-      "lon": 3.339300152315, 
+      "lat": 50.813007150782, 
+      "lon": 3.339305665228, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5654,7 +5733,7 @@
     {
       "busnrs": [
         "101", 
-        "2"
+        "201"
       ], 
       "hnrlbls": [
         "98A"
@@ -5669,7 +5748,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
         "102", 
         "201", 

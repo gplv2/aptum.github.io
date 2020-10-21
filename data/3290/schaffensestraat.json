@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.987802794751, 
-      "lon": 5.056357549119, 
+      "lat": 50.987826808138, 
+      "lon": 5.056340240855, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schaffensestraat"
     }, 
     {
@@ -49,18 +49,12 @@
       "street": "Schaffensestraat"
     }, 
     {
-      "hnrlbls": [
-        "13"
+      "apptnrs": [
+        "0001"
       ], 
-      "housenumber": "13", 
-      "lat": 50.987829029493, 
-      "lon": 5.056344688718, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Schaffensestraat"
-    }, 
-    {
+      "busnrs": [
+        "14"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -321,11 +315,11 @@
     }, 
     {
       "apptnrs": [
-        "3/2"
+        "0003"
       ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "3"
@@ -554,11 +548,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.987693742383, 
-      "lon": 5.05663567337, 
+      "lat": 50.987669196543, 
+      "lon": 5.056528920073, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaffensestraat"
     }, 
     {
@@ -658,18 +652,15 @@
       "street": "Schaffensestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.989396792185, 
-      "lon": 5.055746712379, 
+      "lat": 50.98938128553, 
+      "lon": 5.055861996977, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaffensestraat"
     }, 
     {
@@ -745,18 +736,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schaffensestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.989652553911, 
-      "lon": 5.05592950336, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaffensestraat"
     }, 
     {
@@ -998,8 +977,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.987766082955, 
-      "lon": 5.056394183337, 
+      "lat": 50.987770025613, 
+      "lon": 5.056380995548, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 

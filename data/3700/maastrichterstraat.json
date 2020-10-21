@@ -100,32 +100,22 @@
       "street": "Maastrichterstraat"
     }, 
     {
-      "hnrlbls": [
-        "106-106B"
-      ], 
-      "housenumber": "106", 
-      "lat": 50.78300024434, 
-      "lon": 5.468044898137, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "apptnrs": [
+      "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "106-106B"
+        "106"
       ], 
-      "housenumber": "106B", 
-      "lat": 50.78300024434, 
-      "lon": 5.468044898137, 
+      "housenumber": "106", 
+      "lat": 50.782864772076, 
+      "lon": 5.468244104157, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Maastrichterstraat"
     }, 
     {
@@ -222,8 +212,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.782944214123, 
-      "lon": 5.468439257008, 
+      "lat": 50.782948724448, 
+      "lon": 5.46843766065, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -246,8 +236,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.783006303791, 
-      "lon": 5.4684717664, 
+      "lat": 50.783008549628, 
+      "lon": 5.468471960721, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -270,8 +260,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.782970993572, 
-      "lon": 5.468622401106, 
+      "lat": 50.782969000075, 
+      "lon": 5.468624056295, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -308,31 +298,16 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "120-120B"
-      ], 
-      "housenumber": "120", 
-      "lat": 50.783014970538, 
-      "lon": 5.468678454282, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "120-120B"
+        "120"
       ], 
-      "housenumber": "120B", 
-      "lat": 50.783014970538, 
-      "lon": 5.468678454282, 
+      "housenumber": "120", 
+      "lat": 50.783021981706, 
+      "lon": 5.468678618223, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -359,11 +334,11 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.783186932023, 
-      "lon": 5.468662479006, 
+      "lat": 50.783031714208, 
+      "lon": 5.468771877657, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maastrichterstraat"
     }, 
     {
@@ -407,8 +382,8 @@
         "128-130"
       ], 
       "housenumber": "128", 
-      "lat": 50.783081517906, 
-      "lon": 5.468982789673, 
+      "lat": 50.783095129027, 
+      "lon": 5.468950348288, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -431,8 +406,8 @@
         "128-130"
       ], 
       "housenumber": "130", 
-      "lat": 50.783081517906, 
-      "lon": 5.468982789673, 
+      "lat": 50.783095129027, 
+      "lon": 5.468950348288, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -600,8 +575,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.783225554635, 
-      "lon": 5.469976328145, 
+      "lat": 50.783218735249, 
+      "lon": 5.469974892142, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -612,8 +587,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.783265211551, 
-      "lon": 5.470042350814, 
+      "lat": 50.783257009178, 
+      "lon": 5.470044569679, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -624,8 +599,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.783253987201, 
-      "lon": 5.470107749563, 
+      "lat": 50.783241077361, 
+      "lon": 5.470113403637, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -905,6 +880,9 @@
       "street": "Maastrichterstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -917,25 +895,13 @@
       "street": "Maastrichterstraat"
     }, 
     {
-      "hnrlbls": [
-        "37-37B"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.781788428616, 
-      "lon": 5.465674394971, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
       "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "37-37B"
+        "37"
       ], 
-      "housenumber": "37B", 
+      "housenumber": "37", 
       "lat": 50.781788428616, 
       "lon": 5.465674394971, 
       "municipality": "Tongeren", 
@@ -1014,25 +980,9 @@
         "3"
       ], 
       "hnrlbls": [
-        "43-43B"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.781853795118, 
-      "lon": 5.465856163828, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "43-43B"
-      ], 
-      "housenumber": "43B", 
       "lat": 50.781853795118, 
       "lon": 5.465856163828, 
       "municipality": "Tongeren", 
@@ -1057,8 +1007,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.781848482716, 
-      "lon": 5.465981686438, 
+      "lat": 50.781851855051, 
+      "lon": 5.465976801635, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1081,8 +1031,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.781894932594, 
-      "lon": 5.466042615119, 
+      "lat": 50.781891124115, 
+      "lon": 5.466046071615, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1182,25 +1132,13 @@
       "street": "Maastrichterstraat"
     }, 
     {
-      "hnrlbls": [
-        "54-54B"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.782316681643, 
-      "lon": 5.46617710811, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
       "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "54-54B"
+        "54"
       ], 
-      "housenumber": "54B", 
+      "housenumber": "54", 
       "lat": 50.782316681643, 
       "lon": 5.46617710811, 
       "municipality": "Tongeren", 
@@ -1294,29 +1232,13 @@
     }, 
     {
       "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "61-61B"
-      ], 
-      "housenumber": "61", 
-      "lat": 50.782064436404, 
-      "lon": 5.466537954109, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "61-61B"
+        "61"
       ], 
-      "housenumber": "61B", 
+      "housenumber": "61", 
       "lat": 50.782064436404, 
       "lon": 5.466537954109, 
       "municipality": "Tongeren", 
@@ -1403,26 +1325,13 @@
       "street": "Maastrichterstraat"
     }, 
     {
-      "hnrlbls": [
-        "67-67B"
-      ], 
-      "housenumber": "67", 
-      "lat": 50.782114651709, 
-      "lon": 5.46669583049, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
-        "67-67B"
+        "67"
       ], 
-      "housenumber": "67B", 
+      "housenumber": "67", 
       "lat": 50.782114651709, 
       "lon": 5.46669583049, 
       "municipality": "Tongeren", 
@@ -1531,8 +1440,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.782551471972, 
-      "lon": 5.46700624921, 
+      "lat": 50.782551277563, 
+      "lon": 5.46700780464, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1555,30 +1464,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
-        "78-78B"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.782577348767, 
-      "lon": 5.467094211671, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "78-78B"
-      ], 
-      "housenumber": "78B", 
-      "lat": 50.782577348767, 
-      "lon": 5.467094211671, 
+      "lat": 50.782578238321, 
+      "lon": 5.467095225149, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1669,50 +1562,14 @@
       "street": "Maastrichterstraat"
     }, 
     {
-      "hnrlbls": [
-        "85-85A"
-      ], 
-      "housenumber": "85", 
-      "lat": 50.78224911721, 
-      "lon": 5.467351031817, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "85-85A"
-      ], 
-      "housenumber": "85A", 
-      "lat": 50.78224911721, 
-      "lon": 5.467351031817, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "86-86B"
-      ], 
-      "housenumber": "86", 
-      "lat": 50.782663078089, 
-      "lon": 5.467395586323, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maastrichterstraat"
-    }, 
-    {
       "busnrs": [
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "86-86B"
+        "86"
       ], 
-      "housenumber": "86B", 
+      "housenumber": "86", 
       "lat": 50.782663078089, 
       "lon": 5.467395586323, 
       "municipality": "Tongeren", 
@@ -1831,8 +1688,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.782448700882, 
-      "lon": 5.467572244575, 
+      "lat": 50.782447905212, 
+      "lon": 5.467570807838, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -13,18 +13,16 @@
       "street": "Orgelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "2"
@@ -48,11 +46,23 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.215629039354, 
-      "lon": 4.407229629376, 
+      "lat": 51.215687098369, 
+      "lon": 4.407247997097, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Orgelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.215688374666, 
+      "lon": 4.407193900011, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Orgelstraat"
     }, 
     {

@@ -200,6 +200,10 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -218,26 +222,26 @@
         "6"
       ], 
       "hnrlbls": [
-        "78-119"
+        "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.254779677762, 
-      "lon": 4.450891936803, 
+      "lat": 51.254717900871, 
+      "lon": 4.450802733705, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Ringlaan"
     }, 
     {
       "hnrlbls": [
-        "78-119"
+        "117A"
       ], 
       "housenumber": "117A", 
-      "lat": 51.254779677762, 
-      "lon": 4.450891936803, 
+      "lat": 51.254704282959, 
+      "lon": 4.451124419217, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Ringlaan"
     }, 
     {
@@ -261,14 +265,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "78-119"
+        "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.254779677762, 
-      "lon": 4.450891936803, 
+      "lat": 51.254729375928, 
+      "lon": 4.450588185346, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Ringlaan"
     }, 
     {
@@ -551,11 +555,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.254814090431, 
-      "lon": 4.449354634553, 
+      "lat": 51.254847659235, 
+      "lon": 4.44929267143, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -629,8 +633,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.254867706382, 
-      "lon": 4.44902556895, 
+      "lat": 51.254870140465, 
+      "lon": 4.449014973624, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -765,7 +769,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "156-158"
+        "156"
       ], 
       "housenumber": "156", 
       "lat": 51.254274712147, 
@@ -776,12 +780,17 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.25489714801, 
-      "lon": 4.448159750524, 
+      "lat": 51.254895321164, 
+      "lon": 4.448202861815, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -789,37 +798,18 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
         "101", 
-        "102", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "156-158"
-      ], 
-      "housenumber": "158", 
-      "lat": 51.254274712147, 
-      "lon": 4.450512324669, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
+        "201"
       ], 
       "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.255065665652, 
-      "lon": 4.448178088201, 
+      "lat": 51.254898974744, 
+      "lon": 4.448116782468, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -851,8 +841,10 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "161"
@@ -1255,8 +1247,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.254406522874, 
-      "lon": 4.448226657611, 
+      "lat": 51.254402206955, 
+      "lon": 4.448228941958, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1296,8 +1288,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.254415631818, 
-      "lon": 4.447915278574, 
+      "lat": 51.254409340615, 
+      "lon": 4.447914408377, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1568,6 +1560,12 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -1712,8 +1710,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.254057824211, 
-      "lon": 4.456005996084, 
+      "lat": 51.254046320088, 
+      "lon": 4.456004828492, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1764,8 +1762,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.25407044478, 
-      "lon": 4.455835140798, 
+      "lat": 51.254062805289, 
+      "lon": 4.455834410233, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1801,6 +1799,11 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1853,8 +1856,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.254103341051, 
-      "lon": 4.455228316529, 
+      "lat": 51.254097049796, 
+      "lon": 4.455227588585, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1873,6 +1876,11 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -2264,8 +2272,10 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "99"

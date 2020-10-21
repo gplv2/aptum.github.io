@@ -269,9 +269,10 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "118"
@@ -417,10 +418,14 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
         "136"
@@ -1602,8 +1607,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.239405368156, 
-      "lon": 4.437646056435, 
+      "lat": 51.239406627953, 
+      "lon": 4.437643624091, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1658,7 +1663,7 @@
         "302"
       ], 
       "hnrlbls": [
-        "257-259"
+        "257"
       ], 
       "housenumber": "257", 
       "lat": 51.239487042551, 
@@ -1666,6 +1671,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "257A"
+      ], 
+      "housenumber": "257A", 
+      "lat": 51.239513127875, 
+      "lon": 4.437663543313, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -1682,14 +1699,14 @@
     }, 
     {
       "hnrlbls": [
-        "257-259"
+        "259"
       ], 
       "housenumber": "259", 
-      "lat": 51.239487042551, 
-      "lon": 4.437848648949, 
+      "lat": 51.239563431764, 
+      "lon": 4.437715739659, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -1705,6 +1722,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "261"
       ], 
@@ -1741,21 +1763,24 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 51.240615338774, 
-      "lon": 4.438165936708, 
+      "lat": 51.240645738105, 
+      "lon": 4.438134193478, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
       "apptnrs": [
         "12", 
-        "2.0", 
         "32"
       ], 
       "busnrs": [
@@ -1802,6 +1827,12 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "268"
       ], 
@@ -1939,9 +1970,6 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "277"
       ], 
@@ -2024,8 +2052,8 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.24046647565, 
-      "lon": 4.438797623277, 
+      "lat": 51.240465305371, 
+      "lon": 4.438800628553, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2047,7 +2075,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "283"
@@ -2073,6 +2102,9 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "busnrs": [
         "2"
       ], 
@@ -2359,8 +2391,10 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "304"
@@ -2541,30 +2575,27 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "336-338"
+        "336"
       ], 
       "housenumber": "336", 
-      "lat": 51.242334937081, 
-      "lon": 4.439891490063, 
+      "lat": 51.242199256736, 
+      "lon": 4.439968321616, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
       "hnrlbls": [
-        "336-338"
+        "338"
       ], 
       "housenumber": "338", 
-      "lat": 51.242334937081, 
-      "lon": 4.439891490063, 
+      "lat": 51.242245771048, 
+      "lon": 4.440042570165, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -2690,8 +2721,8 @@
         "358"
       ], 
       "housenumber": "358", 
-      "lat": 51.242785927154, 
-      "lon": 4.440698688015, 
+      "lat": 51.242710010522, 
+      "lon": 4.440788642395, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2974,8 +3005,8 @@
         "380"
       ], 
       "housenumber": "380", 
-      "lat": 51.243231394231, 
-      "lon": 4.441271615321, 
+      "lat": 51.243301107692, 
+      "lon": 4.441184228619, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2989,8 +3020,8 @@
         "380A"
       ], 
       "housenumber": "380A", 
-      "lat": 51.243251547631, 
-      "lon": 4.441529982508, 
+      "lat": 51.243253346448, 
+      "lon": 4.441528123724, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -3292,22 +3323,23 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "397"
       ], 
       "housenumber": "397", 
-      "lat": 51.243297143288, 
-      "lon": 4.443207375361, 
+      "lat": 51.243322511763, 
+      "lon": 4.443173620658, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3343,33 +3375,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "398A-398_1"
-      ], 
-      "housenumber": "398A", 
-      "lat": 51.243609443723, 
-      "lon": 4.442850302005, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
-        "398A-398_1"
-      ], 
-      "housenumber": "398_1", 
-      "lat": 51.243609443723, 
-      "lon": 4.442850302005, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -3419,7 +3424,7 @@
     }, 
     {
       "hnrlbls": [
-        "404"
+        "404-406"
       ], 
       "housenumber": "404", 
       "lat": 51.243695626146, 
@@ -3443,11 +3448,11 @@
     }, 
     {
       "hnrlbls": [
-        "406"
+        "404-406"
       ], 
       "housenumber": "406", 
-      "lat": 51.243722277651, 
-      "lon": 4.443227393277, 
+      "lat": 51.243695626146, 
+      "lon": 4.443158469705, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -3676,8 +3681,8 @@
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 51.244092678457, 
-      "lon": 4.444082919182, 
+      "lat": 51.244090608663, 
+      "lon": 4.444086782317, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -4326,14 +4331,22 @@
       "street": "Bredabaan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101"
-      ], 
       "hnrlbls": [
-        "469"
+        "469-469A"
       ], 
       "housenumber": "469", 
+      "lat": 51.244607260154, 
+      "lon": 4.446287121284, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "469-469A"
+      ], 
+      "housenumber": "469A", 
       "lat": 51.244607260154, 
       "lon": 4.446287121284, 
       "municipality": "Antwerpen", 
@@ -4371,18 +4384,6 @@
     }, 
     {
       "hnrlbls": [
-        "471"
-      ], 
-      "housenumber": "471", 
-      "lat": 51.244654849809, 
-      "lon": 4.446360236142, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
         "472"
       ], 
       "housenumber": "472", 
@@ -4398,11 +4399,11 @@
         "473"
       ], 
       "housenumber": "473", 
-      "lat": 51.244617440766, 
-      "lon": 4.446386952758, 
+      "lat": 51.244696845718, 
+      "lon": 4.446329231008, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -4527,6 +4528,24 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "482"
+      ], 
+      "housenumber": "482", 
+      "lat": 51.244975154645, 
+      "lon": 4.446010060811, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
       "busnrs": [
         "2", 
         "3", 
@@ -4548,11 +4567,11 @@
         "484"
       ], 
       "housenumber": "484", 
-      "lat": 51.244975154645, 
-      "lon": 4.446010060811, 
+      "lat": 51.244919925351, 
+      "lon": 4.44607240653, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -5102,8 +5121,8 @@
         "522"
       ], 
       "housenumber": "522", 
-      "lat": 51.245488249817, 
-      "lon": 4.446760042162, 
+      "lat": 51.245453085769, 
+      "lon": 4.446789770103, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5158,12 +5177,18 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "527"
       ], 
       "housenumber": "527", 
-      "lat": 51.245699383106, 
-      "lon": 4.448895788809, 
+      "lat": 51.24577525672, 
+      "lon": 4.448877732841, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5179,18 +5204,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
-        "527B"
-      ], 
-      "housenumber": "527B", 
-      "lat": 51.245763557948, 
-      "lon": 4.448898191475, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -5228,8 +5241,8 @@
         "529"
       ], 
       "housenumber": "529", 
-      "lat": 51.245778974643, 
-      "lon": 4.449092696438, 
+      "lat": 51.2457701618, 
+      "lon": 4.449098982322, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5249,6 +5262,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -5283,8 +5297,11 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "532-534"
@@ -5317,8 +5334,11 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "532-534"
@@ -5372,8 +5392,8 @@
         "538-540"
       ], 
       "housenumber": "538", 
-      "lat": 51.24567519029, 
-      "lon": 4.447322882698, 
+      "lat": 51.245642028095, 
+      "lon": 4.447315952268, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5396,8 +5416,8 @@
         "538-540"
       ], 
       "housenumber": "540", 
-      "lat": 51.24567519029, 
-      "lon": 4.447322882698, 
+      "lat": 51.245642028095, 
+      "lon": 4.447315952268, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5538,6 +5558,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -5584,8 +5609,8 @@
         "554-556"
       ], 
       "housenumber": "554", 
-      "lat": 51.245864604944, 
-      "lon": 4.447811549443, 
+      "lat": 51.245808092393, 
+      "lon": 4.447909407947, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -5593,14 +5618,38 @@
     }, 
     {
       "hnrlbls": [
+        "555"
+      ], 
+      "housenumber": "555", 
+      "lat": 51.24677237056, 
+      "lon": 4.450639685056, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "geinterpoleerdObvWegverbinding", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
         "554-556"
       ], 
       "housenumber": "556", 
-      "lat": 51.245864604944, 
-      "lon": 4.447811549443, 
+      "lat": 51.245808092393, 
+      "lon": 4.447909407947, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "557"
+      ], 
+      "housenumber": "557", 
+      "lat": 51.246809356206, 
+      "lon": 4.450705771542, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Bredabaan"
     }, 
     {
@@ -5617,6 +5666,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "559"
+      ], 
+      "housenumber": "559", 
+      "lat": 51.245053781774, 
+      "lon": 4.452961033691, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bredabaan"
     }, 
     {
@@ -5646,42 +5707,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
-        "561A-561C"
-      ], 
-      "housenumber": "561A", 
-      "lat": 51.245325030297, 
-      "lon": 4.453361650749, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
-        "561A-561C"
-      ], 
-      "housenumber": "561B", 
-      "lat": 51.245325030297, 
-      "lon": 4.453361650749, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredabaan"
-    }, 
-    {
-      "hnrlbls": [
-        "561A-561C"
-      ], 
-      "housenumber": "561C", 
-      "lat": 51.245325030297, 
-      "lon": 4.453361650749, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -6112,7 +6137,7 @@
     }, 
     {
       "hnrlbls": [
-        "593-595"
+        "593"
       ], 
       "housenumber": "593", 
       "lat": 51.247700887888, 
@@ -6140,19 +6165,19 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
+      "apptnrs": [
+        "101", 
+        "201", 
         "301", 
-        "4", 
-        "401"
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
-        "593-595"
+        "595"
       ], 
       "housenumber": "595", 
-      "lat": 51.247700887888, 
-      "lon": 4.453638251888, 
+      "lat": 51.247700348487, 
+      "lon": 4.453638394112, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -6231,8 +6256,8 @@
         "608-608A"
       ], 
       "housenumber": "608", 
-      "lat": 51.246731672793, 
-      "lon": 4.449835619513, 
+      "lat": 51.246724657176, 
+      "lon": 4.449842481387, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -6243,8 +6268,8 @@
         "608-608A"
       ], 
       "housenumber": "608A", 
-      "lat": 51.246731672793, 
-      "lon": 4.449835619513, 
+      "lat": 51.246724657176, 
+      "lon": 4.449842481387, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -6318,7 +6343,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "101", 
         "201", 
         "301", 
@@ -6338,14 +6362,14 @@
     }, 
     {
       "hnrlbls": [
-        "620G"
+        "620A"
       ], 
-      "housenumber": "620G", 
-      "lat": 51.246979357145, 
-      "lon": 4.450143102792, 
+      "housenumber": "620A", 
+      "lat": 51.246827408666, 
+      "lon": 4.450339036298, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -6874,18 +6898,6 @@
       "street": "Bredabaan"
     }, 
     {
-      "hnrlbls": [
-        "713"
-      ], 
-      "housenumber": "713", 
-      "lat": 51.249555046092, 
-      "lon": 4.455044505893, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bredabaan"
-    }, 
-    {
       "busnrs": [
         "2"
       ], 
@@ -6944,10 +6956,10 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "718"
@@ -7016,8 +7028,8 @@
         "723"
       ], 
       "housenumber": "723", 
-      "lat": 51.249728618687, 
-      "lon": 4.455276848643, 
+      "lat": 51.249728617947, 
+      "lon": 4.455277851192, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -7040,8 +7052,8 @@
         "725"
       ], 
       "housenumber": "725", 
-      "lat": 51.249771305823, 
-      "lon": 4.455286667607, 
+      "lat": 51.249771665565, 
+      "lon": 4.455286381838, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -7052,11 +7064,11 @@
         "726"
       ], 
       "housenumber": "726", 
-      "lat": 51.248468730812, 
-      "lon": 4.453177498917, 
+      "lat": 51.248415350702, 
+      "lon": 4.45328796525, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -7101,6 +7113,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -7242,6 +7259,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "73A"
+      ], 
+      "housenumber": "73A", 
+      "lat": 51.23816643371, 
+      "lon": 4.432870675961, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -7501,17 +7530,14 @@
         "755"
       ], 
       "housenumber": "755", 
-      "lat": 51.250667652709, 
-      "lon": 4.456330445758, 
+      "lat": 51.250655137314, 
+      "lon": 4.456359496582, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "756"
       ], 
@@ -7600,8 +7626,8 @@
         "763"
       ], 
       "housenumber": "763", 
-      "lat": 51.250848049074, 
-      "lon": 4.456569113706, 
+      "lat": 51.250856155017, 
+      "lon": 4.456547072466, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -7821,11 +7847,11 @@
         "776"
       ], 
       "housenumber": "776", 
-      "lat": 51.249617178539, 
-      "lon": 4.454275811004, 
+      "lat": 51.249550884188, 
+      "lon": 4.454345293702, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -8005,8 +8031,8 @@
         "785"
       ], 
       "housenumber": "785", 
-      "lat": 51.251864305128, 
-      "lon": 4.457471375389, 
+      "lat": 51.251862231331, 
+      "lon": 4.45747996509, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8022,8 +8048,8 @@
         "785A"
       ], 
       "housenumber": "785A", 
-      "lat": 51.251905986122, 
-      "lon": 4.457503968158, 
+      "lat": 51.251902743632, 
+      "lon": 4.457512842078, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8096,9 +8122,6 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "789"
       ], 
@@ -8187,8 +8210,8 @@
         "793"
       ], 
       "housenumber": "793", 
-      "lat": 51.252079425502, 
-      "lon": 4.457668297923, 
+      "lat": 51.252077714802, 
+      "lon": 4.457672161807, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8222,8 +8245,8 @@
         "795"
       ], 
       "housenumber": "795", 
-      "lat": 51.252121002231, 
-      "lon": 4.45771979702, 
+      "lat": 51.252124244628, 
+      "lon": 4.457711066302, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8271,6 +8294,7 @@
         "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
         "8", 
         "9"
@@ -8382,8 +8406,8 @@
         "806"
       ], 
       "housenumber": "806", 
-      "lat": 51.251340363759, 
-      "lon": 4.455567034367, 
+      "lat": 51.251341174928, 
+      "lon": 4.455564028136, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8526,8 +8550,8 @@
         "814"
       ], 
       "housenumber": "814", 
-      "lat": 51.251589559912, 
-      "lon": 4.455875727217, 
+      "lat": 51.251589648625, 
+      "lon": 4.455877302883, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -8594,6 +8618,10 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "818"
       ], 
@@ -8606,6 +8634,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "818A"
       ], 
@@ -8636,6 +8669,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "820A"
       ], 
@@ -8860,8 +8898,10 @@
       "street": "Bredabaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "834"
@@ -9050,6 +9090,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "847-849"
       ], 
@@ -10085,11 +10130,11 @@
         "998"
       ], 
       "housenumber": "998", 
-      "lat": 51.267080844762, 
-      "lon": 4.462042681634, 
+      "lat": 51.267046164723, 
+      "lon": 4.462701245491, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Bredabaan"
     }
   ]

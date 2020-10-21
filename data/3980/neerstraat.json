@@ -112,6 +112,20 @@
       "street": "Neerstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -141,7 +155,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "11"
@@ -149,6 +168,24 @@
       "housenumber": "11", 
       "lat": 51.06828947829, 
       "lon": 5.087362795999, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Neerstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.074313943772, 
+      "lon": 5.090094935447, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -279,8 +316,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.075995153686, 
-      "lon": 5.090368465419, 
+      "lat": 51.07599205302, 
+      "lon": 5.090375695039, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -430,8 +467,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.06859449267, 
-      "lon": 5.088141774895, 
+      "lat": 51.068601138131, 
+      "lon": 5.088157571272, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -484,8 +521,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.068454717895, 
-      "lon": 5.087374895768, 
+      "lat": 51.068450024734, 
+      "lon": 5.087377962414, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -592,8 +629,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.07725669211, 
-      "lon": 5.089931307342, 
+      "lat": 51.077255923349, 
+      "lon": 5.089924731279, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -922,8 +959,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.079883122088, 
-      "lon": 5.090527835078, 
+      "lat": 51.079889242763, 
+      "lon": 5.090262492744, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -934,8 +971,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 51.080035057353, 
-      "lon": 5.090510488293, 
+      "lat": 51.080035763309, 
+      "lon": 5.090512639825, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -970,8 +1007,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.081128263553, 
-      "lon": 5.090844480899, 
+      "lat": 51.081127101818, 
+      "lon": 5.090858020564, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1356,15 +1393,25 @@
       "street": "Neerstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.069558860454, 
-      "lon": 5.088672109151, 
+      "lat": 51.069577238214, 
+      "lon": 5.088474499923, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Neerstraat"
     }, 
     {
@@ -1567,18 +1614,6 @@
       "street": "Neerstraat"
     }, 
     {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.070362873699, 
-      "lon": 5.08833236289, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Neerstraat"
-    }, 
-    {
       "busnrs": [
         "001", 
         "002", 
@@ -1593,18 +1628,6 @@
       "housenumber": "56", 
       "lat": 51.070483917457, 
       "lon": 5.089000824197, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Neerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.070454505254, 
-      "lon": 5.088503847336, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1728,8 +1751,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.070780409891, 
-      "lon": 5.088688072856, 
+      "lat": 51.070786912956, 
+      "lon": 5.088668340486, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1922,8 +1945,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.068413754936, 
-      "lon": 5.087944387013, 
+      "lat": 51.068411157867, 
+      "lon": 5.087942777646, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -2029,18 +2052,6 @@
       "housenumber": "89", 
       "lat": 51.071568696208, 
       "lon": 5.088920946423, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Neerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.06821576548, 
-      "lon": 5.087333413497, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 

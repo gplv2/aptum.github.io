@@ -185,11 +185,11 @@
         "21-21A"
       ], 
       "housenumber": "21", 
-      "lat": 51.042748392622, 
-      "lon": 3.91093987185, 
+      "lat": 51.042603137887, 
+      "lon": 3.911058214406, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -197,11 +197,11 @@
         "21-21A"
       ], 
       "housenumber": "21A", 
-      "lat": 51.042748392622, 
-      "lon": 3.91093987185, 
+      "lat": 51.042603137887, 
+      "lon": 3.911058214406, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -241,6 +241,9 @@
       "street": "Dendermondsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -692,8 +695,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.04533239184, 
-      "lon": 3.919657924064, 
+      "lat": 51.045361104813, 
+      "lon": 3.919573373222, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -821,14 +824,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.042084477674, 
-      "lon": 3.909881645353, 
+      "lat": 51.042026357677, 
+      "lon": 3.910169244997, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1060,6 +1063,18 @@
       "street": "Dendermondsesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "89B"
+      ], 
+      "housenumber": "89B", 
+      "lat": 51.046511847641, 
+      "lon": 3.931913536729, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dendermondsesteenweg"
+    }, 
+    {
       "apptnrs": [
         "0101", 
         "0102", 
@@ -1068,18 +1083,19 @@
         "0105", 
         "0106", 
         "0107", 
+        "0108", 
         "0201", 
         "0202"
       ], 
       "hnrlbls": [
-        "9"
+        "7-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.042128781662, 
-      "lon": 3.910017098885, 
+      "lat": 51.042026357677, 
+      "lon": 3.910169244997, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {

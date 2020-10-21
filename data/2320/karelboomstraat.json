@@ -56,6 +56,11 @@
       "street": "Karel Boomstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -159,11 +164,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.402524930782, 
-      "lon": 4.76047998081, 
+      "lat": 51.402734227233, 
+      "lon": 4.757979729128, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanStraat", 
       "street": "Karel Boomstraat"
     }, 
     {
@@ -188,8 +193,8 @@
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 51.402753091441, 
-      "lon": 4.759021246722, 
+      "lat": 51.402737408103, 
+      "lon": 4.759034765737, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -667,11 +672,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.40340385107, 
-      "lon": 4.755031224094, 
+      "lat": 51.403404550397, 
+      "lon": 4.755202660675, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Karel Boomstraat"
     }, 
     {
@@ -1013,8 +1018,8 @@
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.403975388814, 
-      "lon": 4.751985545278, 
+      "lat": 51.403941705857, 
+      "lon": 4.751978944072, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 

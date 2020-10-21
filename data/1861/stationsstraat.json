@@ -105,8 +105,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.948175409526, 
-      "lon": 4.314197861995, 
+      "lat": 50.947859067829, 
+      "lon": 4.314175884228, 
       "municipality": "Meise", 
       "pcode": "1861", 
       "source": "afgeleidVanGebouw", 
@@ -378,11 +378,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.950009967227, 
-      "lon": 4.309745130591, 
+      "lat": 50.949904160941, 
+      "lon": 4.309739285299, 
       "municipality": "Meise", 
       "pcode": "1861", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -510,12 +510,16 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.94932786805, 
-      "lon": 4.312729810473, 
+      "lat": 50.949330562142, 
+      "lon": 4.312724115131, 
       "municipality": "Meise", 
       "pcode": "1861", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -563,15 +567,29 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "0.4", 
+        "1.1", 
+        "1.2", 
+        "1.3", 
+        "1.4", 
+        "2.1", 
+        "2.2", 
+        "2.3", 
+        "2.4", 
+        "3.1", 
+        "3.2", 
+        "3.3", 
+        "3.4"
       ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.9493262027, 
-      "lon": 4.3130120014, 
+      "lat": 50.949309031121, 
+      "lon": 4.313007467826, 
       "municipality": "Meise", 
       "pcode": "1861", 
       "source": "afgeleidVanGebouw", 
@@ -587,18 +605,6 @@
       "municipality": "Meise", 
       "pcode": "1861", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.94928542013, 
-      "lon": 4.313073097657, 
-      "municipality": "Meise", 
-      "pcode": "1861", 
-      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1019,8 +1025,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.948707139127, 
-      "lon": 4.313646399608, 
+      "lat": 50.948696513304, 
+      "lon": 4.313606425029, 
       "municipality": "Meise", 
       "pcode": "1861", 
       "source": "afgeleidVanGebouw", 

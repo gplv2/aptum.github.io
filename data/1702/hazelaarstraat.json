@@ -1,15 +1,31 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.870489682052, 
+      "lon": 4.267357775978, 
+      "municipality": "Dilbeek", 
+      "pcode": "1702", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelaarstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.869823461283, 
-      "lon": 4.268396834725, 
+      "lat": 50.869804385557, 
+      "lon": 4.268375565694, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -17,11 +33,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.868190332302, 
-      "lon": 4.267959065408, 
+      "lat": 50.868191053518, 
+      "lon": 4.267961478865, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -29,11 +45,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.868199058226, 
-      "lon": 4.268071699169, 
+      "lat": 50.868201842292, 
+      "lon": 4.268068567958, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -41,39 +57,38 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.870054433593, 
-      "lon": 4.266547807206, 
+      "lat": 50.870051025838, 
+      "lon": 4.266557332861, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
         "102", 
-        "12", 
-        "2", 
+        "103", 
+        "104", 
         "201", 
-        "205", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "202", 
+        "203", 
+        "204", 
+        "205"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.869747852287, 
-      "lon": 4.266917123444, 
+      "lat": 50.869710294143, 
+      "lon": 4.266833529176, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -81,28 +96,23 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.870003322036, 
-      "lon": 4.26648839286, 
+      "lat": 50.869992730353, 
+      "lon": 4.266506741998, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.870005477584, 
-      "lon": 4.267634986054, 
+      "lat": 50.869988923508, 
+      "lon": 4.267619252349, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -110,11 +120,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.869612510522, 
-      "lon": 4.266650478934, 
+      "lat": 50.869614667866, 
+      "lon": 4.266650332214, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -122,11 +132,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.869950774351, 
-      "lon": 4.266431538898, 
+      "lat": 50.869948618607, 
+      "lon": 4.266433532453, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -134,11 +144,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.869544339208, 
-      "lon": 4.266614400132, 
+      "lat": 50.869559868593, 
+      "lon": 4.266588511214, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -146,11 +156,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.869860062256, 
-      "lon": 4.266318084333, 
+      "lat": 50.869854573028, 
+      "lon": 4.266311561301, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -158,11 +168,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.869491412704, 
-      "lon": 4.266535243611, 
+      "lat": 50.869503982316, 
+      "lon": 4.266517174525, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -170,11 +180,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.869806881775, 
-      "lon": 4.266257254333, 
+      "lat": 50.869799886152, 
+      "lon": 4.266275879782, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -182,11 +192,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.869427981532, 
-      "lon": 4.266471168576, 
+      "lat": 50.869443256333, 
+      "lon": 4.266462753877, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -194,11 +204,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.869753428494, 
-      "lon": 4.266192873482, 
+      "lat": 50.869742742893, 
+      "lon": 4.26620653471, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -206,11 +216,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.869334970491, 
-      "lon": 4.266401901421, 
+      "lat": 50.869340873366, 
+      "lon": 4.266367083482, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -218,11 +228,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.869703209157, 
-      "lon": 4.266125928627, 
+      "lat": 50.869693869883, 
+      "lon": 4.266137171865, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -230,11 +240,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.869273148722, 
-      "lon": 4.266327878975, 
+      "lat": 50.869286160508, 
+      "lon": 4.266301427317, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -242,11 +252,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.869217364255, 
-      "lon": 4.266270464841, 
+      "lat": 50.8692277718, 
+      "lon": 4.266247144197, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -254,11 +264,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.869609710032, 
-      "lon": 4.266012481304, 
+      "lat": 50.869597506251, 
+      "lon": 4.266037652905, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -266,11 +276,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.869137097435, 
-      "lon": 4.266073883849, 
+      "lat": 50.86913610094, 
+      "lon": 4.266065078212, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -278,11 +288,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.869556714987, 
-      "lon": 4.26595832851, 
+      "lat": 50.869545132198, 
+      "lon": 4.265973980559, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -290,11 +300,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.869082022113, 
-      "lon": 4.266005103752, 
+      "lat": 50.869093260404, 
+      "lon": 4.266006784076, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -302,11 +312,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.869512607223, 
-      "lon": 4.265890092334, 
+      "lat": 50.869492767757, 
+      "lon": 4.265921389198, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -314,11 +324,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.869463729689, 
-      "lon": 4.265815757988, 
+      "lat": 50.869455757302, 
+      "lon": 4.265848165531, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -326,11 +336,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.869968258884, 
-      "lon": 4.267737351544, 
+      "lat": 50.869963396202, 
+      "lon": 4.267727559526, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -338,11 +348,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.869364436355, 
-      "lon": 4.265655728153, 
+      "lat": 50.869349795831, 
+      "lon": 4.265669824194, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -350,11 +360,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.869276065516, 
-      "lon": 4.264829973958, 
+      "lat": 50.869278858868, 
+      "lon": 4.264837497092, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -362,11 +372,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.869274811909, 
-      "lon": 4.265553354941, 
+      "lat": 50.869273573241, 
+      "lon": 4.265576087516, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -374,11 +384,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.869174826016, 
-      "lon": 4.265013881796, 
+      "lat": 50.869191108891, 
+      "lon": 4.265027483984, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -386,11 +396,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.869442221542, 
-      "lon": 4.265069551974, 
+      "lat": 50.869437286075, 
+      "lon": 4.265079507147, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -398,11 +408,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.869143976645, 
-      "lon": 4.265098617999, 
+      "lat": 50.869149560323, 
+      "lon": 4.265110254792, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -410,11 +420,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.868949955681, 
-      "lon": 4.266302723714, 
+      "lat": 50.868934107761, 
+      "lon": 4.266272214991, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -422,11 +432,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.868970284786, 
-      "lon": 4.265388802638, 
+      "lat": 50.868984504519, 
+      "lon": 4.265407523594, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -434,11 +444,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.868881846708, 
-      "lon": 4.266338670473, 
+      "lat": 50.868879412538, 
+      "lon": 4.266330578294, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -446,11 +456,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.86882158587, 
-      "lon": 4.266406137537, 
+      "lat": 50.86881888719, 
+      "lon": 4.266404012471, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -458,11 +468,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.868883127429, 
-      "lon": 4.265537872527, 
+      "lat": 50.868912087847, 
+      "lon": 4.265554288364, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -470,11 +480,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.868752757585, 
-      "lon": 4.266441943544, 
+      "lat": 50.868755810553, 
+      "lon": 4.266437959257, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -482,11 +492,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.868786738508, 
-      "lon": 4.265718783468, 
+      "lat": 50.868793306752, 
+      "lon": 4.265725588054, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -494,11 +504,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.868697282975, 
-      "lon": 4.266534686619, 
+      "lat": 50.868696468393, 
+      "lon": 4.266528295681, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -506,11 +516,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.869938064965, 
-      "lon": 4.267855044768, 
+      "lat": 50.869939673966, 
+      "lon": 4.267844386557, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -518,11 +528,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.868725758373, 
-      "lon": 4.265785684518, 
+      "lat": 50.86873979677, 
+      "lon": 4.26580270117, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -530,11 +540,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.868634122793, 
-      "lon": 4.26657602043, 
+      "lat": 50.86863824602, 
+      "lon": 4.266562231725, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -542,11 +552,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.868638286788, 
-      "lon": 4.265987457756, 
+      "lat": 50.868635308529, 
+      "lon": 4.265973968548, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -554,11 +564,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.868400472646, 
-      "lon": 4.266559904188, 
+      "lat": 50.868399210068, 
+      "lon": 4.266555218967, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -566,11 +576,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.868570995604, 
-      "lon": 4.266033347129, 
+      "lat": 50.868574767096, 
+      "lon": 4.266028650972, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -578,11 +588,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.868398144977, 
-      "lon": 4.266674977052, 
+      "lat": 50.86839338106, 
+      "lon": 4.266675555568, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -590,11 +600,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.868492195808, 
-      "lon": 4.266076846341, 
+      "lat": 50.868509377878, 
+      "lon": 4.266090872926, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -602,23 +612,23 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.868411006544, 
-      "lon": 4.266786749806, 
+      "lat": 50.868399405005, 
+      "lon": 4.266780808332, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
       "hnrlbls": [
-        "68-68"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.86836990298, 
-      "lon": 4.266138765378, 
+      "lat": 50.86835843177, 
+      "lon": 4.266179419117, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -626,11 +636,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.868429356835, 
-      "lon": 4.266904619347, 
+      "lat": 50.868406616835, 
+      "lon": 4.2669085039, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -638,11 +648,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.870105111687, 
-      "lon": 4.267147066639, 
+      "lat": 50.870095485162, 
+      "lon": 4.267137995208, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -650,11 +660,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.868287049007, 
-      "lon": 4.266172044789, 
+      "lat": 50.868288235644, 
+      "lon": 4.26619278279, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -662,11 +672,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.868387790186, 
-      "lon": 4.267072338485, 
+      "lat": 50.868346088679, 
+      "lon": 4.267083508711, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -674,11 +684,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.86821658517, 
-      "lon": 4.266187681969, 
+      "lat": 50.868218127682, 
+      "lon": 4.266204157412, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -686,11 +696,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.86837306317, 
-      "lon": 4.267195109097, 
+      "lat": 50.868375937473, 
+      "lon": 4.267192403806, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -698,11 +708,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.868049912881, 
-      "lon": 4.266178951633, 
+      "lat": 50.868050466309, 
+      "lon": 4.266195145045, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -710,11 +720,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.868403719447, 
-      "lon": 4.267302297884, 
+      "lat": 50.868380797084, 
+      "lon": 4.267303199394, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -722,11 +732,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.867968673123, 
-      "lon": 4.266311383563, 
+      "lat": 50.868000587764, 
+      "lon": 4.266313729434, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -734,11 +744,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.868401480092, 
-      "lon": 4.267416376114, 
+      "lat": 50.868391594622, 
+      "lon": 4.267419806706, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -746,11 +756,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.868029208017, 
-      "lon": 4.266560280042, 
+      "lat": 50.86806741281, 
+      "lon": 4.266559771336, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -758,11 +768,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.869921913122, 
-      "lon": 4.26799458573, 
+      "lat": 50.869915967608, 
+      "lon": 4.267979965837, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -770,11 +780,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.868056898235, 
-      "lon": 4.266667331974, 
+      "lat": 50.868071007989, 
+      "lon": 4.266663039784, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -782,11 +792,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.868064644162, 
-      "lon": 4.266788774889, 
+      "lat": 50.868079459097, 
+      "lon": 4.266768286592, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -794,11 +804,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.868081314988, 
-      "lon": 4.266939746715, 
+      "lat": 50.868093903033, 
+      "lon": 4.26694298696, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -806,11 +816,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.868092028985, 
-      "lon": 4.267063314229, 
+      "lat": 50.868103537071, 
+      "lon": 4.267065136248, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -818,11 +828,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.868085392848, 
-      "lon": 4.267186492874, 
+      "lat": 50.868108387152, 
+      "lon": 4.267164708605, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -830,11 +840,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.870118781317, 
-      "lon": 4.267049155006, 
+      "lat": 50.870106185087, 
+      "lon": 4.267036396307, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -842,11 +852,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.868087952896, 
-      "lon": 4.267341188666, 
+      "lat": 50.868112038402, 
+      "lon": 4.267333892068, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -854,11 +864,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.86809830397, 
-      "lon": 4.26746134767, 
+      "lat": 50.868115734124, 
+      "lon": 4.267450371869, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -866,11 +876,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.868114408047, 
-      "lon": 4.267581352365, 
+      "lat": 50.868125358021, 
+      "lon": 4.267561298738, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -878,11 +888,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.86816468819, 
-      "lon": 4.267720319962, 
+      "lat": 50.86818015053, 
+      "lon": 4.267720855174, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }, 
     {
@@ -890,11 +900,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.868179808865, 
-      "lon": 4.267847003757, 
+      "lat": 50.868185019349, 
+      "lon": 4.267843015008, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelaarstraat"
     }
   ]

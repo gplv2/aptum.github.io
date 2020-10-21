@@ -239,18 +239,6 @@
     }, 
     {
       "hnrlbls": [
-        "128"
-      ], 
-      "housenumber": "128", 
-      "lat": 50.770760839515, 
-      "lon": 5.463860567626, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
@@ -323,18 +311,6 @@
     }, 
     {
       "hnrlbls": [
-        "134"
-      ], 
-      "housenumber": "134", 
-      "lat": 50.770686769042, 
-      "lon": 5.463599812475, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
@@ -386,11 +362,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.770015088312, 
-      "lon": 5.463377471904, 
+      "lat": 50.769928079064, 
+      "lon": 5.463231118519, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -539,11 +515,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.769146362411, 
-      "lon": 5.465801603902, 
+      "lat": 50.769242569168, 
+      "lon": 5.466040611612, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -647,11 +623,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.768039396354, 
-      "lon": 5.467156368089, 
+      "lat": 50.768041012561, 
+      "lon": 5.467099130064, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -659,11 +635,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.768001198242, 
-      "lon": 5.467241248218, 
+      "lat": 50.767874891319, 
+      "lon": 5.467316557303, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -743,11 +719,11 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.766597972856, 
-      "lon": 5.469800282072, 
+      "lat": 50.766877285949, 
+      "lon": 5.470376300643, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -767,8 +743,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.765611101953, 
-      "lon": 5.471018480777, 
+      "lat": 50.76564119846, 
+      "lon": 5.471059021591, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -803,8 +779,8 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 50.764531794413, 
-      "lon": 5.473294126585, 
+      "lat": 50.764458752936, 
+      "lon": 5.473155187488, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -991,8 +967,12 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "27-27B"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 50.774373079633, 
@@ -1025,22 +1005,6 @@
       "housenumber": "277", 
       "lat": 50.76444381051, 
       "lon": 5.47070662483, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "27-27B"
-      ], 
-      "housenumber": "27B", 
-      "lat": 50.774373079633, 
-      "lon": 5.460014211604, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1175,8 +1139,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.773631651595, 
-      "lon": 5.460319299673, 
+      "lat": 50.773637042242, 
+      "lon": 5.460300425104, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1211,11 +1175,11 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 50.757739773382, 
-      "lon": 5.482689063184, 
+      "lat": 50.757639883774, 
+      "lon": 5.48272709516, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -1292,23 +1256,11 @@
     }, 
     {
       "hnrlbls": [
-        "328"
-      ], 
-      "housenumber": "328", 
-      "lat": 50.75639958928, 
-      "lon": 5.483833479327, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.773594727971, 
-      "lon": 5.460268108215, 
+      "lat": 50.773592303663, 
+      "lon": 5.460267768396, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1455,8 +1407,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.77355553988, 
-      "lon": 5.460247632319, 
+      "lat": 50.77355366944, 
+      "lon": 5.460245745682, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1682,8 +1634,12 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "424-424b"
+        "424"
       ], 
       "housenumber": "424", 
       "lat": 50.749544039597, 
@@ -1691,22 +1647,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "424-424b"
-      ], 
-      "housenumber": "424b", 
-      "lat": 50.749544039597, 
-      "lon": 5.49094157136, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -1846,8 +1786,8 @@
         "439"
       ], 
       "housenumber": "439", 
-      "lat": 50.757015279182, 
-      "lon": 5.481926227941, 
+      "lat": 50.757011580788, 
+      "lon": 5.481918061353, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1954,25 +1894,9 @@
     }, 
     {
       "hnrlbls": [
-        "465-465B"
+        "465"
       ], 
       "housenumber": "465", 
-      "lat": 50.755233167076, 
-      "lon": 5.484499064962, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "465-465B"
-      ], 
-      "housenumber": "465B", 
       "lat": 50.755233167076, 
       "lon": 5.484499064962, 
       "municipality": "Tongeren", 
@@ -2281,19 +2205,15 @@
       "street": "Luikersteenweg"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "54"
-      ], 
       "hnrlbls": [
-        "52"
+        "52-54"
       ], 
       "housenumber": "52", 
-      "lat": 50.774131077718, 
-      "lon": 5.460965396213, 
+      "lat": 50.774078041055, 
+      "lon": 5.461031940455, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2310,25 +2230,9 @@
     }, 
     {
       "hnrlbls": [
-        "522-522B"
+        "522"
       ], 
       "housenumber": "522", 
-      "lat": 50.74375195275, 
-      "lon": 5.496964457814, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "522-522B"
-      ], 
-      "housenumber": "522B", 
       "lat": 50.74375195275, 
       "lon": 5.496964457814, 
       "municipality": "Tongeren", 
@@ -2353,8 +2257,8 @@
         "525"
       ], 
       "housenumber": "525", 
-      "lat": 50.751321434869, 
-      "lon": 5.488294769178, 
+      "lat": 50.751304115735, 
+      "lon": 5.488272532098, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2409,8 +2313,12 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "539-539B"
+        "539"
       ], 
       "housenumber": "539", 
       "lat": 50.749949810097, 
@@ -2421,24 +2329,8 @@
       "street": "Luikersteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "539-539B"
-      ], 
-      "housenumber": "539B", 
-      "lat": 50.749949810097, 
-      "lon": 5.489936686186, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54"
+        "52-54"
       ], 
       "housenumber": "54", 
       "lat": 50.774078041055, 
@@ -2877,11 +2769,11 @@
         "653"
       ], 
       "housenumber": "653", 
-      "lat": 50.742809495444, 
-      "lon": 5.496819731077, 
+      "lat": 50.742882361715, 
+      "lon": 5.496890058219, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -2949,8 +2841,8 @@
         "675"
       ], 
       "housenumber": "675", 
-      "lat": 50.740724341654, 
-      "lon": 5.499473649857, 
+      "lat": 50.740664285366, 
+      "lon": 5.499510605633, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

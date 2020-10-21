@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "1-51"
       ], 
@@ -705,14 +714,14 @@
         "0902"
       ], 
       "hnrlbls": [
-        "3"
+        "1-51"
       ], 
       "housenumber": "3", 
-      "lat": 50.887686303772, 
-      "lon": 4.705165900921, 
+      "lat": 50.887679921053, 
+      "lon": 4.705197263342, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Engels Plein"
     }, 
     {

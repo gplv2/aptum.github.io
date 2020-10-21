@@ -85,15 +85,21 @@
       "street": "Meester van der Borghtstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2"
+      ], 
       "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.03076832646, 
-      "lon": 4.657421309293, 
+      "lat": 51.030732780439, 
+      "lon": 4.657546963489, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Meester van der Borghtstraat"
     }, 
     {
@@ -317,8 +323,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.023848456876, 
-      "lon": 4.656351467774, 
+      "lat": 51.023837998622, 
+      "lon": 4.656364088695, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -612,8 +618,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.021739754645, 
-      "lon": 4.655853330952, 
+      "lat": 51.021741392502, 
+      "lon": 4.655918760055, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -761,8 +767,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.02670318606, 
-      "lon": 4.656472242632, 
+      "lat": 51.026723280131, 
+      "lon": 4.656415777896, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -966,6 +972,18 @@
     }, 
     {
       "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 51.025446412883, 
+      "lon": 4.656769244881, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Meester van der Borghtstraat"
+    }, 
+    {
+      "hnrlbls": [
         "172"
       ], 
       "housenumber": "172", 
@@ -1113,8 +1131,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.023168420695, 
-      "lon": 4.655142052034, 
+      "lat": 51.023163672532, 
+      "lon": 4.655135466571, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -1935,11 +1953,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.03353640033, 
-      "lon": 4.658852765568, 
+      "lat": 51.033515418076, 
+      "lon": 4.658613132765, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meester van der Borghtstraat"
     }, 
     {
@@ -1947,11 +1965,11 @@
         "66A"
       ], 
       "housenumber": "66A", 
-      "lat": 51.033349256193, 
-      "lon": 4.658776616391, 
+      "lat": 51.033321814413, 
+      "lon": 4.658531812329, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Meester van der Borghtstraat"
     }, 
     {
@@ -2184,8 +2202,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.031694133031, 
-      "lon": 4.65807009861, 
+      "lat": 51.0316933156, 
+      "lon": 4.658073514878, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 

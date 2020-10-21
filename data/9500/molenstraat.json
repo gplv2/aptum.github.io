@@ -25,10 +25,14 @@
       "street": "Molenstraat"
     }, 
     {
-      "hnrlbls": [
-        "16"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "16", 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
       "lat": 50.771058657125, 
       "lon": 3.881375507885, 
       "municipality": "Geraardsbergen", 
@@ -394,8 +398,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.770510527519, 
-      "lon": 3.882064205245, 
+      "lat": 50.770504250166, 
+      "lon": 3.88206795597, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -454,8 +458,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.770295760584, 
-      "lon": 3.882281197484, 
+      "lat": 50.770296569639, 
+      "lon": 3.882281189137, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -584,8 +588,7 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "69"
@@ -593,18 +596,6 @@
       "housenumber": "69", 
       "lat": 50.770470714837, 
       "lon": 3.88260899957, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "69A"
-      ], 
-      "housenumber": "69A", 
-      "lat": 50.770476581571, 
-      "lon": 3.882657990298, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

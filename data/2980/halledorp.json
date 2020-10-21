@@ -22,8 +22,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.240199037937, 
-      "lon": 4.643032100497, 
+      "lat": 51.240261488672, 
+      "lon": 4.643040058178, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
@@ -285,25 +285,13 @@
       "street": "Halle-Dorp"
     }, 
     {
+      "apptnrs": [
+        "b2"
+      ], 
       "hnrlbls": [
-        "124-124B"
+        "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.240485397281, 
-      "lon": 4.641368874269, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Halle-Dorp"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "124-124B"
-      ], 
-      "housenumber": "124B", 
       "lat": 51.240485397281, 
       "lon": 4.641368874269, 
       "municipality": "Zoersel", 
@@ -475,15 +463,19 @@
       "street": "Halle-Dorp"
     }, 
     {
+      "apptnrs": [
+        "b4", 
+        "b5"
+      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.240603396189, 
-      "lon": 4.640519708228, 
+      "lat": 51.240618445559, 
+      "lon": 4.64069792993, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halle-Dorp"
     }, 
     {
@@ -509,11 +501,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.241190110166, 
-      "lon": 4.639288644817, 
+      "lat": 51.241155777006, 
+      "lon": 4.63928758584, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Halle-Dorp"
     }, 
     {
@@ -740,22 +732,6 @@
       "street": "Halle-Dorp"
     }, 
     {
-      "apptnrs": [
-        "b1", 
-        "b2"
-      ], 
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.240046234255, 
-      "lon": 4.648696900346, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Halle-Dorp"
-    }, 
-    {
       "hnrlbls": [
         "29"
       ], 
@@ -852,37 +828,9 @@
         "b2"
       ], 
       "hnrlbls": [
-        "36-36B"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.239540034558, 
-      "lon": 4.647356734394, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Halle-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "36-36B"
-      ], 
-      "housenumber": "36A", 
-      "lat": 51.239540034558, 
-      "lon": 4.647356734394, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Halle-Dorp"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "36-36B"
-      ], 
-      "housenumber": "36B", 
       "lat": 51.239540034558, 
       "lon": 4.647356734394, 
       "municipality": "Zoersel", 
@@ -1164,11 +1112,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.23984408531, 
-      "lon": 4.64549634474, 
+      "lat": 51.239800751959, 
+      "lon": 4.645462007142, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halle-Dorp"
     }, 
     {
@@ -1223,18 +1171,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Halle-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.239795043232, 
-      "lon": 4.64517487357, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Halle-Dorp"
     }, 
     {
@@ -1695,8 +1631,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.240187493675, 
-      "lon": 4.643126253388, 
+      "lat": 51.240231991841, 
+      "lon": 4.643162457482, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 

@@ -29,7 +29,7 @@
       "lon": 3.28865433317, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Piers de Raveschootlaan"
     }, 
     {
@@ -254,11 +254,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.341530825018, 
-      "lon": 3.288674520979, 
+      "lat": 51.341530080208, 
+      "lon": 3.28868157071, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Piers de Raveschootlaan"
     }, 
     {
@@ -865,9 +865,6 @@
       "apptnrs": [
         "1", 
         "11", 
-        "12"
-      ], 
-      "busnrs": [
         "21"
       ], 
       "hnrlbls": [
@@ -1092,6 +1089,7 @@
     {
       "apptnrs": [
         "1", 
+        "11", 
         "21"
       ], 
       "hnrlbls": [
@@ -1634,7 +1632,14 @@
     }, 
     {
       "apptnrs": [
-        "11"
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "41", 
+        "42"
       ], 
       "hnrlbls": [
         "67-69"

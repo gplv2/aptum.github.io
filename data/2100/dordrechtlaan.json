@@ -195,6 +195,10 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -243,6 +247,10 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -310,6 +318,9 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -358,6 +369,9 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "17-39"
       ], 
@@ -411,11 +425,11 @@
         "B"
       ], 
       "hnrlbls": [
-        "17-39"
+        "25-33"
       ], 
       "housenumber": "25", 
-      "lat": 51.204638161965, 
-      "lon": 4.460518800587, 
+      "lat": 51.204533264441, 
+      "lon": 4.460291663519, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -463,11 +477,11 @@
         "B"
       ], 
       "hnrlbls": [
-        "17-39"
+        "25-33"
       ], 
       "housenumber": "27", 
-      "lat": 51.204638161965, 
-      "lon": 4.460518800587, 
+      "lat": 51.204533264441, 
+      "lon": 4.460291663519, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -515,11 +529,11 @@
         "B"
       ], 
       "hnrlbls": [
-        "17-39"
+        "25-33"
       ], 
       "housenumber": "29", 
-      "lat": 51.204638161965, 
-      "lon": 4.460518800587, 
+      "lat": 51.204533264441, 
+      "lon": 4.460291663519, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -583,11 +597,11 @@
         "B"
       ], 
       "hnrlbls": [
-        "17-39"
+        "25-33"
       ], 
       "housenumber": "31", 
-      "lat": 51.204638161965, 
-      "lon": 4.460518800587, 
+      "lat": 51.204533264441, 
+      "lon": 4.460291663519, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -635,11 +649,11 @@
         "B"
       ], 
       "hnrlbls": [
-        "17-39"
+        "25-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.204638161965, 
-      "lon": 4.460518800587, 
+      "lat": 51.204533264441, 
+      "lon": 4.460291663519, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1148,6 +1162,20 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "0W", 
+        "0X", 
+        "0Y", 
+        "0Z", 
+        "1W", 
+        "1X", 
+        "1Y", 
+        "1Z", 
+        "2W", 
+        "2X", 
+        "2Y", 
+        "2Z"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1176,6 +1204,36 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "0C", 
+        "0D", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "4D", 
+        "5A", 
+        "5B", 
+        "5C", 
+        "5D", 
+        "6A", 
+        "6B", 
+        "6C", 
+        "6D"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1205,8 +1263,32 @@
     }, 
     {
       "busnrs": [
-        "5", 
-        "C"
+        "0A", 
+        "0B", 
+        "0C", 
+        "0D", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "4D", 
+        "5A", 
+        "5B", 
+        "5C", 
+        "5D", 
+        "6A", 
+        "6D"
       ], 
       "hnrlbls": [
         "56"
@@ -1217,57 +1299,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56A-56D"
-      ], 
-      "housenumber": "56A", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "56A-56D"
-      ], 
-      "housenumber": "56B", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56A-56D"
-      ], 
-      "housenumber": "56C", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dordrechtlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "56A-56D"
-      ], 
-      "housenumber": "56D", 
-      "lat": 51.205831218765, 
-      "lon": 4.459800867268, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dordrechtlaan"
     }, 
     {
@@ -1287,6 +1318,20 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "busnrs": [
+        "0W", 
+        "0X", 
+        "0Y", 
+        "0Z", 
+        "1W", 
+        "1X", 
+        "1Y", 
+        "1Z", 
+        "2W", 
+        "2X", 
+        "2Y", 
+        "2Z"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1332,6 +1377,32 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "4A", 
+        "4B", 
+        "4C", 
+        "4D", 
+        "5A", 
+        "5B", 
+        "5C", 
+        "5D", 
+        "6A", 
+        "6B", 
+        "6C", 
+        "6D"
+      ], 
       "hnrlbls": [
         "60"
       ], 

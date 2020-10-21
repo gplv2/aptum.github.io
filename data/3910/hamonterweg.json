@@ -499,7 +499,7 @@
       "lon": 5.448320578253, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -916,14 +916,14 @@
     }, 
     {
       "hnrlbls": [
-        "45-47"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.23727579234, 
-      "lon": 5.458588855599, 
+      "lat": 51.237218986428, 
+      "lon": 5.45843215627, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -940,14 +940,26 @@
     }, 
     {
       "hnrlbls": [
-        "45-47"
+        "47A"
       ], 
-      "housenumber": "47", 
-      "lat": 51.23727579234, 
-      "lon": 5.458588855599, 
+      "housenumber": "47A", 
+      "lat": 51.237266245969, 
+      "lon": 5.45871751087, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "47B"
+      ], 
+      "housenumber": "47B", 
+      "lat": 51.237282036936, 
+      "lon": 5.458818262562, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1355,11 +1367,11 @@
         "75A"
       ], 
       "housenumber": "75A", 
-      "lat": 51.238135656377, 
-      "lon": 5.462788445563, 
+      "lat": 51.238083817344, 
+      "lon": 5.462862981337, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1367,11 +1379,11 @@
         "75B"
       ], 
       "housenumber": "75B", 
-      "lat": 51.238156412432, 
-      "lon": 5.462925403966, 
+      "lat": 51.238099427428, 
+      "lon": 5.462973183312, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hamonterweg"
     }, 
     {
@@ -1384,6 +1396,22 @@
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hamonterweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 51.238131048947, 
+      "lon": 5.463150206935, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hamonterweg"
     }, 
     {

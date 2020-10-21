@@ -1,6 +1,28 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "01.03", 
+        "01.04", 
+        "02.01", 
+        "02.02"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.085815370387, 
+      "lon": 4.454020060017, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lage Vosbergstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -375,8 +397,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.086324550444, 
-      "lon": 4.459099722601, 
+      "lat": 51.086323830015, 
+      "lon": 4.459101433851, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1026,11 +1048,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.088413512941, 
-      "lon": 4.468242624146, 
+      "lat": 51.088148296258, 
+      "lon": 4.468296720248, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lage Vosbergstraat"
     }
   ]

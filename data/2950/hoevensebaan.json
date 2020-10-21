@@ -1806,9 +1806,9 @@
     }, 
     {
       "apptnrs": [
-        "0001 - glv", 
-        "0002 - 3de", 
-        "0003 - 2de"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "220"
@@ -2308,9 +2308,9 @@
     }, 
     {
       "apptnrs": [
-        "0001-inkom", 
-        "0002-inkom", 
-        "0003-inkom"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "259"
@@ -2632,7 +2632,7 @@
       "lon": 4.428982244861, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoevensebaan"
     }, 
     {
@@ -2959,7 +2959,7 @@
       "lon": 4.428925409619, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoevensebaan"
     }, 
     {
@@ -3356,6 +3356,11 @@
       "street": "Hoevensebaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -3372,11 +3377,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.314476973925, 
-      "lon": 4.428792950933, 
+      "lat": 51.314484969017, 
+      "lon": 4.428801279769, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Hoevensebaan"
     }, 
     {

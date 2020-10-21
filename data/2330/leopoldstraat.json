@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "1"
+        "1-9"
       ], 
       "housenumber": "1", 
-      "lat": 51.35790360551, 
-      "lon": 4.86394295444, 
+      "lat": 51.358077689462, 
+      "lon": 4.863882076409, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -268,22 +273,6 @@
       "street": "Leopoldstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.356538583422, 
-      "lon": 4.86478110249, 
-      "municipality": "Merksplas", 
-      "pcode": "2330", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
       "hnrlbls": [
         "28"
       ], 
@@ -293,22 +282,6 @@
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.356401539843, 
-      "lon": 4.864861032871, 
-      "municipality": "Merksplas", 
-      "pcode": "2330", 
-      "source": "afgeleidVanGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -341,38 +314,11 @@
     }, 
     {
       "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.356317802519, 
-      "lon": 4.864917846293, 
-      "municipality": "Merksplas", 
-      "pcode": "2330", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 51.356415877473, 
       "lon": 4.864420621277, 
-      "municipality": "Merksplas", 
-      "pcode": "2330", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.356245459811, 
-      "lon": 4.865043830151, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -391,12 +337,22 @@
       "street": "Leopoldstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.356196494027, 
-      "lon": 4.86506067655, 
+      "lat": 51.356399642479, 
+      "lon": 4.864884842421, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -427,12 +383,21 @@
       "street": "Leopoldstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.356080228779, 
-      "lon": 4.865093886126, 
+      "lat": 51.356214022531, 
+      "lon": 4.865017367505, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -445,6 +410,27 @@
       "housenumber": "38", 
       "lat": 51.356118875682, 
       "lon": 4.864536455081, 
+      "municipality": "Merksplas", 
+      "pcode": "2330", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leopoldstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 51.35611178253, 
+      "lon": 4.865071111561, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -472,8 +458,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.355971660248, 
-      "lon": 4.864641541939, 
+      "lat": 51.35597228638, 
+      "lon": 4.864642266386, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 

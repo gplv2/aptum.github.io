@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -122,8 +126,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.202228602276, 
-      "lon": 4.47513621133, 
+      "lat": 51.202230415518, 
+      "lon": 4.475119046413, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -367,34 +371,33 @@
       "street": "Vleerakkerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "34-34A"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.201711061936, 
-      "lon": 4.474920698393, 
+      "lat": 51.201659162419, 
+      "lon": 4.475059933485, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleerakkerstraat"
     }, 
     {
       "hnrlbls": [
-        "34-34A"
+        "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.201711061936, 
-      "lon": 4.474920698393, 
+      "lat": 51.201734076044, 
+      "lon": 4.475016038489, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleerakkerstraat"
     }, 
     {

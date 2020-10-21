@@ -80,14 +80,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "14"
+        "14-16A"
       ], 
       "housenumber": "14", 
-      "lat": 51.242454442988, 
-      "lon": 4.895946657681, 
+      "lat": 51.24239306375, 
+      "lon": 4.89584314312, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tielendorp"
     }, 
     {
@@ -109,14 +109,14 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "14-16A"
       ], 
       "housenumber": "16", 
-      "lat": 51.242366823039, 
-      "lon": 4.895902274925, 
+      "lat": 51.24239306375, 
+      "lon": 4.89584314312, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tielendorp"
     }, 
     {
@@ -128,14 +128,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "16A"
+        "14-16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.242312340548, 
-      "lon": 4.895844520204, 
+      "lat": 51.24239306375, 
+      "lon": 4.89584314312, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tielendorp"
     }, 
     {
@@ -242,6 +242,11 @@
       "street": "Tielendorp"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -267,6 +272,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -463,14 +469,14 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.241280419986, 
-      "lon": 4.898765693509, 
+      "lat": 51.241235928015, 
+      "lon": 4.898625138359, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tielendorp"
     }, 
     {
@@ -499,19 +505,19 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.241280419986, 
-      "lon": 4.898765693509, 
+      "lat": 51.241281339995, 
+      "lon": 4.898760978417, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tielendorp"
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
       "lat": 51.241134539982, 
@@ -522,15 +528,18 @@
       "street": "Tielendorp"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "42A"
+        "42-42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.241159239293, 
-      "lon": 4.898408321761, 
+      "lat": 51.241134539982, 
+      "lon": 4.898303792133, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tielendorp"
     }, 
     {

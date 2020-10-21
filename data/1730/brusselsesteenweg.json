@@ -234,15 +234,27 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.90274778769, 
-      "lon": 4.2142880634, 
+      "lat": 50.90274552881, 
+      "lon": 4.214279256683, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -398,14 +410,14 @@
     }, 
     {
       "hnrlbls": [
-        "131"
+        "131-133"
       ], 
       "housenumber": "131", 
-      "lat": 50.90103541686, 
-      "lon": 4.217773414251, 
+      "lat": 50.90115190515, 
+      "lon": 4.21790283193, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -422,14 +434,14 @@
     }, 
     {
       "hnrlbls": [
-        "133"
+        "131-133"
       ], 
       "housenumber": "133", 
-      "lat": 50.901026809823, 
-      "lon": 4.217791211543, 
+      "lat": 50.90115190515, 
+      "lon": 4.21790283193, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -596,6 +608,36 @@
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "150"
+      ], 
+      "housenumber": "150", 
+      "lat": 50.902114195727, 
+      "lon": 4.214478928632, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "150A"
+      ], 
+      "housenumber": "150A", 
+      "lat": 50.902114190521, 
+      "lon": 4.214474948135, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1387,6 +1429,42 @@
     }, 
     {
       "hnrlbls": [
+        "221A"
+      ], 
+      "housenumber": "221A", 
+      "lat": 50.898601343005, 
+      "lon": 4.227786615085, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "221B"
+      ], 
+      "housenumber": "221B", 
+      "lat": 50.898586722171, 
+      "lon": 4.227888580679, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "221C"
+      ], 
+      "housenumber": "221C", 
+      "lat": 50.898565973728, 
+      "lon": 4.227978197399, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "222"
       ], 
       "housenumber": "222", 
@@ -2069,6 +2147,18 @@
     }, 
     {
       "hnrlbls": [
+        "29-31"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.904846618694, 
+      "lon": 4.210482845915, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "290"
       ], 
       "housenumber": "290", 
@@ -2225,6 +2315,18 @@
     }, 
     {
       "hnrlbls": [
+        "302A"
+      ], 
+      "housenumber": "302A", 
+      "lat": 50.898082883984, 
+      "lon": 4.228809788658, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "303"
       ], 
       "housenumber": "303", 
@@ -2245,6 +2347,18 @@
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "304A"
+      ], 
+      "housenumber": "304A", 
+      "lat": 50.898046281269, 
+      "lon": 4.228948065907, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2290,6 +2404,22 @@
       "housenumber": "308", 
       "lat": 50.897982056119, 
       "lon": 4.229369442704, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "29-31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.904846618694, 
+      "lon": 4.210482845915, 
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 
@@ -2735,8 +2865,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "1.0"
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "37-39"
@@ -2778,8 +2910,8 @@
         "374"
       ], 
       "housenumber": "374", 
-      "lat": 50.895896153167, 
-      "lon": 4.236875602219, 
+      "lat": 50.896055979889, 
+      "lon": 4.237354887713, 
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 
@@ -2787,7 +2919,43 @@
     }, 
     {
       "hnrlbls": [
-        "378"
+        "376A"
+      ], 
+      "housenumber": "376A", 
+      "lat": 50.895936589758, 
+      "lon": 4.23694201192, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376B"
+      ], 
+      "housenumber": "376B", 
+      "lat": 50.895895793751, 
+      "lon": 4.236875745365, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376C"
+      ], 
+      "housenumber": "376C", 
+      "lat": 50.895854817601, 
+      "lon": 4.236809195144, 
+      "municipality": "Asse", 
+      "pcode": "1730", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "378-378E"
       ], 
       "housenumber": "378", 
       "lat": 50.895706571034, 
@@ -2799,62 +2967,62 @@
     }, 
     {
       "hnrlbls": [
-        "378A-378E"
+        "378-378E"
       ], 
       "housenumber": "378A", 
-      "lat": 50.895147965652, 
-      "lon": 4.236634775015, 
+      "lat": 50.895706571034, 
+      "lon": 4.236638328688, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "378A-378E"
+        "378-378E"
       ], 
       "housenumber": "378B", 
-      "lat": 50.895147965652, 
-      "lon": 4.236634775015, 
+      "lat": 50.895706571034, 
+      "lon": 4.236638328688, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "378A-378E"
+        "378-378E"
       ], 
       "housenumber": "378C", 
-      "lat": 50.895147965652, 
-      "lon": 4.236634775015, 
+      "lat": 50.895706571034, 
+      "lon": 4.236638328688, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "378A-378E"
+        "378-378E"
       ], 
       "housenumber": "378D", 
-      "lat": 50.895147965652, 
-      "lon": 4.236634775015, 
+      "lat": 50.895706571034, 
+      "lon": 4.236638328688, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "378A-378E"
+        "378-378E"
       ], 
       "housenumber": "378E", 
-      "lat": 50.895147965652, 
-      "lon": 4.236634775015, 
+      "lat": 50.895706571034, 
+      "lon": 4.236638328688, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2930,10 +3098,6 @@
       "street": "Brusselsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "37-39"
       ], 

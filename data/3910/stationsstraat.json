@@ -170,6 +170,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -410,10 +411,6 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -423,6 +420,31 @@
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.226462528538, 
+      "lon": 5.43576781046, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -438,6 +460,28 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.226380371465, 
+      "lon": 5.435508376078, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "hnrlbls": [
         "37"
       ], 
@@ -450,15 +494,32 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.226221783551, 
-      "lon": 5.435908467135, 
+      "lat": 51.226139411071, 
+      "lon": 5.435991476403, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -776,11 +837,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.223951968859, 
-      "lon": 5.437312814043, 
+      "lat": 51.223887542241, 
+      "lon": 5.437339681491, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -798,11 +859,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.223888603219, 
-      "lon": 5.436824627682, 
+      "lat": 51.223788205458, 
+      "lon": 5.436882881347, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -818,15 +879,12 @@
         "8", 
         "9"
       ], 
-      "busnrs": [
-        "bs10"
-      ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.223541289476, 
-      "lon": 5.437188870765, 
+      "lat": 51.223540827003, 
+      "lon": 5.436882077442, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "manueleAanduidingVanPerceel", 
@@ -869,8 +927,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.223476926809, 
-      "lon": 5.436741322198, 
+      "lat": 51.223503141299, 
+      "lon": 5.43719257694, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "manueleAanduidingVanPerceel", 
@@ -881,8 +939,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.223112013158, 
-      "lon": 5.436755432908, 
+      "lat": 51.222925638057, 
+      "lon": 5.436459985912, 
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
@@ -1071,6 +1129,12 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "90A"
       ], 

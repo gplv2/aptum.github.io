@@ -18,17 +18,37 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "102"
+        "100-102"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.189386516532, 
+      "lon": 3.210006400865, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "100-102"
       ], 
       "housenumber": "102", 
-      "lat": 51.189394244767, 
-      "lon": 3.209978599705, 
+      "lat": 51.189386516532, 
+      "lon": 3.210006400865, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -39,8 +59,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.189085878322, 
-      "lon": 3.209636919237, 
+      "lat": 51.189083083813, 
+      "lon": 3.209636130305, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -934,125 +954,6 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "38C-38D"
-      ], 
-      "housenumber": "38C", 
-      "lat": 51.194901841735, 
-      "lon": 3.213399894851, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "38C-38D"
-      ], 
-      "housenumber": "38D", 
-      "lat": 51.194901841735, 
-      "lon": 3.213399894851, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "40A-40B"
-      ], 
-      "housenumber": "40A", 
-      "lat": 51.19476210289, 
-      "lon": 3.213349702305, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "40A-40B"
-      ], 
-      "housenumber": "40B", 
-      "lat": 51.19476210289, 
-      "lon": 3.213349702305, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
-      "apptnrs": [
-        "E1", 
-        "E101", 
-        "E201", 
-        "E301", 
-        "E401", 
-        "E501", 
-        "E6", 
-        "E601", 
-        "E701", 
-        "E801"
-      ], 
-      "busnrs": [
-        "1", 
-        "10", 
-        "22", 
-        "4", 
-        "40", 
-        "44"
-      ], 
-      "hnrlbls": [
-        "44-44F"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.194474063327, 
-      "lon": 3.213247097881, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
         "101", 
         "201", 
         "301", 
@@ -1103,7 +1004,6 @@
         "201", 
         "301", 
         "401", 
-        "5", 
         "501", 
         "601", 
         "701", 
@@ -1126,7 +1026,6 @@
         "101", 
         "201", 
         "301", 
-        "4", 
         "401", 
         "501", 
         "601", 
@@ -1153,12 +1052,11 @@
         "401", 
         "501", 
         "601", 
-        "7", 
         "701", 
         "801"
       ], 
       "hnrlbls": [
-        "44-44F"
+        "44E-44F"
       ], 
       "housenumber": "44F", 
       "lat": 51.194474063327, 
@@ -1289,8 +1187,8 @@
         "66A-66B"
       ], 
       "housenumber": "66A", 
-      "lat": 51.19258038562, 
-      "lon": 3.212132155593, 
+      "lat": 51.192583507851, 
+      "lon": 3.212157257371, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1301,8 +1199,8 @@
         "66A-66B"
       ], 
       "housenumber": "66B", 
-      "lat": 51.19258038562, 
-      "lon": 3.212132155593, 
+      "lat": 51.192583507851, 
+      "lon": 3.212157257371, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1315,6 +1213,49 @@
       "housenumber": "67", 
       "lat": 51.193028614759, 
       "lon": 3.213319072916, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "68A-68C"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.192455578284, 
+      "lon": 3.212027807704, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "hnrlbls": [
+        "68A-68C"
+      ], 
+      "housenumber": "68B", 
+      "lat": 51.192455578284, 
+      "lon": 3.212027807704, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "hnrlbls": [
+        "68A-68C"
+      ], 
+      "housenumber": "68C", 
+      "lat": 51.192455578284, 
+      "lon": 3.212027807704, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -1491,25 +1432,6 @@
       "street": "Koning Albert I-laan"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301"
-      ], 
-      "hnrlbls": [
-        "94B"
-      ], 
-      "housenumber": "94B", 
-      "lat": 51.18983177142, 
-      "lon": 3.210538528615, 
-      "municipality": "Brugge", 
-      "pcode": "8200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Koning Albert I-laan"
-    }, 
-    {
       "hnrlbls": [
         "95"
       ], 
@@ -1519,6 +1441,83 @@
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "96A"
+      ], 
+      "housenumber": "96A", 
+      "lat": 51.18968348548, 
+      "lon": 3.209836519934, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "96B"
+      ], 
+      "housenumber": "96B", 
+      "lat": 51.189904149903, 
+      "lon": 3.209750931115, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "96C"
+      ], 
+      "housenumber": "96C", 
+      "lat": 51.189924560136, 
+      "lon": 3.209522108292, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Koning Albert I-laan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "96D"
+      ], 
+      "housenumber": "96D", 
+      "lat": 51.189935598978, 
+      "lon": 3.209309397142, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Albert I-laan"
     }, 
     {

@@ -17,8 +17,8 @@
         "1-3"
       ], 
       "housenumber": "1", 
-      "lat": 51.164789095357, 
-      "lon": 3.016314687471, 
+      "lat": 51.164790374821, 
+      "lon": 3.016316509219, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.168451718224, 
-      "lon": 3.030032704285, 
+      "lat": 51.168453505928, 
+      "lon": 3.030031795067, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -144,11 +144,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.16702421117, 
-      "lon": 3.028274226707, 
+      "lat": 51.167280088107, 
+      "lon": 3.028141335588, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -201,26 +201,26 @@
     }, 
     {
       "hnrlbls": [
-        "113A-113B"
+        "113A"
       ], 
       "housenumber": "113A", 
-      "lat": 51.169079643841, 
-      "lon": 3.030958913972, 
+      "lat": 51.168928736303, 
+      "lon": 3.03100170303, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brugsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "113A-113B"
+        "113B"
       ], 
       "housenumber": "113B", 
-      "lat": 51.169079643841, 
-      "lon": 3.030958913972, 
+      "lat": 51.168934564403, 
+      "lon": 3.031095627885, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -252,8 +252,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.168930218265, 
-      "lon": 3.031402623167, 
+      "lat": 51.168933612333, 
+      "lon": 3.031400667015, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -716,6 +716,18 @@
     }, 
     {
       "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 51.170275465412, 
+      "lon": 3.03747508824, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "167"
       ], 
       "housenumber": "167", 
@@ -767,8 +779,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.170244021783, 
-      "lon": 3.038442810559, 
+      "lat": 51.170245024852, 
+      "lon": 3.038444068989, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -839,8 +851,8 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.171872697288, 
-      "lon": 3.041620897783, 
+      "lat": 51.171917205794, 
+      "lon": 3.041581593415, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1271,11 +1283,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "239"
+        "239-241"
       ], 
       "housenumber": "239", 
-      "lat": 51.171345153018, 
-      "lon": 3.047757301358, 
+      "lat": 51.17134533276, 
+      "lon": 3.047757296273, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1322,8 +1334,8 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.171137447177, 
-      "lon": 3.050458636452, 
+      "lat": 51.171140671384, 
+      "lon": 3.050457544414, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1338,14 +1350,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "241"
+        "239-241"
       ], 
       "housenumber": "241", 
-      "lat": 51.171329678464, 
-      "lon": 3.047941212489, 
+      "lat": 51.17134533276, 
+      "lon": 3.047757296273, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1661,8 +1673,8 @@
         "1-3"
       ], 
       "housenumber": "3", 
-      "lat": 51.164789095357, 
-      "lon": 3.016314687471, 
+      "lat": 51.164790374821, 
+      "lon": 3.016316509219, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1745,8 +1757,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.165020950021, 
-      "lon": 3.018657076473, 
+      "lat": 51.165020479432, 
+      "lon": 3.01865523127, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1774,6 +1786,42 @@
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "38A-38C"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.164852285976, 
+      "lon": 3.019073175782, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "38A-38C"
+      ], 
+      "housenumber": "38B", 
+      "lat": 51.164852285976, 
+      "lon": 3.019073175782, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "38A-38C"
+      ], 
+      "housenumber": "38C", 
+      "lat": 51.164852285976, 
+      "lon": 3.019073175782, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1929,8 +1977,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.166499465266, 
-      "lon": 3.022336925334, 
+      "lat": 51.16648581302, 
+      "lon": 3.02233803387, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -2013,8 +2061,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.166745711048, 
-      "lon": 3.02348990594, 
+      "lat": 51.166743389404, 
+      "lon": 3.023483395265, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -2241,8 +2289,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.166257707588, 
-      "lon": 3.024001134545, 
+      "lat": 51.166257277756, 
+      "lon": 3.024002862786, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -2277,8 +2325,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.167625385093, 
-      "lon": 3.027562169312, 
+      "lat": 51.167642575431, 
+      "lon": 3.02755595592, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2289,8 +2337,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.166472008574, 
-      "lon": 3.024694467881, 
+      "lat": 51.166478659031, 
+      "lon": 3.024694276486, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 

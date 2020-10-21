@@ -21,19 +21,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102"
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.933099240829, 
-      "lon": 4.373334424561, 
+      "lat": 50.933092947676, 
+      "lon": 4.373348933843, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vilvoordsesteenweg"
     }, 
     {
@@ -2360,7 +2360,7 @@
         "B002"
       ], 
       "hnrlbls": [
-        "400"
+        "400-402"
       ], 
       "housenumber": "400", 
       "lat": 50.925319437516, 
@@ -2372,40 +2372,23 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201"
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
-        "402"
+        "400-402"
       ], 
       "housenumber": "402", 
-      "lat": 50.925268988091, 
-      "lon": 4.396286085364, 
+      "lat": 50.925319437516, 
+      "lon": 4.39620518613, 
       "municipality": "Grimbergen", 
       "pcode": "1850", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Vilvoordsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "402B-404"
-      ], 
-      "housenumber": "402B", 
-      "lat": 50.925354821809, 
-      "lon": 4.396345020763, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vilvoordsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "402B-404"
+        "404"
       ], 
       "housenumber": "404", 
       "lat": 50.925354821809, 
@@ -2986,10 +2969,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "69"
@@ -3000,21 +2983,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vilvoordsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "69B"
-      ], 
-      "housenumber": "69B", 
-      "lat": 50.93100017973, 
-      "lon": 4.378346170554, 
-      "municipality": "Grimbergen", 
-      "pcode": "1850", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vilvoordsesteenweg"
     }, 
     {
@@ -3224,6 +3192,18 @@
       "municipality": "Grimbergen", 
       "pcode": "1850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vilvoordsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.933093583645, 
+      "lon": 4.373197432558, 
+      "municipality": "Grimbergen", 
+      "pcode": "1850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vilvoordsesteenweg"
     }, 
     {

@@ -413,7 +413,7 @@
         "0001"
       ], 
       "hnrlbls": [
-        "13"
+        "2-13"
       ], 
       "housenumber": "13", 
       "lat": 50.79042075444, 
@@ -700,25 +700,25 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.790255559876, 
-      "lon": 3.509979355104, 
+      "lat": 50.790190135974, 
+      "lon": 3.509823255875, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
       "apptnrs": [
-        "A", 
-        "B"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "22"
@@ -773,7 +773,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "26"
@@ -832,8 +833,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.789762606947, 
-      "lon": 3.509792899608, 
+      "lat": 50.789762614221, 
+      "lon": 3.509793892293, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
       "source": "afgeleidVanGebouw", 
@@ -1220,11 +1221,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.787448184747, 
-      "lon": 3.512241858394, 
+      "lat": 50.787768437726, 
+      "lon": 3.511937067965, 
       "municipality": "Kluisbergen", 
       "pcode": "9690", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsstraat"
     }, 
     {

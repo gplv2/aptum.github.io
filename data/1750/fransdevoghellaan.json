@@ -148,12 +148,32 @@
       "street": "Frans Devoghellaan"
     }, 
     {
+      "apptnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4", 
+        "bus 5", 
+        "bus 6"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.808283327084, 
-      "lon": 4.153775214731, 
+      "lat": 50.80810098516, 
+      "lon": 4.153757743064, 
+      "municipality": "Lennik", 
+      "pcode": "1750", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Frans Devoghellaan"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.808288706815, 
+      "lon": 4.153767528815, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -263,8 +283,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.809329386707, 
-      "lon": 4.154823775708, 
+      "lat": 50.809329480217, 
+      "lon": 4.154825761621, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanPerceelGrb", 
@@ -356,6 +376,18 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.810025115455, 
+      "lon": 4.154884469668, 
+      "municipality": "Lennik", 
+      "pcode": "1750", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans Devoghellaan"
+    }, 
+    {
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -407,8 +439,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.810780196329, 
-      "lon": 4.154758884629, 
+      "lat": 50.810784965962, 
+      "lon": 4.154761700713, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanGebouw", 

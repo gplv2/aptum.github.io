@@ -74,11 +74,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.20157450532, 
-      "lon": 3.323490398778, 
+      "lat": 51.201767209026, 
+      "lon": 3.323466909501, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -290,11 +290,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.200971663919, 
-      "lon": 3.32347842943, 
+      "lat": 51.201202308615, 
+      "lon": 3.323506460403, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -314,15 +314,15 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.201260302848, 
-      "lon": 3.323162182846, 
+      "lat": 51.20128953965, 
+      "lon": 3.323398479662, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -331,11 +331,11 @@
         "118A"
       ], 
       "housenumber": "118A", 
-      "lat": 51.201268298914, 
-      "lon": 3.323365043812, 
+      "lat": 51.201312884248, 
+      "lon": 3.323283487337, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -343,11 +343,11 @@
         "118B"
       ], 
       "housenumber": "118B", 
-      "lat": 51.201279965727, 
-      "lon": 3.323281506011, 
+      "lat": 51.201260302848, 
+      "lon": 3.323162182846, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1994,11 +1994,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.201357827621, 
-      "lon": 3.326695104892, 
+      "lat": 51.20132572359, 
+      "lon": 3.326714136738, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -2013,11 +2013,11 @@
         "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 51.201359723835, 
-      "lon": 3.326696064167, 
+      "lat": 51.201258182746, 
+      "lon": 3.326608615786, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -2046,8 +2046,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.201376129247, 
-      "lon": 3.32655833441, 
+      "lat": 51.201322732623, 
+      "lon": 3.326568541131, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -2077,8 +2077,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.201356813141, 
-      "lon": 3.326426982646, 
+      "lat": 51.201331587266, 
+      "lon": 3.326461457549, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -2398,7 +2398,8 @@
     }, 
     {
       "apptnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "89A"

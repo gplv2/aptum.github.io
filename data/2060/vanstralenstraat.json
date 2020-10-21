@@ -44,8 +44,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.222341227841, 
-      "lon": 4.419813883404, 
+      "lat": 51.222343028022, 
+      "lon": 4.419808159911, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -390,7 +390,9 @@
         "401", 
         "402", 
         "501", 
-        "601"
+        "502", 
+        "601", 
+        "701"
       ], 
       "hnrlbls": [
         "23"
@@ -536,6 +538,13 @@
       "street": "Van Stralenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -754,8 +763,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.220717739384, 
-      "lon": 4.419208349486, 
+      "lat": 51.220712871224, 
+      "lon": 4.419241693961, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -816,24 +825,6 @@
       "street": "Van Stralenstraat"
     }, 
     {
-      "busnrs": [
-        "203", 
-        "5", 
-        "501", 
-        "51"
-      ], 
-      "hnrlbls": [
-        "49-53"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.222686046148, 
-      "lon": 4.419346347, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Stralenstraat"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 
@@ -856,24 +847,46 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.22087167701, 
-      "lon": 4.419285666899, 
+      "lat": 51.220877535515, 
+      "lon": 4.41924860195, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Van Stralenstraat"
     }, 
     {
-      "busnrs": [
-        "16", 
-        "19", 
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "201", 
+        "202", 
         "203", 
-        "3", 
+        "204", 
+        "205", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "405", 
+        "501", 
+        "502", 
+        "503", 
         "504", 
-        "8"
+        "505", 
+        "601", 
+        "602", 
+        "603"
       ], 
       "hnrlbls": [
-        "49-53"
+        "51-53"
       ], 
       "housenumber": "51", 
       "lat": 51.222686046148, 
@@ -902,7 +915,7 @@
     }, 
     {
       "hnrlbls": [
-        "49-53"
+        "51-53"
       ], 
       "housenumber": "53", 
       "lat": 51.222686046148, 
@@ -1124,6 +1137,11 @@
       "street": "Van Stralenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1307,8 +1325,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.221933998853, 
-      "lon": 4.419734563448, 
+      "lat": 51.221935083526, 
+      "lon": 4.419720680457, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1356,8 +1374,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.222036292187, 
-      "lon": 4.419721937685, 
+      "lat": 51.22203935774, 
+      "lon": 4.41970018436, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

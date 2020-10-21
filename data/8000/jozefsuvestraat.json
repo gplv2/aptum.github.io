@@ -2,17 +2,19 @@
   "addresses": [
     {
       "busnrs": [
-        "2"
+        "1", 
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
-        "1"
+        "1-12"
       ], 
       "housenumber": "1", 
-      "lat": 51.207506299814, 
-      "lon": 3.228688554714, 
+      "lat": 51.207539565297, 
+      "lon": 3.228754287565, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jozef Suv\u00e9estraat"
     }, 
     {
@@ -40,6 +42,12 @@
       "street": "Jozef Suv\u00e9estraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "12"
       ], 

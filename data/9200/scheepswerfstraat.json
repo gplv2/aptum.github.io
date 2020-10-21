@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.036304413582, 
-      "lon": 4.166450813154, 
+      "lat": 51.036213189938, 
+      "lon": 4.166249613923, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -53,11 +53,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.036023612336, 
-      "lon": 4.165360378602, 
+      "lat": 51.036061221021, 
+      "lon": 4.165380460451, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -82,11 +82,11 @@
         "15-15A"
       ], 
       "housenumber": "15", 
-      "lat": 51.035939074717, 
-      "lon": 4.165284470838, 
+      "lat": 51.036062048349, 
+      "lon": 4.165234467031, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -94,11 +94,11 @@
         "15-15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.035939074717, 
-      "lon": 4.165284470838, 
+      "lat": 51.036062048349, 
+      "lon": 4.165234467031, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -134,8 +134,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.036273083198, 
-      "lon": 4.165322943401, 
+      "lat": 51.036273801824, 
+      "lon": 4.165322655151, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -161,14 +161,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.036304413582, 
-      "lon": 4.166450813154, 
+      "lat": 51.036093173263, 
+      "lon": 4.166084609496, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -325,6 +325,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.036274115799, 
+      "lon": 4.163787757532, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Scheepswerfstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -349,14 +361,14 @@
     }, 
     {
       "hnrlbls": [
-        "26-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.036301539553, 
-      "lon": 4.163636514797, 
+      "lat": 51.03638457226, 
+      "lon": 4.16362161017, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Scheepswerfstraat"
     }, 
     {
@@ -513,42 +525,6 @@
       "housenumber": "41", 
       "lat": 51.03655930456, 
       "lon": 4.163199553588, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Scheepswerfstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-42B"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.036454901822, 
-      "lon": 4.164108605278, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Scheepswerfstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42A"
-      ], 
-      "housenumber": "42A", 
-      "lat": 51.036394248742, 
-      "lon": 4.163914262527, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Scheepswerfstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42-42B"
-      ], 
-      "housenumber": "42B", 
-      "lat": 51.036454901822, 
-      "lon": 4.164108605278, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -829,8 +805,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.037284886666, 
-      "lon": 4.162831394279, 
+      "lat": 51.037280023438, 
+      "lon": 4.162826140438, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -853,11 +829,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.037265137381, 
-      "lon": 4.162537355069, 
+      "lat": 51.037354812755, 
+      "lon": 4.162671834638, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Scheepswerfstraat"
     }, 
     {

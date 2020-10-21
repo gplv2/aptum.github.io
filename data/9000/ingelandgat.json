@@ -158,11 +158,11 @@
         "21-25"
       ], 
       "housenumber": "21", 
-      "lat": 51.053108063006, 
-      "lon": 3.718110256678, 
+      "lat": 51.053098974703, 
+      "lon": 3.71814118991, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ingelandgat"
     }, 
     {
@@ -170,11 +170,11 @@
         "21-25"
       ], 
       "housenumber": "23", 
-      "lat": 51.053108063006, 
-      "lon": 3.718110256678, 
+      "lat": 51.053098974703, 
+      "lon": 3.71814118991, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ingelandgat"
     }, 
     {
@@ -182,11 +182,11 @@
         "21-25"
       ], 
       "housenumber": "25", 
-      "lat": 51.053108063006, 
-      "lon": 3.718110256678, 
+      "lat": 51.053098974703, 
+      "lon": 3.71814118991, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ingelandgat"
     }, 
     {
@@ -202,6 +202,22 @@
       "street": "Ingelandgat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -210,7 +226,7 @@
       "lon": 3.718031495745, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ingelandgat"
     }, 
     {
@@ -245,27 +261,21 @@
       "street": "Ingelandgat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.052863152765, 
       "lon": 3.717988576572, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Ingelandgat"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.052863152765, 
-      "lon": 3.717988576572, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ingelandgat"
     }, 
     {

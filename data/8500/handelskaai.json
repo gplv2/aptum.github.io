@@ -2,29 +2,19 @@
   "addresses": [
     {
       "apptnrs": [
-        "E1", 
-        "E11", 
-        "E12", 
-        "E2", 
-        "E21", 
-        "E22", 
-        "E31", 
-        "E32", 
-        "E41", 
-        "E42", 
-        "E51"
-      ], 
-      "busnrs": [
-        "000N", 
-        "13", 
-        "51"
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.829158090455, 
-      "lon": 3.258213068139, 
+      "lat": 50.829229942674, 
+      "lon": 3.260724852918, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -267,26 +257,82 @@
     }, 
     {
       "hnrlbls": [
-        "1-1G"
+        "1G"
       ], 
       "housenumber": "1G", 
-      "lat": 50.82919885998, 
-      "lon": 3.25895851246, 
+      "lat": 50.829219804574, 
+      "lon": 3.258948649322, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelskaai"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.829091763505, 
-      "lon": 3.257987645883, 
+      "lat": 50.829179716998, 
+      "lon": 3.258237258098, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Handelskaai"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "033", 
+        "041", 
+        "042", 
+        "051"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.829159289359, 
+      "lon": 3.258092802889, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Handelskaai"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.829146851301, 
+      "lon": 3.257909121219, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelskaai"
     }, 
     {

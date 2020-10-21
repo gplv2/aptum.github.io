@@ -50,7 +50,7 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "13-15"
       ], 
       "housenumber": "13", 
       "lat": 51.093249330727, 
@@ -74,11 +74,11 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "13-15"
       ], 
       "housenumber": "15", 
-      "lat": 51.093142566416, 
-      "lon": 3.992943221797, 
+      "lat": 51.093249330727, 
+      "lon": 3.993246552434, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -299,8 +299,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.092529371237, 
-      "lon": 3.993433177291, 
+      "lat": 51.092591578583, 
+      "lon": 3.993406128903, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -431,11 +431,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.091843907017, 
-      "lon": 3.994690066847, 
+      "lat": 51.092016123057, 
+      "lon": 3.995112344247, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Spoele"
     }, 
     {
@@ -488,9 +488,21 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "47-47A"
       ], 
       "housenumber": "47", 
+      "lat": 51.090845377007, 
+      "lon": 3.994053727323, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoele"
+    }, 
+    {
+      "hnrlbls": [
+        "47-47A"
+      ], 
+      "housenumber": "47A", 
       "lat": 51.090845377007, 
       "lon": 3.994053727323, 
       "municipality": "Lokeren", 
@@ -563,11 +575,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.090380536365, 
-      "lon": 3.99381993408, 
+      "lat": 51.090402772183, 
+      "lon": 3.993802056959, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Spoele"
     }, 
     {
@@ -683,8 +695,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.090131167269, 
-      "lon": 3.994069859388, 
+      "lat": 51.090128995944, 
+      "lon": 3.994065451991, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 

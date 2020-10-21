@@ -1,15 +1,102 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "11", 
+        "2", 
+        "201", 
+        "203", 
+        "21", 
+        "23", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "1-287"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.189252196939, 
+      "lon": 3.233576965003, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.188694621593, 
+      "lon": 3.234883843955, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.187638836384, 
-      "lon": 3.234615952059, 
+      "lat": 51.187628004107, 
+      "lon": 3.234601910458, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Kortrijkstraat"
     }, 
     {
@@ -25,6 +112,28 @@
       "street": "Oude Kortrijkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.188487736047, 
+      "lon": 3.235714553409, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
       "hnrlbls": [
         "16"
       ], 
@@ -34,6 +143,112 @@
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.188746146286, 
+      "lon": 3.235869929365, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19B", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19C", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19D", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19E", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13-19F"
+      ], 
+      "housenumber": "19F", 
+      "lat": 51.188775719114, 
+      "lon": 3.235231919937, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Kortrijkstraat"
     }, 
     {
@@ -53,8 +268,92 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.18735795813, 
-      "lon": 3.234836200728, 
+      "lat": 51.187367431997, 
+      "lon": 3.234839832889, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21B", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21C", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21D", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21E", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21F"
+      ], 
+      "housenumber": "21F", 
+      "lat": 51.188926103509, 
+      "lon": 3.23482772474, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -91,6 +390,18 @@
       "housenumber": "29", 
       "lat": 51.188096606361, 
       "lon": 3.234768193422, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.18925449684, 
+      "lon": 3.233797782038, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -218,6 +529,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.18926118115, 
+      "lon": 3.233913492022, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -235,6 +558,39 @@
       "housenumber": "7", 
       "lat": 51.189386294486, 
       "lon": 3.234014307077, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Kortrijkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0304", 
+        "0305"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.188933415781, 
+      "lon": 3.234334305828, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 

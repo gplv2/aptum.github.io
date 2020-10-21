@@ -13,24 +13,22 @@
       "street": "Lombardenvest"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.217726579176, 
-      "lon": 4.401660039417, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Lombardenvest"
-    }, 
-    {
-      "hnrlbls": [
-        "11A"
-      ], 
-      "housenumber": "11A", 
-      "lat": 51.217715228137, 
-      "lon": 4.401750198751, 
+      "lat": 51.217719359781, 
+      "lon": 4.401760792842, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -71,8 +69,8 @@
         "5-65"
       ], 
       "housenumber": "15", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -95,8 +93,8 @@
         "5-65"
       ], 
       "housenumber": "17", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -119,11 +117,11 @@
     }, 
     {
       "hnrlbls": [
-        "5-65"
+        "19-51"
       ], 
       "housenumber": "19", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344871, 
+      "lon": 4.403057445636, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -160,7 +158,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "22"
@@ -171,6 +170,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lombardenvest"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.217612433213, 
+      "lon": 4.401318466353, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {
@@ -186,18 +197,15 @@
       "street": "Lombardenvest"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "24-28"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.217522055066, 
-      "lon": 4.401477124682, 
+      "lat": 51.217609721785, 
+      "lon": 4.401371419823, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Lombardenvest"
     }, 
     {
@@ -210,23 +218,31 @@
         "5-65"
       ], 
       "housenumber": "25", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "24-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.217522055066, 
-      "lon": 4.401477124682, 
+      "lat": 51.217596485666, 
+      "lon": 4.401453562782, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {
@@ -234,20 +250,8 @@
         "5-65"
       ], 
       "housenumber": "27", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lombardenvest"
-    }, 
-    {
-      "hnrlbls": [
-        "24-28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.217522055066, 
-      "lon": 4.401477124682, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -272,8 +276,8 @@
         "5-65"
       ], 
       "housenumber": "29", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -296,8 +300,8 @@
         "5-65"
       ], 
       "housenumber": "31", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -325,8 +329,8 @@
         "5-65"
       ], 
       "housenumber": "33", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -346,11 +350,11 @@
     }, 
     {
       "hnrlbls": [
-        "5-65"
+        "19-51"
       ], 
       "housenumber": "35", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344871, 
+      "lon": 4.403057445636, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -373,8 +377,8 @@
         "5-65"
       ], 
       "housenumber": "37", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +405,8 @@
         "5-65"
       ], 
       "housenumber": "39", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -421,24 +425,40 @@
       "street": "Lombardenvest"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.217356199588, 
-      "lon": 4.402174868379, 
+      "lat": 51.21751559727, 
+      "lon": 4.402059055831, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {
       "hnrlbls": [
-        "5-65"
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.217524872631, 
+      "lon": 4.401998808042, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lombardenvest"
+    }, 
+    {
+      "hnrlbls": [
+        "19-51"
       ], 
       "housenumber": "45", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344871, 
+      "lon": 4.403057445636, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -449,8 +469,8 @@
         "5-65"
       ], 
       "housenumber": "49", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -480,11 +500,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "5-65"
+        "19-51"
       ], 
       "housenumber": "51", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344871, 
+      "lon": 4.403057445636, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -510,8 +530,8 @@
         "5-65"
       ], 
       "housenumber": "53", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -539,8 +559,8 @@
         "5-65"
       ], 
       "housenumber": "55", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -655,8 +675,8 @@
         "5-65"
       ], 
       "housenumber": "63", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -699,8 +719,8 @@
         "5-65"
       ], 
       "housenumber": "65", 
-      "lat": 51.217650039163, 
-      "lon": 4.403067168002, 
+      "lat": 51.217663344829, 
+      "lon": 4.403057588759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -723,9 +743,6 @@
       "street": "Lombardenvest"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "66A"
       ], 
@@ -824,14 +841,26 @@
         "302"
       ], 
       "hnrlbls": [
-        "78-80"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.217281027531, 
-      "lon": 4.403794521723, 
+      "lat": 51.217334509017, 
+      "lon": 4.403792845246, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lombardenvest"
+    }, 
+    {
+      "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 51.217352764847, 
+      "lon": 4.403761801777, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {
@@ -853,14 +882,14 @@
     }, 
     {
       "hnrlbls": [
-        "78-80"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.217281027531, 
-      "lon": 4.403794521723, 
+      "lat": 51.217354633334, 
+      "lon": 4.40382491998, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lombardenvest"
     }, 
     {

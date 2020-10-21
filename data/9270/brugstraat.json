@@ -404,7 +404,7 @@
         "A000"
       ], 
       "hnrlbls": [
-        "35"
+        "35-35A"
       ], 
       "housenumber": "35", 
       "lat": 51.046514151091, 
@@ -416,14 +416,14 @@
     }, 
     {
       "hnrlbls": [
-        "35A"
+        "35-35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.046511682619, 
-      "lon": 3.892255582917, 
+      "lat": 51.046514151091, 
+      "lon": 3.892243579219, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {
@@ -820,6 +820,18 @@
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 51.042639447362, 
+      "lon": 3.890439554206, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {

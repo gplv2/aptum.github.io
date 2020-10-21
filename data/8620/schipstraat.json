@@ -218,18 +218,6 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.13115852211, 
-      "lon": 2.753601354325, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Schipstraat"
-    }, 
-    {
-      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -238,18 +226,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schipstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.13115852211, 
-      "lon": 2.753601354325, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schipstraat"
     }, 
     {
@@ -325,16 +301,12 @@
       "street": "Schipstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.130930497502, 
-      "lon": 2.753567225302, 
+      "lat": 51.130931994045, 
+      "lon": 2.753584606275, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -574,15 +546,24 @@
       "street": "Schipstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "51-53"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.130357021387, 
-      "lon": 2.75283501982, 
+      "lat": 51.130347772277, 
+      "lon": 2.75315769767, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schipstraat"
     }, 
     {
@@ -599,7 +580,7 @@
     }, 
     {
       "hnrlbls": [
-        "51-53"
+        "53"
       ], 
       "housenumber": "53", 
       "lat": 51.130357021387, 
@@ -751,11 +732,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.129947507368, 
-      "lon": 2.753604914196, 
+      "lat": 51.129928037099, 
+      "lon": 2.753476416449, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schipstraat"
     }, 
     {
@@ -763,11 +744,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.130722284041, 
-      "lon": 2.753193761794, 
+      "lat": 51.129866080492, 
+      "lon": 2.753469127303, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schipstraat"
     }, 
     {

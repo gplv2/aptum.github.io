@@ -51,10 +51,10 @@
       "street": "Morckhovenlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "103"
@@ -140,6 +140,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.211205353819, 
+      "lon": 4.453388254065, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Morckhovenlei"
+    }, 
+    {
+      "hnrlbls": [
         "14-16"
       ], 
       "housenumber": "16", 
@@ -151,17 +163,16 @@
       "street": "Morckhovenlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
       ], 
       "hnrlbls": [
         "17"
@@ -1223,8 +1234,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.212926494212, 
-      "lon": 4.457115799932, 
+      "lat": 51.212926311101, 
+      "lon": 4.457120235944, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -1269,8 +1280,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.213005443641, 
-      "lon": 4.457193801812, 
+      "lat": 51.213027957267, 
+      "lon": 4.457137316889, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

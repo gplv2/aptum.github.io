@@ -159,11 +159,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.885465101192, 
-      "lon": 3.050161626748, 
+      "lat": 50.885466015937, 
+      "lon": 3.050187042876, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Iepersestraat"
     }, 
     {
@@ -195,8 +195,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.884779643715, 
-      "lon": 3.048569523712, 
+      "lat": 50.884780061167, 
+      "lon": 3.048566669365, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
       "source": "afgeleidVanGebouw", 
@@ -1443,8 +1443,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.887881696288, 
-      "lon": 3.054504418947, 
+      "lat": 50.887859608611, 
+      "lon": 3.054563314178, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
       "source": "afgeleidVanGebouw", 
@@ -1707,11 +1707,23 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.887088761049, 
-      "lon": 3.052542496877, 
+      "lat": 50.88690763722, 
+      "lon": 3.052778827807, 
       "municipality": "Moorslede", 
       "pcode": "8890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Iepersestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 50.887166811625, 
+      "lon": 3.052342880794, 
+      "municipality": "Moorslede", 
+      "pcode": "8890", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Iepersestraat"
     }, 
     {

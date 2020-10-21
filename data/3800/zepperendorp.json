@@ -125,6 +125,26 @@
       "street": "Zepperen-Dorp"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.821117428734, 
+      "lon": 5.247915964068, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Zepperen-Dorp"
+    }, 
+    {
       "hnrlbls": [
         "32"
       ], 
@@ -177,6 +197,18 @@
       "street": "Zepperen-Dorp"
     }, 
     {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.822425549098, 
+      "lon": 5.251054239871, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zepperen-Dorp"
+    }, 
+    {
       "busnrs": [
         "0OO1", 
         "101"
@@ -209,8 +241,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.822954130377, 
-      "lon": 5.252300247136, 
+      "lat": 50.822966612212, 
+      "lon": 5.252278340461, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -295,18 +327,6 @@
       "housenumber": "47", 
       "lat": 50.822506304088, 
       "lon": 5.253315855021, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zepperen-Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.821144664739, 
-      "lon": 5.247964444626, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -545,11 +565,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.823324741926, 
-      "lon": 5.256433345876, 
+      "lat": 50.823289163472, 
+      "lon": 5.256501511231, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zepperen-Dorp"
     }, 
     {

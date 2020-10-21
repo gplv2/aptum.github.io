@@ -29,7 +29,7 @@
       "lon": 4.422968473786, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -91,11 +91,11 @@
         "100C"
       ], 
       "housenumber": "100C", 
-      "lat": 51.206124995549, 
-      "lon": 4.418071399446, 
+      "lat": 51.20614028624, 
+      "lon": 4.418046947872, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -585,7 +585,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "121-123"
+        "121"
       ], 
       "housenumber": "121", 
       "lat": 51.204933319981, 
@@ -614,23 +614,6 @@
       "housenumber": "122", 
       "lat": 51.205354540507, 
       "lon": 4.416915160958, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Belgi\u00eblei"
-    }, 
-    {
-      "busnrs": [
-        "10", 
-        "12", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "121-123"
-      ], 
-      "housenumber": "123", 
-      "lat": 51.204933319981, 
-      "lon": 4.417401061714, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -719,11 +702,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.205187000644, 
-      "lon": 4.416685763926, 
+      "lat": 51.205182316528, 
+      "lon": 4.416710369593, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -1062,10 +1045,11 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "5", 
-        "7"
+      "apptnrs": [
+        "101", 
+        "301", 
+        "501", 
+        "701"
       ], 
       "hnrlbls": [
         "141"
@@ -1142,7 +1126,6 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
         "101", 
         "201", 
         "202", 
@@ -1163,22 +1146,22 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "702"
       ], 
       "hnrlbls": [
         "146"
@@ -1206,8 +1189,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.204023938591, 
-      "lon": 4.41614184506, 
+      "lat": 51.204015131546, 
+      "lon": 4.416137829713, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1263,8 +1246,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.203929686396, 
-      "lon": 4.41605175011, 
+      "lat": 51.203957930664, 
+      "lon": 4.416001128552, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1340,7 +1323,6 @@
         "001", 
         "002", 
         "003", 
-        "101", 
         "201", 
         "202", 
         "203", 
@@ -1376,6 +1358,7 @@
       "apptnrs": [
         "001", 
         "002", 
+        "101", 
         "201", 
         "202", 
         "203", 
@@ -1465,11 +1448,11 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.208411892995, 
-      "lon": 4.422415768345, 
+      "lat": 51.20842781067, 
+      "lon": 4.422398043171, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -1599,14 +1582,16 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701", 
+        "801", 
+        "901"
       ], 
       "hnrlbls": [
         "168"
@@ -1664,13 +1649,12 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "501", 
+        "701"
       ], 
       "hnrlbls": [
         "170"
@@ -1799,34 +1783,46 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "5", 
-        "6", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
-        "177-179"
+        "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.202780666544, 
-      "lon": 4.414314325768, 
+      "lat": 51.202856190099, 
+      "lon": 4.414261748154, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "702", 
+        "801", 
+        "802"
+      ], 
       "hnrlbls": [
-        "177-179"
+        "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.202780666544, 
-      "lon": 4.414314325768, 
+      "lat": 51.20280336731, 
+      "lon": 4.41418672333, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -1919,31 +1915,42 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "15", 
-        "16", 
-        "2", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "801"
       ], 
       "hnrlbls": [
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.203121517003, 
-      "lon": 4.413598270855, 
+      "lat": 51.203002539604, 
+      "lon": 4.413754252697, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Belgi\u00eblei"
+    }, 
+    {
+      "hnrlbls": [
+        "182A"
+      ], 
+      "housenumber": "182A", 
+      "lat": 51.20303461364, 
+      "lon": 4.413792342867, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -2304,13 +2311,15 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
       ], 
       "hnrlbls": [
         "201"
@@ -2959,11 +2968,11 @@
         "38F"
       ], 
       "housenumber": "38F", 
-      "lat": 51.20866147664, 
-      "lon": 4.42048126799, 
+      "lat": 51.208628182251, 
+      "lon": 4.420362318479, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -2971,8 +2980,8 @@
         "38G"
       ], 
       "housenumber": "38G", 
-      "lat": 51.208686583207, 
-      "lon": 4.420416187823, 
+      "lat": 51.208626032372, 
+      "lon": 4.420345717029, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3871,16 +3880,6 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -4297,47 +4296,47 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "20", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "26", 
-        "27", 
-        "28", 
-        "29", 
-        "3", 
-        "30", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "36", 
-        "37", 
-        "38", 
-        "39", 
-        "4", 
-        "40", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "405", 
+        "501", 
+        "502", 
+        "503", 
+        "504", 
+        "505", 
+        "601", 
+        "602", 
+        "603", 
+        "604", 
+        "605", 
+        "701", 
+        "702", 
+        "703", 
+        "704", 
+        "705", 
+        "801", 
+        "802", 
+        "803", 
+        "804", 
+        "805"
       ], 
       "hnrlbls": [
         "94"
@@ -4351,21 +4350,33 @@
       "street": "Belgi\u00eblei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "95-97"
+        "94A"
       ], 
-      "housenumber": "95", 
-      "lat": 51.205920649487, 
-      "lon": 4.418795199871, 
+      "housenumber": "94A", 
+      "lat": 51.206334613972, 
+      "lon": 4.418475705096, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Belgi\u00eblei"
+    }, 
+    {
+      "apptnrs": [
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 51.205959840974, 
+      "lon": 4.418790806805, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -4392,14 +4403,14 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.205920649487, 
-      "lon": 4.418795199871, 
+      "lat": 51.205914564173, 
+      "lon": 4.4187326643, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {

@@ -269,11 +269,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.162989153369, 
-      "lon": 2.968560363326, 
+      "lat": 51.163003837559, 
+      "lon": 2.968722206208, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -362,7 +362,7 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "35-35B"
       ], 
       "housenumber": "35", 
       "lat": 51.163557533502, 
@@ -386,14 +386,14 @@
     }, 
     {
       "hnrlbls": [
-        "35B"
+        "35-35B"
       ], 
       "housenumber": "35B", 
-      "lat": 51.164185499054, 
-      "lon": 2.9676219791, 
+      "lat": 51.163557533502, 
+      "lon": 2.968493851344, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Vaartstraat"
     }, 
     {
@@ -436,10 +436,9 @@
       "street": "Vaartstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "38 0101", 
+        "38 0201"
       ], 
       "hnrlbls": [
         "38"
@@ -477,15 +476,25 @@
       "street": "Vaartstraat"
     }, 
     {
+      "apptnrs": [
+        "4 0001", 
+        "4 0002", 
+        "4 0003", 
+        "4 0101", 
+        "4 0102", 
+        "4 0201", 
+        "4 0301", 
+        "4 0401"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.159170604799, 
-      "lon": 2.969299178224, 
+      "lat": 51.159156409748, 
+      "lon": 2.969337919194, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -582,6 +591,54 @@
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.161538595365, 
+      "lon": 2.969190766604, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.161612327055, 
+      "lon": 2.969229734425, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.161673811402, 
+      "lon": 2.969244191413, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 51.161735699762, 
+      "lon": 2.969232042647, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vaartstraat"
     }, 
     {

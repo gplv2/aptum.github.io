@@ -99,11 +99,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.880231748354, 
-      "lon": 4.692894269627, 
+      "lat": 50.880208651303, 
+      "lon": 4.692957058433, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -347,11 +347,11 @@
         "0406"
       ], 
       "hnrlbls": [
-        "112-112A"
+        "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.87437243449, 
-      "lon": 4.691017678454, 
+      "lat": 50.874412882685, 
+      "lon": 4.691019377292, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -377,11 +377,11 @@
         "0203"
       ], 
       "hnrlbls": [
-        "112-112A"
+        "112A"
       ], 
       "housenumber": "112A", 
-      "lat": 50.87437243449, 
-      "lon": 4.691017678454, 
+      "lat": 50.874243179661, 
+      "lon": 4.691012385502, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -420,11 +420,11 @@
         "0402"
       ], 
       "hnrlbls": [
-        "114-114A"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.873845182947, 
-      "lon": 4.690925398121, 
+      "lat": 50.873973799535, 
+      "lon": 4.690966631914, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -462,11 +462,11 @@
         "0407"
       ], 
       "hnrlbls": [
-        "114-114A"
+        "114A"
       ], 
       "housenumber": "114A", 
-      "lat": 50.873845182947, 
-      "lon": 4.690925398121, 
+      "lat": 50.873807011009, 
+      "lon": 4.690913201357, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1703,11 +1703,11 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 50.872765977039, 
-      "lon": 4.691517673808, 
+      "lat": 50.872746018087, 
+      "lon": 4.691485854025, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -1902,14 +1902,14 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "7-33"
       ], 
       "housenumber": "33", 
-      "lat": 50.879459411693, 
-      "lon": 4.693333398086, 
+      "lat": 50.879471120784, 
+      "lon": 4.693357635105, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -1939,11 +1939,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.879247711877, 
-      "lon": 4.692520296491, 
+      "lat": 50.879249762535, 
+      "lon": 4.692526420658, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -1960,14 +1960,14 @@
     }, 
     {
       "hnrlbls": [
-        "37"
+        "37-39"
       ], 
       "housenumber": "37", 
-      "lat": 50.878996461088, 
-      "lon": 4.692355439117, 
+      "lat": 50.878716223155, 
+      "lon": 4.692400536789, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -1984,14 +1984,14 @@
     }, 
     {
       "hnrlbls": [
-        "39"
+        "37-39"
       ], 
       "housenumber": "39", 
-      "lat": 50.878626997067, 
-      "lon": 4.692353599005, 
+      "lat": 50.878716223155, 
+      "lon": 4.692400536789, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -2067,7 +2067,7 @@
         "02K1"
       ], 
       "hnrlbls": [
-        "44-44K"
+        "44"
       ], 
       "housenumber": "44", 
       "lat": 50.876899353282, 
@@ -2075,21 +2075,6 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapucijnenvoer"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "44-44K"
-      ], 
-      "housenumber": "44K", 
-      "lat": 50.876899353282, 
-      "lon": 4.690507769215, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -2550,14 +2535,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-33"
       ], 
       "housenumber": "7", 
-      "lat": 50.879964327881, 
-      "lon": 4.693698953073, 
+      "lat": 50.879471120784, 
+      "lon": 4.693357635105, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapucijnenvoer"
     }, 
     {
@@ -2922,21 +2907,9 @@
     }, 
     {
       "hnrlbls": [
-        "93A-93B"
+        "93A"
       ], 
       "housenumber": "93A", 
-      "lat": 50.876677800425, 
-      "lon": 4.690853362896, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapucijnenvoer"
-    }, 
-    {
-      "hnrlbls": [
-        "93A-93B"
-      ], 
-      "housenumber": "93B", 
       "lat": 50.876677800425, 
       "lon": 4.690853362896, 
       "municipality": "Leuven", 

@@ -237,8 +237,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.775166827381, 
-      "lon": 4.893112402475, 
+      "lat": 50.775162774497, 
+      "lon": 4.89311405865, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
@@ -273,8 +273,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.775238608915, 
-      "lon": 4.893143118872, 
+      "lat": 50.775234240316, 
+      "lon": 4.893134988612, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
@@ -297,8 +297,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.775313528078, 
-      "lon": 4.893095606922, 
+      "lat": 50.775311463046, 
+      "lon": 4.893095016767, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
@@ -321,8 +321,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.775384010029, 
-      "lon": 4.893155515945, 
+      "lat": 50.77538223248, 
+      "lon": 4.893150959102, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
@@ -345,8 +345,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.775436203928, 
-      "lon": 4.893224011634, 
+      "lat": 50.775433431184, 
+      "lon": 4.893220861502, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
@@ -401,15 +401,44 @@
       "street": "Tiensestraat"
     }, 
     {
-      "hnrlbls": [
-        "32"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
-      "housenumber": "32", 
-      "lat": 50.776136679063, 
-      "lon": 4.892827031856, 
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 50.775954844556, 
+      "lon": 4.892900292099, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tiensestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 50.776187500621, 
+      "lon": 4.89282065091, 
+      "municipality": "Hoegaarden", 
+      "pcode": "3320", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tiensestraat"
     }, 
     {

@@ -1309,8 +1309,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 50.922413726259, 
-      "lon": 4.499387584834, 
+      "lat": 50.922425554451, 
+      "lon": 4.499421324707, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -1333,11 +1333,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.956573787597, 
-      "lon": 4.49680622883, 
+      "lat": 50.956531978689, 
+      "lon": 4.496978470965, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1561,8 +1561,20 @@
         "231A"
       ], 
       "housenumber": "231A", 
-      "lat": 50.927438341576, 
-      "lon": 4.496675657687, 
+      "lat": 50.927412268593, 
+      "lon": 4.49667928441, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "231B"
+      ], 
+      "housenumber": "231B", 
+      "lat": 50.927255976999, 
+      "lon": 4.496567341993, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1916,8 +1928,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.956147540939, 
-      "lon": 4.496621032538, 
+      "lat": 50.956133133175, 
+      "lon": 4.496808150275, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -2268,8 +2280,8 @@
         "303R"
       ], 
       "housenumber": "303R", 
-      "lat": 50.904714792355, 
-      "lon": 4.509730635153, 
+      "lat": 50.904698772074, 
+      "lon": 4.509672013178, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -2280,8 +2292,8 @@
         "303S"
       ], 
       "housenumber": "303S", 
-      "lat": 50.906403173163, 
-      "lon": 4.509360816662, 
+      "lat": 50.906401649935, 
+      "lon": 4.509356689026, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -2460,8 +2472,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.953785770329, 
-      "lon": 4.496399658731, 
+      "lat": 50.953789551859, 
+      "lon": 4.496394118686, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -2556,8 +2568,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.939976108568, 
-      "lon": 4.494824589958, 
+      "lat": 50.939975388661, 
+      "lon": 4.494825299392, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
@@ -2652,11 +2664,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.938899240891, 
-      "lon": 4.494278625763, 
+      "lat": 50.93907431919, 
+      "lon": 4.494058004337, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2664,11 +2676,11 @@
         "89A"
       ], 
       "housenumber": "89A", 
-      "lat": 50.939081983164, 
-      "lon": 4.494287796066, 
+      "lat": 50.938870596385, 
+      "lon": 4.494081928084, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -2697,6 +2709,18 @@
     }, 
     {
       "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.938127302851, 
+      "lon": 4.494137408709, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "96A"
       ], 
       "housenumber": "96A", 
@@ -2717,6 +2741,18 @@
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.938014754534, 
+      "lon": 4.494223464102, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tervuursesteenweg"
     }, 
     {

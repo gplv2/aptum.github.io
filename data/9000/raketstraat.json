@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.039747721194, 
+      "lon": 3.712113156148, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10-16"
       ], 
       "housenumber": "10", 
@@ -128,15 +140,23 @@
       "street": "Raketstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.039810490566, 
-      "lon": 3.712101297565, 
+      "lat": 51.039916807859, 
+      "lon": 3.71199971309, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raketstraat"
     }, 
     {
@@ -284,15 +304,20 @@
       "street": "Raketstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.040015227209, 
-      "lon": 3.71206178418, 
+      "lat": 51.040220454973, 
+      "lon": 3.711981341411, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raketstraat"
     }, 
     {
@@ -359,6 +384,29 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.040085979275, 
+      "lon": 3.711917636832, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raketstraat"
     }, 
     {
@@ -684,11 +732,35 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.040644875425, 
-      "lon": 3.710665586725, 
+      "lat": 51.040630362516, 
+      "lon": 3.710722825413, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 51.040636779251, 
+      "lon": 3.710648447375, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "82B"
+      ], 
+      "housenumber": "82B", 
+      "lat": 51.040642168245, 
+      "lon": 3.710583209333, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raketstraat"
     }, 
     {
@@ -701,6 +773,108 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.04028252293, 
+      "lon": 3.711585507993, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.040251339638, 
+      "lon": 3.711377627148, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.040196696979, 
+      "lon": 3.711299258556, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9C"
+      ], 
+      "housenumber": "9C", 
+      "lat": 51.040144839946, 
+      "lon": 3.711220708474, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "9D"
+      ], 
+      "housenumber": "9D", 
+      "lat": 51.039952189011, 
+      "lon": 3.711476928016, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Raketstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "9E"
+      ], 
+      "housenumber": "9E", 
+      "lat": 51.039992686747, 
+      "lon": 3.711565760917, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raketstraat"
     }
   ]

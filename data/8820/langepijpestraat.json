@@ -2,18 +2,27 @@
   "addresses": [
     {
       "apptnrs": [
-        "AV02", 
-        "V4"
+        "V1", 
+        "V10", 
+        "V11", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5", 
+        "V6", 
+        "V7", 
+        "V8", 
+        "V9"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.065731113296, 
-      "lon": 3.096886447731, 
+      "lat": 51.065741939368, 
+      "lon": 3.097039961555, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
@@ -33,8 +42,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.065584064806, 
-      "lon": 3.096372805587, 
+      "lat": 51.065570059341, 
+      "lon": 3.096399581832, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -57,8 +66,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.065574582146, 
-      "lon": 3.096252214632, 
+      "lat": 51.065533530241, 
+      "lon": 3.096280296894, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -153,14 +162,17 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.065709123505, 
-      "lon": 3.095765303316, 
+      "lat": 51.065515466424, 
+      "lon": 3.095856177133, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
+      "apptnrs": [
+        "V2"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -189,11 +201,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.065351012371, 
-      "lon": 3.095812424244, 
+      "lat": 51.065334209424, 
+      "lon": 3.095754954007, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }, 
     {
@@ -323,11 +335,11 @@
     }, 
     {
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.065268133082, 
-      "lon": 3.095280635786, 
+      "lat": 51.065289876869, 
+      "lon": 3.095304442097, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -375,11 +387,11 @@
     }, 
     {
       "hnrlbls": [
-        "31-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.065268133082, 
-      "lon": 3.095280635786, 
+      "lat": 51.06521536568, 
+      "lon": 3.095222860254, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -646,8 +658,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.065617579801, 
-      "lon": 3.096621011487, 
+      "lat": 51.065609895996, 
+      "lon": 3.096592113876, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -667,8 +679,6 @@
     }, 
     {
       "apptnrs": [
-        "V001", 
-        "V002", 
         "V1", 
         "V2"
       ], 
@@ -676,11 +686,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.065389414895, 
-      "lon": 3.096621648135, 
+      "lat": 51.065569605909, 
+      "lon": 3.096499183768, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langepijpestraat"
     }
   ]

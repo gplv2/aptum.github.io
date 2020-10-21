@@ -13,12 +13,6 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "1/1", 
-        "1/2", 
-        "2/1"
-      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -385,23 +379,25 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "01/1", 
-        "1", 
-        "2", 
-        "3/2", 
-        "4/1", 
-        "4/2"
+        "01/2", 
+        "02/1", 
+        "02/2", 
+        "03/1", 
+        "03/2", 
+        "04/1", 
+        "04/2"
       ], 
       "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.931273811935, 
-      "lon": 4.423981795319, 
+      "lat": 50.931357778253, 
+      "lon": 4.423968523925, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -519,8 +515,8 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "141"
@@ -1058,18 +1054,21 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.930067251003, 
-      "lon": 4.429420827331, 
+      "lat": 50.930063929051, 
+      "lon": 4.429412999476, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
@@ -1852,16 +1851,15 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "04 2"
-      ], 
       "busnrs": [
         "01/1", 
         "01/2", 
+        "02/1", 
         "03/1", 
         "03/2", 
         "04/1", 
-        "04/2"
+        "04/2", 
+        "05/1"
       ], 
       "hnrlbls": [
         "99"

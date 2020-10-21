@@ -83,8 +83,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.320228393773, 
-      "lon": 4.97267216047, 
+      "lat": 51.320239866732, 
+      "lon": 4.972660834113, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -579,8 +579,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.321876167505, 
-      "lon": 4.969308771627, 
+      "lat": 51.321883485762, 
+      "lon": 4.969319051023, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanPerceelGrb", 
@@ -615,8 +615,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.32283090232, 
-      "lon": 4.970159151535, 
+      "lat": 51.322849115813, 
+      "lon": 4.970147911161, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanPerceelGrb", 
@@ -632,8 +632,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.318699182956, 
-      "lon": 4.979404223178, 
+      "lat": 51.318699179996, 
+      "lon": 4.979404796893, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -669,8 +669,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.318761786918, 
-      "lon": 4.979099234478, 
+      "lat": 51.318762509634, 
+      "lon": 4.979098526776, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -690,7 +690,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "bus1", 
+        "bus2"
       ], 
       "hnrlbls": [
         "2"
@@ -833,8 +834,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.319066914489, 
-      "lon": 4.979609583627, 
+      "lat": 51.319066638629, 
+      "lon": 4.979593371322, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -894,8 +895,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.318860591568, 
-      "lon": 4.97827504072, 
+      "lat": 51.318953445276, 
+      "lon": 4.978466172111, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -959,8 +960,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.319047750068, 
-      "lon": 4.978148686643, 
+      "lat": 51.31904287438, 
+      "lon": 4.978222780951, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -1028,12 +1029,16 @@
       "street": "Steenweg op Turnhout"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.318662883086, 
-      "lon": 4.980793807728, 
+      "lat": 51.31865415522, 
+      "lon": 4.980778201442, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -1103,11 +1108,23 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.319409114761, 
-      "lon": 4.977740459438, 
+      "lat": 51.319361030022, 
+      "lon": 4.977704973295, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Turnhout"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 51.319551523332, 
+      "lon": 4.978397421082, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Steenweg op Turnhout"
     }, 
     {
@@ -1311,8 +1328,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.319598526296, 
-      "lon": 4.976563567647, 
+      "lat": 51.3196696173, 
+      "lon": 4.976337286179, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -1405,8 +1422,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.320212715105, 
-      "lon": 4.975439117177, 
+      "lat": 51.3202655015, 
+      "lon": 4.975486855679, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -1559,11 +1576,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.320518392361, 
-      "lon": 4.97426614942, 
+      "lat": 51.320453368597, 
+      "lon": 4.974238478194, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Turnhout"
     }, 
     {
@@ -1579,15 +1596,20 @@
       "street": "Steenweg op Turnhout"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2", 
+        "bus3"
+      ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.320502100728, 
-      "lon": 4.974077308321, 
+      "lat": 51.320477925086, 
+      "lon": 4.973971275269, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Turnhout"
     }, 
     {
@@ -1595,8 +1617,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.320013556034, 
-      "lon": 4.974100637438, 
+      "lat": 51.320014202047, 
+      "lon": 4.974097346677, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -1613,11 +1635,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.320537803094, 
-      "lon": 4.973809963265, 
+      "lat": 51.320491291304, 
+      "lon": 4.973888538745, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenweg op Turnhout"
     }, 
     {
@@ -1708,8 +1730,9 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "3"
+        "bus1", 
+        "bus2", 
+        "bus3"
       ], 
       "hnrlbls": [
         "91"

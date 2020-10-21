@@ -77,6 +77,9 @@
       "street": "Kleinesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0031"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -204,7 +207,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-30"
+        "30"
       ], 
       "housenumber": "30", 
       "lat": 51.019307771709, 
@@ -352,8 +355,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.019686797311, 
-      "lon": 4.788839584824, 
+      "lat": 51.019693270097, 
+      "lon": 4.7888142744, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -514,11 +517,23 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.020015440153, 
-      "lon": 4.791222497706, 
+      "lat": 51.020104540073, 
+      "lon": 4.791117694436, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Kleinesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 51.020023791651, 
+      "lon": 4.791174828582, 
+      "municipality": "Begijnendijk", 
+      "pcode": "3130", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Kleinesteenweg"
     }, 
     {

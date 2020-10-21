@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.023266245624, 
-      "lon": 4.115884072112, 
+      "lat": 51.023254862288, 
+      "lon": 4.115899384069, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -520,8 +520,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.027032563254, 
-      "lon": 4.119002113604, 
+      "lat": 51.027029569716, 
+      "lon": 4.119031778049, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -592,8 +592,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.027454053171, 
-      "lon": 4.120063236981, 
+      "lat": 51.027435238786, 
+      "lon": 4.120092985405, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -628,8 +628,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.023448548699, 
-      "lon": 4.116180123104, 
+      "lat": 51.023448007836, 
+      "lon": 4.116179413363, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -640,8 +640,8 @@
         "165-169"
       ], 
       "housenumber": "165", 
-      "lat": 51.027602502856, 
-      "lon": 4.119570678391, 
+      "lat": 51.027608615353, 
+      "lon": 4.119570645952, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -676,8 +676,8 @@
         "165-169"
       ], 
       "housenumber": "169", 
-      "lat": 51.027602502856, 
-      "lon": 4.119570678391, 
+      "lat": 51.027608615353, 
+      "lon": 4.119570645952, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -940,8 +940,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.028266921494, 
-      "lon": 4.120441521766, 
+      "lat": 51.028270326508, 
+      "lon": 4.120436372148, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -1216,11 +1216,11 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.028994631969, 
-      "lon": 4.12131975382, 
+      "lat": 51.029029805969, 
+      "lon": 4.121289633585, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hullekenstraat"
     }, 
     {
@@ -1293,6 +1293,42 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Hullekenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.023731992545, 
+      "lon": 4.116651231152, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hullekenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 51.023773025375, 
+      "lon": 4.116713296937, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hullekenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 51.023815615197, 
+      "lon": 4.116788894939, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hullekenstraat"
     }, 
     {
@@ -1437,8 +1473,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.024593788482, 
-      "lon": 4.117205193374, 
+      "lat": 51.02462850049, 
+      "lon": 4.11716965907, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1505,7 +1541,8 @@
       "street": "Hullekenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -1513,11 +1550,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.024790874316, 
-      "lon": 4.117395275899, 
+      "lat": 51.024804756951, 
+      "lon": 4.117244970528, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hullekenstraat"
     }, 
     {
@@ -1533,20 +1570,22 @@
       "street": "Hullekenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.024790874013, 
-      "lon": 4.117395133367, 
+      "lat": 51.024861731701, 
+      "lon": 4.117406299352, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hullekenstraat"
     }, 
     {
@@ -1782,8 +1821,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.025177947304, 
-      "lon": 4.117904050566, 
+      "lat": 51.025198755135, 
+      "lon": 4.11792432197, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 

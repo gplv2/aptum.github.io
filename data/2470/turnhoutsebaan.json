@@ -19,6 +19,7 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101"
       ], 
       "hnrlbls": [
@@ -902,15 +903,21 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.271003180432, 
-      "lon": 5.078689253141, 
+      "lat": 51.271185900754, 
+      "lon": 5.078317900708, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -975,18 +982,6 @@
     }, 
     {
       "hnrlbls": [
-        "46"
-      ], 
-      "housenumber": "46", 
-      "lat": 51.271018857278, 
-      "lon": 5.078338710182, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -995,18 +990,6 @@
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.27105665394, 
-      "lon": 5.078241417139, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -1033,18 +1016,6 @@
       "housenumber": "5", 
       "lat": 51.269523820799, 
       "lon": 5.08021678048, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.271304509121, 
-      "lon": 5.078174982269, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -1309,8 +1280,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.272577986516, 
-      "lon": 5.075537938314, 
+      "lat": 51.272584809614, 
+      "lon": 5.075509239036, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1440,11 +1411,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.273704976359, 
-      "lon": 5.073640692709, 
+      "lat": 51.273865113851, 
+      "lon": 5.073285293648, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -1461,26 +1432,14 @@
     }, 
     {
       "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.273963268823, 
-      "lon": 5.073119402846, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.273676875075, 
-      "lon": 5.072337083694, 
+      "lat": 51.273648756438, 
+      "lon": 5.072349555603, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -1500,8 +1459,8 @@
         "91B"
       ], 
       "housenumber": "91B", 
-      "lat": 51.273859395923, 
-      "lon": 5.07198072902, 
+      "lat": 51.27386384851, 
+      "lon": 5.071972628104, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 

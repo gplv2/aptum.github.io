@@ -125,8 +125,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.97356222631, 
-      "lon": 4.579126564458, 
+      "lat": 50.973574769501, 
+      "lon": 4.57909971145, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
@@ -464,8 +464,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.972617129032, 
-      "lon": 4.581798538029, 
+      "lat": 50.972618386217, 
+      "lon": 4.581799255638, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
@@ -488,8 +488,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.972603697518, 
-      "lon": 4.581868667801, 
+      "lat": 50.972602978904, 
+      "lon": 4.581868379773, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
@@ -500,8 +500,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.972413342308, 
-      "lon": 4.581898125464, 
+      "lat": 50.97241486632, 
+      "lon": 4.58190041041, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanPerceelGrb", 
@@ -620,11 +620,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.977024325549, 
-      "lon": 4.569018177205, 
+      "lat": 50.977087220252, 
+      "lon": 4.569193300305, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {
@@ -733,18 +733,6 @@
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
-      "street": "Bredepleinstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.979227744843, 
-      "lon": 4.56696260679, 
-      "municipality": "Boortmeerbeek", 
-      "pcode": "3190", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {
@@ -1302,8 +1290,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.974795865404, 
-      "lon": 4.574028154841, 
+      "lat": 50.974770918097, 
+      "lon": 4.57395244049, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
@@ -1446,8 +1434,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.977917001062, 
-      "lon": 4.568673857338, 
+      "lat": 50.977910513589, 
+      "lon": 4.568682800226, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1482,8 +1470,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.973692231638, 
-      "lon": 4.576392200134, 
+      "lat": 50.973689463921, 
+      "lon": 4.576381509444, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1634,15 +1622,82 @@
       "street": "Bredepleinstraat"
     }, 
     {
-      "hnrlbls": [
-        "81"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
-      "housenumber": "81", 
-      "lat": 50.973807597035, 
-      "lon": 4.578493798285, 
+      "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 50.974125657333, 
+      "lon": 4.578682313163, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "81B"
+      ], 
+      "housenumber": "81B", 
+      "lat": 50.974172554817, 
+      "lon": 4.578596526337, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "81C"
+      ], 
+      "housenumber": "81C", 
+      "lat": 50.974240106395, 
+      "lon": 4.578472247019, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "81D"
+      ], 
+      "housenumber": "81D", 
+      "lat": 50.974291654903, 
+      "lon": 4.578399437256, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {
@@ -1650,23 +1705,31 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.973162985425, 
-      "lon": 4.577079806864, 
+      "lat": 50.973163253834, 
+      "lon": 4.577080519945, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.973828911875, 
-      "lon": 4.578588433601, 
+      "lat": 50.974382322371, 
+      "lon": 4.578518731913, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {
@@ -1682,6 +1745,26 @@
       "street": "Bredepleinstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.974490936594, 
+      "lon": 4.57830393948, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
       "hnrlbls": [
         "86"
       ], 
@@ -1694,6 +1777,44 @@
       "street": "Bredepleinstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0111", 
+        "0112"
+      ], 
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.974499270591, 
+      "lon": 4.577865443355, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
       "hnrlbls": [
         "88"
       ], 
@@ -1703,6 +1824,44 @@
       "municipality": "Boortmeerbeek", 
       "pcode": "3190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bredepleinstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0111", 
+        "0112"
+      ], 
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.974711512009, 
+      "lon": 4.57740792433, 
+      "municipality": "Boortmeerbeek", 
+      "pcode": "3190", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredepleinstraat"
     }, 
     {

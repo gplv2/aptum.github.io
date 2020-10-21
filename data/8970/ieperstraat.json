@@ -13,15 +13,20 @@
       "street": "Ieperstraat"
     }, 
     {
+      "apptnrs": [
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
-        "10-10D"
+        "10-12"
       ], 
       "housenumber": "10", 
-      "lat": 50.855004314795, 
-      "lon": 2.727937379218, 
+      "lat": 50.85499857577, 
+      "lon": 2.727951358673, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -46,6 +51,18 @@
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ieperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "101A"
+      ], 
+      "housenumber": "101A", 
+      "lat": 50.854038852002, 
+      "lon": 2.73257804401, 
+      "municipality": "Poperinge", 
+      "pcode": "8970", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -77,8 +94,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.854669859098, 
-      "lon": 2.732292292621, 
+      "lat": 50.854757075478, 
+      "lon": 2.732259851885, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -125,8 +142,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.854670276827, 
-      "lon": 2.732522118082, 
+      "lat": 50.854678366093, 
+      "lon": 2.732483198414, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -146,50 +163,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10D"
+        "10-12"
       ], 
       "housenumber": "10A", 
-      "lat": 50.855004314795, 
-      "lon": 2.727937379218, 
+      "lat": 50.85499857577, 
+      "lon": 2.727951358673, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10D"
-      ], 
-      "housenumber": "10B", 
-      "lat": 50.855004314795, 
-      "lon": 2.727937379218, 
-      "municipality": "Poperinge", 
-      "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10D"
-      ], 
-      "housenumber": "10C", 
-      "lat": 50.855004314795, 
-      "lon": 2.727937379218, 
-      "municipality": "Poperinge", 
-      "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ieperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-10D"
-      ], 
-      "housenumber": "10D", 
-      "lat": 50.855004314795, 
-      "lon": 2.727937379218, 
-      "municipality": "Poperinge", 
-      "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -329,7 +310,7 @@
     }, 
     {
       "hnrlbls": [
-        "117"
+        "117-119"
       ], 
       "housenumber": "117", 
       "lat": 50.854513064792, 
@@ -353,11 +334,11 @@
     }, 
     {
       "hnrlbls": [
-        "119"
+        "117-119"
       ], 
       "housenumber": "119", 
-      "lat": 50.85445514684, 
-      "lon": 2.73306030896, 
+      "lat": 50.854513064792, 
+      "lon": 2.733028889196, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -461,14 +442,14 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "10-12"
       ], 
       "housenumber": "12", 
-      "lat": 50.854978674808, 
-      "lon": 2.728013562217, 
+      "lat": 50.85499857577, 
+      "lon": 2.727951358673, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ieperstraat"
     }, 
     {
@@ -880,7 +861,7 @@
       "lon": 2.735784010065, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -908,8 +889,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.855005828032, 
-      "lon": 2.735825526912, 
+      "lat": 50.854998298256, 
+      "lon": 2.736014576572, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1037,6 +1018,18 @@
     }, 
     {
       "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 50.855107179864, 
+      "lon": 2.73710645036, 
+      "municipality": "Poperinge", 
+      "pcode": "8970", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ieperstraat"
+    }, 
+    {
+      "hnrlbls": [
         "171"
       ], 
       "housenumber": "171", 
@@ -1160,8 +1153,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.855114605952, 
-      "lon": 2.737931662866, 
+      "lat": 50.855175061055, 
+      "lon": 2.737927434912, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1172,8 +1165,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.854785472461, 
-      "lon": 2.737359672496, 
+      "lat": 50.854765932759, 
+      "lon": 2.737318871367, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1205,11 +1198,11 @@
     }, 
     {
       "hnrlbls": [
-        "186"
+        "1-186"
       ], 
       "housenumber": "186", 
-      "lat": 50.855142397658, 
-      "lon": 2.738068064143, 
+      "lat": 50.855083991509, 
+      "lon": 2.738096796, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2240,8 +2233,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 50.85475291474, 
-      "lon": 2.74298221977, 
+      "lat": 50.854756630597, 
+      "lon": 2.743062208446, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2444,11 +2437,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.854676937791, 
-      "lon": 2.728510479343, 
+      "lat": 50.854677377232, 
+      "lon": 2.72850975375, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -2499,11 +2492,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.854523232958, 
-      "lon": 2.728720112283, 
+      "lat": 50.854522254278, 
+      "lon": 2.728720856682, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -2523,11 +2516,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.85448957502, 
-      "lon": 2.728827398931, 
+      "lat": 50.854490210084, 
+      "lon": 2.728827802932, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -2591,11 +2584,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.854423309428, 
-      "lon": 2.728975597159, 
+      "lat": 50.854421162396, 
+      "lon": 2.728976382303, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -2663,8 +2656,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.854309059813, 
-      "lon": 2.729229023621, 
+      "lat": 50.854275364562, 
+      "lon": 2.729217840287, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2835,8 +2828,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.854154626681, 
-      "lon": 2.730171942438, 
+      "lat": 50.85416596432, 
+      "lon": 2.730075947298, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2995,8 +2988,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.854904522624, 
-      "lon": 2.72727633904, 
+      "lat": 50.854982526983, 
+      "lon": 2.727369643306, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3143,11 +3136,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.85506903482, 
-      "lon": 2.727794487569, 
+      "lat": 50.855067196178, 
+      "lon": 2.727785176228, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3296,7 +3289,7 @@
       "lon": 2.731584010589, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3308,7 +3301,7 @@
       "lon": 2.731584010589, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3332,7 +3325,7 @@
       "lon": 2.731584010589, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3352,11 +3345,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.854606377795, 
-      "lon": 2.731686378843, 
+      "lat": 50.854562209749, 
+      "lon": 2.731691468152, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ieperstraat"
     }, 
     {
@@ -3373,11 +3366,11 @@
     }, 
     {
       "hnrlbls": [
-        "96"
+        "96-96A"
       ], 
       "housenumber": "96", 
-      "lat": 50.854715773568, 
-      "lon": 2.731767800704, 
+      "lat": 50.854633515962, 
+      "lon": 2.731820525131, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
       "source": "afgeleidVanGebouw", 
@@ -3391,14 +3384,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "96A"
+        "96-96A"
       ], 
       "housenumber": "96A", 
-      "lat": 50.854650543806, 
-      "lon": 2.731803596269, 
+      "lat": 50.854633515962, 
+      "lon": 2.731820525131, 
       "municipality": "Poperinge", 
       "pcode": "8970", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ieperstraat"
     }, 
     {

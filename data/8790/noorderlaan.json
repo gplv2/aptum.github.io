@@ -561,15 +561,34 @@
       "street": "Noorderlaan"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
-        "96"
+        "94-96"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.892108876168, 
+      "lon": 3.425963240179, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Noorderlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "94-96"
       ], 
       "housenumber": "96", 
       "lat": 50.892108876168, 
       "lon": 3.425963240179, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noorderlaan"
     }, 
     {

@@ -1,11 +1,10 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -147,6 +146,10 @@
       "street": "Dokter Persoonslaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "15E"
       ], 
@@ -247,6 +250,10 @@
       "street": "Dokter Persoonslaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -516,11 +523,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.060090760237, 
-      "lon": 4.36277918831, 
+      "lat": 51.059950890273, 
+      "lon": 4.362725713927, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dokter Persoonslaan"
     }, 
     {

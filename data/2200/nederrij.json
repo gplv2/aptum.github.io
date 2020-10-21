@@ -84,11 +84,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.182291702489, 
-      "lon": 4.83491739554, 
+      "lat": 51.182302147092, 
+      "lon": 4.834958402958, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nederrij"
     }, 
     {
@@ -1121,22 +1121,22 @@
     }, 
     {
       "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D", 
-        "E", 
-        "F"
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.182283057765, 
-      "lon": 4.834853094346, 
+      "lat": 51.182257551251, 
+      "lon": 4.834870430315, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nederrij"
     }, 
     {
@@ -1169,7 +1169,8 @@
     {
       "busnrs": [
         "101", 
-        "201"
+        "201", 
+        "B000"
       ], 
       "hnrlbls": [
         "93"

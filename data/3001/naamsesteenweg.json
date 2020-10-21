@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "100"
+        "2-102"
       ], 
       "housenumber": "100", 
-      "lat": 50.866242133585, 
-      "lon": 4.695777704574, 
+      "lat": 50.866198021146, 
+      "lon": 4.695768305482, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -106,7 +106,7 @@
       "lon": 4.695751348309, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -232,8 +232,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.865329897024, 
-      "lon": 4.696284004538, 
+      "lat": 50.865347299729, 
+      "lon": 4.696425751025, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -770,14 +770,14 @@
     }, 
     {
       "hnrlbls": [
-        "144"
+        "144-148D"
       ], 
       "housenumber": "144", 
-      "lat": 50.864421917858, 
-      "lon": 4.695556341211, 
+      "lat": 50.864398590092, 
+      "lon": 4.695185716909, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -794,19 +794,19 @@
     }, 
     {
       "hnrlbls": [
-        "146"
+        "144-148D"
       ], 
       "housenumber": "146", 
-      "lat": 50.864456961266, 
-      "lon": 4.695175327586, 
+      "lat": 50.864398590092, 
+      "lon": 4.695185716909, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "146C-148D"
+        "144-148D"
       ], 
       "housenumber": "146C", 
       "lat": 50.864398590092, 
@@ -830,7 +830,7 @@
     }, 
     {
       "hnrlbls": [
-        "146C-148D"
+        "144-148D"
       ], 
       "housenumber": "148", 
       "lat": 50.864398590092, 
@@ -842,7 +842,7 @@
     }, 
     {
       "hnrlbls": [
-        "146C-148D"
+        "144-148D"
       ], 
       "housenumber": "148C", 
       "lat": 50.864398590092, 
@@ -854,7 +854,7 @@
     }, 
     {
       "hnrlbls": [
-        "146C-148D"
+        "144-148D"
       ], 
       "housenumber": "148D", 
       "lat": 50.864398590092, 
@@ -885,11 +885,11 @@
         "150-154"
       ], 
       "housenumber": "150", 
-      "lat": 50.864380155473, 
-      "lon": 4.695606761341, 
+      "lat": 50.864372731016, 
+      "lon": 4.695722336767, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -914,11 +914,11 @@
         "150-154"
       ], 
       "housenumber": "152", 
-      "lat": 50.864380155473, 
-      "lon": 4.695606761341, 
+      "lat": 50.864372731016, 
+      "lon": 4.695722336767, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -943,11 +943,11 @@
         "150-154"
       ], 
       "housenumber": "154", 
-      "lat": 50.864380155473, 
-      "lon": 4.695606761341, 
+      "lat": 50.864372731016, 
+      "lon": 4.695722336767, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -1021,6 +1021,12 @@
       "street": "Naamsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "158-158D"
       ], 
@@ -1534,9 +1540,21 @@
     }, 
     {
       "hnrlbls": [
-        "192"
+        "192-192C"
       ], 
       "housenumber": "192", 
+      "lat": 50.861925467805, 
+      "lon": 4.69560641266, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "192-192C"
+      ], 
+      "housenumber": "192C", 
       "lat": 50.861925467805, 
       "lon": 4.69560641266, 
       "municipality": "Leuven", 
@@ -1644,7 +1662,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "199"
+        "199-199A"
       ], 
       "housenumber": "199", 
       "lat": 50.86285942534, 
@@ -1656,14 +1674,14 @@
     }, 
     {
       "hnrlbls": [
-        "199A"
+        "199-199A"
       ], 
       "housenumber": "199A", 
-      "lat": 50.862857659965, 
-      "lon": 4.696258782312, 
+      "lat": 50.86285942534, 
+      "lon": 4.696173994637, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -1695,19 +1713,19 @@
         "0101"
       ], 
       "hnrlbls": [
-        "201"
+        "201-203"
       ], 
       "housenumber": "201", 
-      "lat": 50.862780029439, 
-      "lon": 4.696244746015, 
+      "lat": 50.862774501487, 
+      "lon": 4.696164168856, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "203"
+        "201-203"
       ], 
       "housenumber": "203", 
       "lat": 50.862774501487, 
@@ -2438,21 +2456,6 @@
       "street": "Naamsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "255K"
-      ], 
-      "housenumber": "255K", 
-      "lat": 50.8609994967, 
-      "lon": 4.696137714284, 
-      "municipality": "Leuven", 
-      "pcode": "3001", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Naamsesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "256"
       ], 
@@ -3116,7 +3119,7 @@
         "0204"
       ], 
       "hnrlbls": [
-        "294"
+        "294-296"
       ], 
       "housenumber": "294", 
       "lat": 50.858497039133, 
@@ -3149,14 +3152,14 @@
         "0203"
       ], 
       "hnrlbls": [
-        "296"
+        "294-296"
       ], 
       "housenumber": "296", 
-      "lat": 50.858436244259, 
-      "lon": 4.695579111546, 
+      "lat": 50.858497039133, 
+      "lon": 4.695570019192, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -3885,11 +3888,11 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 50.858584654055, 
-      "lon": 4.69606461232, 
+      "lat": 50.858582947659, 
+      "lon": 4.696064032288, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -4347,6 +4350,18 @@
     }, 
     {
       "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "376", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "377"
       ], 
       "housenumber": "377", 
@@ -4358,19 +4373,20 @@
       "street": "Naamsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "51", 
-        "52", 
-        "61", 
-        "62"
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0603"
       ], 
       "hnrlbls": [
         "378-384"
@@ -4378,6 +4394,18 @@
       "housenumber": "378", 
       "lat": 50.855991226535, 
       "lon": 4.695172362532, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "378C", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -4409,38 +4437,38 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "26", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "36", 
-        "41", 
-        "42", 
-        "43", 
-        "44", 
-        "45", 
-        "46", 
-        "51", 
-        "52", 
-        "53", 
-        "54", 
-        "55", 
-        "56", 
-        "61", 
-        "62"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505", 
+        "0506", 
+        "0601", 
+        "0602"
       ], 
       "hnrlbls": [
         "378-384"
@@ -4448,6 +4476,54 @@
       "housenumber": "380", 
       "lat": 50.855991226535, 
       "lon": 4.695172362532, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "380C", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "380D", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "380E", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "380F", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -4471,30 +4547,30 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "41", 
-        "42", 
-        "43", 
-        "44", 
-        "51", 
-        "52", 
-        "53", 
-        "54", 
-        "61", 
-        "62", 
-        "63", 
-        "64"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604"
       ], 
       "hnrlbls": [
         "378-384"
@@ -4502,6 +4578,30 @@
       "housenumber": "382", 
       "lat": 50.855991226535, 
       "lon": 4.695172362532, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "382C", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "376-382D"
+      ], 
+      "housenumber": "382D", 
+      "lat": 50.855991137037, 
+      "lon": 4.695172219886, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -4521,18 +4621,17 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "51", 
-        "52", 
-        "61", 
-        "62"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "378-384"
@@ -5437,6 +5536,18 @@
       "housenumber": "471B", 
       "lat": 50.854117857074, 
       "lon": 4.696117087995, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "472"
+      ], 
+      "housenumber": "472", 
+      "lat": 50.849993375176, 
+      "lon": 4.69539844373, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

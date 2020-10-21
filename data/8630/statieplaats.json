@@ -2,9 +2,8 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "1/A101", 
+        "1/A201"
       ], 
       "hnrlbls": [
         "1"
@@ -115,6 +114,23 @@
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Statieplaats"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.073499762385, 
+      "lon": 2.669189918215, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Statieplaats"
     }, 
     {

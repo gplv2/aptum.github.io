@@ -108,8 +108,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.887741724606, 
-      "lon": 4.472716065212, 
+      "lat": 50.887751972774, 
+      "lon": 4.472715803812, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -117,10 +117,9 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "2"
+        "001", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "2"
@@ -365,8 +364,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.887961012985, 
-      "lon": 4.474177387178, 
+      "lat": 50.88796641112, 
+      "lon": 4.474172425236, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -419,11 +418,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.88762298585, 
-      "lon": 4.473906458631, 
+      "lat": 50.887696730049, 
+      "lon": 4.473872090284, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nijverheidsstraat"
     }, 
     {
@@ -479,11 +478,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.887552959027, 
-      "lon": 4.471485195642, 
+      "lat": 50.887542329481, 
+      "lon": 4.471408144841, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nijverheidsstraat"
     }, 
     {
@@ -503,8 +502,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.887782532136, 
-      "lon": 4.474421284246, 
+      "lat": 50.887778756203, 
+      "lon": 4.474421702048, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -557,18 +556,6 @@
       "street": "Nijverheidsstraat"
     }, 
     {
-      "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 50.887542511021, 
-      "lon": 4.471406155603, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Nijverheidsstraat"
-    }, 
-    {
       "apptnrs": [
         "011", 
         "021"
@@ -592,35 +579,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.887614239167, 
-      "lon": 4.471414556227, 
+      "lat": 50.887672462314, 
+      "lon": 4.471446660754, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nijverheidsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7A-7B"
-      ], 
-      "housenumber": "7A", 
-      "lat": 50.887685967312, 
-      "lon": 4.471422956876, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Nijverheidsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7A-7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 50.887685967312, 
-      "lon": 4.471422956876, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nijverheidsstraat"
     }, 
     {

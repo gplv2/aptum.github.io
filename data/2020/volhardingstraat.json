@@ -70,10 +70,10 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "106"
@@ -107,6 +107,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -154,10 +155,6 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -322,6 +319,11 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -621,14 +623,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "39-46"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.189999820241, 
-      "lon": 4.391212028662, 
+      "lat": 51.190048425145, 
+      "lon": 4.391328342808, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Volhardingstraat"
     }, 
     {
@@ -805,8 +807,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.189240445645, 
-      "lon": 4.391798527285, 
+      "lat": 51.189239548892, 
+      "lon": 4.391788085224, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -837,6 +839,11 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -865,11 +872,11 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "56"
@@ -1034,8 +1041,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.191487276377, 
-      "lon": 4.391004210701, 
+      "lat": 51.191489070712, 
+      "lon": 4.391021519735, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1082,8 +1089,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.191937457087, 
-      "lon": 4.390811751881, 
+      "lat": 51.191939344256, 
+      "lon": 4.390813898461, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1294,16 +1301,23 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.192711794346, 
-      "lon": 4.390450222282, 
+      "lat": 51.19271619827, 
+      "lon": 4.390452513137, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

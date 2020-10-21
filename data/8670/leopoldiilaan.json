@@ -501,7 +501,7 @@
       "lon": 2.676729774602, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -537,7 +537,7 @@
       "lon": 2.676694533773, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -2038,17 +2038,22 @@
     }, 
     {
       "hnrlbls": [
-        "223A-227"
+        "223A"
       ], 
       "housenumber": "223A", 
-      "lat": 51.131053253189, 
-      "lon": 2.672205100545, 
+      "lat": 51.131013931761, 
+      "lon": 2.672234249677, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold II Laan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "224"
       ], 
@@ -2089,7 +2094,7 @@
         "501"
       ], 
       "hnrlbls": [
-        "223A-227"
+        "225"
       ], 
       "housenumber": "225", 
       "lat": 51.131053253189, 
@@ -2131,11 +2136,11 @@
     }, 
     {
       "hnrlbls": [
-        "223A-227"
+        "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.131053253189, 
-      "lon": 2.672205100545, 
+      "lat": 51.131090889783, 
+      "lon": 2.672177584377, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2532,7 +2537,7 @@
       "lon": 2.672872396464, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -2577,6 +2582,26 @@
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Leopold II Laan"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
+      ], 
+      "hnrlbls": [
+        "260"
+      ], 
+      "housenumber": "260", 
+      "lat": 51.13117497641, 
+      "lon": 2.672735823862, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -3600,19 +3625,17 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
         "101", 
-        "102", 
         "201", 
         "202", 
         "301"
       ], 
       "hnrlbls": [
-        "68-68A"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.118735103499, 
-      "lon": 2.681049465477, 
+      "lat": 51.118722622791, 
+      "lon": 2.680912345064, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3621,19 +3644,17 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
-        "101", 
         "102", 
         "201", 
         "202", 
         "301"
       ], 
       "hnrlbls": [
-        "68-68A"
+        "68A"
       ], 
       "housenumber": "68A", 
-      "lat": 51.118735103499, 
-      "lon": 2.681049465477, 
+      "lat": 51.1187537257, 
+      "lon": 2.681094221578, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3727,6 +3748,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "002", 
         "003", 
         "102", 

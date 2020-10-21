@@ -49,8 +49,12 @@
       "street": "Vis\u00e9weg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "129-129b"
+        "129"
       ], 
       "housenumber": "129", 
       "lat": 50.781452514549, 
@@ -58,21 +62,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "129-129b"
-      ], 
-      "housenumber": "129b", 
-      "lat": 50.781452514549, 
-      "lon": 5.517546632483, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -143,11 +132,11 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.780933293759, 
-      "lon": 5.518233936862, 
+      "lat": 50.781028096307, 
+      "lon": 5.518248165574, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -244,18 +233,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
-        "160"
-      ], 
-      "housenumber": "160", 
-      "lat": 50.780462277387, 
-      "lon": 5.520354833528, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -1063,6 +1040,18 @@
     }, 
     {
       "hnrlbls": [
+        "278"
+      ], 
+      "housenumber": "278", 
+      "lat": 50.772355379978, 
+      "lon": 5.527469610055, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vis\u00e9weg"
+    }, 
+    {
+      "hnrlbls": [
         "279"
       ], 
       "housenumber": "279", 
@@ -1472,11 +1461,35 @@
     }, 
     {
       "hnrlbls": [
+        "338"
+      ], 
+      "housenumber": "338", 
+      "lat": 50.768008207452, 
+      "lon": 5.53013026403, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vis\u00e9weg"
+    }, 
+    {
+      "hnrlbls": [
         "339"
       ], 
       "housenumber": "339", 
       "lat": 50.767477514088, 
       "lon": 5.529710139495, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vis\u00e9weg"
+    }, 
+    {
+      "hnrlbls": [
+        "342"
+      ], 
+      "housenumber": "342", 
+      "lat": 50.767826795797, 
+      "lon": 5.53024572652, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1780,18 +1793,6 @@
     }, 
     {
       "hnrlbls": [
-        "379"
-      ], 
-      "housenumber": "379", 
-      "lat": 50.764940395335, 
-      "lon": 5.530887843148, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -1815,26 +1816,14 @@
       "street": "Vis\u00e9weg"
     }, 
     {
-      "hnrlbls": [
-        "381-381B"
-      ], 
-      "housenumber": "381", 
-      "lat": 50.764788141939, 
-      "lon": 5.530783147471, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "381-381B"
+        "381"
       ], 
-      "housenumber": "381B", 
+      "housenumber": "381", 
       "lat": 50.764788141939, 
       "lon": 5.530783147471, 
       "municipality": "Tongeren", 
@@ -1911,18 +1900,6 @@
         "388"
       ], 
       "housenumber": "388", 
-      "lat": 50.764808287668, 
-      "lon": 5.531642166474, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
-        "388B"
-      ], 
-      "housenumber": "388B", 
       "lat": 50.764741686124, 
       "lon": 5.531694390852, 
       "municipality": "Tongeren", 
@@ -1935,8 +1912,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.785562659812, 
-      "lon": 5.50610012921, 
+      "lat": 50.785562386021, 
+      "lon": 5.506100548066, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1967,15 +1944,22 @@
       "street": "Vis\u00e9weg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "393"
       ], 
       "housenumber": "393", 
-      "lat": 50.764166868192, 
-      "lon": 5.530340394708, 
+      "lat": 50.76421774109, 
+      "lon": 5.530405301544, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -1995,8 +1979,8 @@
         "395"
       ], 
       "housenumber": "395", 
-      "lat": 50.764411796784, 
-      "lon": 5.530329428825, 
+      "lat": 50.764292636736, 
+      "lon": 5.530205847961, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2080,17 +2064,18 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
-        "401b"
+        "401"
       ], 
-      "housenumber": "401b", 
-      "lat": 50.76355359358, 
-      "lon": 5.529616882765, 
+      "housenumber": "401", 
+      "lat": 50.763625311296, 
+      "lon": 5.529737588655, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -2174,18 +2159,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
-        "406"
-      ], 
-      "housenumber": "406", 
-      "lat": 50.764138150841, 
-      "lon": 5.530941606314, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -2334,30 +2307,6 @@
     }, 
     {
       "hnrlbls": [
-        "430"
-      ], 
-      "housenumber": "430", 
-      "lat": 50.762027347431, 
-      "lon": 5.528725159409, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
-        "436"
-      ], 
-      "housenumber": "436", 
-      "lat": 50.761877703076, 
-      "lon": 5.52857475472, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Vis\u00e9weg"
-    }, 
-    {
-      "hnrlbls": [
         "441"
       ], 
       "housenumber": "441", 
@@ -2469,11 +2418,11 @@
         "453"
       ], 
       "housenumber": "453", 
-      "lat": 50.760390462228, 
-      "lon": 5.527819854451, 
+      "lat": 50.760441957569, 
+      "lon": 5.528012627655, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vis\u00e9weg"
     }, 
     {
@@ -2531,6 +2480,18 @@
       "housenumber": "460", 
       "lat": 50.76128496048, 
       "lon": 5.527883134325, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vis\u00e9weg"
+    }, 
+    {
+      "hnrlbls": [
+        "461B"
+      ], 
+      "housenumber": "461B", 
+      "lat": 50.759888498491, 
+      "lon": 5.528446496462, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

@@ -5,11 +5,11 @@
         "275A"
       ], 
       "housenumber": "275A", 
-      "lat": 50.937845828483, 
-      "lon": 5.314554696095, 
+      "lat": 50.937844573524, 
+      "lon": 5.314554243934, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -170,8 +170,8 @@
         "320"
       ], 
       "housenumber": "320", 
-      "lat": 50.938317017512, 
-      "lon": 5.311063066092, 
+      "lat": 50.938319076887, 
+      "lon": 5.311064103462, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -206,8 +206,8 @@
         "324"
       ], 
       "housenumber": "324", 
-      "lat": 50.938074201015, 
-      "lon": 5.309818345624, 
+      "lat": 50.938043010334, 
+      "lon": 5.3097729009, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -230,8 +230,8 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 50.939493233826, 
-      "lon": 5.309497663921, 
+      "lat": 50.939497264995, 
+      "lon": 5.309499452247, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -254,8 +254,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.939522814018, 
-      "lon": 5.309418719832, 
+      "lat": 50.939518993388, 
+      "lon": 5.309413094023, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -411,18 +411,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "342"
-      ], 
-      "housenumber": "342", 
-      "lat": 50.939165143247, 
-      "lon": 5.30785238794, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -632,15 +620,18 @@
       "street": "Kuringersteenweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "405"
       ], 
       "housenumber": "405", 
-      "lat": 50.942603233534, 
-      "lon": 5.292396191078, 
+      "lat": 50.942594496724, 
+      "lon": 5.292398295633, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -801,26 +792,26 @@
     }, 
     {
       "hnrlbls": [
-        "437-437A"
+        "437"
       ], 
       "housenumber": "437", 
-      "lat": 50.943296403936, 
-      "lon": 5.288186057379, 
+      "lat": 50.943136971256, 
+      "lon": 5.288397939537, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
       "hnrlbls": [
-        "437-437A"
+        "437A"
       ], 
       "housenumber": "437A", 
-      "lat": 50.943296403936, 
-      "lon": 5.288186057379, 
+      "lat": 50.943197497791, 
+      "lon": 5.287901089861, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -840,15 +831,12 @@
       "street": "Kuringersteenweg"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "439"
       ], 
       "housenumber": "439", 
-      "lat": 50.943246522155, 
-      "lon": 5.287414828047, 
+      "lat": 50.943241553957, 
+      "lon": 5.287417861197, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "manueleAanduidingVanGebouw", 
@@ -870,18 +858,6 @@
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "441"
-      ], 
-      "housenumber": "441", 
-      "lat": 50.943269909141, 
-      "lon": 5.287160291003, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Kuringersteenweg"
     }, 
     {
@@ -1050,18 +1026,6 @@
     }, 
     {
       "hnrlbls": [
-        "480"
-      ], 
-      "housenumber": "480", 
-      "lat": 50.94288932077, 
-      "lon": 5.285451550544, 
-      "municipality": "Hasselt", 
-      "pcode": "3511", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Kuringersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "484"
       ], 
       "housenumber": "484", 
@@ -1091,6 +1055,18 @@
       "housenumber": "488", 
       "lat": 50.94296997838, 
       "lon": 5.284781065935, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kuringersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "489"
+      ], 
+      "housenumber": "489", 
+      "lat": 50.943434014577, 
+      "lon": 5.285510015074, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -1132,11 +1108,35 @@
     }, 
     {
       "hnrlbls": [
+        "491A"
+      ], 
+      "housenumber": "491A", 
+      "lat": 50.944513837984, 
+      "lon": 5.285539246454, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kuringersteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "492"
       ], 
       "housenumber": "492", 
       "lat": 50.942938557918, 
       "lon": 5.284383447516, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kuringersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "493"
+      ], 
+      "housenumber": "493", 
+      "lat": 50.943925223504, 
+      "lon": 5.284104179592, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 

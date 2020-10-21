@@ -176,12 +176,9 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "22"
@@ -191,7 +188,7 @@
       "lon": 4.435592269496, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eenenboomlaan"
     }, 
     {
@@ -208,7 +205,8 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "24"
@@ -227,9 +225,6 @@
         "021", 
         "X001", 
         "X031"
-      ], 
-      "busnrs": [
-        "31"
       ], 
       "hnrlbls": [
         "24A"

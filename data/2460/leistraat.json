@@ -397,22 +397,22 @@
     }, 
     {
       "busnrs": [
-        "Bus1", 
-        "Bus2", 
-        "Bus3", 
-        "Bus4", 
-        "Bus5", 
-        "Bus6"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.225216431713, 
-      "lon": 4.922042236225, 
+      "lat": 51.225115636614, 
+      "lon": 4.922010833968, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leistraat"
     }, 
     {
@@ -448,19 +448,19 @@
     }, 
     {
       "busnrs": [
-        "Bus1", 
-        "Bus2", 
-        "Bus4", 
-        "Bus5", 
-        "Bus6", 
-        "bus 3"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.225074838671, 
-      "lon": 4.921759121699, 
+      "lat": 51.225068241998, 
+      "lon": 4.921824176409, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -632,6 +632,10 @@
       "street": "Leistraat"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -796,11 +800,11 @@
         "47-47A"
       ], 
       "housenumber": "47", 
-      "lat": 51.224248762826, 
-      "lon": 4.91856801177, 
+      "lat": 51.224373163471, 
+      "lon": 4.918491179008, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leistraat"
     }, 
     {
@@ -814,11 +818,11 @@
         "47-47A"
       ], 
       "housenumber": "47A", 
-      "lat": 51.224248762826, 
-      "lon": 4.91856801177, 
+      "lat": 51.224373163471, 
+      "lon": 4.918491179008, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leistraat"
     }, 
     {
@@ -1093,6 +1097,26 @@
       "street": "Leistraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.224437414292, 
+      "lon": 4.916347443835, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Leistraat"
+    }, 
+    {
       "hnrlbls": [
         "64"
       ], 
@@ -1102,6 +1126,25 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leistraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.223994727563, 
+      "lon": 4.916637548547, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leistraat"
     }, 
     {
@@ -1119,6 +1162,37 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leistraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "67-67A"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.224000274969, 
+      "lon": 4.916643053374, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Leistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "67-67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 51.224000274969, 
+      "lon": 4.916643053374, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leistraat"
     }, 
     {

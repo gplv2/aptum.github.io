@@ -614,51 +614,15 @@
       "street": "de Merodelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "20", 
-        "21", 
-        "24", 
-        "25", 
-        "26", 
-        "29", 
-        "3", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "36", 
-        "37", 
-        "38", 
-        "39", 
-        "4", 
-        "40", 
-        "41", 
-        "42", 
-        "43", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.321682531343, 
-      "lon": 4.9351652439, 
+      "lat": 51.32182572558, 
+      "lon": 4.935125389598, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "de Merodelei"
     }, 
     {
@@ -674,12 +638,6 @@
       "street": "de Merodelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -1140,6 +1098,10 @@
       "street": "de Merodelei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "176"
       ], 
@@ -2736,6 +2698,30 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "de Merodelei"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.322284357907, 
+      "lon": 4.941316927496, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "de Merodelei"
+    }, 
+    {
+      "hnrlbls": [
+        "38B"
+      ], 
+      "housenumber": "38B", 
+      "lat": 51.322297732687, 
+      "lon": 4.94141349003, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "de Merodelei"
     }, 
     {

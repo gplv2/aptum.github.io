@@ -26,7 +26,7 @@
     }, 
     {
       "hnrlbls": [
-        "103-105A"
+        "103-105"
       ], 
       "housenumber": "103", 
       "lat": 50.965104956176, 
@@ -41,7 +41,7 @@
         "21"
       ], 
       "hnrlbls": [
-        "103-105A"
+        "103-105"
       ], 
       "housenumber": "103A", 
       "lat": 50.965104956176, 
@@ -56,7 +56,7 @@
         "11"
       ], 
       "hnrlbls": [
-        "103-105A"
+        "103-105"
       ], 
       "housenumber": "105", 
       "lat": 50.965104956176, 
@@ -68,14 +68,14 @@
     }, 
     {
       "hnrlbls": [
-        "103-105A"
+        "105A"
       ], 
       "housenumber": "105A", 
-      "lat": 50.965104956176, 
-      "lon": 3.984933389479, 
+      "lat": 50.965101895252, 
+      "lon": 3.984931990953, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -190,14 +190,12 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "apptnrs": [
-        "A"
-      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "A"
       ], 
       "hnrlbls": [
         "13-15"
@@ -277,16 +275,22 @@
       "lon": 3.97913790002, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
-        "20"
+        "20-24"
       ], 
       "housenumber": "20", 
-      "lat": 50.965534693251, 
-      "lon": 3.980613385411, 
+      "lat": 50.965538829457, 
+      "lon": 3.980750154554, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -305,24 +309,35 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
-        "22-24"
+        "20-24"
       ], 
       "housenumber": "22", 
-      "lat": 50.965570317192, 
-      "lon": 3.980703201922, 
+      "lat": 50.965538829457, 
+      "lon": 3.980750154554, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
-        "22-24"
+        "20-24"
       ], 
       "housenumber": "24", 
-      "lat": 50.965570317192, 
-      "lon": 3.980703201922, 
+      "lat": 50.965538829457, 
+      "lon": 3.980750154554, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -338,18 +353,6 @@
       "housenumber": "25", 
       "lat": 50.965361506399, 
       "lon": 3.979317396301, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.965608408555, 
-      "lon": 3.980832572985, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -512,8 +515,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.965682656525, 
-      "lon": 3.981459748013, 
+      "lat": 50.96569712285, 
+      "lon": 3.981457778109, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -584,8 +587,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.965299736067, 
-      "lon": 3.980402364688, 
+      "lat": 50.965298027674, 
+      "lon": 3.980402236458, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -608,8 +611,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.965317852499, 
-      "lon": 3.980553253034, 
+      "lat": 50.965333969214, 
+      "lon": 3.98056109169, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -753,8 +756,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.965378422748, 
-      "lon": 3.98128502494, 
+      "lat": 50.965352167157, 
+      "lon": 3.98128296385, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -777,8 +780,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.96537909272, 
-      "lon": 3.981379400568, 
+      "lat": 50.96538008105, 
+      "lon": 3.981379250063, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -789,8 +792,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.965746324888, 
-      "lon": 3.978742504767, 
+      "lat": 50.965746503256, 
+      "lon": 3.978742076218, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1192,8 +1195,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.965292437307, 
-      "lon": 3.98426079895, 
+      "lat": 50.965295596493, 
+      "lon": 3.984264759014, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 

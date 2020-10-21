@@ -29,7 +29,7 @@
       "lon": 3.232514673264, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markekerkstraat"
     }, 
     {
@@ -156,11 +156,11 @@
     }, 
     {
       "hnrlbls": [
-        "22-22A"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.808161423499, 
-      "lon": 3.231949477338, 
+      "lat": 50.80812868053, 
+      "lon": 3.231892091727, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "afgeleidVanGebouw", 
@@ -168,7 +168,7 @@
     }, 
     {
       "hnrlbls": [
-        "22-22A"
+        "22A"
       ], 
       "housenumber": "22A", 
       "lat": 50.808161423499, 
@@ -408,15 +408,23 @@
       "street": "Markekerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.808617667645, 
-      "lon": 3.231288011922, 
+      "lat": 50.808562664723, 
+      "lon": 3.231197393151, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markekerkstraat"
     }, 
     {

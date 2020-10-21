@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.009056366278, 
-      "lon": 3.478082814061, 
+      "lat": 51.009054966593, 
+      "lon": 3.47804037693, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.015136936194, 
-      "lon": 3.474632435185, 
+      "lat": 51.015119098604, 
+      "lon": 3.4745682165, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -130,11 +130,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.021701586375, 
-      "lon": 3.4745160271, 
+      "lat": 51.021708895208, 
+      "lon": 3.47462620919, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -154,14 +154,18 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.009240710674, 
-      "lon": 3.477983126536, 
+      "lat": 51.009236698098, 
+      "lon": 3.477904259846, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -298,11 +302,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.009728175487, 
-      "lon": 3.477774794213, 
+      "lat": 51.009711204815, 
+      "lon": 3.477741772302, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -322,11 +326,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.00982645534, 
-      "lon": 3.477694552291, 
+      "lat": 51.009806575928, 
+      "lon": 3.477597889019, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -386,14 +390,26 @@
     }, 
     {
       "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 51.009917634027, 
+      "lon": 3.477127385628, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Lotenhullestraat"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.010149267661, 
-      "lon": 3.477978686656, 
+      "lat": 51.010171721079, 
+      "lon": 3.478071026911, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -445,19 +461,15 @@
       "street": "Lotenhullestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.010461011304, 
-      "lon": 3.477251285156, 
+      "lat": 51.010415822676, 
+      "lon": 3.477100809687, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -465,11 +477,11 @@
         "36B"
       ], 
       "housenumber": "36B", 
-      "lat": 51.010509816315, 
-      "lon": 3.47721444693, 
+      "lat": 51.010469455863, 
+      "lon": 3.477084257004, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -477,11 +489,11 @@
         "36C"
       ], 
       "housenumber": "36C", 
-      "lat": 51.010559819297, 
-      "lon": 3.477169605824, 
+      "lat": 51.010517069675, 
+      "lon": 3.477044448752, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -489,11 +501,11 @@
         "36D"
       ], 
       "housenumber": "36D", 
-      "lat": 51.010614855776, 
-      "lon": 3.477124668881, 
+      "lat": 51.010572339106, 
+      "lon": 3.477030287348, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -501,11 +513,11 @@
         "36E"
       ], 
       "housenumber": "36E", 
-      "lat": 51.010669877137, 
-      "lon": 3.477077737109, 
+      "lat": 51.010615619768, 
+      "lon": 3.476999966419, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -633,11 +645,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.017543615461, 
-      "lon": 3.47047904822, 
+      "lat": 51.017604015196, 
+      "lon": 3.470560125753, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -645,11 +657,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.018867901537, 
-      "lon": 3.47284182765, 
+      "lat": 51.018871595447, 
+      "lon": 3.472842897243, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -700,8 +712,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.011422831927, 
-      "lon": 3.477799299359, 
+      "lat": 51.011679005911, 
+      "lon": 3.477711778111, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -712,11 +724,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.021781938658, 
-      "lon": 3.470213227922, 
+      "lat": 51.021780860053, 
+      "lon": 3.470213248602, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -724,11 +736,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.01133347843, 
-      "lon": 3.477122684997, 
+      "lat": 51.011327043763, 
+      "lon": 3.47718707609, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -868,11 +880,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.012529374634, 
-      "lon": 3.475887778102, 
+      "lat": 51.012505232863, 
+      "lon": 3.475821972543, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {

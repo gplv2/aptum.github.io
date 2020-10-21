@@ -1,6 +1,26 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.171742458356, 
+      "lon": 5.57763160245, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brogelerweg"
+    }, 
+    {
       "hnrlbls": [
         "100"
       ], 
@@ -325,6 +345,18 @@
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brogelerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "130A"
+      ], 
+      "housenumber": "130A", 
+      "lat": 51.171292109806, 
+      "lon": 5.560264241604, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brogelerweg"
     }, 
     {
@@ -1286,6 +1318,18 @@
       "housenumber": "82", 
       "lat": 51.169882891883, 
       "lon": 5.567799826937, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brogelerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 51.170479289872, 
+      "lon": 5.562992018783, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "manueleAanduidingVanGebouw", 

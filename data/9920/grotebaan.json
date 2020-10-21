@@ -29,11 +29,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.101173719072, 
-      "lon": 3.632882585315, 
+      "lat": 51.101108914859, 
+      "lon": 3.632883889987, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -149,11 +149,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.101933805174, 
-      "lon": 3.630787821674, 
+      "lat": 51.101851535242, 
+      "lon": 3.630698599606, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -185,8 +185,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.101089914924, 
-      "lon": 3.634278652364, 
+      "lat": 51.101080349241, 
+      "lon": 3.634258243209, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -497,8 +497,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.094445948274, 
-      "lon": 3.642059015883, 
+      "lat": 51.094439630278, 
+      "lon": 3.642040270657, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +533,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.104651599993, 
-      "lon": 3.624971486705, 
+      "lat": 51.104649481546, 
+      "lon": 3.624991938494, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -653,11 +653,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.104386751608, 
-      "lon": 3.626853010196, 
+      "lat": 51.104384866008, 
+      "lon": 3.626839047345, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -729,8 +729,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.105148223003, 
-      "lon": 3.625166204622, 
+      "lat": 51.105148114282, 
+      "lon": 3.625177486406, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -857,7 +857,7 @@
       "street": "Grote Baan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0001", 
         "0002", 
         "1001", 
@@ -867,11 +867,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.105437306201, 
-      "lon": 3.624109274386, 
+      "lat": 51.105411558131, 
+      "lon": 3.624174366393, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -982,8 +982,8 @@
         "190A"
       ], 
       "housenumber": "190A", 
-      "lat": 51.106138773354, 
-      "lon": 3.623374600362, 
+      "lat": 51.105966936321, 
+      "lon": 3.622853876905, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1407,7 +1407,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "221"
+        "221-221000"
       ], 
       "housenumber": "221", 
       "lat": 51.109586250842, 
@@ -1422,8 +1422,8 @@
         "221_0001"
       ], 
       "housenumber": "221_0001", 
-      "lat": 51.10954495254, 
-      "lon": 3.613583861254, 
+      "lat": 51.10952109512, 
+      "lon": 3.613648505959, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1431,11 +1431,11 @@
     }, 
     {
       "hnrlbls": [
-        "221_0002"
+        "221-221000"
       ], 
       "housenumber": "221_0002", 
-      "lat": 51.109652931991, 
-      "lon": 3.613488441763, 
+      "lat": 51.109586250842, 
+      "lon": 3.613589763383, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1535,11 +1535,47 @@
     }, 
     {
       "hnrlbls": [
-        "226"
+        "226A"
       ], 
-      "housenumber": "226", 
-      "lat": 51.108582529195, 
-      "lon": 3.616676083531, 
+      "housenumber": "226A", 
+      "lat": 51.108339205253, 
+      "lon": 3.616636014078, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "226B"
+      ], 
+      "housenumber": "226B", 
+      "lat": 51.108372430172, 
+      "lon": 3.616559941104, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "226C"
+      ], 
+      "housenumber": "226C", 
+      "lat": 51.108405743106, 
+      "lon": 3.616483581014, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "226D"
+      ], 
+      "housenumber": "226D", 
+      "lat": 51.10843905781, 
+      "lon": 3.616407506377, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1552,18 +1588,6 @@
       "housenumber": "227", 
       "lat": 51.110177802033, 
       "lon": 3.612967026481, 
-      "municipality": "Lievegem", 
-      "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "228"
-      ], 
-      "housenumber": "228", 
-      "lat": 51.108594381185, 
-      "lon": 3.616166110496, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1757,8 +1781,8 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.109587576195, 
-      "lon": 3.614866082113, 
+      "lat": 51.109585384739, 
+      "lon": 3.614874828183, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1769,8 +1793,8 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.111981506689, 
-      "lon": 3.611973369594, 
+      "lat": 51.111978322346, 
+      "lon": 3.611967423229, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1832,8 +1856,8 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 51.1100901946, 
-      "lon": 3.614111134193, 
+      "lat": 51.110096331285, 
+      "lon": 3.614114890825, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1902,6 +1926,18 @@
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "253"
+      ], 
+      "housenumber": "253", 
+      "lat": 51.118170791924, 
+      "lon": 3.609108840555, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Grote Baan"
     }, 
     {
@@ -2181,8 +2217,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.094511805524, 
-      "lon": 3.643193162827, 
+      "lat": 51.094510623872, 
+      "lon": 3.643191039857, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -2427,18 +2463,6 @@
     }, 
     {
       "hnrlbls": [
-        "29-49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.096380215821, 
-      "lon": 3.639488022303, 
-      "municipality": "Lievegem", 
-      "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -2572,8 +2596,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.090900506473, 
-      "lon": 3.651153462116, 
+      "lat": 51.090896095705, 
+      "lon": 3.651137685434, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -2632,11 +2656,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.093690095258, 
-      "lon": 3.643280274781, 
+      "lat": 51.093669922767, 
+      "lon": 3.643303570251, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -2896,8 +2920,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.099735607349, 
-      "lon": 3.636146195568, 
+      "lat": 51.099747202423, 
+      "lon": 3.636174996106, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 

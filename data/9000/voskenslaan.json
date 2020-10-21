@@ -3383,7 +3383,8 @@
         "0001", 
         "0101", 
         "0201", 
-        "0301"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "40"
@@ -4303,6 +4304,15 @@
       "street": "Voskenslaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "464"
       ], 
@@ -4324,6 +4334,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Voskenslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "466"
+      ], 
+      "housenumber": "466", 
+      "lat": 51.026196488717, 
+      "lon": 3.710218152118, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voskenslaan"
     }, 
     {

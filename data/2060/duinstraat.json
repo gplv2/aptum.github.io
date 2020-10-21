@@ -48,6 +48,9 @@
       "street": "Duinstraat"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -120,6 +123,14 @@
       "street": "Duinstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "111-113"
       ], 
@@ -623,6 +634,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.22199120187, 
+      "lon": 4.426779646822, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Duinstraat"
+    }, 
+    {
+      "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
@@ -691,8 +714,8 @@
         "18-20"
       ], 
       "housenumber": "18", 
-      "lat": 51.222012186352, 
-      "lon": 4.428128446202, 
+      "lat": 51.22204041488, 
+      "lon": 4.428118606162, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -727,8 +750,8 @@
         "18-20"
       ], 
       "housenumber": "20", 
-      "lat": 51.222012186352, 
-      "lon": 4.428128446202, 
+      "lat": 51.22204041488, 
+      "lon": 4.428118606162, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -739,8 +762,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.222317752068, 
-      "lon": 4.426955973686, 
+      "lat": 51.222347881381, 
+      "lon": 4.426919368599, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1017,6 +1040,11 @@
       "street": "Duinstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1346,7 +1374,10 @@
     {
       "apptnrs": [
         "001", 
-        "101"
+        "101", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
         "68"
@@ -1372,6 +1403,23 @@
       "street": "Duinstraat"
     }, 
     {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.221955383239, 
+      "lon": 4.426507356886, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Duinstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1634,18 +1682,6 @@
       "housenumber": "97", 
       "lat": 51.22260267784, 
       "lon": 4.430811757574, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Duinstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.222609737079, 
-      "lon": 4.430890063614, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

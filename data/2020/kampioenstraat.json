@@ -1,9 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "1"
@@ -17,8 +18,10 @@
       "street": "Kampioenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "11"
@@ -32,9 +35,6 @@
       "street": "Kampioenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -129,8 +129,10 @@
       "street": "Kampioenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "20"
@@ -153,8 +155,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.184085178225, 
-      "lon": 4.386797788826, 
+      "lat": 51.184083559634, 
+      "lon": 4.386801935752, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -256,6 +258,11 @@
       "street": "Kampioenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -269,6 +276,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -405,6 +413,11 @@
       "street": "Kampioenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -504,6 +517,10 @@
       "street": "Kampioenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "50"
       ], 

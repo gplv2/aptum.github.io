@@ -2,27 +2,29 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "102"
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.133051462111, 
-      "lon": 2.752525071409, 
+      "lat": 51.133050656403, 
+      "lon": 2.75246622551, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "11-11B"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.132715165309, 
@@ -33,50 +35,38 @@
       "street": "Oostendestraat"
     }, 
     {
-      "hnrlbls": [
-        "11-11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 51.132715165309, 
-      "lon": 2.752029705921, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostendestraat"
-    }, 
-    {
       "busnrs": [
-        "1", 
-        "101", 
-        "201"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.132977835752, 
-      "lon": 2.75245345419, 
+      "lat": 51.132979111186, 
+      "lon": 2.752434976328, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "104"
+        "0101", 
+        "0102", 
+        "0103"
       ], 
       "hnrlbls": [
-        "13-15"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.132599104304, 
-      "lon": 2.751846670203, 
+      "lat": 51.132625336768, 
+      "lon": 2.752028955488, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
@@ -88,12 +78,12 @@
       "lon": 2.752440468439, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "hnrlbls": [
-        "13-15"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.132599104304, 
@@ -108,26 +98,27 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.132862115303, 
-      "lon": 2.752531620196, 
+      "lat": 51.132864380203, 
+      "lon": 2.752440945215, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.132359562645, 
-      "lon": 2.752008856773, 
+      "lat": 51.13239028819, 
+      "lon": 2.752079384404, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
@@ -135,11 +126,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.132791380568, 
-      "lon": 2.752480766161, 
+      "lat": 51.132796898867, 
+      "lon": 2.752437277595, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
@@ -147,17 +138,18 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.132819740617, 
-      "lon": 2.752201279427, 
+      "lat": 51.132332568928, 
+      "lon": 2.752072950399, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "2"
@@ -220,41 +212,44 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.132468494753, 
-      "lon": 2.752446064243, 
+      "lat": 51.132471904964, 
+      "lon": 2.752393074875, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "202", 
-        "302"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "3-18A"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.133147645865, 
-      "lon": 2.751735949751, 
+      "lat": 51.133135961779, 
+      "lon": 2.75206444735, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
       "lat": 51.132387188484, 
@@ -265,56 +260,50 @@
       "street": "Oostendestraat"
     }, 
     {
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.132387188484, 
-      "lon": 2.752358566494, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostendestraat"
-    }, 
-    {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.133260235242, 
-      "lon": 2.75249927392, 
+      "lat": 51.133261283642, 
+      "lon": 2.752451080988, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "102", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "3-18A"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.133147645865, 
-      "lon": 2.751735949751, 
+      "lat": 51.133003960865, 
+      "lon": 2.752063298182, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "201", 
-        "301"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "6"
@@ -324,19 +313,7 @@
       "lon": 2.752451167016, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostendestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.133060634426, 
-      "lon": 2.751934301577, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {
@@ -348,7 +325,7 @@
       "lon": 2.752448676336, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostendestraat"
     }, 
     {

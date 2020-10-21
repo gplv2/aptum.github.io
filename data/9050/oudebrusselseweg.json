@@ -1621,8 +1621,13 @@
       "street": "Oude Brusselseweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "248-250"
+        "248"
       ], 
       "housenumber": "248", 
       "lat": 51.037596519942, 
@@ -1639,18 +1644,6 @@
       "housenumber": "25", 
       "lat": 51.04200824838, 
       "lon": 3.745039694971, 
-      "municipality": "Gent", 
-      "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Oude Brusselseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "248-250"
-      ], 
-      "housenumber": "250", 
-      "lat": 51.037596519942, 
-      "lon": 3.754084342942, 
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2909,18 +2902,6 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.040944459687, 
-      "lon": 3.747611731495, 
-      "municipality": "Gent", 
-      "pcode": "9050", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oude Brusselseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "78"
-      ], 
-      "housenumber": "78", 
       "lat": 51.04115830914, 
       "lon": 3.747730096941, 
       "municipality": "Gent", 
@@ -2945,23 +2926,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.041135220875, 
-      "lon": 3.747835205165, 
+      "lat": 51.04113198129, 
+      "lon": 3.747902834845, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Oude Brusselseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "80A"
-      ], 
-      "housenumber": "80A", 
-      "lat": 51.041120570194, 
-      "lon": 3.747903841552, 
-      "municipality": "Gent", 
-      "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Brusselseweg"
     }, 
     {

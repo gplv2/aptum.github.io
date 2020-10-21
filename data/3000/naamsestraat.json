@@ -360,18 +360,6 @@
       "street": "Naamsestraat"
     }, 
     {
-      "hnrlbls": [
-        "108B-108C"
-      ], 
-      "housenumber": "108B", 
-      "lat": 50.872157674195, 
-      "lon": 4.6994049986, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Naamsestraat"
-    }, 
-    {
       "apptnrs": [
         "0001", 
         "0101", 
@@ -390,7 +378,7 @@
         "0402"
       ], 
       "hnrlbls": [
-        "108B-108C"
+        "108C"
       ], 
       "housenumber": "108C", 
       "lat": 50.872157674195, 
@@ -461,8 +449,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.871848306986, 
-      "lon": 4.699895376143, 
+      "lat": 50.871852863437, 
+      "lon": 4.699905353279, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +515,7 @@
     }, 
     {
       "apptnrs": [
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "busnrs": [
         "0001"
@@ -912,8 +899,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.871148991058, 
-      "lon": 4.699679749206, 
+      "lat": 50.871149444942, 
+      "lon": 4.699678189654, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -936,8 +923,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.871117531566, 
-      "lon": 4.699614743897, 
+      "lat": 50.871116985782, 
+      "lon": 4.699617013142, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -960,23 +947,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.871051349375, 
-      "lon": 4.69965334566, 
+      "lat": 50.87105054234, 
+      "lon": 4.699652629622, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Naamsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "137A"
-      ], 
-      "housenumber": "137A", 
-      "lat": 50.871050185174, 
-      "lon": 4.699651774691, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Naamsestraat"
     }, 
     {
@@ -1867,14 +1842,14 @@
     }, 
     {
       "hnrlbls": [
-        "184"
+        "184-186"
       ], 
       "housenumber": "184", 
-      "lat": 50.869017574703, 
-      "lon": 4.698531191613, 
+      "lat": 50.86900494798, 
+      "lon": 4.698545877268, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsestraat"
     }, 
     {
@@ -1900,7 +1875,7 @@
     }, 
     {
       "hnrlbls": [
-        "186"
+        "184-186"
       ], 
       "housenumber": "186", 
       "lat": 50.86900494798, 
@@ -3126,6 +3101,18 @@
       "street": "Naamsestraat"
     }, 
     {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.874609847071, 
+      "lon": 4.700800176798, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Naamsestraat"
+    }, 
+    {
       "apptnrs": [
         "0101", 
         "0102", 
@@ -3171,7 +3158,7 @@
     }, 
     {
       "hnrlbls": [
-        "76"
+        "76-76A"
       ], 
       "housenumber": "76", 
       "lat": 50.875238032061, 
@@ -3183,14 +3170,14 @@
     }, 
     {
       "hnrlbls": [
-        "76A"
+        "76-76A"
       ], 
       "housenumber": "76A", 
-      "lat": 50.875238610813, 
-      "lon": 4.70005742602, 
+      "lat": 50.875238032061, 
+      "lon": 4.70007134587, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsestraat"
     }, 
     {
@@ -3567,11 +3554,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.872975959864, 
-      "lon": 4.7003382299, 
+      "lat": 50.872944010126, 
+      "lon": 4.700001856655, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsestraat"
     }, 
     {

@@ -177,8 +177,16 @@
       "street": "Prinshoeveweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "113-115"
+        "113"
       ], 
       "housenumber": "113", 
       "lat": 51.279685006594, 
@@ -201,18 +209,11 @@
       "street": "Prinshoeveweg"
     }, 
     {
-      "hnrlbls": [
-        "113-115"
+      "busnrs": [
+        "3", 
+        "5", 
+        "6"
       ], 
-      "housenumber": "115", 
-      "lat": 51.279685006594, 
-      "lon": 4.445667457442, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prinshoeveweg"
-    }, 
-    {
       "hnrlbls": [
         "117-119"
       ], 
@@ -225,6 +226,11 @@
       "street": "Prinshoeveweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "117-119"
       ], 
@@ -402,6 +408,11 @@
       "street": "Prinshoeveweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -751,8 +762,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.278806492542, 
-      "lon": 4.443173531066, 
+      "lat": 51.278806851887, 
+      "lon": 4.443173818267, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -780,8 +791,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.278785421773, 
-      "lon": 4.443092383176, 
+      "lat": 51.278785241646, 
+      "lon": 4.443092956129, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1423,8 +1434,8 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 51.277735685546, 
-      "lon": 4.437198172149, 
+      "lat": 51.277751506077, 
+      "lon": 4.437195902715, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

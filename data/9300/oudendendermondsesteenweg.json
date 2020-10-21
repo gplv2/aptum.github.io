@@ -486,29 +486,15 @@
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.951862873771, 
-      "lon": 4.048256856879, 
+      "lat": 50.95211828803, 
+      "lon": 4.047606875809, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
@@ -524,7 +510,7 @@
       "lon": 4.048295795148, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
@@ -546,7 +532,7 @@
       "lon": 4.048318043199, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
@@ -706,12 +692,19 @@
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21"
+      ], 
       "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.952027764281, 
-      "lon": 4.051187675996, 
+      "lat": 50.952019635999, 
+      "lon": 4.051073595486, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1289,8 +1282,8 @@
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 50.953394892357, 
-      "lon": 4.054148466353, 
+      "lat": 50.953379113078, 
+      "lon": 4.054130497633, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1385,8 +1378,8 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 50.953613984479, 
-      "lon": 4.054594875624, 
+      "lat": 50.953605354461, 
+      "lon": 4.054561061554, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1421,8 +1414,8 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.953750153898, 
-      "lon": 4.054823952546, 
+      "lat": 50.953743714338, 
+      "lon": 4.054802505432, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1457,8 +1450,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.95378039799, 
-      "lon": 4.054872708219, 
+      "lat": 50.953769640614, 
+      "lon": 4.05485015137, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1481,8 +1474,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.953806772936, 
-      "lon": 4.054920066599, 
+      "lat": 50.953793145107, 
+      "lon": 4.054899805995, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1505,8 +1498,8 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 50.953836966895, 
-      "lon": 4.054983766221, 
+      "lat": 50.953821870868, 
+      "lon": 4.054952272191, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1634,11 +1627,11 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.954717697158, 
-      "lon": 4.05635484872, 
+      "lat": 50.954721626718, 
+      "lon": 4.056480777268, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
@@ -3518,10 +3511,6 @@
       "street": "Ouden Dendermondse steenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "77"
       ], 

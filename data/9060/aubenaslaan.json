@@ -37,15 +37,20 @@
       "street": "Aubenaslaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "12-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.197095818544, 
-      "lon": 3.814342499795, 
+      "lat": 51.197095186688, 
+      "lon": 3.81434193504, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aubenaslaan"
     }, 
     {
@@ -62,26 +67,26 @@
     }, 
     {
       "hnrlbls": [
-        "12-14"
+        "14-14A"
       ], 
       "housenumber": "14", 
-      "lat": 51.197095818544, 
-      "lon": 3.814342499795, 
+      "lat": 51.197163837716, 
+      "lon": 3.814145265642, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aubenaslaan"
     }, 
     {
       "hnrlbls": [
-        "14A"
+        "14-14A"
       ], 
       "housenumber": "14A", 
-      "lat": 51.197181228622, 
-      "lon": 3.814116017156, 
+      "lat": 51.197163837716, 
+      "lon": 3.814145265642, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aubenaslaan"
     }, 
     {
@@ -137,8 +142,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.19687078218, 
-      "lon": 3.814946321749, 
+      "lat": 51.196871049149, 
+      "lon": 3.814945746332, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -222,33 +227,9 @@
         "0101"
       ], 
       "hnrlbls": [
-        "3-30101"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.196751807326, 
-      "lon": 3.814474051766, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Aubenaslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-30101"
-      ], 
-      "housenumber": "3_0001", 
-      "lat": 51.196751807326, 
-      "lon": 3.814474051766, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Aubenaslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-30101"
-      ], 
-      "housenumber": "3_0101", 
       "lat": 51.196751807326, 
       "lon": 3.814474051766, 
       "municipality": "Zelzate", 

@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.756695695027, 
+      "lon": 5.080289359078, 
+      "municipality": "Landen", 
+      "pcode": "3400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Attenhovenstraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -68,11 +87,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.756875036752, 
-      "lon": 5.080601465664, 
+      "lat": 50.756898288357, 
+      "lon": 5.080636399343, 
       "municipality": "Landen", 
       "pcode": "3400", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Attenhovenstraat"
     }, 
     {
@@ -653,8 +672,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.75668123838, 
-      "lon": 5.080212607087, 
+      "lat": 50.756649299545, 
+      "lon": 5.080157417002, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 

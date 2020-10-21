@@ -598,12 +598,46 @@
       "street": "Sint-Pietersplein"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.042951612791, 
-      "lon": 3.725304841939, 
+      "lat": 51.0429472932, 
+      "lon": 3.725122808727, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Pietersplein"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 51.042930291393, 
+      "lon": 3.725351192561, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -611,14 +645,26 @@
     }, 
     {
       "hnrlbls": [
-        "54"
+        "54A"
       ], 
-      "housenumber": "54", 
-      "lat": 51.04302449352, 
-      "lon": 3.725168947018, 
+      "housenumber": "54A", 
+      "lat": 51.043005567123, 
+      "lon": 3.725341175533, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Pietersplein"
+    }, 
+    {
+      "hnrlbls": [
+        "54B"
+      ], 
+      "housenumber": "54B", 
+      "lat": 51.043044387904, 
+      "lon": 3.725338788759, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Pietersplein"
     }, 
     {

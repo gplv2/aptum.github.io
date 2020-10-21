@@ -89,15 +89,23 @@
       "street": "Korte Zilverstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.208186658032, 
-      "lon": 3.221987945832, 
+      "lat": 51.208137805423, 
+      "lon": 3.222206388372, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Korte Zilverstraat"
     }, 
     {
@@ -117,11 +125,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.208050095952, 
-      "lon": 3.222172193287, 
+      "lat": 51.208071374889, 
+      "lon": 3.222438428404, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Korte Zilverstraat"
     }, 
     {

@@ -1,12 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,8 +13,11 @@
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "10"
@@ -245,8 +242,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.223975751628, 
-      "lon": 4.425488426265, 
+      "lat": 51.223994812747, 
+      "lon": 4.425476568929, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -260,17 +257,18 @@
         "103", 
         "201", 
         "202", 
-        "203"
+        "203", 
+        "301"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.224220027783, 
-      "lon": 4.42536075728, 
+      "lat": 51.224207520486, 
+      "lon": 4.425388511649, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
@@ -280,18 +278,6 @@
       "housenumber": "28", 
       "lat": 51.223999269862, 
       "lon": 4.425552869293, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Van Sterbeeckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.224207520486, 
-      "lon": 4.425388511649, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -322,6 +308,11 @@
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -346,6 +337,11 @@
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -372,6 +368,7 @@
     {
       "apptnrs": [
         "001", 
+        "101", 
         "201"
       ], 
       "hnrlbls": [
@@ -398,10 +395,6 @@
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -443,31 +436,15 @@
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
-        "41-43"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.224235767075, 
-      "lon": 4.425894843459, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Van Sterbeeckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "41-43"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.224235767075, 
-      "lon": 4.425894843459, 
+      "lat": 51.224234657928, 
+      "lon": 4.425957252465, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Van Sterbeeckstraat"
     }, 
     {
@@ -518,8 +495,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.224093807197, 
-      "lon": 4.424475551187, 
+      "lat": 51.224090571041, 
+      "lon": 4.424476262984, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

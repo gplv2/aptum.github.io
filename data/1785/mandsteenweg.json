@@ -164,20 +164,22 @@
       "street": "Mandsteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
+        "0021", 
+        "0022"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.958506651827, 
-      "lon": 4.2258232895, 
+      "lat": 50.958506013456, 
+      "lon": 4.225815747832, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "manueleAanduidingVanGebouw", 
@@ -541,8 +543,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.958495904317, 
-      "lon": 4.227275109643, 
+      "lat": 50.958496623623, 
+      "lon": 4.227275249816, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanPerceelGrb", 

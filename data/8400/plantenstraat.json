@@ -141,12 +141,6 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104"
-      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -187,8 +181,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.221416307091, 
-      "lon": 2.91050877036, 
+      "lat": 51.221418027017, 
+      "lon": 2.910517019985, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -229,8 +223,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.221322599797, 
-      "lon": 2.910039695811, 
+      "lat": 51.221322132816, 
+      "lon": 2.910038278798, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -304,24 +298,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
         "0202", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.221173195654, 
-      "lon": 2.910434339413, 
+      "lat": 51.221183532519, 
+      "lon": 2.910353989079, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -337,21 +327,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Plantenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.221133663276, 
-      "lon": 2.910334217309, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Plantenstraat"
     }, 
     {
@@ -602,11 +577,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.220534485642, 
-      "lon": 2.910043727441, 
+      "lat": 51.220539404934, 
+      "lon": 2.910019809155, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -643,11 +618,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.220471925878, 
-      "lon": 2.910030079512, 
+      "lat": 51.220493568594, 
+      "lon": 2.909977149581, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -688,7 +663,6 @@
     }, 
     {
       "busnrs": [
-        "-101", 
         "0001", 
         "0101"
       ], 
@@ -705,23 +679,22 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
-        "0202", 
-        "1", 
-        "1R", 
-        "2"
+        "0202"
       ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.220303345415, 
-      "lon": 2.909343752312, 
+      "lat": 51.220271855459, 
+      "lon": 2.909429201081, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantenstraat"
     }, 
     {
@@ -734,18 +707,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Plantenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.220223171785, 
-      "lon": 2.909403524095, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Plantenstraat"
     }, 
     {
@@ -975,10 +936,6 @@
       "street": "Plantenstraat"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "2"
-      ], 
       "hnrlbls": [
         "73"
       ], 

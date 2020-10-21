@@ -85,42 +85,60 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "112-116"
+        "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.171371036655, 
-      "lon": 4.380206983398, 
+      "lat": 51.171359906364, 
+      "lon": 4.380055134795, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "112-116"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.171371036655, 
-      "lon": 4.380206983398, 
+      "lat": 51.171390091749, 
+      "lon": 4.38021327952, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "112-116"
+        "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.171371036655, 
-      "lon": 4.380206983398, 
+      "lat": 51.17140517844, 
+      "lon": 4.380349401389, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -328,6 +346,10 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -486,11 +508,11 @@
     }, 
     {
       "hnrlbls": [
-        "171-173"
+        "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.172628276173, 
-      "lon": 4.389591687572, 
+      "lat": 51.172533359322, 
+      "lon": 4.389579204136, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -498,11 +520,11 @@
     }, 
     {
       "hnrlbls": [
-        "171-173"
+        "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.172628276173, 
-      "lon": 4.389591687572, 
+      "lat": 51.172588896995, 
+      "lon": 4.389642714929, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -821,36 +843,44 @@
     }, 
     {
       "apptnrs": [
-        "01", 
         "11", 
-        "21"
+        "12", 
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.172645374786, 
-      "lon": 4.391378147969, 
+      "lat": 51.172649322573, 
+      "lon": 4.391414468092, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
-      "busnrs": [
-        "01", 
-        "11", 
-        "21"
+      "hnrlbls": [
+        "211A"
       ], 
+      "housenumber": "211A", 
+      "lat": 51.17253607116, 
+      "lon": 4.391392391814, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Jules Moretuslei"
+    }, 
+    {
       "hnrlbls": [
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.17264616962, 
-      "lon": 4.391449640784, 
+      "lat": 51.172537315697, 
+      "lon": 4.391462454842, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -958,27 +988,20 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "hnrlbls": [
-        "225-229"
+      "apptnrs": [
+        "102", 
+        "201", 
+        "202"
       ], 
-      "housenumber": "225", 
-      "lat": 51.172664301011, 
-      "lon": 4.392025164061, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
       "hnrlbls": [
-        "225-229"
+        "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.172664301011, 
-      "lon": 4.392025164061, 
+      "lat": 51.17261299086, 
+      "lon": 4.391953645349, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -1005,14 +1028,14 @@
     }, 
     {
       "hnrlbls": [
-        "225-229"
+        "229"
       ], 
       "housenumber": "229", 
-      "lat": 51.172664301011, 
-      "lon": 4.392025164061, 
+      "lat": 51.17261422978, 
+      "lon": 4.392049731728, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -1176,8 +1199,10 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "244"
@@ -1315,23 +1340,11 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 51.171863120842, 
-      "lon": 4.386712669224, 
+      "lat": 51.171871301443, 
+      "lon": 4.386706238283, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "262A"
-      ], 
-      "housenumber": "262A", 
-      "lat": 51.171902216335, 
-      "lon": 4.386742568201, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -1404,68 +1417,31 @@
     }, 
     {
       "hnrlbls": [
-        "265D"
-      ], 
-      "housenumber": "265D", 
-      "lat": 51.172605858953, 
-      "lon": 4.393396071491, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "265E"
-      ], 
-      "housenumber": "265E", 
-      "lat": 51.172610860458, 
-      "lon": 4.393545207279, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "73-267B"
+        "267"
       ], 
       "housenumber": "267", 
-      "lat": 51.172671769795, 
-      "lon": 4.393697948426, 
+      "lat": 51.172609581754, 
+      "lon": 4.393639147545, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
       "apptnrs": [
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "11", 
+        "21", 
+        "22"
       ], 
       "hnrlbls": [
         "267A"
       ], 
       "housenumber": "267A", 
-      "lat": 51.172672686561, 
-      "lon": 4.393615303646, 
+      "lat": 51.172612003055, 
+      "lon": 4.393665029109, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "73-267B"
-      ], 
-      "housenumber": "267B", 
-      "lat": 51.172671769795, 
-      "lon": 4.393697948426, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -1658,11 +1634,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.172097752947, 
-      "lon": 4.388689505099, 
+      "lat": 51.172101438579, 
+      "lon": 4.388687647947, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -1738,6 +1714,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -1765,9 +1742,6 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "293"
       ], 
@@ -1960,6 +1934,12 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "307-309"
       ], 
@@ -1976,8 +1956,8 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.172159490942, 
-      "lon": 4.389767197852, 
+      "lat": 51.172177557331, 
+      "lon": 4.389770494873, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -2005,8 +1985,8 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 51.172132959225, 
-      "lon": 4.389851259673, 
+      "lat": 51.172122442933, 
+      "lon": 4.389849538964, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -2015,7 +1995,6 @@
     {
       "busnrs": [
         "1", 
-        "1A", 
         "2", 
         "3", 
         "4", 
@@ -2030,22 +2009,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "313_1"
-      ], 
-      "housenumber": "313_1", 
-      "lat": 51.172837679225, 
-      "lon": 4.396153671251, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -2221,8 +2184,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 51.172777473767, 
-      "lon": 4.396826380578, 
+      "lat": 51.172762013562, 
+      "lon": 4.396825942094, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -2517,8 +2480,10 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "353"
@@ -2568,6 +2533,11 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "357"
       ], 
@@ -2795,8 +2765,8 @@
         "380"
       ], 
       "housenumber": "380", 
-      "lat": 51.172198471101, 
-      "lon": 4.393099159668, 
+      "lat": 51.172197931818, 
+      "lon": 4.393099016395, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -2827,8 +2797,8 @@
         "382"
       ], 
       "housenumber": "382", 
-      "lat": 51.172389199473, 
-      "lon": 4.393140441389, 
+      "lat": 51.172388659765, 
+      "lon": 4.393142299892, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3180,6 +3150,10 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "413"
       ], 
@@ -3309,6 +3283,21 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
+      "hnrlbls": [
+        "424"
+      ], 
+      "housenumber": "424", 
+      "lat": 51.17240539481, 
+      "lon": 4.39549468331, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jules Moretuslei"
+    }, 
+    {
       "hnrlbls": [
         "426"
       ], 
@@ -3333,6 +3322,9 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "430"
       ], 
@@ -3384,6 +3376,10 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "438"
       ], 
@@ -3502,8 +3498,8 @@
         "456"
       ], 
       "housenumber": "456", 
-      "lat": 51.172445648548, 
-      "lon": 4.396693915667, 
+      "lat": 51.172441963414, 
+      "lon": 4.396693198486, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -3623,20 +3619,16 @@
       "street": "Jules Moretuslei"
     }, 
     {
-      "hnrlbls": [
-        "474-476"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
-      "housenumber": "474", 
-      "lat": 51.172454167477, 
-      "lon": 4.397507215319, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
       "hnrlbls": [
-        "474-476"
+        "476"
       ], 
       "housenumber": "476", 
       "lat": 51.172454167477, 
@@ -3648,11 +3640,11 @@
     }, 
     {
       "hnrlbls": [
-        "478-480"
+        "478"
       ], 
       "housenumber": "478", 
-      "lat": 51.172314167385, 
-      "lon": 4.397700298142, 
+      "lat": 51.172168910958, 
+      "lon": 4.397705782254, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -3678,7 +3670,7 @@
     }, 
     {
       "hnrlbls": [
-        "478-480"
+        "480"
       ], 
       "housenumber": "480", 
       "lat": 51.172314167385, 
@@ -3745,6 +3737,22 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002"
+      ], 
+      "hnrlbls": [
+        "494"
+      ], 
+      "housenumber": "494", 
+      "lat": 51.172499083346, 
+      "lon": 4.3983248284, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jules Moretuslei"
+    }, 
+    {
       "busnrs": [
         "2"
       ], 
@@ -3760,6 +3768,11 @@
       "street": "Jules Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -3827,18 +3840,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jules Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "50B"
-      ], 
-      "housenumber": "50B", 
-      "lat": 51.1709677635, 
-      "lon": 4.376638534333, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Jules Moretuslei"
     }, 
     {
@@ -4163,6 +4164,18 @@
       "housenumber": "62", 
       "lat": 51.170987845488, 
       "lon": 4.377331703856, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jules Moretuslei"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.170987845465, 
+      "lon": 4.377331989816, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

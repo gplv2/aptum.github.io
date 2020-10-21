@@ -167,15 +167,35 @@
       "street": "Overwinningsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.057082810839, 
-      "lon": 4.358666599781, 
+      "lat": 51.056967761891, 
+      "lon": 4.358784151119, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -231,8 +251,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.056714247161, 
-      "lon": 4.358447593187, 
+      "lat": 51.056644221574, 
+      "lon": 4.358425071973, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -291,8 +311,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.056595315458, 
-      "lon": 4.358347776461, 
+      "lat": 51.056607093044, 
+      "lon": 4.358373162203, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -327,8 +347,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.056531756378, 
-      "lon": 4.358258931143, 
+      "lat": 51.056539128746, 
+      "lon": 4.358276330465, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -721,18 +741,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Overwinningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "154"
-      ], 
-      "housenumber": "154", 
-      "lat": 51.056172208435, 
-      "lon": 4.35733291677, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1541,7 +1549,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "54"
@@ -1776,18 +1787,12 @@
       "street": "Overwinningsstraat"
     }, 
     {
-      "apptnrs": [
-        "A101", 
-        "A102", 
-        "A201", 
-        "A202"
-      ], 
       "hnrlbls": [
-        "66-70"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.058175989096, 
-      "lon": 4.359117677596, 
+      "lat": 51.058251763287, 
+      "lon": 4.359085712813, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1807,12 +1812,13 @@
     }, 
     {
       "busnrs": [
+        "0102", 
         "101", 
         "201", 
         "202"
       ], 
       "hnrlbls": [
-        "66-70"
+        "68-70"
       ], 
       "housenumber": "68", 
       "lat": 51.058175989096, 
@@ -1861,11 +1867,23 @@
         "202"
       ], 
       "hnrlbls": [
-        "66-70"
+        "68-70"
       ], 
       "housenumber": "70", 
       "lat": 51.058175989096, 
       "lon": 4.359117677596, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Overwinningsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.058103361675, 
+      "lon": 4.359158342401, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -2003,8 +2021,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.057982490154, 
-      "lon": 4.359557741867, 
+      "lat": 51.057981502113, 
+      "lon": 4.359568011727, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

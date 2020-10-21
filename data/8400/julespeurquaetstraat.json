@@ -2,23 +2,20 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
         "0201", 
+        "0202", 
+        "0301", 
         "0302", 
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "17", 
-        "18", 
-        "19", 
-        "20", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "1"
@@ -36,8 +33,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.226514304398, 
-      "lon": 2.91060895324, 
+      "lat": 51.226524930115, 
+      "lon": 2.910632245346, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -149,6 +146,10 @@
       "street": "Jules Peurquaetstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -177,8 +178,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.226498709568, 
-      "lon": 2.910707660632, 
+      "lat": 51.226493637939, 
+      "lon": 2.91068276311, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -242,20 +243,18 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
         "0301", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0401"
       ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.226437384176, 
-      "lon": 2.910881677046, 
+      "lat": 51.226437844091, 
+      "lon": 2.910882521734, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -271,8 +270,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.225994391402, 
-      "lon": 2.910826513489, 
+      "lat": 51.225988166019, 
+      "lon": 2.910832005605, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -424,19 +423,20 @@
     }, 
     {
       "busnrs": [
-        "000A", 
         "0101", 
         "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
         "0402", 
-        "1", 
-        "10", 
-        "10W", 
-        "11", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "8"
+        "0403", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "3"
@@ -475,6 +475,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0102", 
         "0103", 
         "0201", 
@@ -483,8 +486,7 @@
         "0301", 
         "0302", 
         "0303", 
-        "1", 
-        "2"
+        "0401"
       ], 
       "hnrlbls": [
         "32-36"
@@ -499,22 +501,17 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
         "0302", 
-        "1", 
-        "2", 
-        "2B", 
-        "3", 
-        "4", 
-        "5", 
-        "7", 
-        "9", 
-        "B"
+        "0401"
       ], 
       "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.225639335027, 
@@ -525,16 +522,12 @@
       "street": "Jules Peurquaetstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0302"
-      ], 
       "hnrlbls": [
-        "33-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.225639335027, 
-      "lon": 2.911195549688, 
+      "lat": 51.225652789412, 
+      "lon": 2.911287906597, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -626,14 +619,33 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 51.225219248862, 
+      "lon": 2.911788387912, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jules Peurquaetstraat"
+    }, 
+    {
+      "busnrs": [
         "7"
       ], 
       "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.22635133495, 
-      "lon": 2.91042104563, 
+      "lat": 51.226325477181, 
+      "lon": 2.910365442403, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -644,8 +656,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.226624559724, 
-      "lon": 2.910480654935, 
+      "lat": 51.226625720929, 
+      "lon": 2.910480045916, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -799,8 +811,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.22629354723, 
-      "lon": 2.910415264191, 
+      "lat": 51.226288963808, 
+      "lon": 2.91040080346, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -920,23 +932,27 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.226590739116, 
-      "lon": 2.910537551793, 
+      "lat": 51.226594265076, 
+      "lon": 2.910539159684, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Jules Peurquaetstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.224745868825, 
-      "lon": 2.912251447457, 
+      "lat": 51.224769438533, 
+      "lon": 2.912311130091, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jules Peurquaetstraat"
     }, 
     {
@@ -1068,8 +1084,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.226248365973, 
-      "lon": 2.910440301126, 
+      "lat": 51.22625058793, 
+      "lon": 2.910438227173, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1294,6 +1310,10 @@
       "street": "Jules Peurquaetstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1425,17 +1445,19 @@
     }, 
     {
       "busnrs": [
-        "0101"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.224206050581, 
-      "lon": 2.913357402569, 
+      "lat": 51.224168434221, 
+      "lon": 2.913273962689, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jules Peurquaetstraat"
     }, 
     {

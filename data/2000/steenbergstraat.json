@@ -133,6 +133,13 @@
       "street": "Steenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -226,11 +233,12 @@
       "street": "Steenbergstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "25"
@@ -375,15 +383,21 @@
       "street": "Steenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.21452640805, 
-      "lon": 4.398096789765, 
+      "lat": 51.214507162997, 
+      "lon": 4.398135561043, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenbergstraat"
     }, 
     {

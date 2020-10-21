@@ -921,7 +921,7 @@
       "lon": 2.625900944177, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zeedijk"
     }, 
     {
@@ -1052,7 +1052,9 @@
         "504", 
         "601", 
         "602", 
-        "603"
+        "603", 
+        "701", 
+        "KV01"
       ], 
       "hnrlbls": [
         "233"
@@ -1677,9 +1679,8 @@
         "401", 
         "402", 
         "501", 
-        "502", 
         "601", 
-        "701"
+        "602"
       ], 
       "hnrlbls": [
         "260"
@@ -1767,6 +1768,32 @@
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602"
+      ], 
+      "hnrlbls": [
+        "267"
+      ], 
+      "housenumber": "267", 
+      "lat": 51.119524558151, 
+      "lon": 2.630692992072, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zeedijk"
     }, 
     {
@@ -2055,34 +2082,6 @@
       "housenumber": "280", 
       "lat": 51.119913228925, 
       "lon": 2.631772581076, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zeedijk"
-    }, 
-    {
-      "apptnrs": [
-        "001", 
-        "002"
-      ], 
-      "hnrlbls": [
-        "281-282"
-      ], 
-      "housenumber": "281", 
-      "lat": 51.120019708421, 
-      "lon": 2.631926916175, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zeedijk"
-    }, 
-    {
-      "hnrlbls": [
-        "281-282"
-      ], 
-      "housenumber": "282", 
-      "lat": 51.120019708421, 
-      "lon": 2.631926916175, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2937,19 +2936,9 @@
       "street": "Zeedijk"
     }, 
     {
-      "hnrlbls": [
-        "333-335"
-      ], 
-      "housenumber": "333", 
-      "lat": 51.121302431695, 
-      "lon": 2.635501064982, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zeedijk"
-    }, 
-    {
       "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
         "201", 
@@ -2964,7 +2953,7 @@
         "602"
       ], 
       "hnrlbls": [
-        "333-335"
+        "334-335"
       ], 
       "housenumber": "334", 
       "lat": 51.121302431695, 
@@ -2976,7 +2965,7 @@
     }, 
     {
       "hnrlbls": [
-        "333-335"
+        "334-335"
       ], 
       "housenumber": "335", 
       "lat": 51.121302431695, 
@@ -5739,6 +5728,7 @@
     {
       "apptnrs": [
         "001", 
+        "002", 
         "101", 
         "102", 
         "103", 

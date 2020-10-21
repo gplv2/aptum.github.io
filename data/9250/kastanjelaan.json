@@ -1,12 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.116843843705, 
-      "lon": 4.084704750293, 
+      "lat": 51.116785834499, 
+      "lon": 4.084579424842, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
@@ -142,6 +146,18 @@
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kastanjelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.117670691739, 
+      "lon": 4.089332455889, 
+      "municipality": "Waasmunster", 
+      "pcode": "9250", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kastanjelaan"
     }, 
     {

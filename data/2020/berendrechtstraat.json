@@ -133,8 +133,11 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "2"
@@ -343,9 +346,6 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -407,17 +407,18 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.187275697449, 
-      "lon": 4.386492700533, 
+      "lat": 51.187254483444, 
+      "lon": 4.386499986662, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Berendrechtstraat"
     }, 
     {
@@ -459,9 +460,10 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "41"
@@ -529,15 +531,21 @@
       "street": "Berendrechtstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.187272528798, 
-      "lon": 4.386056744901, 
+      "lat": 51.187221467296, 
+      "lon": 4.386101350409, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Berendrechtstraat"
     }, 
     {
@@ -666,9 +674,6 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -1150,11 +1155,15 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "92-94"
+        "92"
       ], 
       "housenumber": "92", 
       "lat": 51.186285140466, 
@@ -1171,18 +1180,6 @@
       "housenumber": "93", 
       "lat": 51.186094719297, 
       "lon": 4.385153510257, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berendrechtstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "92-94"
-      ], 
-      "housenumber": "94", 
-      "lat": 51.186285140466, 
-      "lon": 4.384842497105, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

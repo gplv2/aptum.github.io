@@ -45,21 +45,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.211943538158, 
-      "lon": 2.907475444606, 
+      "lat": 51.212002504922, 
+      "lon": 2.907474742713, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -231,8 +229,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.211944727036, 
-      "lon": 2.907091524572, 
+      "lat": 51.211929277022, 
+      "lon": 2.907092581156, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -240,17 +238,19 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.211943842795, 
-      "lon": 2.907019985755, 
+      "lat": 51.21199912325, 
+      "lon": 2.907019255653, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -353,8 +353,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.212237459552, 
-      "lon": 2.905159061905, 
+      "lat": 51.212219260431, 
+      "lon": 2.905155911363, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -398,22 +398,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "0301", 
-        "0401", 
-        "0402", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.211941363624, 
-      "lon": 2.906463132759, 
+      "lat": 51.211987941152, 
+      "lon": 2.906463819844, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -431,8 +429,7 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "132"
@@ -781,8 +778,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.211982250105, 
-      "lon": 2.911946567559, 
+      "lat": 51.21197496031, 
+      "lon": 2.911945936393, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1167,18 +1164,18 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.212302727196, 
-      "lon": 2.911485115717, 
+      "lat": 51.212234678517, 
+      "lon": 2.911478367003, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -1675,8 +1672,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.212345863393, 
-      "lon": 2.896618260206, 
+      "lat": 51.212363363401, 
+      "lon": 2.896623003975, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2067,11 +2064,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.212293300709, 
-      "lon": 2.911157919686, 
+      "lat": 51.212248296802, 
+      "lon": 2.911160900224, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -2199,8 +2196,8 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 51.213051139001, 
-      "lon": 2.891391259532, 
+      "lat": 51.21305338566, 
+      "lon": 2.891391188385, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2259,8 +2256,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.212336270359, 
-      "lon": 2.911077424023, 
+      "lat": 51.212337087979, 
+      "lon": 2.911078114147, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2355,8 +2352,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.212267922447, 
-      "lon": 2.910944298028, 
+      "lat": 51.212320268889, 
+      "lon": 2.910931640994, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2484,20 +2481,21 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
         "0201", 
-        "1", 
-        "2", 
-        "4"
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "349"
       ], 
       "housenumber": "349", 
-      "lat": 51.213136163927, 
-      "lon": 2.890411082252, 
+      "lat": 51.213102828484, 
+      "lon": 2.890448495469, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -2735,17 +2733,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.213369806606, 
-      "lon": 2.88966952321, 
+      "lat": 51.213312665081, 
+      "lon": 2.889622095436, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -2919,8 +2918,8 @@
         "391"
       ], 
       "housenumber": "391", 
-      "lat": 51.213643046079, 
-      "lon": 2.888830940584, 
+      "lat": 51.213639750014, 
+      "lon": 2.888826178421, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3017,19 +3016,21 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "4", 
-        "5"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "405"
       ], 
       "housenumber": "405", 
-      "lat": 51.214027985301, 
-      "lon": 2.887515151607, 
+      "lat": 51.21403035229, 
+      "lon": 2.887517509834, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -3135,11 +3136,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "0201", 
-        "1", 
-        "2", 
-        "4"
+        "0201"
       ], 
       "hnrlbls": [
         "45"
@@ -3189,15 +3189,18 @@
       "street": "Mariakerkelaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.212283523895, 
-      "lon": 2.909942159111, 
+      "lat": 51.212235392181, 
+      "lon": 2.909939370139, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {
@@ -3349,8 +3352,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.21229907196, 
-      "lon": 2.909511841446, 
+      "lat": 51.212282473077, 
+      "lon": 2.909514507645, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -3460,15 +3463,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "3"
+        "0201"
       ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.212263082782, 
-      "lon": 2.909094300377, 
+      "lat": 51.212218939142, 
+      "lon": 2.909108706695, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3652,19 +3656,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.211971745784, 
-      "lon": 2.907924857821, 
+      "lat": 51.212005972394, 
+      "lon": 2.907915484379, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerkelaan"
     }, 
     {

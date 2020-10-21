@@ -389,10 +389,12 @@
       "street": "Brusselbaan"
     }, 
     {
-      "apptnrs": [
-        "0L", 
-        "0R", 
-        "2.0"
+      "busnrs": [
+        "1e L", 
+        "1e R", 
+        "2eV", 
+        "GV-L", 
+        "GV-R"
       ], 
       "hnrlbls": [
         "128"
@@ -2228,8 +2230,8 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 50.799806340261, 
-      "lon": 4.267613027093, 
+      "lat": 50.799754826317, 
+      "lon": 4.267504336715, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -4179,8 +4181,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.806984667328, 
-      "lon": 4.28650860005, 
+      "lat": 50.806982870099, 
+      "lon": 4.286509596281, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4567,6 +4569,18 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.807174538414, 
+      "lon": 4.286523593328, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselbaan"
+    }, 
+    {
+      "hnrlbls": [
         "501"
       ], 
       "housenumber": "501", 
@@ -4630,8 +4644,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.805153465256, 
-      "lon": 4.283069062075, 
+      "lat": 50.805165413922, 
+      "lon": 4.283058684119, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 

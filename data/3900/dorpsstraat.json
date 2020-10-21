@@ -39,18 +39,17 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "bs11"
+        "9"
       ], 
       "hnrlbls": [
-        "99-103"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.20975441847, 
-      "lon": 5.421310822864, 
+      "lat": 51.209904469296, 
+      "lon": 5.421258254322, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -75,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "99-103"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.20975441847, 
-      "lon": 5.421310822864, 
+      "lat": 51.209871807641, 
+      "lon": 5.421180951081, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -126,11 +125,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.209737706169, 
-      "lon": 5.42127967615, 
+      "lat": 51.209817861416, 
+      "lon": 5.421071109998, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -139,56 +138,53 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "A", 
-        "B", 
-        "C"
+        "5"
       ], 
       "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.209723646922, 
-      "lon": 5.420859894806, 
+      "lat": 51.209717049621, 
+      "lon": 5.420833556224, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "107A-107C"
+        "107A"
       ], 
       "housenumber": "107A", 
-      "lat": 51.209748263306, 
-      "lon": 5.420911971173, 
+      "lat": 51.209780410487, 
+      "lon": 5.42087548753, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "107A-107C"
+        "107B"
       ], 
       "housenumber": "107B", 
-      "lat": 51.209748263306, 
-      "lon": 5.420911971173, 
+      "lat": 51.209627053065, 
+      "lon": 5.420996533434, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "107A-107C"
+        "107C"
       ], 
       "housenumber": "107C", 
-      "lat": 51.209748263306, 
-      "lon": 5.420911971173, 
+      "lat": 51.209729579625, 
+      "lon": 5.420758991038, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -348,8 +344,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.211401342811, 
-      "lon": 5.422491675194, 
+      "lat": 51.211401246554, 
+      "lon": 5.422492388608, 
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -402,8 +398,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.211195780307, 
-      "lon": 5.422388276323, 
+      "lat": 51.211195244885, 
+      "lon": 5.422387834865, 
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -434,6 +430,11 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -1465,45 +1466,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.21316685144, 
-      "lon": 5.423145881729, 
+      "lat": 51.213122408795, 
+      "lon": 5.423129705122, 
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "20", 
-        "22", 
-        "23", 
-        "25", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "70A"
-      ], 
-      "housenumber": "70A", 
-      "lat": 51.213081555558, 
-      "lon": 5.423023585242, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1519,12 +1486,16 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.212541750777, 
-      "lon": 5.4233454193, 
+      "lat": 51.212541929249, 
+      "lon": 5.423345566461, 
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -1812,14 +1783,14 @@
     }, 
     {
       "hnrlbls": [
-        "99-103"
+        "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.20975441847, 
-      "lon": 5.421310822864, 
+      "lat": 51.209939857129, 
+      "lon": 5.421322166569, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }
   ]

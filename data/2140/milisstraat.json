@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -52,6 +49,11 @@
       "street": "Milisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -76,23 +78,27 @@
       "street": "Milisstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.213967510585, 
-      "lon": 4.428243163544, 
+      "lat": 51.213885535432, 
+      "lon": 4.428244775088, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Milisstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "50"
@@ -110,11 +116,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.213957584699, 
-      "lon": 4.428318999849, 
+      "lat": 51.213882991126, 
+      "lon": 4.428298867879, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Milisstraat"
     }, 
     {
@@ -413,11 +419,10 @@
       "street": "Milisstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "301"
       ], 
       "hnrlbls": [
         "73"
@@ -521,14 +526,19 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.213648487896, 
-      "lon": 4.428991649548, 
+      "lat": 51.213657385756, 
+      "lon": 4.428992949169, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
       "street": "Milisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -584,6 +594,11 @@
       "street": "Milisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "88"
       ], 

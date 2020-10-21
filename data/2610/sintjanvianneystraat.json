@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.167353259902, 
-      "lon": 4.387450300903, 
+      "lat": 51.167354068334, 
+      "lon": 4.387453589517, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -142,8 +142,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.167074603358, 
-      "lon": 4.387516093297, 
+      "lat": 51.167075502875, 
+      "lon": 4.387512090575, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -162,8 +162,10 @@
       "street": "Sint-Jan Vianneystraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "22"
@@ -313,11 +315,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.16649292214, 
-      "lon": 4.388753936323, 
+      "lat": 51.166523779405, 
+      "lon": 4.388602405954, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jan Vianneystraat"
     }, 
     {
@@ -345,10 +347,13 @@
       "street": "Sint-Jan Vianneystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "36"
@@ -660,8 +665,10 @@
       "street": "Sint-Jan Vianneystraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "64"

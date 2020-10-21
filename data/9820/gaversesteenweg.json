@@ -1,10 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -610,9 +610,9 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "172"
@@ -1382,25 +1382,25 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.994587682042, 
-      "lon": 3.735925442603, 
+      "lat": 50.99459982084, 
+      "lon": 3.735992941019, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -1652,8 +1652,8 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.993215794015, 
-      "lon": 3.735204673302, 
+      "lat": 50.993095538039, 
+      "lon": 3.735242335297, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -1661,7 +1661,7 @@
     }, 
     {
       "hnrlbls": [
-        "307A"
+        "307A-309"
       ], 
       "housenumber": "307A", 
       "lat": 50.9929876347, 
@@ -1673,14 +1673,14 @@
     }, 
     {
       "hnrlbls": [
-        "309"
+        "307A-309"
       ], 
       "housenumber": "309", 
-      "lat": 50.993129951743, 
-      "lon": 3.73510569577, 
+      "lat": 50.9929876347, 
+      "lon": 3.73535375758, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -1712,8 +1712,8 @@
         "311A"
       ], 
       "housenumber": "311A", 
-      "lat": 50.992967521565, 
-      "lon": 3.734906904538, 
+      "lat": 50.992958161307, 
+      "lon": 3.734938225748, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -2012,8 +2012,8 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 50.989185530688, 
-      "lon": 3.732216219884, 
+      "lat": 50.989171461618, 
+      "lon": 3.732174536284, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -2204,8 +2204,8 @@
         "356"
       ], 
       "housenumber": "356", 
-      "lat": 50.985901436414, 
-      "lon": 3.728176018401, 
+      "lat": 50.985860779737, 
+      "lon": 3.728254192547, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -2396,11 +2396,11 @@
         "370"
       ], 
       "housenumber": "370", 
-      "lat": 50.984328742298, 
-      "lon": 3.726544757338, 
+      "lat": 50.984331614426, 
+      "lon": 3.72651096552, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -2588,11 +2588,11 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 50.98607035257, 
-      "lon": 3.729450515284, 
+      "lat": 50.985977867598, 
+      "lon": 3.729470147774, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -2600,11 +2600,11 @@
         "385A"
       ], 
       "housenumber": "385A", 
-      "lat": 50.985977867598, 
-      "lon": 3.729470147774, 
+      "lat": 50.98607035257, 
+      "lon": 3.729450515284, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -3875,8 +3875,20 @@
         "492"
       ], 
       "housenumber": "492", 
-      "lat": 50.971551428605, 
-      "lon": 3.715872477299, 
+      "lat": 50.971576686333, 
+      "lon": 3.715969227078, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gaversesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "492A"
+      ], 
+      "housenumber": "492A", 
+      "lat": 50.971537017136, 
+      "lon": 3.715851178869, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3899,8 +3911,8 @@
         "494"
       ], 
       "housenumber": "494", 
-      "lat": 50.971501498337, 
-      "lon": 3.715719689683, 
+      "lat": 50.971491635102, 
+      "lon": 3.715724240611, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3935,11 +3947,11 @@
         "499"
       ], 
       "housenumber": "499", 
-      "lat": 50.97959282371, 
-      "lon": 3.724703677091, 
+      "lat": 50.979602839785, 
+      "lon": 3.724611975578, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -3959,8 +3971,8 @@
         "501"
       ], 
       "housenumber": "501", 
-      "lat": 50.97958177743, 
-      "lon": 3.724590619728, 
+      "lat": 50.979565400942, 
+      "lon": 3.724571335585, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -4003,9 +4015,9 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "505-507"
@@ -4962,11 +4974,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.000247367706, 
-      "lon": 3.747482386244, 
+      "lat": 51.000249117419, 
+      "lon": 3.747524389852, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -5034,8 +5046,8 @@
         "605"
       ], 
       "housenumber": "605", 
-      "lat": 50.972070983021, 
-      "lon": 3.717244470374, 
+      "lat": 50.972089434622, 
+      "lon": 3.717232396793, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -5070,8 +5082,8 @@
         "609"
       ], 
       "housenumber": "609", 
-      "lat": 50.971829446553, 
-      "lon": 3.717084231416, 
+      "lat": 50.971867897281, 
+      "lon": 3.717144777621, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -5276,8 +5288,8 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "623"
@@ -5835,11 +5847,11 @@
         "677"
       ], 
       "housenumber": "677", 
-      "lat": 50.969079613624, 
-      "lon": 3.712193865843, 
+      "lat": 50.969301378239, 
+      "lon": 3.711966957469, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaversesteenweg"
     }, 
     {
@@ -5847,8 +5859,8 @@
         "677A"
       ], 
       "housenumber": "677A", 
-      "lat": 50.969122371015, 
-      "lon": 3.711833499512, 
+      "lat": 50.969118835832, 
+      "lon": 3.711731612309, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -5859,8 +5871,8 @@
         "677B"
       ], 
       "housenumber": "677B", 
-      "lat": 50.969076139449, 
-      "lon": 3.711764527917, 
+      "lat": 50.96906106998, 
+      "lon": 3.711641589254, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -5871,8 +5883,8 @@
         "677C"
       ], 
       "housenumber": "677C", 
-      "lat": 50.969021325817, 
-      "lon": 3.711639725442, 
+      "lat": 50.969035978754, 
+      "lon": 3.711575311672, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -5883,8 +5895,8 @@
         "677D"
       ], 
       "housenumber": "677D", 
-      "lat": 50.968973235171, 
-      "lon": 3.711559817787, 
+      "lat": 50.968996820324, 
+      "lon": 3.71151734621, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6075,8 +6087,8 @@
         "692"
       ], 
       "housenumber": "692", 
-      "lat": 50.959099377175, 
-      "lon": 3.697431945577, 
+      "lat": 50.95909895406, 
+      "lon": 3.697405049463, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6099,8 +6111,8 @@
         "694"
       ], 
       "housenumber": "694", 
-      "lat": 50.959061767936, 
-      "lon": 3.697363164156, 
+      "lat": 50.959061636395, 
+      "lon": 3.697340107057, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6111,8 +6123,8 @@
         "694A"
       ], 
       "housenumber": "694A", 
-      "lat": 50.959021974535, 
-      "lon": 3.697289716892, 
+      "lat": 50.959024764887, 
+      "lon": 3.697274589015, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6123,8 +6135,20 @@
         "695"
       ], 
       "housenumber": "695", 
-      "lat": 50.968165013003, 
-      "lon": 3.71039034496, 
+      "lat": 50.968241089885, 
+      "lon": 3.710298447611, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gaversesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "695A"
+      ], 
+      "housenumber": "695A", 
+      "lat": 50.968189948483, 
+      "lon": 3.710219724389, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -6567,8 +6591,8 @@
         "734"
       ], 
       "housenumber": "734", 
-      "lat": 50.957020625043, 
-      "lon": 3.694507120206, 
+      "lat": 50.957021590985, 
+      "lon": 3.694503121001, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -7011,8 +7035,8 @@
         "774"
       ], 
       "housenumber": "774", 
-      "lat": 50.954934668579, 
-      "lon": 3.69182760167, 
+      "lat": 50.954910341694, 
+      "lon": 3.691849301483, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -7023,8 +7047,8 @@
         "774A"
       ], 
       "housenumber": "774A", 
-      "lat": 50.954890428472, 
-      "lon": 3.691731884331, 
+      "lat": 50.954868972481, 
+      "lon": 3.691768202428, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -7263,8 +7287,8 @@
         "800"
       ], 
       "housenumber": "800", 
-      "lat": 50.953643794512, 
-      "lon": 3.689150758447, 
+      "lat": 50.953644296036, 
+      "lon": 3.689144204325, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -7727,8 +7751,8 @@
       "street": "Gaversesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "869"

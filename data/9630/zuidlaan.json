@@ -72,8 +72,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.873418912145, 
-      "lon": 3.734359635913, 
+      "lat": 50.873418029214, 
+      "lon": 3.734379254764, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
       "source": "afgeleidVanGebouw", 
@@ -84,8 +84,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.873105619942, 
-      "lon": 3.733977124568, 
+      "lat": 50.873108423905, 
+      "lon": 3.734046847195, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
       "source": "afgeleidVanGebouw", 
@@ -632,8 +632,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.870423723753, 
-      "lon": 3.734497494954, 
+      "lat": 50.870427464816, 
+      "lon": 3.734474429127, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
       "source": "afgeleidVanGebouw", 
@@ -659,8 +659,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.870012773746, 
-      "lon": 3.734342640673, 
+      "lat": 50.87008214039, 
+      "lon": 3.734369550606, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
       "source": "afgeleidVanGebouw", 
@@ -695,11 +695,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.869748729173, 
-      "lon": 3.735072738814, 
+      "lat": 50.869689477093, 
+      "lon": 3.735120987801, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zuidlaan"
     }, 
     {
@@ -1931,11 +1931,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.877042953748, 
-      "lon": 3.733527120441, 
+      "lat": 50.877042913054, 
+      "lon": 3.733453091964, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zuidlaan"
     }, 
     {
@@ -2040,7 +2040,8 @@
     }, 
     {
       "apptnrs": [
-        "0101"
+        "0101", 
+        "70/1"
       ], 
       "hnrlbls": [
         "70"
@@ -2054,6 +2055,16 @@
       "street": "Zuidlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -2087,18 +2098,6 @@
       "municipality": "Zwalm", 
       "pcode": "9630", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Zuidlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 50.876166694532, 
-      "lon": 3.73365518401, 
-      "municipality": "Zwalm", 
-      "pcode": "9630", 
-      "source": "afgeleidVanGebouw", 
       "street": "Zuidlaan"
     }, 
     {

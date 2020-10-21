@@ -944,8 +944,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.202747753502, 
-      "lon": 3.784617801173, 
+      "lat": 51.202917284401, 
+      "lon": 3.784764199845, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1011,7 +1011,7 @@
       "lon": 3.78783480888, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1103,8 +1103,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.200735320621, 
-      "lon": 3.786909284756, 
+      "lat": 51.200968641225, 
+      "lon": 3.787178079355, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "manueleAanduidingVanLot", 
@@ -1124,6 +1124,28 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "177-177A"
+      ], 
+      "housenumber": "177", 
+      "lat": 51.201196780174, 
+      "lon": 3.786904823406, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Assenedesteenweg"
+    }, 
+    {
+      "busnrs": [
         "0103", 
         "0203"
       ], 
@@ -1139,37 +1161,19 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "busnrs": [
+        "A100", 
+        "B000", 
+        "C000", 
+        "D100", 
+        "E100", 
+        "F100", 
+        "G000"
+      ], 
       "hnrlbls": [
         "178-178G"
       ], 
       "housenumber": "178", 
-      "lat": 51.203195518512, 
-      "lon": 3.782843409551, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "100"
-      ], 
-      "hnrlbls": [
-        "178-178G"
-      ], 
-      "housenumber": "178A", 
-      "lat": 51.203195518512, 
-      "lon": 3.782843409551, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "178-178G"
-      ], 
-      "housenumber": "178B", 
       "lat": 51.203195518512, 
       "lon": 3.782843409551, 
       "municipality": "Zelzate", 
@@ -1190,18 +1194,6 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "178-178G"
-      ], 
-      "housenumber": "178D", 
-      "lat": 51.203195518512, 
-      "lon": 3.782843409551, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
       "busnrs": [
         "100"
       ], 
@@ -1209,18 +1201,6 @@
         "178-178G"
       ], 
       "housenumber": "178E", 
-      "lat": 51.203195518512, 
-      "lon": 3.782843409551, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "178-178G"
-      ], 
-      "housenumber": "178F", 
       "lat": 51.203195518512, 
       "lon": 3.782843409551, 
       "municipality": "Zelzate", 
@@ -1261,7 +1241,7 @@
       "lon": 3.798516690575, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1502,18 +1482,6 @@
     }, 
     {
       "hnrlbls": [
-        "200"
-      ], 
-      "housenumber": "200", 
-      "lat": 51.203276837292, 
-      "lon": 3.780138832345, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "201"
       ], 
       "housenumber": "201", 
@@ -1538,6 +1506,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0002"
       ], 
       "hnrlbls": [
@@ -1548,7 +1517,7 @@
       "lon": 3.785026813635, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1668,7 +1637,7 @@
       "lon": 3.78432512807, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1720,15 +1689,19 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 51.202615880203, 
-      "lon": 3.784051847811, 
+      "lat": 51.20261660067, 
+      "lon": 3.784052124953, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1736,11 +1709,11 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 51.202686070962, 
-      "lon": 3.783849510484, 
+      "lat": 51.202705929165, 
+      "lon": 3.783848117121, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -1769,23 +1742,11 @@
     }, 
     {
       "hnrlbls": [
-        "229"
-      ], 
-      "housenumber": "229", 
-      "lat": 51.202792759901, 
-      "lon": 3.783520803391, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Assenedesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.197311850452, 
-      "lon": 3.798257479518, 
+      "lat": 51.197311945163, 
+      "lon": 3.798258479814, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1939,8 +1900,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.197357537083, 
-      "lon": 3.798169222782, 
+      "lat": 51.197356193682, 
+      "lon": 3.798170240647, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1975,11 +1936,11 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 51.202804674563, 
-      "lon": 3.781209025598, 
+      "lat": 51.202875398295, 
+      "lon": 3.781223588671, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -2095,11 +2056,11 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.203098223521, 
-      "lon": 3.779432967454, 
+      "lat": 51.203179250976, 
+      "lon": 3.779458844542, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -2487,15 +2448,22 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.197603220418, 
-      "lon": 3.7957555668, 
+      "lat": 51.1974124445, 
+      "lon": 3.795692669549, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -3009,8 +2977,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.197428506129, 
-      "lon": 3.794241077504, 
+      "lat": 51.19742868381, 
+      "lon": 3.794240646124, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -3203,6 +3171,12 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "97-99A"
       ], 

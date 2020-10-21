@@ -479,10 +479,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "143"
@@ -965,8 +964,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.986389122954, 
-      "lon": 4.835312768549, 
+      "lat": 50.986365112253, 
+      "lon": 4.835315092711, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 
@@ -986,12 +985,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "65"
+        "65-65A"
       ], 
       "housenumber": "65", 
       "lat": 50.98638901237, 
@@ -999,6 +998,18 @@
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Amerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65-65A"
+      ], 
+      "housenumber": "65A", 
+      "lat": 50.98638901237, 
+      "lon": 4.835182168881, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Amerstraat"
     }, 
     {
@@ -1140,8 +1151,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.986359063256, 
-      "lon": 4.834642243728, 
+      "lat": 50.98636840669, 
+      "lon": 4.834643618521, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 

@@ -97,6 +97,10 @@
       "street": "Zilvermeeuwstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,15 +113,19 @@
       "street": "Zilvermeeuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.256242347555, 
-      "lon": 4.443486089372, 
+      "lat": 51.25624882153, 
+      "lon": 4.443341139492, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zilvermeeuwstraat"
     }, 
     {
@@ -376,8 +384,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.255792319392, 
-      "lon": 4.442897360388, 
+      "lat": 51.255791420656, 
+      "lon": 4.442897215704, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

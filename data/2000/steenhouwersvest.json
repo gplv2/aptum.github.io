@@ -23,14 +23,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.218070793494, 
-      "lon": 4.397427248283, 
+      "lat": 51.218094057458, 
+      "lon": 4.397491525699, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenhouwersvest"
     }, 
     {
@@ -245,11 +245,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.218154625542, 
-      "lon": 4.397904764021, 
+      "lat": 51.218127568413, 
+      "lon": 4.397912904788, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenhouwersvest"
     }, 
     {
@@ -767,9 +767,6 @@
       "street": "Steenhouwersvest"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -861,36 +858,32 @@
       "street": "Steenhouwersvest"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.218274649513, 
-      "lon": 4.397430525418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Steenhouwersvest"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "8-10"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.218070793494, 
-      "lon": 4.397427248283, 
+      "lat": 51.218274290084, 
+      "lon": 4.397430095817, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenhouwersvest"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.21810979936, 
+      "lon": 4.397442444019, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Steenhouwersvest"
     }, 
     {

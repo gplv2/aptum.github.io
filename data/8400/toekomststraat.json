@@ -15,7 +15,8 @@
     {
       "busnrs": [
         "0001", 
-        "0301"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "11"
@@ -23,6 +24,21 @@
       "housenumber": "11", 
       "lat": 51.223390721259, 
       "lon": 2.908010033527, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Toekomststraat"
+    }, 
+    {
+      "busnrs": [
+        "0301"
+      ], 
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.223370149453, 
+      "lon": 2.908025853618, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -129,7 +145,25 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601"
       ], 
       "hnrlbls": [
         "2"

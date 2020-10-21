@@ -242,11 +242,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.912375975281, 
-      "lon": 4.359427566979, 
+      "lat": 50.912343440663, 
+      "lon": 4.359520566475, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -274,6 +274,24 @@
       "street": "Ringlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.912049107796, 
+      "lon": 4.359226142429, 
+      "municipality": "Grimbergen", 
+      "pcode": "1853", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ringlaan"
+    }, 
+    {
       "hnrlbls": [
         "25-27"
       ], 
@@ -287,17 +305,20 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0002", 
+        "0101", 
+        "0102", 
+        "B001"
       ], 
       "hnrlbls": [
-        "30B"
+        "30"
       ], 
-      "housenumber": "30B", 
-      "lat": 50.911755025755, 
-      "lon": 4.359907430703, 
+      "housenumber": "30", 
+      "lat": 50.91187267346, 
+      "lon": 4.359585348811, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
@@ -346,42 +367,42 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "44A-44B"
       ], 
       "housenumber": "44A", 
-      "lat": 50.911069562893, 
-      "lon": 4.360897605205, 
+      "lat": 50.911141576012, 
+      "lon": 4.361037649661, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "44A-44B"
       ], 
       "housenumber": "44B", 
-      "lat": 50.911069562893, 
-      "lon": 4.360897605205, 
+      "lat": 50.911141576012, 
+      "lon": 4.361037649661, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ringlaan"
     }, 
     {

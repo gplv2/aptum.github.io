@@ -29,8 +29,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.10226290514, 
-      "lon": 3.999790166201, 
+      "lat": 51.10226191594, 
+      "lon": 3.999790031223, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -41,8 +41,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.102255016826, 
-      "lon": 3.999854760967, 
+      "lat": 51.102254388064, 
+      "lon": 3.999854908691, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -421,9 +421,21 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
+      "lat": 51.102341124974, 
+      "lon": 3.996927979457, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18-18A"
+      ], 
+      "housenumber": "18A", 
       "lat": 51.102341124974, 
       "lon": 3.996927979457, 
       "municipality": "Lokeren", 
@@ -984,8 +996,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.102386519201, 
-      "lon": 3.998674573752, 
+      "lat": 51.102375881711, 
+      "lon": 3.998664806559, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1120,8 +1132,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.102437138942, 
-      "lon": 3.999195433823, 
+      "lat": 51.102437048609, 
+      "lon": 3.999195291764, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1235,6 +1247,18 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -1259,6 +1283,16 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -1283,12 +1317,44 @@
       "street": "Brugstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.10265359395, 
-      "lon": 3.999886600889, 
+      "lat": 51.102688930031, 
+      "lon": 3.999716994269, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "96B"
+      ], 
+      "housenumber": "96B", 
+      "lat": 51.102658006423, 
+      "lon": 3.999889136043, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

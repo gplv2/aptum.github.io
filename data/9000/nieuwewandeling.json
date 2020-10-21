@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-4"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.055774428297, 
-      "lon": 3.708014723585, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwewandeling"
-    }, 
-    {
-      "hnrlbls": [
         "10-17"
       ], 
       "housenumber": "10", 
@@ -482,18 +470,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-4"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.055774428297, 
-      "lon": 3.708014723585, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwewandeling"
-    }, 
-    {
-      "hnrlbls": [
         "18-26"
       ], 
       "housenumber": "20", 
@@ -637,8 +613,14 @@
       "street": "Nieuwewandeling"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "1-4"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.055774428297, 
@@ -763,18 +745,6 @@
       "housenumber": "39", 
       "lat": 51.055401497565, 
       "lon": 3.707106994804, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwewandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "1-4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.055774428297, 
-      "lon": 3.708014723585, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1073,11 +1043,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.055100791069, 
-      "lon": 3.70675195374, 
+      "lat": 51.055245860142, 
+      "lon": 3.706700695673, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwewandeling"
     }, 
     {
@@ -1089,7 +1059,7 @@
       "lon": 3.706497225325, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwewandeling"
     }, 
     {
@@ -1102,11 +1072,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.055124299373, 
-      "lon": 3.706359955669, 
+      "lat": 51.055059422679, 
+      "lon": 3.706364581452, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwewandeling"
     }, 
     {
@@ -1277,11 +1247,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.054846511677, 
-      "lon": 3.705716768723, 
+      "lat": 51.054861013224, 
+      "lon": 3.705817831211, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwewandeling"
     }, 
     {

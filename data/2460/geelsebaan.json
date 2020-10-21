@@ -7,7 +7,9 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "1"
@@ -219,21 +221,6 @@
       "street": "Geelsebaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.239569292389, 
-      "lon": 4.967937970385, 
-      "municipality": "Kasterlee", 
-      "pcode": "2460", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Geelsebaan"
-    }, 
-    {
       "hnrlbls": [
         "120"
       ], 
@@ -422,18 +409,6 @@
       "street": "Geelsebaan"
     }, 
     {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.239440737071, 
-      "lon": 4.96772882711, 
-      "municipality": "Kasterlee", 
-      "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Geelsebaan"
-    }, 
-    {
       "busnrs": [
         "bus1", 
         "bus2", 
@@ -453,6 +428,12 @@
       "street": "Geelsebaan"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3", 
+        "bus 4"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -462,18 +443,6 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Geelsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.239287954148, 
-      "lon": 4.968078688868, 
-      "municipality": "Kasterlee", 
-      "pcode": "2460", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Geelsebaan"
     }, 
     {
@@ -679,8 +648,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "30"
@@ -853,11 +821,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.238162281007, 
-      "lon": 4.969323414816, 
+      "lat": 51.238339051578, 
+      "lon": 4.969772308024, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Geelsebaan"
     }, 
     {
@@ -882,11 +850,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.238117922308, 
-      "lon": 4.969385273583, 
+      "lat": 51.238264003403, 
+      "lon": 4.969841645864, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Geelsebaan"
     }, 
     {
@@ -923,6 +891,126 @@
       "housenumber": "48", 
       "lat": 51.237767799696, 
       "lon": 4.96869845966, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49A-49E"
+      ], 
+      "housenumber": "49A", 
+      "lat": 51.237878762326, 
+      "lon": 4.969486000591, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49B-49F"
+      ], 
+      "housenumber": "49B", 
+      "lat": 51.237817879069, 
+      "lon": 4.969527312683, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49C-49J"
+      ], 
+      "housenumber": "49C", 
+      "lat": 51.237756745087, 
+      "lon": 4.969564898511, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49D-49H"
+      ], 
+      "housenumber": "49D", 
+      "lat": 51.237936793757, 
+      "lon": 4.969457538677, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49A-49E"
+      ], 
+      "housenumber": "49E", 
+      "lat": 51.237878762326, 
+      "lon": 4.969486000591, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49B-49F"
+      ], 
+      "housenumber": "49F", 
+      "lat": 51.237817879069, 
+      "lon": 4.969527312683, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49C-49J"
+      ], 
+      "housenumber": "49G", 
+      "lat": 51.237756745087, 
+      "lon": 4.969564898511, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49D-49H"
+      ], 
+      "housenumber": "49H", 
+      "lat": 51.237936793757, 
+      "lon": 4.969457538677, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49I"
+      ], 
+      "housenumber": "49I", 
+      "lat": 51.237848365639, 
+      "lon": 4.96950665723, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49C-49J"
+      ], 
+      "housenumber": "49J", 
+      "lat": 51.237756745087, 
+      "lon": 4.969564898511, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 

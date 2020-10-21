@@ -99,11 +99,10 @@
       "street": "Van Maerlantstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "17"
@@ -731,8 +730,11 @@
       "street": "Van Maerlantstraat"
     }, 
     {
-      "busnrs": [
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "55"
@@ -747,10 +749,16 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
+        "102", 
         "201", 
+        "202", 
         "301", 
-        "401"
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "56"
@@ -871,6 +879,12 @@
       "street": "Van Maerlantstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1006,8 +1020,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.221918158913, 
-      "lon": 4.417897539027, 
+      "lat": 51.221927155437, 
+      "lon": 4.417878225286, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1146,8 +1160,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.224286006581, 
-      "lon": 4.417591739599, 
+      "lat": 51.224280270566, 
+      "lon": 4.417552225981, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

@@ -46,15 +46,18 @@
       "street": "Delacenseriestraat"
     }, 
     {
-      "busnrs": [
-        "0001"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.300419940349, 
-      "lon": 3.079151276604, 
+      "lat": 51.300441857402, 
+      "lon": 3.079133174972, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -150,6 +153,8 @@
     }, 
     {
       "apptnrs": [
+        "0101", 
+        "0201", 
         "0301"
       ], 
       "hnrlbls": [
@@ -298,10 +303,8 @@
       "street": "Delacenseriestraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0301", 
-        "201"
+      "apptnrs": [
+        "0201"
       ], 
       "hnrlbls": [
         "7"

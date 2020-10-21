@@ -1,29 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0202", 
-        "0302", 
-        "0303"
-      ], 
-      "hnrlbls": [
-        "1-1C"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.790493091746, 
-      "lon": 5.47967768164, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heuveldal"
-    }, 
-    {
       "hnrlbls": [
         "10"
       ], 
@@ -97,32 +74,39 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "202", 
-        "3", 
-        "301", 
-        "302", 
-        "303"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
-        "1-1C"
+        "1C"
       ], 
       "housenumber": "1C", 
       "lat": 50.790493091746, 
       "lon": 5.47967768164, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heuveldal"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0002", 
         "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
         "0202", 
         "0203"
       ], 
@@ -142,8 +126,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.79192159132, 
-      "lon": 5.478391140979, 
+      "lat": 50.791932694846, 
+      "lon": 5.478433814296, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -154,8 +138,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.791989254163, 
-      "lon": 5.478470893516, 
+      "lat": 50.791983837574, 
+      "lon": 5.478501687726, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -166,8 +150,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.792067614203, 
-      "lon": 5.478579267582, 
+      "lat": 50.79207992383, 
+      "lon": 5.478617997896, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -178,8 +162,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.792126588465, 
-      "lon": 5.478674560338, 
+      "lat": 50.79211683751, 
+      "lon": 5.478688372824, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -202,8 +186,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.791132070035, 
-      "lon": 5.479202570284, 
+      "lat": 50.791131345563, 
+      "lon": 5.479203120545, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -222,12 +206,42 @@
       "street": "Heuveldal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.793451438703, 
+      "lon": 5.479822601237, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heuveldal"
+    }, 
+    {
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.792348087244, 
-      "lon": 5.478981208801, 
+      "lat": 50.792354641319, 
+      "lon": 5.479020087271, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -238,8 +252,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.792415929451, 
-      "lon": 5.479060967153, 
+      "lat": 50.792406512208, 
+      "lon": 5.479086986228, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -250,8 +264,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.792563384891, 
-      "lon": 5.479268564547, 
+      "lat": 50.792563754452, 
+      "lon": 5.479295949529, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -262,8 +276,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.792501825856, 
-      "lon": 5.479379452764, 
+      "lat": 50.792504395718, 
+      "lon": 5.47940235061, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +300,20 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.792444800054, 
-      "lon": 5.479486334235, 
+      "lat": 50.792445126773, 
+      "lon": 5.479508753545, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heuveldal"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.79276261719, 
+      "lon": 5.47957185584, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -298,8 +324,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.792704074475, 
-      "lon": 5.479658559666, 
+      "lat": 50.792703256863, 
+      "lon": 5.479678398837, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -307,11 +333,32 @@
     }, 
     {
       "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.792643896438, 
+      "lon": 5.479784941565, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heuveldal"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0204"
+      ], 
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.792909036649, 
-      "lon": 5.480096885367, 
+      "lat": 50.792923279793, 
+      "lon": 5.48011183218, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -322,8 +369,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.791170486829, 
-      "lon": 5.479133407538, 
+      "lat": 50.791169481938, 
+      "lon": 5.479135085914, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -335,16 +382,21 @@
         "0002", 
         "0003", 
         "0004", 
+        "0101", 
+        "0102", 
         "0103", 
+        "0104", 
+        "0201", 
         "0203", 
-        "0204"
+        "0204", 
+        "0302"
       ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.793271503697, 
-      "lon": 5.480422622943, 
+      "lat": 50.793247557918, 
+      "lon": 5.480416383003, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -367,8 +419,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.791208082499, 
-      "lon": 5.479065501873, 
+      "lat": 50.791207257381, 
+      "lon": 5.479067184495, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -391,8 +443,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.791244950969, 
-      "lon": 5.478998429984, 
+      "lat": 50.791244760436, 
+      "lon": 5.478999560221, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

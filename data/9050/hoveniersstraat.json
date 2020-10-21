@@ -1086,6 +1086,12 @@
       "street": "Hoveniersstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1308,7 +1314,7 @@
     }, 
     {
       "hnrlbls": [
-        "69"
+        "69-69A"
       ], 
       "housenumber": "69", 
       "lat": 51.037656004214, 
@@ -1316,6 +1322,18 @@
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "69-69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 51.037656004214, 
+      "lon": 3.744753435092, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {

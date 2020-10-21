@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -127,6 +132,21 @@
       "housenumber": "19", 
       "lat": 50.984543985508, 
       "lon": 4.835287679909, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Martelarenstraat"
+    }, 
+    {
+      "busnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.984039760441, 
+      "lon": 4.835743641753, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 
@@ -575,8 +595,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.98438734744, 
-      "lon": 4.835615520336, 
+      "lat": 50.984486434578, 
+      "lon": 4.835631889497, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 

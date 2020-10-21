@@ -10,8 +10,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.232168457639, 
-      "lon": 4.421675376099, 
+      "lat": 51.232179085683, 
+      "lon": 4.421627284054, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -51,8 +51,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.23467635325, 
-      "lon": 4.423307736984, 
+      "lat": 51.234676715057, 
+      "lon": 4.423302869458, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -104,8 +104,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.234814690876, 
-      "lon": 4.423292581163, 
+      "lat": 51.234803631012, 
+      "lon": 4.423301588116, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -298,18 +298,6 @@
       "housenumber": "119", 
       "lat": 51.235904431233, 
       "lon": 4.423879044663, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bredastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.232223924286, 
-      "lon": 4.421656541771, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -580,9 +568,14 @@
       "street": "Bredastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "203"
       ], 
       "hnrlbls": [
         "14"
@@ -718,8 +711,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.232281610303, 
-      "lon": 4.421100973939, 
+      "lat": 51.23225327383, 
+      "lon": 4.421152625234, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -819,18 +812,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Bredastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.232296179602, 
-      "lon": 4.42168082021, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
       "street": "Bredastraat"
     }, 
     {
@@ -985,8 +966,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.232394422865, 
-      "lon": 4.422074502401, 
+      "lat": 51.232406854553, 
+      "lon": 4.422013670336, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1586,8 +1567,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.233502834174, 
-      "lon": 4.422729937516, 
+      "lat": 51.233500757125, 
+      "lon": 4.422750981295, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1606,18 +1587,6 @@
       "street": "Bredastraat"
     }, 
     {
-      "hnrlbls": [
-        "7-9"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.232176088586, 
-      "lon": 4.420896840247, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bredastraat"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "201", 
@@ -1627,8 +1596,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.233463540303, 
-      "lon": 4.422761961828, 
+      "lat": 51.233541911334, 
+      "lon": 4.422777802679, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1732,11 +1701,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.23365777159, 
-      "lon": 4.422970648206, 
+      "lat": 51.233570185589, 
+      "lon": 4.423055732217, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bredastraat"
     }, 
     {
@@ -1980,28 +1949,16 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.234545433666, 
-      "lon": 4.42283410296, 
+      "lat": 51.234509619213, 
+      "lon": 4.422922256445, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.232176088586, 
@@ -2031,8 +1988,8 @@
         "91-93"
       ], 
       "housenumber": "91", 
-      "lat": 51.234328398829, 
-      "lon": 4.42314883088, 
+      "lat": 51.23436200847, 
+      "lon": 4.423163331193, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2058,8 +2015,8 @@
         "91-93"
       ], 
       "housenumber": "93", 
-      "lat": 51.234328398829, 
-      "lon": 4.42314883088, 
+      "lat": 51.23436200847, 
+      "lon": 4.423163331193, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2087,8 +2044,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.234211169779, 
-      "lon": 4.423578356639, 
+      "lat": 51.234224476952, 
+      "lon": 4.423568923021, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -2117,8 +2074,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.234565536908, 
-      "lon": 4.423286558944, 
+      "lat": 51.234566436276, 
+      "lon": 4.423285414611, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

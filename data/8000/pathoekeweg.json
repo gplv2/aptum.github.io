@@ -89,11 +89,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.237032938695, 
-      "lon": 3.218036453096, 
+      "lat": 51.237148020751, 
+      "lon": 3.21837113563, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Pathoekeweg"
     }, 
     {
@@ -143,18 +143,6 @@
       "street": "Pathoekeweg"
     }, 
     {
-      "hnrlbls": [
-        "120C"
-      ], 
-      "housenumber": "120C", 
-      "lat": 51.239246442467, 
-      "lon": 3.217513978606, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pathoekeweg"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0002", 
@@ -184,6 +172,18 @@
       "housenumber": "120H", 
       "lat": 51.238215505484, 
       "lon": 3.218148471604, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "120P"
+      ], 
+      "housenumber": "120P", 
+      "lat": 51.239197613516, 
+      "lon": 3.217586214306, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -425,11 +425,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.240131494435, 
-      "lon": 3.214417715896, 
+      "lat": 51.240131947986, 
+      "lon": 3.214418134296, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Pathoekeweg"
     }, 
     {
@@ -536,8 +536,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.240216035582, 
-      "lon": 3.216091316301, 
+      "lat": 51.240346273539, 
+      "lon": 3.216043272438, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -645,6 +645,18 @@
     }, 
     {
       "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 51.266833083817, 
+      "lon": 3.205997715624, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -660,8 +672,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.241713821063, 
-      "lon": 3.21557166202, 
+      "lat": 51.241707997749, 
+      "lon": 3.215656731911, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -680,27 +692,96 @@
       "street": "Pathoekeweg"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "25"
+        "25-25E"
       ], 
       "housenumber": "25", 
-      "lat": 51.242079939346, 
-      "lon": 3.215911050281, 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pathoekeweg"
     }, 
     {
       "hnrlbls": [
-        "25B"
+        "25-25E"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25-25E"
       ], 
       "housenumber": "25B", 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25-25E"
+      ], 
+      "housenumber": "25C", 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25-25E"
+      ], 
+      "housenumber": "25D", 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25-25E"
+      ], 
+      "housenumber": "25E", 
+      "lat": 51.242155905573, 
+      "lon": 3.215385720113, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25F"
+      ], 
+      "housenumber": "25F", 
       "lat": 51.242511666842, 
       "lon": 3.215188018154, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pathoekeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "25G"
+      ], 
+      "housenumber": "25G", 
+      "lat": 51.242895502871, 
+      "lon": 3.21526989542, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -798,8 +879,8 @@
         "302"
       ], 
       "housenumber": "302", 
-      "lat": 51.265058964785, 
-      "lon": 3.209731160639, 
+      "lat": 51.265151719857, 
+      "lon": 3.210106269905, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1221,11 +1302,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.231209955284, 
-      "lon": 3.214087121213, 
+      "lat": 51.231368165998, 
+      "lon": 3.214353962166, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Pathoekeweg"
     }, 
     {
@@ -1326,6 +1407,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0010", 
+        "0011", 
+        "0012", 
         "3", 
         "5", 
         "6", 
@@ -1356,6 +1443,7 @@
         "008", 
         "009", 
         "010", 
+        "011", 
         "101", 
         "102", 
         "103"

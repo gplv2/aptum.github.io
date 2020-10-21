@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.110330636895, 
-      "lon": 3.97785238462, 
+      "lat": 51.110334578798, 
+      "lon": 3.977821222142, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Duysestraat"
     }, 
     {
@@ -53,8 +53,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.113942485189, 
-      "lon": 3.985711611168, 
+      "lat": 51.11392795601, 
+      "lon": 3.985721726527, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -115,6 +115,18 @@
       "housenumber": "112", 
       "lat": 51.114037700657, 
       "lon": 3.985940752165, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11-11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.111368048179, 
+      "lon": 3.9787242244, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -201,11 +213,11 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.110357660395, 
-      "lon": 3.977652244254, 
+      "lat": 51.110359632604, 
+      "lon": 3.977677788312, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Duysestraat"
     }, 
     {
@@ -213,8 +225,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.111596372035, 
-      "lon": 3.977964339863, 
+      "lat": 51.111505849905, 
+      "lon": 3.977963096187, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -261,8 +273,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.111908864185, 
-      "lon": 3.980594267815, 
+      "lat": 51.111999629583, 
+      "lon": 3.980505406994, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -290,18 +302,6 @@
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Duysestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25A"
-      ], 
-      "housenumber": "25A", 
-      "lat": 51.111871919815, 
-      "lon": 3.980731091704, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Duysestraat"
     }, 
     {
@@ -345,8 +345,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.110432494249, 
-      "lon": 3.977259071635, 
+      "lat": 51.110457377627, 
+      "lon": 3.977281425439, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -474,26 +474,26 @@
     }, 
     {
       "hnrlbls": [
-        "3A"
+        "3A-3B"
       ], 
       "housenumber": "3A", 
-      "lat": 51.110610866097, 
-      "lon": 3.977350255513, 
+      "lat": 51.110631364912, 
+      "lon": 3.97735151213, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Duysestraat"
     }, 
     {
       "hnrlbls": [
-        "3B"
+        "3A-3B"
       ], 
       "housenumber": "3B", 
-      "lat": 51.110795096929, 
-      "lon": 3.977500652124, 
+      "lat": 51.110631364912, 
+      "lon": 3.97735151213, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Duysestraat"
     }, 
     {
@@ -501,8 +501,44 @@
         "3C"
       ], 
       "housenumber": "3C", 
+      "lat": 51.110764722575, 
+      "lon": 3.977421653318, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3D"
+      ], 
+      "housenumber": "3D", 
+      "lat": 51.110786110794, 
+      "lon": 3.977420046585, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3E"
+      ], 
+      "housenumber": "3E", 
       "lat": 51.110969425572, 
       "lon": 3.9775924426, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.111682868363, 
+      "lon": 3.978270495793, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -537,8 +573,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.112698119491, 
-      "lon": 3.981617908287, 
+      "lat": 51.112709866995, 
+      "lon": 3.981609385754, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -611,6 +647,18 @@
       "housenumber": "48", 
       "lat": 51.112713100726, 
       "lon": 3.982295243808, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.112982840585, 
+      "lon": 3.98449548694, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -779,6 +827,18 @@
       "housenumber": "7", 
       "lat": 51.11117157869, 
       "lon": 3.978242630048, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Duysestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.113311315178, 
+      "lon": 3.984253306856, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 

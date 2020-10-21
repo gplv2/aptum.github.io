@@ -141,11 +141,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.744223685742, 
-      "lon": 4.348432646052, 
+      "lat": 50.744636764057, 
+      "lon": 4.348970879707, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -192,11 +192,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.745438897216, 
-      "lon": 4.353147379445, 
+      "lat": 50.745514499264, 
+      "lon": 4.353133611734, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -271,7 +271,7 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-2110"
+        "169"
       ], 
       "housenumber": "169", 
       "lat": 50.744145769031, 
@@ -337,6 +337,18 @@
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
+      "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 50.745974980321, 
+      "lon": 4.358546864602, 
+      "municipality": "Sint-Genesius-Rode", 
+      "pcode": "1640", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zoni\u00ebnwoudlaan"
+    }, 
+    {
       "busnrs": [
         "2"
       ], 
@@ -385,21 +397,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "busnrs": [
-        "301"
-      ], 
-      "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "201", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -452,18 +449,6 @@
     }, 
     {
       "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "209", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
         "210"
       ], 
       "housenumber": "210", 
@@ -472,36 +457,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "211", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "busnrs": [
-        "201"
-      ], 
-      "hnrlbls": [
-        "/ZN-2110"
-      ], 
-      "housenumber": "2110", 
-      "lat": 50.744145769031, 
-      "lon": 4.37275518932, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanGemeente", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -518,18 +473,6 @@
     }, 
     {
       "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "213", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
         "214"
       ], 
       "housenumber": "214", 
@@ -542,18 +485,6 @@
     }, 
     {
       "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "215", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
         "216"
       ], 
       "housenumber": "216", 
@@ -562,18 +493,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "201-217"
-      ], 
-      "housenumber": "217", 
-      "lat": 50.747246695677, 
-      "lon": 4.360092484625, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -897,7 +816,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "25"
@@ -1376,11 +1296,11 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 50.756482277002, 
-      "lon": 4.377566440986, 
+      "lat": 50.757379963446, 
+      "lon": 4.376763755264, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -1734,18 +1654,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "337"
-      ], 
-      "housenumber": "337", 
-      "lat": 50.757105305944, 
-      "lon": 4.379145363559, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -2168,7 +2076,7 @@
     }, 
     {
       "hnrlbls": [
-        "381"
+        "381-383"
       ], 
       "housenumber": "381", 
       "lat": 50.759308316304, 
@@ -2180,26 +2088,14 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-2110"
+        "381-383"
       ], 
       "housenumber": "383", 
-      "lat": 50.744145769031, 
-      "lon": 4.37275518932, 
+      "lat": 50.759308316304, 
+      "lon": 4.383249528506, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "afgeleidVanGemeente", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-2110"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.744145769031, 
-      "lon": 4.37275518932, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -2475,18 +2371,6 @@
     }, 
     {
       "hnrlbls": [
-        "/ZN-2110"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.744145769031, 
-      "lon": 4.37275518932, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanGemeente", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -2577,7 +2461,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "77-77B"
+        "77"
       ], 
       "housenumber": "77", 
       "lat": 50.743226657428, 
@@ -2585,18 +2469,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "77-77B"
-      ], 
-      "housenumber": "77B", 
-      "lat": 50.743226657428, 
-      "lon": 4.344214353328, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoni\u00ebnwoudlaan"
     }, 
     {
@@ -2645,18 +2517,6 @@
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoni\u00ebnwoudlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/ZN-2110"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 50.744145769031, 
-      "lon": 4.37275518932, 
-      "municipality": "Sint-Genesius-Rode", 
-      "pcode": "1640", 
-      "source": "afgeleidVanGemeente", 
       "street": "Zoni\u00ebnwoudlaan"
     }
   ]

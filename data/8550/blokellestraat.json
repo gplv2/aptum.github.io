@@ -169,15 +169,19 @@
       "street": "Blokellestraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.814739098212, 
-      "lon": 3.346286533227, 
+      "lat": 50.814739217788, 
+      "lon": 3.346289936478, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blokellestraat"
     }, 
     {
@@ -254,7 +258,7 @@
     }, 
     {
       "hnrlbls": [
-        "13A"
+        "13A-15"
       ], 
       "housenumber": "13A", 
       "lat": 50.814933652854, 
@@ -338,11 +342,11 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "13A-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.814747105187, 
-      "lon": 3.346761617036, 
+      "lat": 50.814933652854, 
+      "lon": 3.34694687575, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +381,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.809431911306, 
-      "lon": 3.351575269973, 
+      "lat": 50.809541570293, 
+      "lon": 3.351810857583, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -724,8 +728,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.814238257841, 
-      "lon": 3.346958991492, 
+      "lat": 50.814247201554, 
+      "lon": 3.346974265404, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 
@@ -1434,8 +1438,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.812484490197, 
-      "lon": 3.349955464356, 
+      "lat": 50.812484289559, 
+      "lon": 3.349963415291, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "afgeleidVanGebouw", 

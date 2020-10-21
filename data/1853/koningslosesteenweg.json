@@ -487,15 +487,20 @@
       "street": "Koningslosesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "5"
+        "5-7"
       ], 
       "housenumber": "5", 
-      "lat": 50.908570153754, 
-      "lon": 4.364660366626, 
+      "lat": 50.908658069669, 
+      "lon": 4.364662066424, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koningslosesteenweg"
     }, 
     {
@@ -755,7 +760,7 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "5-7"
       ], 
       "housenumber": "7", 
       "lat": 50.908658069669, 
@@ -847,7 +852,7 @@
         "0202"
       ], 
       "hnrlbls": [
-        "76-76B"
+        "76"
       ], 
       "housenumber": "76", 
       "lat": 50.908880735708, 
@@ -855,21 +860,6 @@
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koningslosesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "6"
-      ], 
-      "hnrlbls": [
-        "76-76B"
-      ], 
-      "housenumber": "76B", 
-      "lat": 50.908880735708, 
-      "lon": 4.359404892132, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Koningslosesteenweg"
     }, 
     {

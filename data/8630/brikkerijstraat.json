@@ -1,27 +1,26 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "20"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
-      "housenumber": "20", 
-      "lat": 51.071888818291, 
-      "lon": 2.676409396073, 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.071806367247, 
+      "lon": 2.675958405988, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brikkerijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.072077794946, 
-      "lon": 2.676395568071, 
-      "municipality": "Veurne", 
-      "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brikkerijstraat"
     }, 
     {
@@ -41,11 +40,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.069274920227, 
-      "lon": 2.675034202229, 
+      "lat": 51.069297002557, 
+      "lon": 2.675031690472, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brikkerijstraat"
     }, 
     {
@@ -53,11 +52,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.069206524969, 
-      "lon": 2.675048665124, 
+      "lat": 51.069225117899, 
+      "lon": 2.674984773455, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brikkerijstraat"
     }, 
     {
@@ -223,6 +222,30 @@
       "housenumber": "49", 
       "lat": 51.06958748959, 
       "lon": 2.67570003293, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brikkerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.071888818291, 
+      "lon": 2.676409396073, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brikkerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.072077794946, 
+      "lon": 2.676395568071, 
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 

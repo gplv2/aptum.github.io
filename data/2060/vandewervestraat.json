@@ -74,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-20"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.228465141347, 
-      "lon": 4.415415483648, 
+      "lat": 51.228685593218, 
+      "lon": 4.415496877449, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -89,11 +89,11 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.2285498064, 
-      "lon": 4.415428740031, 
+      "lat": 51.228600638767, 
+      "lon": 4.415532866434, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -101,37 +101,8 @@
         "2-2A"
       ], 
       "housenumber": "2", 
-      "lat": 51.229493713069, 
-      "lon": 4.415105729843, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van de Wervestraat"
-    }, 
-    {
-      "apptnrs": [
-        "002", 
-        "003", 
-        "004", 
-        "005", 
-        "101", 
-        "102", 
-        "104", 
-        "106", 
-        "201", 
-        "202", 
-        "204", 
-        "206", 
-        "301", 
-        "302", 
-        "304"
-      ], 
-      "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.228465141347, 
-      "lon": 4.415415483648, 
+      "lat": 51.229546844147, 
+      "lon": 4.41508087373, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -139,14 +110,26 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.228495549578, 
+      "lon": 4.415570838956, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Van de Wervestraat"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.228489362042, 
-      "lon": 4.415534900462, 
+      "lat": 51.228386056479, 
+      "lon": 4.415607804723, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -154,11 +137,11 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.228518308575, 
-      "lon": 4.415524909004, 
+      "lat": 51.228292292184, 
+      "lon": 4.415646790549, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -250,11 +233,11 @@
         "2-2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.229493713069, 
-      "lon": 4.415105729843, 
+      "lat": 51.229546844147, 
+      "lon": 4.41508087373, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -310,8 +293,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.22858095145, 
-      "lon": 4.415985506952, 
+      "lat": 51.228578887376, 
+      "lon": 4.415977488071, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +384,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.229518887406, 
-      "lon": 4.415088289815, 
+      "lat": 51.229490930722, 
+      "lon": 4.415095562731, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -510,9 +493,10 @@
       "street": "Van de Wervestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "46"
@@ -567,6 +551,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van de Wervestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.22949890044, 
+      "lon": 4.415170729367, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van de Wervestraat"
     }, 
     {
@@ -635,6 +631,10 @@
       "street": "Van de Wervestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -716,9 +716,9 @@
       "street": "Van de Wervestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "60"
@@ -850,8 +850,20 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.226353786799, 
-      "lon": 4.416274526858, 
+      "lat": 51.226372139749, 
+      "lon": 4.416233605045, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van de Wervestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.2263173217, 
+      "lon": 4.41598532724, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -887,10 +899,6 @@
       "street": "Van de Wervestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -939,10 +947,6 @@
       "street": "Van de Wervestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -967,6 +971,10 @@
       "street": "Van de Wervestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1130,6 +1138,12 @@
       "street": "Van de Wervestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "89"
       ], 

@@ -501,8 +501,10 @@
         "0", 
         "01/1", 
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "02/1"
       ], 
       "hnrlbls": [
         "160"
@@ -700,8 +702,8 @@
         "175A"
       ], 
       "housenumber": "175A", 
-      "lat": 50.902668437936, 
-      "lon": 4.372125610839, 
+      "lat": 50.902667898412, 
+      "lon": 4.372130302158, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2077,19 +2079,19 @@
       "street": "Romeinsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
+      "busnrs": [
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.901388122656, 
-      "lon": 4.365424848088, 
+      "lat": 50.901383807805, 
+      "lon": 4.365426980711, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Romeinsesteenweg"
     }, 
     {
@@ -2122,19 +2124,19 @@
       "street": "Romeinsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
+      "busnrs": [
+        "01/1", 
+        "O000"
       ], 
       "hnrlbls": [
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 50.901253026317, 
-      "lon": 4.3630826551, 
+      "lat": 50.901262015629, 
+      "lon": 4.363081232563, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Romeinsesteenweg"
     }, 
     {
@@ -2422,23 +2424,21 @@
       "street": "Romeinsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "busnrs": [
-        "3"
+        "00/1", 
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 50.901184214038, 
-      "lon": 4.362143565872, 
+      "lat": 50.901192034713, 
+      "lon": 4.362142001147, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Romeinsesteenweg"
     }, 
     {
@@ -2525,12 +2525,10 @@
       "street": "Romeinsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "busnrs": [
-        "2"
+        "00/1", 
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "320"
@@ -2768,6 +2766,18 @@
     }, 
     {
       "hnrlbls": [
+        "49B"
+      ], 
+      "housenumber": "49B", 
+      "lat": 50.906609165743, 
+      "lon": 4.3811445098, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Romeinsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -2930,8 +2940,8 @@
         "67A"
       ], 
       "housenumber": "67A", 
-      "lat": 50.905924206267, 
-      "lon": 4.380023288999, 
+      "lat": 50.905912609051, 
+      "lon": 4.380032527253, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

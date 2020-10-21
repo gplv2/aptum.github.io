@@ -71,8 +71,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.221606581914, 
-      "lon": 4.406438104798, 
+      "lat": 51.221603257002, 
+      "lon": 4.406435668767, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -80,23 +80,23 @@
     }, 
     {
       "apptnrs": [
-        "1101", 
-        "2001", 
-        "2002", 
+        "1001", 
         "2101", 
         "2102", 
+        "2103", 
         "2201", 
         "2202", 
+        "2203", 
         "2301", 
         "2302", 
         "2303", 
+        "2401", 
         "3001", 
         "4001", 
-        "4101", 
-        "4102", 
-        "4201", 
-        "4202", 
-        "4301"
+        "5101", 
+        "5102", 
+        "5103", 
+        "5201"
       ], 
       "hnrlbls": [
         "15"
@@ -152,14 +152,16 @@
         "4001", 
         "4101", 
         "4102", 
+        "4201", 
+        "4202", 
         "4301"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.221768082995, 
-      "lon": 4.407049283103, 
+      "lat": 51.221748551369, 
+      "lon": 4.407130567691, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -205,11 +207,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.222033612526, 
-      "lon": 4.407552772368, 
+      "lat": 51.221729184137, 
+      "lon": 4.40725808507, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Keizerstraat"
     }, 
     {
@@ -297,12 +299,17 @@
       "street": "Keizerstraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.22176737583, 
-      "lon": 4.40534024489, 
+      "lat": 51.221777871413, 
+      "lon": 4.405406238752, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -754,18 +761,6 @@
       "street": "Keizerstraat"
     }, 
     {
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.221453927776, 
-      "lon": 4.409717620379, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Keizerstraat"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "101", 
@@ -787,23 +782,44 @@
       "street": "Keizerstraat"
     }, 
     {
+      "apptnrs": [
+        "1001", 
+        "1002", 
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1203", 
+        "2001", 
+        "3001", 
+        "4001", 
+        "5001", 
+        "6001", 
+        "6002", 
+        "6101", 
+        "6102", 
+        "6103", 
+        "6201", 
+        "6202", 
+        "6203", 
+        "6204"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.221525123322, 
-      "lon": 4.409950707344, 
+      "lat": 51.221438608542, 
+      "lon": 4.409828106506, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Keizerstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "66"
@@ -818,14 +834,14 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "66A"
       ], 
-      "housenumber": "67", 
-      "lat": 51.221393525738, 
-      "lon": 4.409972202396, 
+      "housenumber": "66A", 
+      "lat": 51.220985101259, 
+      "lon": 4.409182026925, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Keizerstraat"
     }, 
     {
@@ -849,6 +865,14 @@
       "street": "Keizerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "69"
       ], 

@@ -123,11 +123,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.072151747955, 
-      "lon": 2.671670459845, 
+      "lat": 51.071249099726, 
+      "lon": 2.67109467339, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zuidburgweg"
     }, 
     {
@@ -147,11 +147,11 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.07247184933, 
-      "lon": 2.671777589359, 
+      "lat": 51.071539688283, 
+      "lon": 2.671343868145, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zuidburgweg"
     }, 
     {
@@ -171,11 +171,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.073157630429, 
-      "lon": 2.671810232552, 
+      "lat": 51.072159038665, 
+      "lon": 2.671714722475, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zuidburgweg"
     }, 
     {
@@ -276,6 +276,18 @@
     }, 
     {
       "hnrlbls": [
+        "129"
+      ], 
+      "housenumber": "129", 
+      "lat": 51.072473372934, 
+      "lon": 2.67177724867, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zuidburgweg"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -284,6 +296,18 @@
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zuidburgweg"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 51.073157796746, 
+      "lon": 2.671821786677, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zuidburgweg"
     }, 
     {
@@ -740,11 +764,17 @@
         "0103", 
         "0104", 
         "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
         "0201", 
         "0202", 
         "0203", 
         "0204", 
-        "0205"
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208"
       ], 
       "hnrlbls": [
         "48"
@@ -845,13 +875,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0201", 
-        "0202", 
-        "0203", 
-        "0204"
+        "0201"
       ], 
       "hnrlbls": [
         "52"

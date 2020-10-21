@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -245,11 +249,11 @@
         "28C"
       ], 
       "housenumber": "28C", 
-      "lat": 50.833568736734, 
-      "lon": 3.482382086056, 
+      "lat": 50.833602293162, 
+      "lon": 3.482777959156, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wortegemsesteenweg"
     }, 
     {
@@ -281,11 +285,11 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 50.833867624551, 
-      "lon": 3.482996415867, 
+      "lat": 50.834002295607, 
+      "lon": 3.483401178735, 
       "municipality": "Anzegem", 
       "pcode": "8570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wortegemsesteenweg"
     }, 
     {

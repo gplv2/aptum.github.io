@@ -1525,8 +1525,8 @@
         "541"
       ], 
       "housenumber": "541", 
-      "lat": 50.883215495794, 
-      "lon": 4.277388887199, 
+      "lat": 50.88321735324, 
+      "lon": 4.276885551782, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -2677,6 +2677,24 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "652-656"
+      ], 
+      "housenumber": "652", 
+      "lat": 50.882625716233, 
+      "lon": 4.276484125079, 
+      "municipality": "Asse", 
+      "pcode": "1731", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "653"
       ], 
@@ -2690,14 +2708,14 @@
     }, 
     {
       "hnrlbls": [
-        "654-656"
+        "652-656"
       ], 
       "housenumber": "654", 
-      "lat": 50.882590703112, 
-      "lon": 4.276197431598, 
+      "lat": 50.882625716233, 
+      "lon": 4.276484125079, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2713,15 +2731,21 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "654-656"
+        "652-656"
       ], 
       "housenumber": "656", 
-      "lat": 50.882590703112, 
-      "lon": 4.276197431598, 
+      "lat": 50.882625716233, 
+      "lon": 4.276484125079, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3718,6 +3742,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "780"
       ], 
@@ -3730,6 +3758,10 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "782"
       ], 
@@ -3761,7 +3793,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "786"
@@ -4005,8 +4038,8 @@
         "1R", 
         "2R", 
         "2VL", 
-        "3VL", 
-        "3VR"
+        "3L", 
+        "3R"
       ], 
       "hnrlbls": [
         "822"

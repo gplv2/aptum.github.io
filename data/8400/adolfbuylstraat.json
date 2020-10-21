@@ -2,23 +2,18 @@
   "addresses": [
     {
       "busnrs": [
-        "005A", 
+        "0001", 
         "0201", 
+        "0202", 
         "0301", 
         "0302", 
         "0401", 
-        "2A", 
-        "3", 
-        "3A", 
-        "4", 
-        "4B", 
-        "5", 
-        "5A", 
-        "5B", 
-        "6", 
-        "7", 
-        "A", 
-        "B"
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602", 
+        "0701"
       ], 
       "hnrlbls": [
         "1"
@@ -182,26 +177,24 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
         "0103", 
+        "0201", 
         "0202", 
         "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
         "0402", 
+        "0403", 
+        "0501", 
         "0502", 
-        "10", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "3", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603"
       ], 
       "hnrlbls": [
         "19"
@@ -215,19 +208,15 @@
       "street": "Adolf Buylstraat"
     }, 
     {
-      "busnrs": [
-        "5", 
-        "5B"
-      ], 
       "hnrlbls": [
-        "1A-3"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.232052761477, 
-      "lon": 2.916516530345, 
+      "lat": 51.231966324966, 
+      "lon": 2.916740170701, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Adolf Buylstraat"
     }, 
     {
@@ -247,11 +236,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.2315172407, 
-      "lon": 2.916181096127, 
+      "lat": 51.231590257972, 
+      "lon": 2.916123978816, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Adolf Buylstraat"
     }, 
     {
@@ -353,14 +342,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.232052761477, 
-      "lon": 2.916516530345, 
+      "lat": 51.231927142281, 
+      "lon": 2.916624114813, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Adolf Buylstraat"
     }, 
     {
@@ -548,8 +537,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.231219782972, 
-      "lon": 2.915348536301, 
+      "lat": 51.23121687384, 
+      "lon": 2.915345906321, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -568,21 +557,12 @@
       "street": "Adolf Buylstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0301", 
-        "0402", 
-        "0601", 
-        "0602", 
-        "0701"
-      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.231226524821, 
-      "lon": 2.915202127219, 
+      "lat": 51.231238901928, 
+      "lon": 2.915192433954, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -590,6 +570,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 
@@ -605,8 +586,8 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 51.231207320492, 
-      "lon": 2.915102491491, 
+      "lat": 51.231201246688, 
+      "lon": 2.915098385064, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -627,18 +608,19 @@
     {
       "busnrs": [
         "0101", 
-        "1", 
-        "3", 
-        "5", 
-        "6", 
-        "C000"
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
       ], 
       "hnrlbls": [
         "44C"
       ], 
       "housenumber": "44C", 
-      "lat": 51.231151993672, 
-      "lon": 2.914989662737, 
+      "lat": 51.231170180849, 
+      "lon": 2.91503577629, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -791,27 +773,27 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "03.1", 
+        "0201", 
+        "0202", 
         "0301", 
+        "0302", 
+        "0401", 
         "0402", 
         "0501", 
         "0502", 
         "0601", 
+        "0602", 
+        "0701", 
         "0702", 
-        "11", 
-        "21", 
-        "32", 
-        "51", 
-        "52", 
-        "62", 
-        "71"
+        "0801", 
+        "0901"
       ], 
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.231002754283, 
-      "lon": 2.914550422171, 
+      "lat": 51.231002523528, 
+      "lon": 2.91454627682, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

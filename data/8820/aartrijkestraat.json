@@ -9,7 +9,7 @@
         "V005"
       ], 
       "hnrlbls": [
-        "1-59"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.067745513016, 
@@ -24,8 +24,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.067952061715, 
-      "lon": 3.100993802729, 
+      "lat": 51.067937220736, 
+      "lon": 3.100901173704, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -146,18 +146,6 @@
       "housenumber": "109", 
       "lat": 51.076975177004, 
       "lon": 3.098506330545, 
-      "municipality": "Torhout", 
-      "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Aartrijkestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.068191989404, 
-      "lon": 3.101393246698, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -463,11 +451,11 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.076416937443, 
-      "lon": 3.098035408017, 
+      "lat": 51.076150004825, 
+      "lon": 3.097375198153, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aartrijkestraat"
     }, 
     {
@@ -487,11 +475,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.078803149991, 
-      "lon": 3.09804739135, 
+      "lat": 51.078827352005, 
+      "lon": 3.098182602535, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Aartrijkestraat"
     }, 
     {
@@ -743,11 +731,11 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.081091014028, 
-      "lon": 3.097459315481, 
+      "lat": 51.081086468866, 
+      "lon": 3.097346257388, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Aartrijkestraat"
     }, 
     {
@@ -1530,11 +1518,23 @@
         "221"
       ], 
       "housenumber": "221", 
-      "lat": 51.086173484734, 
-      "lon": 3.099092632364, 
+      "lat": 51.086171830135, 
+      "lon": 3.099072550743, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
+      "street": "Aartrijkestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "222"
+      ], 
+      "housenumber": "222", 
+      "lat": 51.08629221509, 
+      "lon": 3.098647339364, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Aartrijkestraat"
     }, 
     {
@@ -2507,8 +2507,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.067903162364, 
-      "lon": 3.10142931915, 
+      "lat": 51.067908491925, 
+      "lon": 3.101465131587, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -3072,6 +3072,25 @@
       "street": "Aartrijkestraat"
     }, 
     {
+      "apptnrs": [
+        "V1", 
+        "V2", 
+        "V3", 
+        "V4", 
+        "V5"
+      ], 
+      "hnrlbls": [
+        "91A"
+      ], 
+      "housenumber": "91A", 
+      "lat": 51.074867428495, 
+      "lon": 3.099307757948, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aartrijkestraat"
+    }, 
+    {
       "hnrlbls": [
         "92"
       ], 
@@ -3088,8 +3107,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.075114695708, 
-      "lon": 3.099595170724, 
+      "lat": 51.075055273478, 
+      "lon": 3.099411690824, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -3162,6 +3181,18 @@
       "housenumber": "99", 
       "lat": 51.075709778338, 
       "lon": 3.099054432128, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aartrijkestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.068191989404, 
+      "lon": 3.101393246698, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 

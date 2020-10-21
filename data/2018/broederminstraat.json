@@ -243,11 +243,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.202740865812, 
-      "lon": 4.393514024476, 
+      "lat": 51.202746242402, 
+      "lon": 4.393590430583, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Broederminstraat"
     }, 
     {
@@ -295,8 +295,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.202510637206, 
-      "lon": 4.39408463052, 
+      "lat": 51.202515221158, 
+      "lon": 4.394085348459, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -307,8 +307,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.202481321075, 
-      "lon": 4.394147138502, 
+      "lat": 51.202485635184, 
+      "lon": 4.394148714754, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -346,14 +346,14 @@
         "42"
       ], 
       "hnrlbls": [
-        "36A-38A"
+        "36A-36D"
       ], 
       "housenumber": "36A", 
-      "lat": 51.202252875963, 
-      "lon": 4.394366202544, 
+      "lat": 51.202342203526, 
+      "lon": 4.394445373874, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Broederminstraat"
     }, 
     {
@@ -370,17 +370,17 @@
         "33", 
         "41", 
         "42", 
-        "43"
+        "51"
       ], 
       "hnrlbls": [
-        "36A-38A"
+        "36A-36D"
       ], 
       "housenumber": "36D", 
-      "lat": 51.202252875963, 
-      "lon": 4.394366202544, 
+      "lat": 51.202342203526, 
+      "lon": 4.394445373874, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Broederminstraat"
     }, 
     {
@@ -401,14 +401,14 @@
     }, 
     {
       "hnrlbls": [
-        "36A-38A"
+        "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.202252875963, 
-      "lon": 4.394366202544, 
+      "lat": 51.202026351911, 
+      "lon": 4.394833500475, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Broederminstraat"
     }, 
     {
@@ -666,9 +666,6 @@
       "street": "Broederminstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "51"
       ], 

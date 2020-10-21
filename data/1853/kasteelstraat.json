@@ -284,14 +284,14 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "12-33"
       ], 
       "housenumber": "12", 
-      "lat": 50.908308424031, 
-      "lon": 4.356713109572, 
+      "lat": 50.908264017986, 
+      "lon": 4.356727196084, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -858,31 +858,26 @@
       "street": "Kasteelstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
-        "163-163B"
+        "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.903081644564, 
-      "lon": 4.359886048846, 
+      "lat": 50.903081824361, 
+      "lon": 4.359886190978, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "busnrs": [
-        "204", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "163-163B"
-      ], 
-      "housenumber": "163B", 
-      "lat": 50.903081644564, 
-      "lon": 4.359886048846, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1002,32 +997,17 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
-        "175-175B"
+        "175"
       ], 
       "housenumber": "175", 
-      "lat": 50.902703134654, 
-      "lon": 4.360364776632, 
+      "lat": 50.902705021992, 
+      "lon": 4.360358236837, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "175-175B"
-      ], 
-      "housenumber": "175B", 
-      "lat": 50.902703134654, 
-      "lon": 4.360364776632, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1578,19 +1558,15 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "B001", 
-        "B002"
-      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.906612159981, 
-      "lon": 4.357998919793, 
+      "lat": 50.906703753516, 
+      "lon": 4.357905775644, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -1788,19 +1764,19 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.906069481775, 
-      "lon": 4.358108793608, 
+      "lat": 50.906070650368, 
+      "lon": 4.358108509014, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 
@@ -1832,18 +1808,6 @@
     }, 
     {
       "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 50.906010333105, 
-      "lon": 4.358124302976, 
-      "municipality": "Grimbergen", 
-      "pcode": "1853", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kasteelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
@@ -1859,8 +1823,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.90595118442, 
-      "lon": 4.358139670133, 
+      "lat": 50.905950734856, 
+      "lon": 4.358138532847, 
       "municipality": "Grimbergen", 
       "pcode": "1853", 
       "source": "afgeleidVanGebouw", 

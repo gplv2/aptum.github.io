@@ -12,7 +12,7 @@
       "lon": 4.005728821769, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Goriksplein"
     }, 
     {
@@ -20,20 +20,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.901788525364, 
-      "lon": 4.005892347114, 
-      "municipality": "Haaltert", 
-      "pcode": "9450", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Goriksplein"
-    }, 
-    {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.901756982777, 
-      "lon": 4.005429712415, 
+      "lat": 50.901840251336, 
+      "lon": 4.005816744527, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -41,11 +29,23 @@
     }, 
     {
       "hnrlbls": [
+        "9-11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.901582403033, 
+      "lon": 4.005253785974, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Sint-Goriksplein"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.901907383506, 
-      "lon": 4.006014542579, 
+      "lat": 50.901908363997, 
+      "lon": 4.006011833941, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
@@ -108,7 +108,7 @@
       "lon": 4.00621179043, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Goriksplein"
     }, 
     {
@@ -199,6 +199,9 @@
       "street": "Sint-Goriksplein"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -266,7 +269,7 @@
       "lon": 4.005564603059, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Goriksplein"
     }, 
     {
@@ -307,14 +310,14 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "9-11"
       ], 
       "housenumber": "9", 
-      "lat": 50.901702229144, 
-      "lon": 4.005485436082, 
+      "lat": 50.901582403033, 
+      "lon": 4.005253785974, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Goriksplein"
     }
   ]

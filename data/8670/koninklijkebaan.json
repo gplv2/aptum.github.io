@@ -35,26 +35,32 @@
         "002", 
         "003", 
         "004", 
+        "005", 
         "101", 
         "102", 
         "103", 
         "104", 
+        "105", 
         "201", 
         "202", 
         "203", 
         "204", 
+        "205", 
         "301", 
         "302", 
         "303", 
         "304", 
+        "305", 
         "401", 
         "402", 
         "403", 
         "404", 
+        "405", 
         "501", 
         "502", 
         "503", 
         "504", 
+        "505", 
         "601", 
         "602"
       ], 
@@ -66,7 +72,7 @@
       "lon": 2.636121104195, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -92,24 +98,6 @@
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.120635196499, 
-      "lon": 2.636039834538, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -192,7 +180,7 @@
       "lon": 2.635757722641, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -204,7 +192,7 @@
       "lon": 2.635733419911, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -407,6 +395,31 @@
       "street": "Koninklijke Baan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402", 
+        "403", 
+        "404", 
+        "501", 
+        "502", 
+        "503", 
+        "601", 
+        "602"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -419,49 +432,12 @@
       "street": "Koninklijke Baan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "124"
-      ], 
-      "housenumber": "124", 
-      "lat": 51.120803006392, 
-      "lon": 2.635025985999, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201", 
-        "301", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "126"
-      ], 
-      "housenumber": "126", 
-      "lat": 51.120751018558, 
-      "lon": 2.634969625462, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
       "hnrlbls": [
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.120174256577, 
-      "lon": 2.634634575863, 
+      "lat": 51.120258233729, 
+      "lon": 2.634763037515, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -489,10 +465,8 @@
         "301", 
         "302", 
         "401", 
-        "402", 
         "501", 
-        "502", 
-        "601"
+        "502"
       ], 
       "hnrlbls": [
         "129"
@@ -769,8 +743,16 @@
       "apptnrs": [
         "001", 
         "101", 
+        "102", 
         "201", 
-        "301"
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601"
       ], 
       "hnrlbls": [
         "145"
@@ -802,10 +784,6 @@
       "street": "Koninklijke Baan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101"
-      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -1274,25 +1252,6 @@
     {
       "apptnrs": [
         "101", 
-        "102", 
-        "202", 
-        "301", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "168-168A"
-      ], 
-      "housenumber": "168", 
-      "lat": 51.119901627023, 
-      "lon": 2.632762192197, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "apptnrs": [
-        "101", 
         "201", 
         "301", 
         "401", 
@@ -1300,14 +1259,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "168-168A"
+        "168A"
       ], 
       "housenumber": "168A", 
-      "lat": 51.119901627023, 
-      "lon": 2.632762192197, 
+      "lat": 51.119886746893, 
+      "lon": 2.632783602768, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koninklijke Baan"
     }, 
     {
@@ -1348,6 +1307,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "201", 
@@ -1356,7 +1316,8 @@
         "302", 
         "401", 
         "402", 
-        "501"
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
         "169-171"
@@ -1696,21 +1657,18 @@
     {
       "apptnrs": [
         "101", 
-        "102", 
         "201", 
         "202", 
         "301", 
-        "302", 
         "401", 
-        "402", 
-        "501"
+        "402"
       ], 
       "hnrlbls": [
-        "9-190A"
+        "190A"
       ], 
       "housenumber": "190A", 
-      "lat": 51.119113664662, 
-      "lon": 2.631713006215, 
+      "lat": 51.119073239335, 
+      "lon": 2.631971942217, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2679,15 +2637,14 @@
         "102", 
         "201", 
         "202", 
-        "301", 
-        "302"
+        "301"
       ], 
       "hnrlbls": [
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 51.110949597784, 
-      "lon": 2.6151831816, 
+      "lat": 51.110952562501, 
+      "lon": 2.615189069503, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2715,6 +2672,15 @@
       "street": "Koninklijke Baan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "280"
       ], 
@@ -3419,6 +3385,28 @@
       "street": "Koninklijke Baan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503", 
+        "601", 
+        "602", 
+        "603", 
+        "701"
+      ], 
       "hnrlbls": [
         "326"
       ], 
@@ -3611,8 +3599,8 @@
         "342"
       ], 
       "housenumber": "342", 
-      "lat": 51.109479935241, 
-      "lon": 2.609973821493, 
+      "lat": 51.109583879097, 
+      "lon": 2.609986193965, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3622,15 +3610,12 @@
       "apptnrs": [
         "001", 
         "002", 
-        "003", 
         "101", 
         "102", 
         "103", 
-        "104", 
         "201", 
         "202", 
-        "203", 
-        "204"
+        "301"
       ], 
       "hnrlbls": [
         "344"
@@ -3858,8 +3843,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.108108718673, 
-      "lon": 2.607505784727, 
+      "lat": 51.108115730775, 
+      "lon": 2.607529801261, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4222,8 +4207,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.121784152904, 
-      "lon": 2.640280851624, 
+      "lat": 51.121757400811, 
+      "lon": 2.640271411595, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4313,8 +4298,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.121788063318, 
-      "lon": 2.639970826499, 
+      "lat": 51.121779520651, 
+      "lon": 2.640013717107, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4740,8 +4725,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.120904149526, 
-      "lon": 2.636788907901, 
+      "lat": 51.120948173825, 
+      "lon": 2.636835707975, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4921,18 +4906,6 @@
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Koninklijke Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.120683966156, 
-      "lon": 2.636201606703, 
-      "municipality": "Koksijde", 
-      "pcode": "8670", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Koninklijke Baan"
     }
   ]

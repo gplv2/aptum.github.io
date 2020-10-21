@@ -833,8 +833,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.833350042691, 
-      "lon": 5.20649419543, 
+      "lat": 50.832872180416, 
+      "lon": 5.206637714375, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1337,11 +1337,11 @@
         "231"
       ], 
       "housenumber": "231", 
-      "lat": 50.84143857809, 
-      "lon": 5.218460683499, 
+      "lat": 50.841398767084, 
+      "lon": 5.218446190649, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -1397,11 +1397,11 @@
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 50.841846686401, 
-      "lon": 5.219011879916, 
+      "lat": 50.841829217971, 
+      "lon": 5.218966127576, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -2117,11 +2117,11 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.847520787149, 
-      "lon": 5.225947748519, 
+      "lat": 50.84747622441, 
+      "lon": 5.226066787569, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -2129,11 +2129,11 @@
         "307A"
       ], 
       "housenumber": "307A", 
-      "lat": 50.847642806202, 
-      "lon": 5.226128902607, 
+      "lat": 50.847605325346, 
+      "lon": 5.226287548639, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -2141,11 +2141,11 @@
         "307B"
       ], 
       "housenumber": "307B", 
-      "lat": 50.847758649107, 
-      "lon": 5.2262940402, 
+      "lat": 50.847758024113, 
+      "lon": 5.226416295971, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -2453,11 +2453,11 @@
         "335"
       ], 
       "housenumber": "335", 
-      "lat": 50.850192450412, 
-      "lon": 5.229360098767, 
+      "lat": 50.850205782135, 
+      "lon": 5.2293565087, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -3532,18 +3532,6 @@
     }, 
     {
       "hnrlbls": [
-        "435"
-      ], 
-      "housenumber": "435", 
-      "lat": 50.857394908266, 
-      "lon": 5.240836604433, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Hasseltsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "436"
       ], 
       "housenumber": "436", 
@@ -4138,11 +4126,11 @@
         "496"
       ], 
       "housenumber": "496", 
-      "lat": 50.859480154797, 
-      "lon": 5.24379315498, 
+      "lat": 50.859456206048, 
+      "lon": 5.243809895741, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -4155,6 +4143,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hasseltsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "498"
+      ], 
+      "housenumber": "498", 
+      "lat": 50.859493970553, 
+      "lon": 5.243881336359, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -4287,6 +4287,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hasseltsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "514"
+      ], 
+      "housenumber": "514", 
+      "lat": 50.861491572931, 
+      "lon": 5.246130111945, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {

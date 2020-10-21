@@ -306,8 +306,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.276263234159, 
-      "lon": 4.413187146357, 
+      "lat": 51.276273849939, 
+      "lon": 4.413161648708, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -547,26 +547,26 @@
         "1"
       ], 
       "hnrlbls": [
-        "147"
+        "147-147A"
       ], 
       "housenumber": "147", 
-      "lat": 51.275369795411, 
-      "lon": 4.411294431049, 
+      "lat": 51.275275289825, 
+      "lon": 4.411402964662, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groot Hagelkruis"
     }, 
     {
       "hnrlbls": [
-        "147A"
+        "147-147A"
       ], 
       "housenumber": "147A", 
-      "lat": 51.275269713632, 
-      "lon": 4.411412560567, 
+      "lat": 51.275275289825, 
+      "lon": 4.411402964662, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groot Hagelkruis"
     }, 
     {
@@ -642,31 +642,27 @@
       "street": "Groot Hagelkruis"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101"
-      ], 
       "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.275127914745, 
-      "lon": 4.411070802609, 
+      "lat": 51.2751067149, 
+      "lon": 4.411036964368, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Groot Hagelkruis"
     }, 
     {
       "hnrlbls": [
-        "155B"
+        "155A"
       ], 
-      "housenumber": "155B", 
-      "lat": 51.275130252247, 
-      "lon": 4.411069228474, 
+      "housenumber": "155A", 
+      "lat": 51.275056349687, 
+      "lon": 4.411123184043, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Groot Hagelkruis"
     }, 
     {
@@ -880,11 +876,11 @@
         "402"
       ], 
       "hnrlbls": [
-        "168-170"
+        "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.274972851563, 
-      "lon": 4.411852212157, 
+      "lat": 51.2749929938, 
+      "lon": 4.411828730051, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -892,14 +888,14 @@
     }, 
     {
       "hnrlbls": [
-        "168-170"
+        "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.274972851563, 
-      "lon": 4.411852212157, 
+      "lat": 51.275001449533, 
+      "lon": 4.411810252416, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groot Hagelkruis"
     }, 
     {
@@ -964,14 +960,14 @@
     }, 
     {
       "hnrlbls": [
-        "179"
+        "179-179C"
       ], 
       "housenumber": "179", 
-      "lat": 51.275011875717, 
-      "lon": 4.410326256505, 
+      "lat": 51.27505322446, 
+      "lon": 4.410317696077, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groot Hagelkruis"
     }, 
     {
@@ -1000,7 +996,7 @@
     }, 
     {
       "hnrlbls": [
-        "179C"
+        "179-179C"
       ], 
       "housenumber": "179C", 
       "lat": 51.27505322446, 
@@ -1143,6 +1139,10 @@
       "street": "Groot Hagelkruis"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "187"
       ], 
@@ -1902,7 +1902,8 @@
     {
       "apptnrs": [
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "6"
@@ -1994,6 +1995,18 @@
       "housenumber": "75", 
       "lat": 51.277689914189, 
       "lon": 4.415298443233, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groot Hagelkruis"
+    }, 
+    {
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 51.277575029731, 
+      "lon": 4.415111597657, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -2184,11 +2197,11 @@
     }, 
     {
       "hnrlbls": [
-        "95-95A"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.276895298355, 
-      "lon": 4.414082411465, 
+      "lat": 51.276928536069, 
+      "lon": 4.414130164885, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -2196,7 +2209,7 @@
     }, 
     {
       "hnrlbls": [
-        "95-95A"
+        "95A"
       ], 
       "housenumber": "95A", 
       "lat": 51.276895298355, 
@@ -2207,15 +2220,24 @@
       "street": "Groot Hagelkruis"
     }, 
     {
-      "busnrs": [
-        "1"
+      "hnrlbls": [
+        "95_1"
       ], 
+      "housenumber": "95_1", 
+      "lat": 51.276834394485, 
+      "lon": 4.413989633114, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groot Hagelkruis"
+    }, 
+    {
       "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.276852453447, 
-      "lon": 4.414008423853, 
+      "lat": 51.276870512407, 
+      "lon": 4.414027214605, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

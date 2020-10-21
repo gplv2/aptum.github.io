@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.012802098115, 
-      "lon": 4.362398924261, 
+      "lat": 51.012775221066, 
+      "lon": 4.362403914897, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schuttershofstraat"
     }, 
     {
@@ -162,6 +162,18 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Schuttershofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.013164502354, 
+      "lon": 4.361719735109, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schuttershofstraat"
     }, 
     {
@@ -522,18 +534,6 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schuttershofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "ZN"
-      ], 
-      "housenumber": "ZN", 
-      "lat": 51.013121104852, 
-      "lon": 4.36209565029, 
-      "municipality": "Kapelle-op-den-Bos", 
-      "pcode": "1880", 
-      "source": "afgeleidVanStraat", 
       "street": "Schuttershofstraat"
     }
   ]

@@ -137,8 +137,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.001419676952, 
-      "lon": 3.431654019437, 
+      "lat": 51.001421099222, 
+      "lon": 3.431651996378, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -269,11 +269,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.001991218663, 
-      "lon": 3.436293415857, 
+      "lat": 51.001923342961, 
+      "lon": 3.436190901552, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vinktstraat"
     }, 
     {
@@ -524,8 +524,8 @@
         "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 50.998079481601, 
-      "lon": 3.422477742948, 
+      "lat": 50.998108025162, 
+      "lon": 3.42246106847, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -557,18 +557,6 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.99890778262, 
-      "lon": 3.425331860931, 
-      "municipality": "Tielt", 
-      "pcode": "8700", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vinktstraat"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -581,7 +569,7 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "20-20B"
       ], 
       "housenumber": "20", 
       "lat": 50.998543953679, 
@@ -601,6 +589,18 @@
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vinktstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20-20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.998543953679, 
+      "lon": 3.424713617873, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vinktstraat"
     }, 
     {
@@ -692,11 +692,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.998816009503, 
-      "lon": 3.425400808966, 
+      "lat": 50.99890866548, 
+      "lon": 3.425329848641, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vinktstraat"
     }, 
     {
@@ -752,8 +752,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.999141922213, 
-      "lon": 3.425584302224, 
+      "lat": 50.999100178354, 
+      "lon": 3.425625317567, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -932,8 +932,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.999684976944, 
-      "lon": 3.426480047029, 
+      "lat": 50.999713808947, 
+      "lon": 3.426465648128, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -972,8 +972,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.997526511797, 
-      "lon": 3.422119214158, 
+      "lat": 50.99761014247, 
+      "lon": 3.422010536532, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1020,8 +1020,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.999845914544, 
-      "lon": 3.426830847859, 
+      "lat": 50.999826456616, 
+      "lon": 3.426848335035, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1132,8 +1132,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.000116178497, 
-      "lon": 3.427531640687, 
+      "lat": 51.000058899764, 
+      "lon": 3.427529941181, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1180,8 +1180,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.999863434219, 
-      "lon": 3.425908436581, 
+      "lat": 50.999862171284, 
+      "lon": 3.425907892102, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1348,8 +1348,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.997892154561, 
-      "lon": 3.42293911505, 
+      "lat": 50.997891784728, 
+      "lon": 3.422937840343, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1360,8 +1360,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.00055814514, 
-      "lon": 3.429201077017, 
+      "lat": 51.00055876637, 
+      "lon": 3.429200067271, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1384,8 +1384,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.000587691317, 
-      "lon": 3.429264881864, 
+      "lat": 51.000586431808, 
+      "lon": 3.429264764631, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1600,8 +1600,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.00118084249, 
-      "lon": 3.429840126759, 
+      "lat": 51.001198571328, 
+      "lon": 3.429831223335, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanPerceelGrb", 

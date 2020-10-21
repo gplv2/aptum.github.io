@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.225769056967, 
-      "lon": 4.4293583454, 
+      "lat": 51.225717561495, 
+      "lon": 4.429343104045, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Stuivenbergstraat"
     }, 
     {
@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.225495756751, 
-      "lon": 4.429634689134, 
+      "lat": 51.225496565108, 
+      "lon": 4.429635835377, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -121,6 +121,11 @@
       "street": "Korte Stuivenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -170,7 +175,9 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "23"
@@ -184,9 +191,9 @@
       "street": "Korte Stuivenbergstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "24"
@@ -217,8 +224,10 @@
       "street": "Korte Stuivenbergstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "26"
@@ -242,18 +251,6 @@
       "housenumber": "27", 
       "lat": 51.225224768624, 
       "lon": 4.4297853504, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Korte Stuivenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.225135101577, 
-      "lon": 4.429368820415, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -434,6 +431,10 @@
       "street": "Korte Stuivenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "9"
       ], 

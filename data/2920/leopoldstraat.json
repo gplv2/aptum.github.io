@@ -373,8 +373,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.368195563383, 
-      "lon": 4.466033952711, 
+      "lat": 51.368195474928, 
+      "lon": 4.466032229486, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -488,11 +488,11 @@
         "44-46"
       ], 
       "housenumber": "44", 
-      "lat": 51.368608156188, 
-      "lon": 4.46629859325, 
+      "lat": 51.368565496529, 
+      "lon": 4.466476121014, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -512,11 +512,11 @@
         "44-46"
       ], 
       "housenumber": "46", 
-      "lat": 51.368608156188, 
-      "lon": 4.46629859325, 
+      "lat": 51.368565496529, 
+      "lon": 4.466476121014, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -536,11 +536,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.368739814503, 
-      "lon": 4.466531771601, 
+      "lat": 51.368722529739, 
+      "lon": 4.466565621781, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -641,18 +641,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.366569528471, 
-      "lon": 4.464992718078, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -727,15 +715,20 @@
       "street": "Leopoldstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "6-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.366569528471, 
-      "lon": 4.464992718078, 
+      "lat": 51.366701248943, 
+      "lon": 4.464933406301, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leopoldstraat"
     }, 
     {

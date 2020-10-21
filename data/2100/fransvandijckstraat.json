@@ -25,6 +25,10 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -54,8 +58,10 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "12"
@@ -384,12 +390,17 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.221407005424, 
-      "lon": 4.475559416456, 
+      "lat": 51.22140214168, 
+      "lon": 4.475570426598, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -414,6 +425,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -459,6 +471,10 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -471,6 +487,11 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -703,6 +724,10 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -882,18 +907,6 @@
     }, 
     {
       "hnrlbls": [
-        "73-75"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.223034901929, 
-      "lon": 4.477314767827, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
@@ -905,8 +918,14 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "73-75"
+        "75"
       ], 
       "housenumber": "75", 
       "lat": 51.223034901929, 

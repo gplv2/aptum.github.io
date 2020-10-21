@@ -479,12 +479,21 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "3.01"
+      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.922419748939, 
-      "lon": 5.331760424085, 
+      "lat": 50.922475404226, 
+      "lon": 5.331715767452, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -503,12 +512,18 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "apptnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.922344865702, 
-      "lon": 5.331683217755, 
+      "lat": 50.922361673934, 
+      "lon": 5.331617850676, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1397,18 +1412,6 @@
     }, 
     {
       "hnrlbls": [
-        "213"
-      ], 
-      "housenumber": "213", 
-      "lat": 50.92059609716, 
-      "lon": 5.329194716331, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelKadaster", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "214"
       ], 
       "housenumber": "214", 
@@ -1421,18 +1424,6 @@
     }, 
     {
       "hnrlbls": [
-        "215"
-      ], 
-      "housenumber": "215", 
-      "lat": 50.920494544348, 
-      "lon": 5.329300303534, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "216"
       ], 
       "housenumber": "216", 
@@ -1441,18 +1432,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Truidersteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "217"
-      ], 
-      "housenumber": "217", 
-      "lat": 50.920446627424, 
-      "lon": 5.329311269282, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -1789,8 +1768,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.919612371876, 
-      "lon": 5.328429164696, 
+      "lat": 50.919612293617, 
+      "lon": 5.328427740837, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1801,8 +1780,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.919597615272, 
-      "lon": 5.328353767525, 
+      "lat": 50.919596529668, 
+      "lon": 5.328354598666, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2099,14 +2078,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "279-283"
+        "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.91900710469, 
-      "lon": 5.327643934174, 
+      "lat": 50.919033936323, 
+      "lon": 5.327858956637, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2123,14 +2102,14 @@
     }, 
     {
       "hnrlbls": [
-        "279-283"
+        "281"
       ], 
       "housenumber": "281", 
-      "lat": 50.91900710469, 
-      "lon": 5.327643934174, 
+      "lat": 50.918960905515, 
+      "lon": 5.327785782302, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2142,8 +2121,8 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 50.917890309745, 
-      "lon": 5.327319593042, 
+      "lat": 50.917889686351, 
+      "lon": 5.327318869198, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2161,8 +2140,8 @@
         "282A"
       ], 
       "housenumber": "282A", 
-      "lat": 50.917736264578, 
-      "lon": 5.327380159182, 
+      "lat": 50.917826970641, 
+      "lon": 5.327457674449, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2180,11 +2159,11 @@
         "282B"
       ], 
       "housenumber": "282B", 
-      "lat": 50.917699788086, 
-      "lon": 5.327597436862, 
+      "lat": 50.917784420791, 
+      "lon": 5.327427933953, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2194,14 +2173,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "279-283"
+        "283"
       ], 
       "housenumber": "283", 
-      "lat": 50.91900710469, 
-      "lon": 5.327643934174, 
+      "lat": 50.91888099412, 
+      "lon": 5.327707489681, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2209,8 +2188,8 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 50.917845462535, 
-      "lon": 5.327262926016, 
+      "lat": 50.917846113799, 
+      "lon": 5.327260237138, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2225,11 +2204,11 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 50.9187756392, 
-      "lon": 5.327629388234, 
+      "lat": 50.918787563647, 
+      "lon": 5.327600334038, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -2237,8 +2216,8 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 50.918789895779, 
-      "lon": 5.327479918583, 
+      "lat": 50.918847818284, 
+      "lon": 5.327366612767, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2261,8 +2240,8 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 50.918647209544, 
-      "lon": 5.327415561453, 
+      "lat": 50.918665671876, 
+      "lon": 5.327433574485, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2799,8 +2778,8 @@
         "357"
       ], 
       "housenumber": "357", 
-      "lat": 50.912500972345, 
-      "lon": 5.321208723601, 
+      "lat": 50.912490921567, 
+      "lon": 5.321284029866, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2831,8 +2810,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 50.912401110265, 
-      "lon": 5.321195461699, 
+      "lat": 50.912463095593, 
+      "lon": 5.321112535606, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2897,8 +2876,8 @@
         "361B"
       ], 
       "housenumber": "361B", 
-      "lat": 50.912095990446, 
-      "lon": 5.320718574593, 
+      "lat": 50.912098479647, 
+      "lon": 5.320710946158, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3217,8 +3196,8 @@
         "383"
       ], 
       "housenumber": "383", 
-      "lat": 50.909947006562, 
-      "lon": 5.31883195551, 
+      "lat": 50.909945945194, 
+      "lon": 5.318829801068, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3229,8 +3208,8 @@
         "383A"
       ], 
       "housenumber": "383A", 
-      "lat": 50.909985725531, 
-      "lon": 5.318713294751, 
+      "lat": 50.909985367138, 
+      "lon": 5.318713145296, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3631,8 +3610,8 @@
         "413"
       ], 
       "housenumber": "413", 
-      "lat": 50.908673526968, 
-      "lon": 5.317491593812, 
+      "lat": 50.908673971801, 
+      "lon": 5.317492171578, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3711,8 +3690,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.925276830034, 
-      "lon": 5.334622852482, 
+      "lat": 50.925283599094, 
+      "lon": 5.334641483518, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3879,8 +3858,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.925240632041, 
-      "lon": 5.33455340351, 
+      "lat": 50.92523637391, 
+      "lon": 5.334535535432, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4109,8 +4088,8 @@
         "460"
       ], 
       "housenumber": "460", 
-      "lat": 50.904765941218, 
-      "lon": 5.31444540317, 
+      "lat": 50.904779682045, 
+      "lon": 5.314391367201, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4181,8 +4160,8 @@
         "466"
       ], 
       "housenumber": "466", 
-      "lat": 50.904280696532, 
-      "lon": 5.314027567623, 
+      "lat": 50.904280433744, 
+      "lon": 5.314026709254, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4298,8 +4277,8 @@
         "473-473A"
       ], 
       "housenumber": "473", 
-      "lat": 50.905063029047, 
-      "lon": 5.313601573939, 
+      "lat": 50.905032558831, 
+      "lon": 5.313645462989, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4310,8 +4289,8 @@
         "473-473A"
       ], 
       "housenumber": "473A", 
-      "lat": 50.905063029047, 
-      "lon": 5.313601573939, 
+      "lat": 50.905032558831, 
+      "lon": 5.313645462989, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4736,12 +4715,20 @@
       "street": "Sint-Truidersteenweg"
     }, 
     {
+      "apptnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
       "hnrlbls": [
         "500"
       ], 
       "housenumber": "500", 
-      "lat": 50.901430496432, 
-      "lon": 5.311074557539, 
+      "lat": 50.901409200552, 
+      "lon": 5.311017261704, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4764,11 +4751,11 @@
         "502"
       ], 
       "housenumber": "502", 
-      "lat": 50.901353082315, 
-      "lon": 5.31099736817, 
+      "lat": 50.901316892318, 
+      "lon": 5.310992376244, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -4991,11 +4978,23 @@
         "515"
       ], 
       "housenumber": "515", 
-      "lat": 50.901820319274, 
-      "lon": 5.310625163822, 
+      "lat": 50.90180392419, 
+      "lon": 5.310741273081, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "515A"
+      ], 
+      "housenumber": "515A", 
+      "lat": 50.901697770346, 
+      "lon": 5.310794872763, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -5387,8 +5386,8 @@
         "549"
       ], 
       "housenumber": "549", 
-      "lat": 50.899905360853, 
-      "lon": 5.308907459976, 
+      "lat": 50.899921042208, 
+      "lon": 5.308891425153, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -5399,8 +5398,8 @@
         "549A"
       ], 
       "housenumber": "549A", 
-      "lat": 50.899849446201, 
-      "lon": 5.308850894995, 
+      "lat": 50.899870015501, 
+      "lon": 5.308841924223, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -5594,8 +5593,8 @@
         "569"
       ], 
       "housenumber": "569", 
-      "lat": 50.897745630395, 
-      "lon": 5.306238506103, 
+      "lat": 50.897885835214, 
+      "lon": 5.30593978729, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -5606,8 +5605,8 @@
         "571"
       ], 
       "housenumber": "571", 
-      "lat": 50.897759528687, 
-      "lon": 5.306085536312, 
+      "lat": 50.897822632412, 
+      "lon": 5.305872562952, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

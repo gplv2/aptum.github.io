@@ -19,9 +19,6 @@
       "street": "Kortrijksestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -35,15 +32,13 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
         "1-01", 
         "1-02", 
         "2-01", 
         "2-02", 
         "2-03", 
         "3-01", 
-        "3-02", 
-        "4"
+        "3-02"
       ], 
       "hnrlbls": [
         "100"
@@ -415,11 +410,11 @@
     }, 
     {
       "hnrlbls": [
-        "124"
+        "124-126"
       ], 
       "housenumber": "124", 
-      "lat": 51.149370758495, 
-      "lon": 3.232725792755, 
+      "lat": 51.149287419375, 
+      "lon": 3.232669217628, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -447,14 +442,14 @@
         "3-02"
       ], 
       "hnrlbls": [
-        "126"
+        "124-126"
       ], 
       "housenumber": "126", 
-      "lat": 51.149330757924, 
-      "lon": 3.232660731534, 
+      "lat": 51.149287419375, 
+      "lon": 3.232669217628, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -474,11 +469,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.149287672509, 
-      "lon": 3.232667496313, 
+      "lat": 51.149293791232, 
+      "lon": 3.232686786031, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -510,8 +505,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.149217582818, 
-      "lon": 3.232651905949, 
+      "lat": 51.149215970551, 
+      "lon": 3.232652516869, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -571,14 +566,14 @@
     }, 
     {
       "hnrlbls": [
-        "105-134"
+        "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.149066942113, 
-      "lon": 3.232495773601, 
+      "lat": 51.149049330553, 
+      "lon": 3.232618120572, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -586,8 +581,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.148099493572, 
-      "lon": 3.232666227263, 
+      "lat": 51.148099488074, 
+      "lon": 3.232665655691, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -630,11 +625,11 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.148854968902, 
-      "lon": 3.232458764237, 
+      "lat": 51.148841620991, 
+      "lon": 3.232519690592, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -670,8 +665,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.15375051, 
-      "lon": 3.234988304859, 
+      "lat": 51.153676182136, 
+      "lon": 3.234980674266, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -682,11 +677,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.148795364922, 
-      "lon": 3.232430484552, 
+      "lat": 51.148779629392, 
+      "lon": 3.232486180544, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -774,11 +769,11 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.148592690839, 
-      "lon": 3.23218271672, 
+      "lat": 51.148570988088, 
+      "lon": 3.23228157898, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -810,8 +805,20 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.145585006982, 
-      "lon": 3.231528699858, 
+      "lat": 51.145564400633, 
+      "lon": 3.231526628802, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "149A"
+      ], 
+      "housenumber": "149A", 
+      "lat": 51.14548180095, 
+      "lon": 3.231490908503, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -866,11 +873,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.14843822912, 
-      "lon": 3.23207799187, 
+      "lat": 51.148409246383, 
+      "lon": 3.232205044695, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1018,11 +1025,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.148039687486, 
-      "lon": 3.2319629121, 
+      "lat": 51.14801978164, 
+      "lon": 3.232024282926, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1111,19 +1118,18 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "1-01", 
-        "101"
+        "0-01", 
+        "1-01"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.153766735736, 
-      "lon": 3.235611288467, 
+      "lat": 51.153778302469, 
+      "lon": 3.235420749872, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1284,11 +1290,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.146610664359, 
-      "lon": 3.231288355378, 
+      "lat": 51.146595370609, 
+      "lon": 3.231399206239, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1395,7 +1401,7 @@
     }, 
     {
       "hnrlbls": [
-        "20-22"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.153532250819, 
@@ -1446,11 +1452,11 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.145252217073, 
-      "lon": 3.230708304547, 
+      "lat": 51.145225055703, 
+      "lon": 3.230762988901, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1542,15 +1548,22 @@
       "street": "Kortrijksestraat"
     }, 
     {
+      "apptnrs": [
+        "1-01", 
+        "1-02", 
+        "2-01", 
+        "2-02", 
+        "3-01"
+      ], 
       "hnrlbls": [
-        "20-22"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.153532250819, 
-      "lon": 3.234933136339, 
+      "lat": 51.153456115173, 
+      "lon": 3.234915114921, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1562,7 +1575,7 @@
       "lon": 3.230338620849, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1711,20 +1724,18 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "1-01", 
-        "1-02", 
-        "41"
+        "1-02"
       ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.153348569359, 
-      "lon": 3.234743478032, 
+      "lat": 51.15333269046, 
+      "lon": 3.234906103011, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1737,6 +1748,18 @@
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 51.153290404318, 
+      "lon": 3.234893120873, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1760,11 +1783,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.153174344823, 
-      "lon": 3.234799165781, 
+      "lat": 51.153164832947, 
+      "lon": 3.234857145141, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1828,8 +1851,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.153105412218, 
-      "lon": 3.234791690521, 
+      "lat": 51.15309106839, 
+      "lon": 3.234823914631, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1908,8 +1931,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.153005014207, 
-      "lon": 3.234774687185, 
+      "lat": 51.153014055242, 
+      "lon": 3.234798767788, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1965,6 +1988,18 @@
     }, 
     {
       "hnrlbls": [
+        "330"
+      ], 
+      "housenumber": "330", 
+      "lat": 51.124666884166, 
+      "lon": 3.221354991806, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
         "334"
       ], 
       "housenumber": "334", 
@@ -1989,11 +2024,23 @@
     }, 
     {
       "hnrlbls": [
+        "338"
+      ], 
+      "housenumber": "338", 
+      "lat": 51.123351199241, 
+      "lon": 3.220760165583, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.152920006222, 
-      "lon": 3.234750163337, 
+      "lat": 51.152932753412, 
+      "lon": 3.234785732172, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2080,11 +2127,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.152868734006, 
-      "lon": 3.234606465656, 
+      "lat": 51.152850633093, 
+      "lon": 3.234771715881, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2152,11 +2199,11 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 51.113542485705, 
-      "lon": 3.21876296071, 
+      "lat": 51.113557258827, 
+      "lon": 3.218858287592, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2188,11 +2235,11 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 51.115290243328, 
-      "lon": 3.219321419647, 
+      "lat": 51.115304392606, 
+      "lon": 3.219269654295, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2212,11 +2259,44 @@
         "373"
       ], 
       "housenumber": "373", 
-      "lat": 51.115217927758, 
-      "lon": 3.219409892793, 
+      "lat": 51.115199994837, 
+      "lon": 3.219276219789, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02", 
+        "1-03", 
+        "2-01", 
+        "2-02"
+      ], 
+      "hnrlbls": [
+        "374"
+      ], 
+      "housenumber": "374", 
+      "lat": 51.1122167075, 
+      "lon": 3.219754866213, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "374A"
+      ], 
+      "housenumber": "374A", 
+      "lat": 51.11229685761, 
+      "lon": 3.219713907754, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2229,6 +2309,37 @@
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "apptnrs": [
+        "1-01", 
+        "1-02", 
+        "1-03", 
+        "2-01", 
+        "2-02"
+      ], 
+      "hnrlbls": [
+        "376"
+      ], 
+      "housenumber": "376", 
+      "lat": 51.112122717738, 
+      "lon": 3.219796307382, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "376A"
+      ], 
+      "housenumber": "376A", 
+      "lat": 51.112050126975, 
+      "lon": 3.219838079539, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2276,11 +2387,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.152807197911, 
-      "lon": 3.234648411626, 
+      "lat": 51.15279437162, 
+      "lon": 3.234745065001, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2422,10 +2533,8 @@
     {
       "apptnrs": [
         "0-01", 
-        "1", 
         "1-01", 
         "1-02", 
-        "102", 
         "2-01"
       ], 
       "hnrlbls": [
@@ -2545,8 +2654,7 @@
     {
       "apptnrs": [
         "1-01", 
-        "1-02", 
-        "2"
+        "1-02"
       ], 
       "hnrlbls": [
         "394"
@@ -2672,11 +2780,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.152759233136, 
-      "lon": 3.2345215011, 
+      "lat": 51.152743220008, 
+      "lon": 3.234726294832, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2720,11 +2828,11 @@
         "404"
       ], 
       "housenumber": "404", 
-      "lat": 51.110218327869, 
-      "lon": 3.220675540514, 
+      "lat": 51.110244375341, 
+      "lon": 3.220765586039, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -2809,8 +2917,8 @@
         "410"
       ], 
       "housenumber": "410", 
-      "lat": 51.109871907043, 
-      "lon": 3.22089297583, 
+      "lat": 51.109895128608, 
+      "lon": 3.220895833296, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2890,6 +2998,30 @@
     }, 
     {
       "hnrlbls": [
+        "416A"
+      ], 
+      "housenumber": "416A", 
+      "lat": 51.10889038652, 
+      "lon": 3.221058302663, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "416B"
+      ], 
+      "housenumber": "416B", 
+      "lat": 51.108682544607, 
+      "lon": 3.221077112661, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
         "417"
       ], 
       "housenumber": "417", 
@@ -2929,8 +3061,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.152722563148, 
-      "lon": 3.234512957225, 
+      "lat": 51.15270520475, 
+      "lon": 3.234624443344, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -3006,18 +3138,6 @@
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kortrijksestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "427"
-      ], 
-      "housenumber": "427", 
-      "lat": 51.108420539359, 
-      "lon": 3.221951370768, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -3133,11 +3253,11 @@
         "435"
       ], 
       "housenumber": "435", 
-      "lat": 51.107608494646, 
-      "lon": 3.222442532566, 
+      "lat": 51.107577928198, 
+      "lon": 3.222396156842, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -3179,8 +3299,7 @@
     {
       "apptnrs": [
         "0-01", 
-        "1-01", 
-        "2"
+        "1-01"
       ], 
       "hnrlbls": [
         "44"
@@ -3453,8 +3572,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.152566857193, 
-      "lon": 3.234587349517, 
+      "lat": 51.152569010072, 
+      "lon": 3.234624318723, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -3477,11 +3596,11 @@
         "461"
       ], 
       "housenumber": "461", 
-      "lat": 51.103171550942, 
-      "lon": 3.224173789182, 
+      "lat": 51.103148267813, 
+      "lon": 3.224118242784, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4431,11 +4550,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.152282493767, 
-      "lon": 3.234566522039, 
+      "lat": 51.152373971482, 
+      "lon": 3.234609470298, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4523,18 +4642,15 @@
       "street": "Kortrijksestraat"
     }, 
     {
-      "busnrs": [
-        "201"
-      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.15107583193, 
-      "lon": 3.234475175134, 
+      "lat": 51.151166149753, 
+      "lon": 3.234191399164, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4578,8 +4694,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.152223109223, 
-      "lon": 3.234551668538, 
+      "lat": 51.152223821369, 
+      "lon": 3.234550936556, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -4646,8 +4762,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.15216766411, 
-      "lon": 3.234497697152, 
+      "lat": 51.152168387233, 
+      "lon": 3.234498108414, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -4663,11 +4779,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.150920430348, 
-      "lon": 3.234085161763, 
+      "lat": 51.150946245803, 
+      "lon": 3.233899576864, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4727,8 +4843,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.152033946113, 
-      "lon": 3.234455917706, 
+      "lat": 51.152054245005, 
+      "lon": 3.234463429464, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -4759,11 +4875,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.152035490274, 
-      "lon": 3.234307796038, 
+      "lat": 51.152002527275, 
+      "lon": 3.234395074054, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4771,11 +4887,11 @@
         "64A"
       ], 
       "housenumber": "64A", 
-      "lat": 51.151950255886, 
-      "lon": 3.234353318731, 
+      "lat": 51.151954156195, 
+      "lon": 3.234338215529, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4798,11 +4914,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.151891192748, 
-      "lon": 3.234194090462, 
+      "lat": 51.151852544238, 
+      "lon": 3.234241626681, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4849,8 +4965,8 @@
         "7-7A"
       ], 
       "housenumber": "7", 
-      "lat": 51.1541223167, 
-      "lon": 3.235559209245, 
+      "lat": 51.15412414393, 
+      "lon": 3.235534149594, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -4889,11 +5005,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.151431711863, 
-      "lon": 3.233827180489, 
+      "lat": 51.151430815851, 
+      "lon": 3.233827488127, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -4941,8 +5057,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.151290735877, 
-      "lon": 3.233722402145, 
+      "lat": 51.151367630716, 
+      "lon": 3.233763272167, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -4969,14 +5085,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-78"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.151207377339, 
-      "lon": 3.23357019929, 
+      "lat": 51.151195038996, 
+      "lon": 3.233661406256, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -5001,14 +5117,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-78"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.151207377339, 
-      "lon": 3.23357019929, 
+      "lat": 51.151160748739, 
+      "lon": 3.23362922113, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -5028,8 +5144,8 @@
         "7-7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.1541223167, 
-      "lon": 3.235559209245, 
+      "lat": 51.15412414393, 
+      "lon": 3.235534149594, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -5037,7 +5153,6 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "1-01", 
         "2-01", 
         "3-01"
@@ -5058,11 +5173,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.151105478503, 
-      "lon": 3.23353736988, 
+      "lat": 51.151092322008, 
+      "lon": 3.233580856064, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -5128,8 +5243,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.15007295825, 
-      "lon": 3.233512858035, 
+      "lat": 51.150079031511, 
+      "lon": 3.233527432519, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -5140,8 +5255,7 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "84"
@@ -5152,6 +5266,30 @@
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 51.150956449477, 
+      "lon": 3.233473954127, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 51.150894410125, 
+      "lon": 3.233435439741, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -5175,8 +5313,31 @@
       "street": "Kortrijksestraat"
     }, 
     {
+      "hnrlbls": [
+        "86A"
+      ], 
+      "housenumber": "86A", 
+      "lat": 51.15081593645, 
+      "lon": 3.23338932045, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86B"
+      ], 
+      "housenumber": "86B", 
+      "lat": 51.150729913189, 
+      "lon": 3.23334338477, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
       "apptnrs": [
-        "0", 
         "0-01", 
         "1-01", 
         "2-01", 
@@ -5224,7 +5385,6 @@
     }, 
     {
       "apptnrs": [
-        "0", 
         "0-01", 
         "0-02", 
         "1-01", 
@@ -5316,11 +5476,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.149605079802, 
-      "lon": 3.233441611443, 
+      "lat": 51.149615168351, 
+      "lon": 3.233284713918, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -5340,11 +5500,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.149495797547, 
-      "lon": 3.233360795209, 
+      "lat": 51.149507773798, 
+      "lon": 3.233241299999, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortrijksestraat"
     }
   ]

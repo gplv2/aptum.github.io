@@ -14,8 +14,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.878786303334, 
-      "lon": 4.217400278763, 
+      "lat": 50.878793309238, 
+      "lon": 4.217395709392, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -98,8 +98,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.880481157946, 
-      "lon": 4.207292685496, 
+      "lat": 50.88053667568, 
+      "lon": 4.207265639347, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanPerceelGrb", 
@@ -144,7 +144,7 @@
       "lon": 4.21709747809, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lumbeekstraat"
     }, 
     {
@@ -324,11 +324,35 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.882096027909, 
-      "lon": 4.21141901968, 
+      "lat": 50.882266365263, 
+      "lon": 4.210737502763, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 50.882317771835, 
+      "lon": 4.211130667093, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38B"
+      ], 
+      "housenumber": "38B", 
+      "lat": 50.882346368336, 
+      "lon": 4.211407385128, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lumbeekstraat"
     }, 
     {
@@ -356,9 +380,6 @@
       "street": "Lumbeekstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -367,7 +388,7 @@
       "lon": 4.211897927827, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lumbeekstraat"
     }, 
     {
@@ -404,6 +425,75 @@
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.881972799542, 
+      "lon": 4.212377612892, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.881949944163, 
+      "lon": 4.212157717501, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.881921028043, 
+      "lon": 4.21190970664, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002"
+      ], 
+      "hnrlbls": [
+        "44C"
+      ], 
+      "housenumber": "44C", 
+      "lat": 50.88186823902, 
+      "lon": 4.211556479488, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lumbeekstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
+      "hnrlbls": [
+        "44D"
+      ], 
+      "housenumber": "44D", 
+      "lat": 50.881797321175, 
+      "lon": 4.211024694261, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lumbeekstraat"
     }, 
     {

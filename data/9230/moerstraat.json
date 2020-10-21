@@ -391,6 +391,24 @@
       "street": "Moerstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "13"
+      ], 
+      "hnrlbls": [
+        "132"
+      ], 
+      "housenumber": "132", 
+      "lat": 51.00384244476, 
+      "lon": 3.880704864063, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moerstraat"
+    }, 
+    {
       "hnrlbls": [
         "134"
       ], 
@@ -564,7 +582,8 @@
     {
       "busnrs": [
         "1", 
-        "11"
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "19"
@@ -574,7 +593,7 @@
       "lon": 3.881353074117, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Moerstraat"
     }, 
     {
@@ -1091,8 +1110,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.005014678408, 
-      "lon": 3.881320704472, 
+      "lat": 51.005010174914, 
+      "lon": 3.88120990475, 
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "manueleAanduidingVanGebouw", 

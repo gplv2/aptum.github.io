@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.199930394093, 
-      "lon": 4.420425388373, 
+      "lat": 51.199932820977, 
+      "lon": 4.420425391097, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -29,8 +29,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.199948159775, 
-      "lon": 4.420496370315, 
+      "lat": 51.199954093045, 
+      "lon": 4.420494374025, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -152,8 +152,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.200036347229, 
-      "lon": 4.421276909848, 
+      "lat": 51.200034818933, 
+      "lon": 4.42127748038, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -217,8 +217,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.200045337833, 
-      "lon": 4.421669930226, 
+      "lat": 51.2000413809, 
+      "lon": 4.421674360812, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -338,24 +338,22 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "hnrlbls": [
-        "148"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
-      "housenumber": "148", 
-      "lat": 51.200089790718, 
-      "lon": 4.422348271364, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boomgaardstraat"
-    }, 
-    {
       "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.200138926404, 
-      "lon": 4.422416143317, 
+      "lat": 51.200117820963, 
+      "lon": 4.422378205421, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -763,8 +761,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.200955691806, 
-      "lon": 4.424370022957, 
+      "lat": 51.200960456981, 
+      "lon": 4.424367310348, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -811,8 +809,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.201018475258, 
-      "lon": 4.424654239411, 
+      "lat": 51.201018475737, 
+      "lon": 4.424653237908, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -823,8 +821,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.201018522838, 
-      "lon": 4.424742514791, 
+      "lat": 51.20101420941, 
+      "lon": 4.424740363472, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -931,8 +929,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.201075767764, 
-      "lon": 4.4251400384, 
+      "lat": 51.201074419358, 
+      "lon": 4.425140322894, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1335,8 +1333,8 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.200870416158, 
-      "lon": 4.427262108031, 
+      "lat": 51.200864395543, 
+      "lon": 4.427258809749, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1794,7 +1792,7 @@
       "lon": 4.41554926566, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -1850,14 +1848,24 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.199488519731, 
-      "lon": 4.417935381121, 
+      "lat": 51.199488608347, 
+      "lon": 4.417938385625, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -2022,8 +2030,10 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "74"
@@ -2049,11 +2059,6 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -2200,10 +2205,10 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "96"

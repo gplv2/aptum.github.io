@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.981149748296, 
+      "lon": 3.633832044179, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deurlestraat"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -17,23 +29,11 @@
         "2-2A"
       ], 
       "housenumber": "2", 
-      "lat": 50.987949740202, 
-      "lon": 3.624330218538, 
+      "lat": 50.987908305787, 
+      "lon": 3.624231888417, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Deurlestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.987949740202, 
-      "lon": 3.624330218538, 
-      "municipality": "Nazareth", 
-      "pcode": "9810", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Deurlestraat"
     }, 
     {
@@ -53,11 +53,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.985980570857, 
-      "lon": 3.629309081016, 
+      "lat": 50.985977582671, 
+      "lon": 3.62931995222, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Deurlestraat"
     }, 
     {
@@ -77,11 +77,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.981273694698, 
-      "lon": 3.634030470581, 
+      "lat": 50.981202713212, 
+      "lon": 3.633935456968, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Deurlestraat"
     }
   ]

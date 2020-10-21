@@ -328,11 +328,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.202112153781, 
-      "lon": 4.431622899115, 
+      "lat": 51.20215294633, 
+      "lon": 4.431650854389, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Guldenvliesstraat"
     }, 
     {
@@ -453,6 +453,10 @@
       "street": "Guldenvliesstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -462,6 +466,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Guldenvliesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.201948818356, 
+      "lon": 4.431817973512, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guldenvliesstraat"
     }, 
     {
@@ -853,6 +869,13 @@
       "street": "Guldenvliesstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "203"
+      ], 
       "hnrlbls": [
         "79"
       ], 

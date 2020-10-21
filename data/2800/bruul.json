@@ -86,8 +86,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.024279245666, 
-      "lon": 4.481336371706, 
+      "lat": 51.02425512686, 
+      "lon": 4.481459033317, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "109-111"
       ], 
       "housenumber": "109", 
-      "lat": 51.02382455583, 
-      "lon": 4.48229193707, 
+      "lat": 51.024059669485, 
+      "lon": 4.48233270442, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "109-111"
       ], 
       "housenumber": "111", 
-      "lat": 51.02382455583, 
-      "lon": 4.48229193707, 
+      "lat": 51.024059669485, 
+      "lon": 4.48233270442, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -211,8 +211,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.023723863217, 
-      "lon": 4.482307797367, 
+      "lat": 51.02372854124, 
+      "lon": 4.482303960462, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -263,11 +263,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.023706543268, 
-      "lon": 4.482185321655, 
+      "lat": 51.023701740583, 
+      "lon": 4.482132288714, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -292,11 +292,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.023661761245, 
-      "lon": 4.482202458658, 
+      "lat": 51.02366651137, 
+      "lon": 4.482124221213, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -340,8 +340,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.023769975436, 
-      "lon": 4.481659111436, 
+      "lat": 51.023773692773, 
+      "lon": 4.481719268291, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -372,8 +372,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.023734347746, 
-      "lon": 4.481598164571, 
+      "lat": 51.023743388503, 
+      "lon": 4.481730882227, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -381,8 +381,8 @@
     }, 
     {
       "busnrs": [
-        "123/001", 
-        "123/002", 
+        "001", 
+        "002", 
         "2"
       ], 
       "hnrlbls": [
@@ -875,7 +875,7 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 51.0263002103, 
@@ -911,11 +911,11 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.0263002103, 
-      "lon": 4.481470970231, 
+      "lat": 51.026300477911, 
+      "lon": 4.481473108951, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1110,15 +1110,21 @@
       "street": "Bruul"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.025700160373, 
-      "lon": 4.481224069484, 
+      "lat": 51.025719125661, 
+      "lon": 4.481319187056, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruul"
     }, 
     {
@@ -1666,8 +1672,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.024361113864, 
-      "lon": 4.482196751626, 
+      "lat": 51.024361744062, 
+      "lon": 4.482195755437, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

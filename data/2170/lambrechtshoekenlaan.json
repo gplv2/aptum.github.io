@@ -171,6 +171,30 @@
     }, 
     {
       "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 51.2473663672, 
+      "lon": 4.431977068767, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lambrechtshoekenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "112C"
+      ], 
+      "housenumber": "112C", 
+      "lat": 51.247233608548, 
+      "lon": 4.431979894163, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lambrechtshoekenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -182,17 +206,17 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
         "114"
@@ -218,11 +242,18 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502"
       ], 
       "hnrlbls": [
         "116"
@@ -308,7 +339,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "101", 
         "102", 
         "201", 
@@ -318,7 +348,8 @@
         "401", 
         "402", 
         "501", 
-        "502"
+        "502", 
+        "601"
       ], 
       "hnrlbls": [
         "120"
@@ -542,6 +573,10 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -563,7 +598,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "154-156"
+        "154"
       ], 
       "housenumber": "154", 
       "lat": 51.248804499104, 
@@ -587,18 +622,6 @@
     }, 
     {
       "hnrlbls": [
-        "154-156"
-      ], 
-      "housenumber": "156", 
-      "lat": 51.248804499104, 
-      "lon": 4.432958369901, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
@@ -610,24 +633,6 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "157B"
-      ], 
-      "housenumber": "157B", 
-      "lat": 51.248835972982, 
-      "lon": 4.432106405943, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "160"
-      ], 
       "hnrlbls": [
         "158-160"
       ], 
@@ -651,7 +656,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "159-161"
+        "159"
       ], 
       "housenumber": "159", 
       "lat": 51.24899153767, 
@@ -686,30 +691,21 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "hnrlbls": [
-        "159-161"
-      ], 
-      "housenumber": "161", 
-      "lat": 51.24899153767, 
-      "lon": 4.432148153306, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "164"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "162-164"
+        "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.249019965148, 
-      "lon": 4.433091577424, 
+      "lat": 51.249038354893, 
+      "lon": 4.432993927539, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lambrechtshoekenlaan"
     }, 
     {
@@ -726,7 +722,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "163-165"
+        "163"
       ], 
       "housenumber": "163", 
       "lat": 51.249109785122, 
@@ -738,26 +734,14 @@
     }, 
     {
       "hnrlbls": [
-        "162-164"
+        "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.249019965148, 
-      "lon": 4.433091577424, 
+      "lat": 51.249071689864, 
+      "lon": 4.43301502724, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "163-165"
-      ], 
-      "housenumber": "165", 
-      "lat": 51.249109785122, 
-      "lon": 4.432219066367, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lambrechtshoekenlaan"
     }, 
     {
@@ -826,9 +810,6 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "170"
       ], 
@@ -838,21 +819,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "170B"
-      ], 
-      "housenumber": "170B", 
-      "lat": 51.249206592598, 
-      "lon": 4.433199395946, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lambrechtshoekenlaan"
     }, 
     {
@@ -870,7 +836,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "171-173"
+        "171"
       ], 
       "housenumber": "171", 
       "lat": 51.249344928758, 
@@ -894,18 +860,6 @@
       "housenumber": "172", 
       "lat": 51.24936414954, 
       "lon": 4.433376493243, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "171-173"
-      ], 
-      "housenumber": "173", 
-      "lat": 51.249344928758, 
-      "lon": 4.432366190855, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -942,35 +896,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "175-177"
+        "175"
       ], 
       "housenumber": "175", 
       "lat": 51.249474947125, 
       "lon": 4.432443709418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "175-177"
-      ], 
-      "housenumber": "177", 
-      "lat": 51.249474947125, 
-      "lon": 4.432443709418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "178-180"
-      ], 
-      "housenumber": "178", 
-      "lat": 51.24950571117, 
-      "lon": 4.433383566265, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -990,7 +920,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "179-181"
+        "179"
       ], 
       "housenumber": "179", 
       "lat": 51.249609368053, 
@@ -1024,27 +954,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "178-180"
+        "180"
       ], 
       "housenumber": "180", 
       "lat": 51.24950571117, 
       "lon": 4.433383566265, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "185", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "179-181"
-      ], 
-      "housenumber": "181", 
-      "lat": 51.249609368053, 
-      "lon": 4.432524242147, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1065,7 +979,6 @@
     {
       "busnrs": [
         "1", 
-        "185", 
         "2", 
         "3", 
         "4", 
@@ -1144,6 +1057,11 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "189"
       ], 
@@ -1253,7 +1171,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "196-198"
+        "196"
       ], 
       "housenumber": "196", 
       "lat": 51.25028019017, 
@@ -1275,18 +1193,6 @@
       "housenumber": "197", 
       "lat": 51.250167326441, 
       "lon": 4.432916155376, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "196-198"
-      ], 
-      "housenumber": "198", 
-      "lat": 51.25028019017, 
-      "lon": 4.433944940752, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1346,9 +1252,6 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "201"
       ], 
@@ -1387,9 +1290,6 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "203"
       ], 
@@ -1551,84 +1451,6 @@
     }, 
     {
       "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "209_5", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "209_6", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "209_7", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "209_8", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "209_9", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "apptnrs": [
-        "0.12"
-      ], 
-      "busnrs": [
         "D1", 
         "D10", 
         "D11", 
@@ -1728,51 +1550,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "G"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "211_13", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "D"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "211_5", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "D"
-      ], 
-      "hnrlbls": [
-        "209_5-211_"
-      ], 
-      "housenumber": "211_9", 
-      "lat": 51.251230440995, 
-      "lon": 4.433441699103, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lambrechtshoekenlaan"
     }, 
     {
@@ -1943,21 +1720,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "230B"
-      ], 
-      "housenumber": "230B", 
-      "lat": 51.251271299009, 
-      "lon": 4.434639270231, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lambrechtshoekenlaan"
     }, 
     {
@@ -2412,21 +2174,6 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "271_2"
-      ], 
-      "housenumber": "271_2", 
-      "lat": 51.252280031, 
-      "lon": 4.434198849375, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
       "hnrlbls": [
         "271-273"
       ], 
@@ -2456,6 +2203,12 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "276"
       ], 
@@ -2982,6 +2735,11 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "308"
       ], 
@@ -3109,8 +2867,10 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "32"
@@ -3171,21 +2931,9 @@
     }, 
     {
       "hnrlbls": [
-        "327-329"
+        "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.254042288648, 
-      "lon": 4.434968802218, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lambrechtshoekenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "327-329"
-      ], 
-      "housenumber": "329", 
       "lat": 51.254042288648, 
       "lon": 4.434968802218, 
       "municipality": "Antwerpen", 
@@ -3256,9 +3004,12 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
         "335-337"
@@ -3560,6 +3311,10 @@
       "street": "Lambrechtshoekenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "49"
       ], 

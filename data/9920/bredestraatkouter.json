@@ -145,12 +145,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "hnrlbls": [
         "19"
@@ -240,8 +240,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.102609822947, 
-      "lon": 3.614114416657, 
+      "lat": 51.102611246912, 
+      "lon": 3.614098117, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -563,8 +563,6 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0101", 
-        "0102", 
         "1001", 
         "1002"
       ], 
@@ -605,6 +603,30 @@
     }, 
     {
       "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 51.10534789625, 
+      "lon": 3.616331560791, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredestraat Kouter"
+    }, 
+    {
+      "hnrlbls": [
+        "51B"
+      ], 
+      "housenumber": "51B", 
+      "lat": 51.105433330111, 
+      "lon": 3.616704002082, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredestraat Kouter"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -619,10 +641,9 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0101", 
-        "0102", 
         "1001", 
-        "1002"
+        "1002", 
+        "2002"
       ], 
       "hnrlbls": [
         "53"
@@ -664,8 +685,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.105440165719, 
-      "lon": 3.617664703041, 
+      "lat": 51.105411123415, 
+      "lon": 3.617649462753, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -837,8 +858,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.105987640105, 
-      "lon": 3.618220641619, 
+      "lat": 51.106018561758, 
+      "lon": 3.618192159076, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -965,27 +986,38 @@
       "street": "Bredestraat Kouter"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.106509311998, 
-      "lon": 3.618719890863, 
+      "lat": 51.106483661066, 
+      "lon": 3.618828108319, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredestraat Kouter"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.106608210209, 
-      "lon": 3.618934775216, 
+      "lat": 51.106517852754, 
+      "lon": 3.618861544248, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bredestraat Kouter"
     }, 
     {

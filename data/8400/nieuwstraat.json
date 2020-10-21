@@ -18,12 +18,18 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.232718247734, 
-      "lon": 2.920282061615, 
+      "lat": 51.232737564238, 
+      "lon": 2.920273729013, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -213,8 +219,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.233100918641, 
-      "lon": 2.921204682024, 
+      "lat": 51.233122558815, 
+      "lon": 2.921180525878, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -222,36 +228,32 @@
     }, 
     {
       "busnrs": [
-        "000A", 
-        "1", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "25-25A"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.23313814704, 
-      "lon": 2.921286294588, 
+      "lat": 51.233175461209, 
+      "lon": 2.921235303554, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
-        "25-25A"
+        "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 51.23313814704, 
-      "lon": 2.921286294588, 
+      "lat": 51.233192380801, 
+      "lon": 2.921280888024, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -268,50 +270,23 @@
     }, 
     {
       "busnrs": [
-        "004B", 
+        "0101", 
         "0102", 
         "0103", 
         "0201", 
-        "11", 
-        "1C", 
-        "2", 
-        "3", 
-        "4B", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.233164671166, 
-      "lon": 2.921499694969, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.23325679363, 
-      "lon": 2.921534353753, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.233309251777, 
-      "lon": 2.921589575364, 
+      "lat": 51.233252647167, 
+      "lon": 2.921401165171, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -319,18 +294,44 @@
     }, 
     {
       "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
         "0202", 
+        "0203", 
         "0301", 
+        "0302", 
+        "0303", 
         "0401", 
+        "0402", 
+        "0403", 
         "0501", 
-        "1", 
-        "2", 
-        "2A", 
-        "3", 
-        "4", 
-        "4B", 
-        "5", 
-        "6"
+        "0601"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.233296443864, 
+      "lon": 2.92149059339, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0203", 
+        "0302", 
+        "0303", 
+        "0402", 
+        "0403", 
+        "0601"
       ], 
       "hnrlbls": [
         "35"
@@ -348,11 +349,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.233185151244, 
-      "lon": 2.920969227777, 
+      "lat": 51.233205807863, 
+      "lon": 2.920996939616, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -360,8 +361,8 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.233202008119, 
-      "lon": 2.920958250985, 
+      "lat": 51.233188863638, 
+      "lon": 2.92094935123, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -369,10 +370,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "5"
@@ -429,21 +429,15 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "0201", 
-        "0301", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.232697393969, 
-      "lon": 2.920274976763, 
+      "lat": 51.232714280002, 
+      "lon": 2.920222328798, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }
   ]

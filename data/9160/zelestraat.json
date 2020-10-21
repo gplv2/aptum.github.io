@@ -488,8 +488,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.100069450422, 
-      "lon": 4.00175803758, 
+      "lat": 51.100079277796, 
+      "lon": 4.00176752581, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -632,8 +632,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.099524687995, 
-      "lon": 4.003719871105, 
+      "lat": 51.099434731006, 
+      "lon": 4.003581521339, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +827,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.099092492237, 
-      "lon": 4.004095275963, 
+      "lat": 51.099092496202, 
+      "lon": 4.004096560787, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -851,8 +851,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.099062768737, 
-      "lon": 4.004163176314, 
+      "lat": 51.099047892908, 
+      "lon": 4.004148873195, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1151,8 +1151,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.09894996055, 
-      "lon": 4.003407420212, 
+      "lat": 51.098948334641, 
+      "lon": 4.003404863193, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1247,8 +1247,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.098886857649, 
-      "lon": 4.003668879453, 
+      "lat": 51.098886947094, 
+      "lon": 4.003668735995, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1271,8 +1271,8 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.098863549879, 
-      "lon": 4.003747579611, 
+      "lat": 51.098863548997, 
+      "lon": 4.003747294096, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1730,11 +1730,11 @@
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.101804776727, 
-      "lon": 3.99684843148, 
+      "lat": 51.101786296417, 
+      "lon": 3.99691725054, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zelestraat"
     }, 
     {
@@ -1742,8 +1742,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.101274635855, 
-      "lon": 3.997542212035, 
+      "lat": 51.101327350579, 
+      "lon": 3.997583482635, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1754,8 +1754,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.101900576773, 
-      "lon": 3.995957355545, 
+      "lat": 51.101903917448, 
+      "lon": 3.995962040373, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2044,19 +2044,12 @@
       "street": "Zelestraat"
     }, 
     {
-      "apptnrs": [
-        "W002", 
-        "W003", 
-        "W004", 
-        "W005", 
-        "W006"
-      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.101646522438, 
-      "lon": 3.99794801353, 
+      "lat": 51.101528001061, 
+      "lon": 3.997932818953, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2064,7 +2057,7 @@
     }, 
     {
       "hnrlbls": [
-        "49-51W"
+        "49-51"
       ], 
       "housenumber": "49", 
       "lat": 51.101043968145, 
@@ -2106,8 +2099,12 @@
       "street": "Zelestraat"
     }, 
     {
+      "apptnrs": [
+        "W001", 
+        "W002"
+      ], 
       "hnrlbls": [
-        "49-51W"
+        "49-51"
       ], 
       "housenumber": "51", 
       "lat": 51.101043968145, 
@@ -2118,28 +2115,12 @@
       "street": "Zelestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "49-51W"
-      ], 
-      "housenumber": "51W", 
-      "lat": 51.101043968145, 
-      "lon": 3.998426201275, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zelestraat"
-    }, 
-    {
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.101022689717, 
-      "lon": 3.998520310558, 
+      "lat": 51.101022507259, 
+      "lon": 3.998519455395, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2150,8 +2131,8 @@
         "55-55A"
       ], 
       "housenumber": "55", 
-      "lat": 51.100912273017, 
-      "lon": 3.9985671544, 
+      "lat": 51.101018512511, 
+      "lon": 3.998621565755, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2162,8 +2143,8 @@
         "55-55A"
       ], 
       "housenumber": "55A", 
-      "lat": 51.100912273017, 
-      "lon": 3.9985671544, 
+      "lat": 51.101018512511, 
+      "lon": 3.998621565755, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2174,8 +2155,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.101348797252, 
-      "lon": 3.998201786002, 
+      "lat": 51.101346546501, 
+      "lon": 3.998200661661, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2263,8 +2244,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.100980303359, 
-      "lon": 3.998820457168, 
+      "lat": 51.10098092452, 
+      "lon": 3.998817882448, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2287,8 +2268,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.100858156561, 
-      "lon": 3.998853116188, 
+      "lat": 51.100939988789, 
+      "lon": 3.998892444757, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2311,8 +2292,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.100827281353, 
-      "lon": 3.998954153485, 
+      "lat": 51.100948251829, 
+      "lon": 3.999005165681, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -2360,6 +2341,14 @@
       "street": "Zelestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
       "busnrs": [
         "202"
       ], 
@@ -2460,6 +2449,27 @@
     }, 
     {
       "apptnrs": [
+        "A001", 
+        "A002", 
+        "A101", 
+        "A102", 
+        "A201", 
+        "A202", 
+        "A301"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.101804413313, 
+      "lon": 3.996390571148, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Zelestraat"
+    }, 
+    {
+      "apptnrs": [
         "W001", 
         "W002", 
         "W003"
@@ -2510,7 +2520,7 @@
         "W002"
       ], 
       "hnrlbls": [
-        "85-85B"
+        "85"
       ], 
       "housenumber": "85", 
       "lat": 51.100759418446, 
@@ -2518,21 +2528,6 @@
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zelestraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "85-85B"
-      ], 
-      "housenumber": "85B", 
-      "lat": 51.100759418446, 
-      "lon": 3.999789018046, 
-      "municipality": "Lokeren", 
-      "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zelestraat"
     }, 
     {

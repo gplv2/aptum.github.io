@@ -43,11 +43,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0203", 
+        "0301", 
+        "0302", 
         "0303"
       ], 
       "hnrlbls": [
@@ -63,29 +68,31 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.212008000666, 
-      "lon": 2.883395764173, 
+      "lat": 51.212044626592, 
+      "lon": 2.883355665539, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
       "busnrs": [
         "0101", 
+        "0102", 
         "0201", 
         "0202", 
+        "0203", 
         "0301", 
+        "0302", 
         "0303"
       ], 
       "hnrlbls": [
@@ -207,6 +214,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -427,22 +435,20 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0301"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.212345383384, 
-      "lon": 2.883501534353, 
+      "lat": 51.212300903074, 
+      "lon": 2.883553333982, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
@@ -458,9 +464,6 @@
       "street": "Groenendaallaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -553,26 +556,24 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0013", 
-        "0021", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0203", 
         "0301", 
-        "0302", 
-        "0401"
+        "0302"
       ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.211010807087, 
-      "lon": 2.88044995563, 
+      "lat": 51.210974856211, 
+      "lon": 2.880493612431, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenendaallaan"
     }, 
     {
@@ -685,8 +686,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.210579398048, 
-      "lon": 2.880273927685, 
+      "lat": 51.210576847756, 
+      "lon": 2.880278446076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -802,6 +803,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "0301"
       ], 
@@ -809,11 +811,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.212288825445, 
-      "lon": 2.883350466776, 
+      "lat": 51.212233618763, 
+      "lon": 2.883407188315, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenendaallaan"
     }
   ]

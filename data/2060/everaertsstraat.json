@@ -49,9 +49,6 @@
       "street": "Everaertsstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -118,8 +115,11 @@
       "street": "Everaertsstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "108"
@@ -447,8 +447,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.22678788483, 
-      "lon": 4.423156669413, 
+      "lat": 51.226784288685, 
+      "lon": 4.423158382974, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -475,8 +475,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.226805381706, 
-      "lon": 4.423221966931, 
+      "lat": 51.226802504695, 
+      "lon": 4.423223538188, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -866,10 +866,6 @@
       "street": "Everaertsstraat"
     }, 
     {
-      "busnrs": [
-        "09", 
-        "19"
-      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1372,11 +1368,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.227626750432, 
-      "lon": 4.426745230448, 
+      "lat": 51.227539096727, 
+      "lon": 4.426779763191, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Everaertsstraat"
     }, 
     {
@@ -1408,8 +1404,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.227632185196, 
-      "lon": 4.426842152216, 
+      "lat": 51.227621215626, 
+      "lon": 4.426849725519, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

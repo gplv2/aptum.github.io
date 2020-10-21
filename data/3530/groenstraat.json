@@ -43,15 +43,19 @@
       "street": "Groenstraat"
     }, 
     {
+      "apptnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
-        "10A-12A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.024883806484, 
-      "lon": 5.377230616097, 
+      "lat": 51.024916345138, 
+      "lon": 5.377252129219, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -77,18 +81,6 @@
       "housenumber": "12", 
       "lat": 51.025028287273, 
       "lon": 5.377512124711, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10A-12A"
-      ], 
-      "housenumber": "12A", 
-      "lat": 51.024883806484, 
-      "lon": 5.377230616097, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -592,11 +584,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.026883632549, 
-      "lon": 5.383197648897, 
+      "lat": 51.026861921714, 
+      "lon": 5.383119486831, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -656,8 +648,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.024814109909, 
-      "lon": 5.375942773866, 
+      "lat": 51.024835939429, 
+      "lon": 5.375934120755, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanPerceelGrb", 
@@ -854,8 +846,8 @@
         "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 51.028205820744, 
-      "lon": 5.385732754148, 
+      "lat": 51.028196401594, 
+      "lon": 5.385740817732, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1058,7 +1050,7 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.024869556523, 
@@ -1178,18 +1170,6 @@
     }, 
     {
       "hnrlbls": [
-        "7-7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.024869556523, 
-      "lon": 5.376239181574, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -1261,15 +1241,12 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "85B"
       ], 
       "housenumber": "85B", 
-      "lat": 51.03042819761, 
-      "lon": 5.390030321381, 
+      "lat": 51.03044315302, 
+      "lon": 5.390016248862, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1292,11 +1269,23 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.030528879177, 
-      "lon": 5.390248361442, 
+      "lat": 51.030463976826, 
+      "lon": 5.390258207007, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Groenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "87A"
+      ], 
+      "housenumber": "87A", 
+      "lat": 51.030493089071, 
+      "lon": 5.390332405746, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {

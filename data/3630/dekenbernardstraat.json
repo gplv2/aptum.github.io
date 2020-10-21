@@ -23,6 +23,7 @@
         "303", 
         "304", 
         "305", 
+        "306", 
         "401", 
         "402", 
         "403", 
@@ -30,9 +31,11 @@
         "405", 
         "406", 
         "407", 
+        "408", 
         "410", 
         "411", 
-        "412"
+        "412", 
+        "413"
       ], 
       "hnrlbls": [
         "1"
@@ -54,7 +57,7 @@
       "lon": 5.69899571203, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -66,7 +69,7 @@
       "lon": 5.699060406035, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -78,7 +81,7 @@
       "lon": 5.699281836193, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -98,19 +101,17 @@
       "lon": 5.699437360105, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
       "apptnrs": [
-        "6"
-      ], 
-      "busnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "18"
@@ -120,11 +121,11 @@
       "lon": 5.699719438463, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -136,7 +137,42 @@
       "lon": 5.695805744857, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Bernardstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.960677020214, 
+      "lon": 5.700219667133, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Bernardstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.960636424876, 
+      "lon": 5.700414260461, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -148,7 +184,7 @@
       "lon": 5.70124876926, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -160,7 +196,7 @@
       "lon": 5.700624809568, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -172,7 +208,7 @@
       "lon": 5.701300461882, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -184,7 +220,7 @@
       "lon": 5.701760282677, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -196,7 +232,7 @@
       "lon": 5.702078771957, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -208,7 +244,7 @@
       "lon": 5.70154705113, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -220,11 +256,11 @@
       "lon": 5.701776974441, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -236,7 +272,7 @@
       "lon": 5.702633189666, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -260,7 +296,7 @@
       "lon": 5.702850273104, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -268,11 +304,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.962458200327, 
-      "lon": 5.696672526287, 
+      "lat": 50.962575452623, 
+      "lon": 5.69629729504, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -284,7 +320,19 @@
       "lon": 5.699280066627, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Bernardstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.962481676922, 
+      "lon": 5.696703373291, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }, 
     {
@@ -320,7 +368,7 @@
       "lon": 5.698839646211, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Deken Bernardstraat"
     }
   ]

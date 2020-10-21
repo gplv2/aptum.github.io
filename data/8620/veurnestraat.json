@@ -30,16 +30,23 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.149123544782, 
-      "lon": 2.718936864422, 
+      "lat": 51.14912819569, 
+      "lon": 2.718947993062, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Veurnestraat"
     }, 
     {
       "busnrs": [
-        "101"
+        "-0101", 
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "11"
@@ -49,7 +56,7 @@
       "lon": 2.71936968441, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -61,11 +68,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.149068653453, 
-      "lon": 2.718991407907, 
+      "lat": 51.149073498019, 
+      "lon": 2.719009962992, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Veurnestraat"
     }, 
     {
@@ -81,29 +88,8 @@
       "street": "Veurnestraat"
     }, 
     {
-      "apptnrs": [
-        "E301", 
-        "E502"
-      ], 
       "busnrs": [
-        "1C", 
-        "2C", 
-        "304"
-      ], 
-      "hnrlbls": [
-        "13-13F"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.148105828866, 
-      "lon": 2.718978953967, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Veurnestraat"
-    }, 
-    {
-      "busnrs": [
-        "101", 
+        "0101", 
         "103", 
         "104", 
         "105", 
@@ -142,14 +128,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "13-13F"
+        "13B"
       ], 
       "housenumber": "13B", 
-      "lat": 51.148105828866, 
-      "lon": 2.718978953967, 
+      "lat": 51.148016714714, 
+      "lon": 2.718733377358, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -162,14 +148,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "13-13F"
+        "13C"
       ], 
       "housenumber": "13C", 
-      "lat": 51.148105828866, 
-      "lon": 2.718978953967, 
+      "lat": 51.148138241508, 
+      "lon": 2.719040133321, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -190,11 +176,11 @@
         "13D"
       ], 
       "housenumber": "13D", 
-      "lat": 51.148310457616, 
-      "lon": 2.71948075644, 
+      "lat": 51.148267525699, 
+      "lon": 2.719355193678, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -206,14 +192,14 @@
         "403"
       ], 
       "hnrlbls": [
-        "13-13F"
+        "13F"
       ], 
       "housenumber": "13F", 
-      "lat": 51.148105828866, 
-      "lon": 2.718978953967, 
+      "lat": 51.148357834648, 
+      "lon": 2.719609164363, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -230,22 +216,42 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "302", 
-        "303", 
-        "304", 
-        "306", 
-        "406"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0406", 
+        "0501", 
+        "0502"
       ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.149478411766, 
-      "lon": 2.718042477544, 
+      "lat": 51.149524286501, 
+      "lon": 2.718089030379, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -302,9 +308,12 @@
     }, 
     {
       "busnrs": [
-        "102", 
-        "103", 
-        "203"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "4-6"
@@ -314,7 +323,7 @@
       "lon": 2.718726153339, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {
@@ -333,15 +342,31 @@
       "street": "Veurnestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.149188640798, 
-      "lon": 2.718853370728, 
+      "lat": 51.149178823645, 
+      "lon": 2.718852145037, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurnestraat"
     }, 
     {

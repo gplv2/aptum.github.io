@@ -13,15 +13,27 @@
       "street": "Jules Vandenbemptlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206"
+      ], 
       "hnrlbls": [
         "12-12D"
       ], 
       "housenumber": "12", 
-      "lat": 50.863298468398, 
-      "lon": 4.69027310756, 
+      "lat": 50.863196880868, 
+      "lon": 4.690340592368, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -29,11 +41,11 @@
         "12-12D"
       ], 
       "housenumber": "12C", 
-      "lat": 50.863298468398, 
-      "lon": 4.69027310756, 
+      "lat": 50.863196880868, 
+      "lon": 4.690340592368, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -41,11 +53,11 @@
         "12-12D"
       ], 
       "housenumber": "12D", 
-      "lat": 50.863298468398, 
-      "lon": 4.69027310756, 
+      "lat": 50.863196880868, 
+      "lon": 4.690340592368, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -463,7 +475,7 @@
         "02K2"
       ], 
       "hnrlbls": [
-        "7-7K"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 50.863511359942, 
@@ -519,21 +531,6 @@
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jules Vandenbemptlaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "7-7K"
-      ], 
-      "housenumber": "7K", 
-      "lat": 50.863511359942, 
-      "lon": 4.692484511065, 
-      "municipality": "Leuven", 
-      "pcode": "3001", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {

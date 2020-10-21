@@ -56,11 +56,11 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 50.930381314083, 
-      "lon": 5.333439852414, 
+      "lat": 50.930377408109, 
+      "lon": 5.3334447511, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -74,11 +74,11 @@
         "13B"
       ], 
       "housenumber": "13B", 
-      "lat": 50.93040234075, 
-      "lon": 5.333386369004, 
+      "lat": 50.930403050484, 
+      "lon": 5.333387521675, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -118,6 +118,10 @@
       "street": "Diesterstraat"
     }, 
     {
+      "busnrs": [
+        "1.01", 
+        "2.01"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -142,12 +146,16 @@
       "street": "Diesterstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.930564962391, 
-      "lon": 5.33320136362, 
+      "lat": 50.930542904429, 
+      "lon": 5.333183412031, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -182,8 +190,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.930592042964, 
-      "lon": 5.333122255499, 
+      "lat": 50.930576260607, 
+      "lon": 5.333106424639, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -205,11 +213,11 @@
       "apptnrs": [
         "2.01", 
         "2.03", 
-        "3", 
         "3.02"
       ], 
       "busnrs": [
-        "2.02"
+        "2.02", 
+        "3.01"
       ], 
       "hnrlbls": [
         "23"

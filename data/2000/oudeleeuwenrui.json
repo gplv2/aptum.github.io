@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.226678789974, 
-      "lon": 4.406506984284, 
+      "lat": 51.226679239392, 
+      "lon": 4.406506984654, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.226677207145, 
-      "lon": 4.406675184878, 
+      "lat": 51.226676668497, 
+      "lon": 4.406673180324, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -128,8 +128,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.226673107522, 
-      "lon": 4.406842810766, 
+      "lat": 51.22667283834, 
+      "lon": 4.406841379037, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -475,18 +475,35 @@
       "street": "Oudeleeuwenrui"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.227487768471, 
-      "lon": 4.40832068473, 
+      "lat": 51.227343230737, 
+      "lon": 4.408334875169, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Oudeleeuwenrui"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 51.227348252611, 
+      "lon": 4.40836894983, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudeleeuwenrui"
     }, 
     {
@@ -698,8 +715,8 @@
         "50-52"
       ], 
       "housenumber": "50", 
-      "lat": 51.226708768679, 
-      "lon": 4.408519993463, 
+      "lat": 51.226708049855, 
+      "lon": 4.408519277086, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -710,8 +727,8 @@
         "50-52"
       ], 
       "housenumber": "52", 
-      "lat": 51.226708768679, 
-      "lon": 4.408519993463, 
+      "lat": 51.226708049855, 
+      "lon": 4.408519277086, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -794,8 +811,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.226683328586, 
-      "lon": 4.405811133097, 
+      "lat": 51.226680450893, 
+      "lon": 4.405815568435, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

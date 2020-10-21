@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "1-1B"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.76469382348, 
+      "lon": 5.037199580611, 
+      "municipality": "Landen", 
+      "pcode": "3400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Braakkouterstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -13,12 +29,15 @@
       "street": "Braakkouterstraat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.764316704883, 
-      "lon": 5.037322789779, 
+      "lat": 50.764315178315, 
+      "lon": 5.037322484582, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +60,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.764234651281, 
-      "lon": 5.037601297243, 
+      "lat": 50.764110493102, 
+      "lon": 5.037413555861, 
       "municipality": "Landen", 
       "pcode": "3400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Braakkouterstraat"
     }, 
     {
@@ -74,18 +93,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.762585137534, 
-      "lon": 5.036140404316, 
-      "municipality": "Landen", 
-      "pcode": "3400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Braakkouterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -110,47 +117,11 @@
     }, 
     {
       "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.762536447458, 
-      "lon": 5.036228587881, 
-      "municipality": "Landen", 
-      "pcode": "3400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Braakkouterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.762404377146, 
       "lon": 5.037551462082, 
-      "municipality": "Landen", 
-      "pcode": "3400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Braakkouterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.764696762419, 
-      "lon": 5.037204441934, 
-      "municipality": "Landen", 
-      "pcode": "3400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Braakkouterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.764696762419, 
-      "lon": 5.037204441934, 
       "municipality": "Landen", 
       "pcode": "3400", 
       "source": "afgeleidVanGebouw", 

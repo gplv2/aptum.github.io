@@ -1,27 +1,40 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.908781096027, 
-      "lon": 4.204440007948, 
+      "lat": 50.908771162041, 
+      "lon": 4.204471749032, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.908883388486, 
-      "lon": 4.204887524019, 
+      "lat": 50.908873311744, 
+      "lon": 4.204881303048, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -540,15 +553,29 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.908755793539, 
-      "lon": 4.204345118966, 
+      "lat": 50.908746477338, 
+      "lon": 4.204368611381, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Molenstraat"
     }
   ]

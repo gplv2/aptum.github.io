@@ -666,8 +666,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "6", 
-        "GLVL"
+        "6"
       ], 
       "hnrlbls": [
         "16"
@@ -753,9 +752,6 @@
       "street": "Eversestraat"
     }, 
     {
-      "busnrs": [
-        "GVLO"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -856,8 +852,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.86713556995, 
-      "lon": 4.443580104307, 
+      "lat": 50.867128195488, 
+      "lon": 4.443584922331, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "afgeleidVanGebouw", 
@@ -1032,12 +1028,16 @@
       "street": "Eversestraat"
     }, 
     {
+      "apptnrs": [
+        "X001", 
+        "X011"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.867125358017, 
-      "lon": 4.442962858288, 
+      "lat": 50.867165177679, 
+      "lon": 4.442968603973, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1152,9 +1152,6 @@
       "street": "Eversestraat"
     }, 
     {
-      "busnrs": [
-        "GVLO"
-      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1588,11 +1585,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.868135055137, 
-      "lon": 4.43935434293, 
+      "lat": 50.868337639942, 
+      "lon": 4.439416303828, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Eversestraat"
     }
   ]

@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-8"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.003878803035, 
-      "lon": 4.011361760504, 
+      "lat": 51.003878959777, 
+      "lon": 4.011413476421, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -25,15 +25,40 @@
       "street": "Schoonaardebaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.005928979616, 
-      "lon": 4.017317670549, 
+      "lat": 51.005802490517, 
+      "lon": 4.017283710676, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Schoonaardebaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 51.005893174483, 
+      "lon": 4.017519401738, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -77,11 +102,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.006065819213, 
-      "lon": 4.017718148942, 
+      "lat": 51.00607207884, 
+      "lon": 4.017707131323, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -228,8 +253,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.004183172283, 
-      "lon": 4.012161847044, 
+      "lat": 51.004182260459, 
+      "lon": 4.012157579803, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +282,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.00446676606, 
-      "lon": 4.012246031339, 
+      "lat": 51.004654973165, 
+      "lon": 4.012118370151, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -282,11 +307,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "19"
+        "19-23"
       ], 
       "housenumber": "19", 
-      "lat": 51.004280759841, 
-      "lon": 4.012447618064, 
+      "lat": 51.004261048734, 
+      "lon": 4.012498915326, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -341,7 +366,7 @@
     }, 
     {
       "hnrlbls": [
-        "23"
+        "19-23"
       ], 
       "housenumber": "23", 
       "lat": 51.004261048734, 
@@ -372,8 +397,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.004432286859, 
-      "lon": 4.012407715181, 
+      "lat": 51.00438032332, 
+      "lon": 4.012435464466, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -624,8 +649,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.004509875669, 
-      "lon": 4.014111249051, 
+      "lat": 51.004507733739, 
+      "lon": 4.014116394272, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -743,7 +768,7 @@
       "street": "Schoonaardebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -754,7 +779,6 @@
         "16", 
         "17", 
         "18", 
-        "19", 
         "2", 
         "20", 
         "21", 
@@ -773,7 +797,6 @@
         "33", 
         "34", 
         "35", 
-        "36", 
         "37", 
         "38", 
         "39", 
@@ -801,11 +824,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.004720474697, 
-      "lon": 4.014673712111, 
+      "lat": 51.004750594677, 
+      "lon": 4.01464584495, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -837,11 +860,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.004689874379, 
-      "lon": 4.015890811739, 
+      "lat": 51.004938288666, 
+      "lon": 4.01557493038, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -955,11 +978,13 @@
       "street": "Schoonaardebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "65"
@@ -989,7 +1014,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "67"
@@ -1088,7 +1114,7 @@
     }, 
     {
       "hnrlbls": [
-        "74"
+        "74-76"
       ], 
       "housenumber": "74", 
       "lat": 51.005361446955, 
@@ -1112,14 +1138,14 @@
     }, 
     {
       "hnrlbls": [
-        "76"
+        "74-76"
       ], 
       "housenumber": "76", 
-      "lat": 51.005353962818, 
-      "lon": 4.016601617994, 
+      "lat": 51.005361446955, 
+      "lon": 4.016639460419, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -1259,15 +1285,19 @@
       "street": "Schoonaardebaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.005641967322, 
-      "lon": 4.016568539844, 
+      "lat": 51.005615916923, 
+      "lon": 4.01663484445, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schoonaardebaan"
     }, 
     {
@@ -1335,8 +1365,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.005777336782, 
-      "lon": 4.016897216174, 
+      "lat": 51.005747660627, 
+      "lon": 4.016923369444, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 

@@ -318,6 +318,22 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "120A"
+      ], 
+      "housenumber": "120A", 
+      "lat": 51.224244749424, 
+      "lon": 4.425907164908, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gasstraat"
+    }, 
+    {
       "hnrlbls": [
         "121"
       ], 
@@ -461,6 +477,11 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -473,6 +494,11 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -853,9 +879,6 @@
       "street": "Gasstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -868,9 +891,10 @@
       "street": "Gasstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "21"
@@ -878,6 +902,18 @@
       "housenumber": "21", 
       "lat": 51.226421813388, 
       "lon": 4.4253737702, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gasstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.226421723643, 
+      "lon": 4.42537348379, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -921,11 +957,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-35"
+        "27-33"
       ], 
       "housenumber": "27", 
-      "lat": 51.225406348413, 
-      "lon": 4.425843188139, 
+      "lat": 51.225603137257, 
+      "lon": 4.42577486449, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -971,11 +1007,11 @@
         "64"
       ], 
       "hnrlbls": [
-        "27-35"
+        "27-33"
       ], 
       "housenumber": "29", 
-      "lat": 51.225406348413, 
-      "lon": 4.425843188139, 
+      "lat": 51.225603137257, 
+      "lon": 4.42577486449, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1074,11 +1110,11 @@
         "64"
       ], 
       "hnrlbls": [
-        "27-35"
+        "27-33"
       ], 
       "housenumber": "31", 
-      "lat": 51.225406348413, 
-      "lon": 4.425843188139, 
+      "lat": 51.225603137257, 
+      "lon": 4.42577486449, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1148,11 +1184,11 @@
         "64"
       ], 
       "hnrlbls": [
-        "27-35"
+        "27-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.225406348413, 
-      "lon": 4.425843188139, 
+      "lat": 51.225603137257, 
+      "lon": 4.42577486449, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1178,11 +1214,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.225406348413, 
-      "lon": 4.425843188139, 
+      "lat": 51.225209559514, 
+      "lon": 4.425911511211, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1379,6 +1415,11 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1391,6 +1432,11 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 

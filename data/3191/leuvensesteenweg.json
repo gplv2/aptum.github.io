@@ -155,8 +155,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.986621532667, 
-      "lon": 4.545965297019, 
+      "lat": 50.986603055803, 
+      "lon": 4.545938309951, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -311,8 +311,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.984022306817, 
-      "lon": 4.545911568733, 
+      "lat": 50.984016181944, 
+      "lon": 4.545919662848, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -383,8 +383,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.984785172469, 
-      "lon": 4.548479447899, 
+      "lat": 50.984803803306, 
+      "lon": 4.548464281516, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -395,8 +395,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.983510689108, 
-      "lon": 4.548888522673, 
+      "lat": 50.983486270885, 
+      "lon": 4.548867494466, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -563,8 +563,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.983302256688, 
-      "lon": 4.550675218793, 
+      "lat": 50.983307099758, 
+      "lon": 4.550682358044, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -578,8 +578,8 @@
         "155A"
       ], 
       "housenumber": "155A", 
-      "lat": 50.983012430899, 
-      "lon": 4.550800546756, 
+      "lat": 50.983055349605, 
+      "lon": 4.550948105191, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -602,8 +602,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.993946460539, 
-      "lon": 4.532475132273, 
+      "lat": 50.993939283198, 
+      "lon": 4.5324651363, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -674,8 +674,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.978606190338, 
-      "lon": 4.556450339931, 
+      "lat": 50.978612705645, 
+      "lon": 4.556479556761, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -830,11 +830,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.993639120776, 
-      "lon": 4.534076349625, 
+      "lat": 50.993615669292, 
+      "lon": 4.534069144596, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -914,8 +914,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.993002114101, 
-      "lon": 4.533910860021, 
+      "lat": 50.992999163561, 
+      "lon": 4.533899597055, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -950,11 +950,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.993293747429, 
-      "lon": 4.534529218057, 
+      "lat": 50.993298474754, 
+      "lon": 4.534491773679, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -986,8 +986,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.993230868916, 
-      "lon": 4.534560615854, 
+      "lat": 50.993231138589, 
+      "lon": 4.534560616812, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -1046,8 +1046,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.992042416162, 
-      "lon": 4.53525674168, 
+      "lat": 50.992038788742, 
+      "lon": 4.53527909089, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 
@@ -1198,9 +1198,6 @@
       "street": "Leuvensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1A"
-      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1213,12 +1210,15 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 50.991988245289, 
-      "lon": 4.536744555775, 
+      "lat": 50.991975901225, 
+      "lon": 4.536764736955, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1229,8 +1229,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.99129002468, 
-      "lon": 4.535699014247, 
+      "lat": 50.991297845603, 
+      "lon": 4.535698757361, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1301,8 +1301,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.991660897994, 
-      "lon": 4.537094332231, 
+      "lat": 50.991665392748, 
+      "lon": 4.537094206011, 
       "municipality": "Boortmeerbeek", 
       "pcode": "3191", 
       "source": "afgeleidVanGebouw", 

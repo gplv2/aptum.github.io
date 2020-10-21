@@ -776,8 +776,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.072062100535, 
-      "lon": 4.733072763983, 
+      "lat": 51.072061741426, 
+      "lon": 4.733072618501, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "afgeleidVanGebouw", 
@@ -1709,6 +1709,34 @@
     }, 
     {
       "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.069946975072, 
+      "lon": 4.733570880932, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lostraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "40B"
+      ], 
+      "housenumber": "40B", 
+      "lat": 51.06993144977, 
+      "lon": 4.733591589831, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lostraat"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
@@ -2163,7 +2191,7 @@
       "lon": 4.735777187912, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -2175,7 +2203,7 @@
       "lon": 4.735777187912, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lostraat"
     }, 
     {

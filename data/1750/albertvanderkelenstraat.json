@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "bus 2", 
+        "bus 3"
+      ], 
+      "busnrs": [
+        "bus 1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +104,16 @@
       "street": "Albert Vanderkelenstraat"
     }, 
     {
+      "apptnrs": [
+        "bus 3", 
+        "bus 4", 
+        "bus 5", 
+        "bus 6"
+      ], 
+      "busnrs": [
+        "bus 1", 
+        "bus 2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -164,8 +181,8 @@
         "4B"
       ], 
       "housenumber": "4B", 
-      "lat": 50.806604707041, 
-      "lon": 4.155066242738, 
+      "lat": 50.80660498627, 
+      "lon": 4.155071490773, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanGebouw", 

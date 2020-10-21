@@ -20,14 +20,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "1-246"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.213876182035, 
-      "lon": 4.43865482176, 
+      "lat": 51.213837972701, 
+      "lon": 4.438518522069, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Blijde-Inkomststraat"
     }, 
     {
@@ -164,11 +164,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.213976295348, 
-      "lon": 4.438231506053, 
+      "lat": 51.213924934238, 
+      "lon": 4.438294254697, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Blijde-Inkomststraat"
     }, 
     {
@@ -269,8 +269,10 @@
       "street": "Blijde-Inkomststraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "28"
@@ -312,14 +314,14 @@
     }, 
     {
       "hnrlbls": [
-        "30-179"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.212927148027, 
-      "lon": 4.437656062773, 
+      "lat": 51.21290049833, 
+      "lon": 4.43773072554, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Blijde-Inkomststraat"
     }, 
     {
@@ -664,6 +666,11 @@
       "street": "Blijde-Inkomststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "52"
       ], 
